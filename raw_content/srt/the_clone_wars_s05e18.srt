@@ -1,0 +1,1047 @@
+﻿1
+00:00:10,582 --> 00:00:10,699
+h
+
+2
+00:00:10,700 --> 00:00:10,816
+ht
+
+3
+00:00:10,817 --> 00:00:10,934
+htt
+
+4
+00:00:10,935 --> 00:00:11,052
+http
+
+5
+00:00:11,053 --> 00:00:11,169
+http:
+
+6
+00:00:11,170 --> 00:00:11,287
+http:/
+
+7
+00:00:11,288 --> 00:00:11,405
+http://
+
+8
+00:00:11,406 --> 00:00:11,522
+http://h
+
+9
+00:00:11,523 --> 00:00:11,640
+http://hi
+
+10
+00:00:11,641 --> 00:00:11,757
+http://hiq
+
+11
+00:00:11,758 --> 00:00:11,875
+http://hiqv
+
+12
+00:00:11,876 --> 00:00:11,993
+http://hiqve
+
+13
+00:00:11,994 --> 00:00:12,110
+http://hiqve.
+
+14
+00:00:12,111 --> 00:00:12,228
+http://hiqve.c
+
+15
+00:00:12,229 --> 00:00:12,346
+http://hiqve.co
+
+16
+00:00:12,347 --> 00:00:12,463
+http://hiqve.com
+
+17
+00:00:12,464 --> 00:00:12,581
+http://hiqve.com/
+
+18
+00:00:12,582 --> 00:00:15,582
+http://hiqve.com/
+
+19
+00:00:18,606 --> 00:00:20,441
+<i>Terror at the Temple!</i>
+
+20
+00:00:20,483 --> 00:00:24,862
+<i>The Jedi Temple is in disarray
+after a vicious terrorist attack.</i>
+
+21
+00:00:25,029 --> 00:00:28,199
+<i>Anakin Skywalker and Ahsoka Tano
+set out to find the truth</i>
+
+22
+00:00:28,282 --> 00:00:31,118
+<i>of who was really behind
+this horrendous catastrophe.</i>
+
+23
+00:00:31,452 --> 00:00:36,123
+<i>Their investigation led them to discover
+the true saboteur, Letta Turmond.</i>
+
+24
+00:00:36,207 --> 00:00:39,377
+<i>Now, the Jedi attempt to
+return the Temple to normalcy.</i>
+
+25
+00:00:39,961 --> 00:00:43,965
+<i>But first, Master Yoda must give a eulogy
+to the fallen Jedi warriors.</i>
+
+26
+00:00:46,634 --> 00:00:48,970
+One with the Force, they are.
+
+27
+00:00:49,220 --> 00:00:50,638
+And our job it is
+
+28
+00:00:50,721 --> 00:00:54,559
+to remember that we will, in time,
+also pass on.
+
+29
+00:00:54,684 --> 00:00:59,188
+Luminous beings are we,
+but temporary vessels our bodies are.
+
+30
+00:00:59,480 --> 00:01:02,733
+And we shall all find ourselves here,
+in time.
+
+31
+00:01:03,693 --> 00:01:05,820
+A moment of silence, I ask.
+
+32
+00:01:05,903 --> 00:01:08,739
+To remember and to move on.
+
+33
+00:01:11,993 --> 00:01:14,245
+You were close to one of them?
+
+34
+00:01:14,745 --> 00:01:17,498
+Tutso Mara. We trained together.
+
+35
+00:01:18,541 --> 00:01:21,752
+He taught me how to hold
+my lightsaber correctly.
+
+36
+00:01:22,169 --> 00:01:25,089
+Live for the living Jedi, we must.
+
+37
+00:01:26,757 --> 00:01:29,760
+Live through us, forever they will.
+
+38
+00:01:51,574 --> 00:01:53,576
+So what happens to Letta now?
+
+39
+00:01:53,701 --> 00:01:54,869
+The bomber has been moved.
+
+40
+00:01:54,952 --> 00:01:57,204
+Moved? Where?
+
+41
+00:01:57,288 --> 00:01:59,081
+Why should she be moved?
+
+42
+00:01:59,206 --> 00:02:01,917
+The Republic military
+has taken her into custody.
+
+43
+00:02:02,126 --> 00:02:05,713
+Ugh ! But why? This is a Jedi matter, isn't it?
+
+44
+00:02:05,963 --> 00:02:07,131
+Clones were killed,
+
+45
+00:02:07,214 --> 00:02:10,384
+which makes this terrorist attack
+a military matter.
+
+46
+00:02:10,551 --> 00:02:14,221
+An attack on the Jedi
+is an attack on the Senate.
+
+47
+00:02:14,388 --> 00:02:17,558
+Admiral Tarkin is right. Letta isn't a Jedi.
+
+48
+00:02:17,892 --> 00:02:20,728
+It's not for us to be judge and jury
+over a citizen of the Republic.
+
+49
+00:02:21,228 --> 00:02:25,107
+If Letta's guilty, she's guilty,
+and she should be dealt with.
+
+50
+00:02:25,232 --> 00:02:26,734
+Calm down, Ahsoka.
+
+51
+00:02:26,776 --> 00:02:30,071
+Remember, revenge is not the Jedi way.
+
+52
+00:02:31,822 --> 00:02:35,951
+The evidence seems clear, Ahsoka.
+Nothing will ever change.
+
+53
+00:02:36,911 --> 00:02:39,997
+The Chancellor feels very strongly
+that the Jedi be removed
+
+54
+00:02:40,081 --> 00:02:41,916
+from as many military matters as possible.
+
+55
+00:02:43,584 --> 00:02:46,253
+You yourselves said
+that you're peacekeepers,
+
+56
+00:02:46,671 --> 00:02:48,339
+not soldiers.
+
+57
+00:02:48,589 --> 00:02:51,300
+I hope Chancellor Palpatine
+knows what he's doing.
+
+58
+00:02:51,425 --> 00:02:55,262
+I assure you that he rarely does anything
+without a strategy.
+
+59
+00:03:01,102 --> 00:03:02,937
+I have many things to attend to, Masters.
+
+60
+00:03:04,772 --> 00:03:05,981
+Good day.
+
+61
+00:03:06,190 --> 00:03:07,316
+Ahsoka.
+
+62
+00:03:11,612 --> 00:03:14,156
+Go, be with your friend, Ahsoka.
+
+63
+00:03:17,118 --> 00:03:19,787
+In ways, she is still very young.
+
+64
+00:03:19,870 --> 00:03:21,288
+Indeed.
+
+65
+00:03:26,335 --> 00:03:28,170
+-Company?
+-Sure.
+
+66
+00:03:28,879 --> 00:03:32,633
+Every time I think about this,
+I feel conflicted.
+
+67
+00:03:32,800 --> 00:03:37,012
+It's hard not to let feelings
+turn into attachment and pain.
+
+68
+00:03:37,972 --> 00:03:41,851
+Ahsoka, have you ever wondered if
+it was right to ignore your emotions?
+
+69
+00:03:42,309 --> 00:03:46,897
+My master would say our struggle as Jedi
+is to move past them.
+
+70
+00:03:46,981 --> 00:03:49,024
+You make it sound so easy.
+
+71
+00:03:49,358 --> 00:03:52,319
+No, it isn't easy. But it's possible.
+
+72
+00:03:52,862 --> 00:03:55,656
+Like when we were stuck inside
+the battle tank on Geonosis.
+
+73
+00:03:55,740 --> 00:03:57,575
+It was hard not to be afraid.
+
+74
+00:03:57,658 --> 00:03:59,910
+Still, you and I got past it.
+
+75
+00:03:59,994 --> 00:04:02,246
+And I guess we'll get past this.
+
+76
+00:04:02,371 --> 00:04:05,332
+You've always been capable
+of seeing things clearly.
+
+77
+00:04:06,751 --> 00:04:08,043
+I guess I fooled you
+
+78
+00:04:08,169 --> 00:04:09,837
+like I have everyone else.
+
+79
+00:04:10,337 --> 00:04:11,505
+Yes, Master.
+
+80
+00:04:11,547 --> 00:04:13,507
+<i>Ahsoka,
+we're needed in the War Room.</i>
+
+81
+00:04:13,549 --> 00:04:15,843
+<i>It appears the Separatists
+have mounted another attack.</i>
+
+82
+00:04:15,926 --> 00:04:17,511
+Coming, Master.
+
+83
+00:04:18,763 --> 00:04:21,849
+Look, I have to believe
+that, one way or another,
+
+84
+00:04:21,932 --> 00:04:24,685
+this woman's going to pay for what she did.
+
+85
+00:04:25,311 --> 00:04:27,396
+You shouldn't keep your master waiting.
+
+86
+00:04:35,237 --> 00:04:38,115
+<i>We've uncovered
+a Separatist plan of attack.</i>
+
+87
+00:04:38,741 --> 00:04:40,534
+<i>We shall travel to the A no it system here,</i>
+
+88
+00:04:41,869 --> 00:04:43,704
+<i>then move across to Saleucami.</i>
+
+89
+00:04:43,788 --> 00:04:45,873
+So far out of our way?
+
+90
+00:04:45,915 --> 00:04:49,126
+<i>Unfortunately we must avoid
+these neutral systems.</i>
+
+91
+00:04:49,585 --> 00:04:50,920
+<i>Excuse me, Master Jedi.</i>
+
+92
+00:04:51,045 --> 00:04:52,213
+Yes, Admiral.
+
+93
+00:04:52,254 --> 00:04:56,550
+<i>Commander Tano, your presence
+is requested by prisoner Letta Turmond.</i>
+
+94
+00:04:56,592 --> 00:04:58,093
+The prisoner from the hangar bombing?
+
+95
+00:04:58,219 --> 00:04:59,929
+Why is she asking for Ahsoka?
+
+96
+00:05:00,095 --> 00:05:01,388
+<i>Not exactly sure.</i>
+
+97
+00:05:01,430 --> 00:05:05,100
+<i>But Commander Tano is the only person
+the prisoner will speak to.</i>
+
+98
+00:05:05,226 --> 00:05:08,062
+I'll report back with whatever I find out.
+
+99
+00:05:49,478 --> 00:05:50,521
+<i>Yes?</i>
+
+100
+00:05:50,771 --> 00:05:53,816
+<i>I'm Commander Tano.
+Letta Turmond requested to see me.</i>
+
+101
+00:05:54,275 --> 00:05:57,820
+<i>A lot of innocent people died in that blast.
+Good job capturing her.</i>
+
+102
+00:05:59,655 --> 00:06:00,781
+All right, scan her.
+
+103
+00:06:08,289 --> 00:06:11,000
+<i>Leave your com link and lightsabers here.</i>
+
+104
+00:06:16,630 --> 00:06:18,132
+Follow me.
+
+105
+00:06:42,448 --> 00:06:44,283
+What do you want, Letta?
+
+106
+00:06:44,325 --> 00:06:46,535
+I was told if I ever needed help,
+
+107
+00:06:46,660 --> 00:06:48,037
+you were the Jedi to contact.
+
+108
+00:06:52,666 --> 00:06:54,710
+Give us a minute, please.
+
+109
+00:06:58,339 --> 00:07:00,132
+You don't have much time, Letta,
+
+110
+00:07:00,174 --> 00:07:04,011
+so I suggest you get
+whatever you have to say off your chest.
+
+111
+00:07:05,804 --> 00:07:09,516
+The idea of feeding Jackar
+the nano-droids was not mine.
+
+112
+00:07:09,558 --> 00:07:11,852
+Why are you saying this now?
+
+113
+00:07:11,977 --> 00:07:13,687
+Why didn't you reveal this before?
+
+114
+00:07:13,812 --> 00:07:15,981
+Because my life is in danger.
+
+115
+00:07:16,190 --> 00:07:18,150
+The person behind this
+will be able to get to me
+
+116
+00:07:18,192 --> 00:07:20,069
+unless you know the truth.
+
+117
+00:07:20,194 --> 00:07:21,654
+Hmm. What's the truth?
+
+118
+00:07:22,571 --> 00:07:23,822
+A Jedi.
+
+119
+00:07:23,864 --> 00:07:26,033
+A Jedi showed me how to create the bomb
+
+120
+00:07:26,075 --> 00:07:27,868
+and how to put the nano-droids in.
+
+121
+00:07:28,160 --> 00:07:30,871
+Why would a Jedi do this?
+
+122
+00:07:30,996 --> 00:07:33,666
+There are some citizens
+of the Republic, like myself,
+
+123
+00:07:33,707 --> 00:07:36,710
+who believe the Jedi Order
+is not what it used to be.
+
+124
+00:07:36,752 --> 00:07:38,545
+The Jedi have become warmongers.
+
+125
+00:07:38,671 --> 00:07:40,714
+They've become military weapons,
+
+126
+00:07:40,839 --> 00:07:43,759
+and they're killing
+when they should be keeping the peace.
+
+127
+00:07:44,009 --> 00:07:48,222
+One of these Jedi agreed with us.
+One of you wanted to make a statement,
+
+128
+00:07:48,722 --> 00:07:51,350
+and was willing to attack
+your own order to do it.
+
+129
+00:07:53,310 --> 00:07:54,395
+Who?
+
+130
+00:07:54,478 --> 00:07:56,981
+If you protect me, I will tell you.
+
+131
+00:07:57,064 --> 00:07:59,984
+Because it is obvious to me
+that I have been set up!
+
+132
+00:08:00,651 --> 00:08:03,570
+Letta, you have to tell me
+who is behind this.
+
+133
+00:08:07,074 --> 00:08:08,242
+It's...
+
+134
+00:08:08,325 --> 00:08:10,244
+Letta? Letta!
+
+135
+00:08:10,369 --> 00:08:11,412
+Letta!
+
+136
+00:08:11,537 --> 00:08:16,417
+<i>Prisoner health critical. Holding cell 1-7-3.</i>
+
+137
+00:08:16,542 --> 00:08:18,711
+Commander Fox, the prisoner!
+
+138
+00:08:19,086 --> 00:08:20,421
+Follow me.
+
+139
+00:08:24,091 --> 00:08:25,175
+Letta!
+
+140
+00:08:32,516 --> 00:08:35,102
+I don't know what happened.
+
+141
+00:08:35,227 --> 00:08:37,438
+Commander, she's dead.
+
+142
+00:08:37,938 --> 00:08:40,399
+I can't say I blame you, Commander Tano,
+
+143
+00:08:40,441 --> 00:08:43,444
+but all the same, you're under arrest.
+
+144
+00:08:43,569 --> 00:08:47,114
+I... No, no, I did not do this!
+
+145
+00:09:16,143 --> 00:09:18,812
+Admiral Tarkin,
+I don't know what happened.
+
+146
+00:09:18,896 --> 00:09:22,775
+I went in the room to talk to Letta
+and she said she was afraid of a Jedi.
+
+147
+00:09:25,819 --> 00:09:29,156
+You don't have to tell me
+any more, Commander Tano.
+
+148
+00:09:29,615 --> 00:09:31,492
+-I don't?
+-No.
+
+149
+00:09:31,575 --> 00:09:33,035
+There are recorders in every room.
+
+150
+00:09:35,829 --> 00:09:38,665
+Curiously, the sound isn't working
+on this one.
+
+151
+00:09:41,335 --> 00:09:43,712
+It seems the Jedi she was afraid of
+
+152
+00:09:43,796 --> 00:09:44,838
+was you.
+
+153
+00:09:44,922 --> 00:09:47,216
+I did not kill that woman!
+
+154
+00:09:47,299 --> 00:09:48,926
+You were the only one there!
+
+155
+00:09:49,009 --> 00:09:50,177
+I know that you were upset
+
+156
+00:09:50,260 --> 00:09:52,679
+when this woman
+was taken into custody by the military.
+
+157
+00:09:53,222 --> 00:09:54,807
+That means nothing!
+
+158
+00:09:54,890 --> 00:09:56,100
+I beg to differ.
+
+159
+00:09:56,183 --> 00:09:59,853
+It was someone else, Admiral !
+Someone I didn't see!
+
+160
+00:09:59,978 --> 00:10:03,190
+You know that is very difficult
+for me to believe.
+
+161
+00:10:03,357 --> 00:10:08,445
+This is a secure facility.
+We do not have just anyone running about.
+
+162
+00:10:08,529 --> 00:10:10,864
+And if there was someone else,
+
+163
+00:10:11,240 --> 00:10:13,075
+why did you not sense them?
+
+164
+00:10:22,376 --> 00:10:25,462
+I said my Padawan is in there.
+
+165
+00:10:25,546 --> 00:10:26,922
+Now step aside.
+
+166
+00:10:27,047 --> 00:10:29,883
+<i>General Skywalker,
+Admiral Tarkin has ordered</i>
+
+167
+00:10:29,967 --> 00:10:32,553
+<i>that no one be allowed in there.</i>
+
+168
+00:10:33,095 --> 00:10:35,139
+I don't care what she's accused of.
+
+169
+00:10:35,222 --> 00:10:37,391
+Let me in.
+
+170
+00:10:42,020 --> 00:10:45,149
+Sorry, sir. The Admiral's orders stand.
+
+171
+00:10:45,732 --> 00:10:49,778
+This is now a military operation,
+and under his jurisdiction.
+
+172
+00:11:17,931 --> 00:11:19,641
+A key card?
+
+173
+00:11:19,808 --> 00:11:22,686
+Master, I knew you wouldn't let me down.
+
+174
+00:11:34,114 --> 00:11:37,117
+I wonder what you have planned.
+
+175
+00:11:47,211 --> 00:11:50,297
+Oh, no, this does not look good.
+
+176
+00:11:59,056 --> 00:12:00,724
+My lightsabers?
+
+177
+00:12:04,978 --> 00:12:07,147
+Hello? Who is this?
+
+178
+00:12:07,731 --> 00:12:09,650
+Why are you helping me?
+
+179
+00:12:11,568 --> 00:12:13,654
+-What's going on here?
+-It wasn't me!
+
+180
+00:12:18,700 --> 00:12:21,453
+Alert! Alert!
+The Jedi prisoner has escaped!
+
+181
+00:12:39,346 --> 00:12:40,555
+Commander Tano, stop!
+
+182
+00:12:44,518 --> 00:12:46,436
+She's heading north in the prison corridor.
+
+183
+00:12:46,603 --> 00:12:47,896
+<i>Cut her off!</i>
+
+184
+00:12:47,980 --> 00:12:49,314
+Copy that.
+
+185
+00:13:10,252 --> 00:13:11,378
+Oh, no.
+
+186
+00:13:18,635 --> 00:13:21,221
+Suspect has killed three clones. Code red!
+
+187
+00:13:21,305 --> 00:13:23,223
+If you see the target, shoot to kill.
+
+188
+00:13:23,974 --> 00:13:25,434
+Belay that order, Commander Fox!
+
+189
+00:13:25,892 --> 00:13:27,728
+She's killed troopers!
+
+190
+00:13:27,811 --> 00:13:31,690
+I know Commander Tano.
+She would never do something like this.
+
+191
+00:13:31,773 --> 00:13:33,817
+-Then who did?
+-Quiet!
+
+192
+00:13:35,193 --> 00:13:38,030
+Ahsoka! It's me, Anakin !
+
+193
+00:13:41,825 --> 00:13:43,076
+Stop running!
+
+194
+00:13:44,453 --> 00:13:47,789
+You can't help me, Master.
+Someone's setting me up!
+
+195
+00:13:48,457 --> 00:13:49,875
+I believe you, Ahsoka!
+
+196
+00:13:51,752 --> 00:13:53,587
+But no one else will!
+
+197
+00:13:56,548 --> 00:13:58,467
+Keep searching until we find her.
+
+198
+00:13:58,592 --> 00:13:59,718
+Rex, call security.
+
+199
+00:13:59,801 --> 00:14:02,929
+Tell them we need to search
+the entire base. Now!
+
+200
+00:14:03,430 --> 00:14:05,599
+General Skywalker has just issued
+
+201
+00:14:05,682 --> 00:14:08,352
+an all-points bulletin
+on Commander Ahsoka Tano.
+
+202
+00:14:08,435 --> 00:14:09,853
+She's killed three clones
+
+203
+00:14:09,936 --> 00:14:12,856
+and should be considered
+armed and dangerous.
+
+204
+00:14:26,995 --> 00:14:29,039
+The prisoner was just spotted
+in the east wing.
+
+205
+00:14:29,122 --> 00:14:30,832
+Cell block 1218-11.
+
+206
+00:15:15,335 --> 00:15:18,505
+Come on, Grizzer,
+there's nothing here.
+
+207
+00:15:25,429 --> 00:15:28,140
+There she is! Quick!
+Stop her before she gets to the ship!
+
+208
+00:16:01,298 --> 00:16:03,425
+All right, don't lose her.
+We'll be right there.
+
+209
+00:16:03,550 --> 00:16:05,135
+- What's going on?
+- We've found her.
+
+210
+00:16:05,218 --> 00:16:07,053
+She's heading towards
+the industrial pipeline.
+
+211
+00:16:07,220 --> 00:16:09,890
+Set weapons to stun. I want her alive!
+
+212
+00:16:54,935 --> 00:16:58,188
+Do not shoot to kill ! Do not shoot to kill!
+
+213
+00:16:58,480 --> 00:17:00,524
+Try to box her in ! Don't let her escape!
+
+214
+00:17:00,607 --> 00:17:02,317
+Tell me what you see, Odd Ball.
+
+215
+00:17:15,956 --> 00:17:17,958
+She's moving west
+along the central viaduct.
+
+216
+00:17:32,472 --> 00:17:33,890
+All right, we've got her now.
+
+217
+00:17:47,487 --> 00:17:49,155
+This'll knock her off her feet!
+
+218
+00:18:07,424 --> 00:18:09,175
+Not so fast, Commander!
+
+219
+00:18:31,698 --> 00:18:32,699
+Ahsoka!
+
+220
+00:20:09,045 --> 00:20:11,589
+Ahsoka, what are you doing?
+
+221
+00:20:12,382 --> 00:20:14,634
+You didn't even try to come and help me!
+
+222
+00:20:14,759 --> 00:20:16,219
+They wouldn't let me in to talk to you!
+
+223
+00:20:16,302 --> 00:20:18,304
+You could have if you'd tried!
+
+224
+00:20:18,513 --> 00:20:20,765
+How would that look, Ahsoka? Huh?
+
+225
+00:20:21,099 --> 00:20:23,601
+Forcing my way in
+would've made you look even more guilty.
+
+226
+00:20:23,852 --> 00:20:25,770
+I'm not guilty!
+
+227
+00:20:26,187 --> 00:20:28,356
+Then we have to prove you're innocent.
+
+228
+00:20:28,440 --> 00:20:30,859
+The only way we can do that
+is by going back.
+
+229
+00:20:30,942 --> 00:20:33,111
+I don't know who to trust.
+
+230
+00:20:33,403 --> 00:20:37,365
+Listen, I would never let anyone
+hurt you, Ahsoka. Never.
+
+231
+00:20:37,449 --> 00:20:40,785
+But you need to come back
+and make your case to the Council.
+
+232
+00:20:41,202 --> 00:20:46,374
+No! I'm not going to take the fall
+for something I didn't do!
+
+233
+00:20:46,666 --> 00:20:50,462
+I am ordering you to put down
+your lightsaber and come with me! Now!
+
+234
+00:20:51,254 --> 00:20:52,297
+Trust me.
+
+235
+00:20:52,380 --> 00:20:54,716
+General Skywalker, where are you?
+
+236
+00:20:54,883 --> 00:20:56,468
+I do trust you.
+
+237
+00:20:56,551 --> 00:21:00,847
+But you know as well as I do
+that no one else will believe me.
+
+238
+00:21:04,768 --> 00:21:07,771
+Anakin, you have to trust me now.
+
+239
+00:21:08,354 --> 00:21:09,647
+Ahsoka, I do trust you!
+
+240
+00:21:09,814 --> 00:21:11,399
+I know you do.
+
+241
+00:21:12,942 --> 00:21:14,736
+Wish me luck.
+
+242
+00:21:14,760 --> 00:21:19,760
+http://hiqve.com/
+

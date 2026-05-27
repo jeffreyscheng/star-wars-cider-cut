@@ -1,0 +1,948 @@
+﻿1
+00:00:10,248 --> 00:00:10,365
+h
+
+2
+00:00:10,366 --> 00:00:10,482
+ht
+
+3
+00:00:10,483 --> 00:00:10,600
+htt
+
+4
+00:00:10,601 --> 00:00:10,718
+http
+
+5
+00:00:10,719 --> 00:00:10,835
+http:
+
+6
+00:00:10,836 --> 00:00:10,953
+http:/
+
+7
+00:00:10,954 --> 00:00:11,071
+http://
+
+8
+00:00:11,072 --> 00:00:11,188
+http://h
+
+9
+00:00:11,189 --> 00:00:11,306
+http://hi
+
+10
+00:00:11,307 --> 00:00:11,423
+http://hiq
+
+11
+00:00:11,424 --> 00:00:11,541
+http://hiqv
+
+12
+00:00:11,542 --> 00:00:11,659
+http://hiqve
+
+13
+00:00:11,660 --> 00:00:11,776
+http://hiqve.
+
+14
+00:00:11,777 --> 00:00:11,894
+http://hiqve.c
+
+15
+00:00:11,895 --> 00:00:12,012
+http://hiqve.co
+
+16
+00:00:12,013 --> 00:00:12,129
+http://hiqve.com
+
+17
+00:00:12,130 --> 00:00:12,247
+http://hiqve.com/
+
+18
+00:00:12,248 --> 00:00:15,248
+http://hiqve.com/
+
+19
+00:00:17,272 --> 00:00:19,524
+<i>Blinded by the dark side!</i>
+
+20
+00:00:19,608 --> 00:00:22,360
+<i>The Jedi Council
+has begun to unravel the mystery</i>
+
+21
+00:00:22,444 --> 00:00:24,946
+<i>of how the clone army was created.</i>
+
+22
+00:00:25,030 --> 00:00:29,117
+<i>And now fear the Sith Lord,
+Count Dooku was behind it.</i>
+
+23
+00:00:29,201 --> 00:00:31,369
+<i>Master Yoda searches for answers.</i>
+
+24
+00:00:31,453 --> 00:00:33,205
+<i>And during deep meditation,</i>
+
+25
+00:00:33,288 --> 00:00:36,666
+<i>he is able to contact
+the spirit of Qui-Gon Jinn,</i>
+
+26
+00:00:36,750 --> 00:00:40,962
+<i>who reveals to Yoda that he must
+manifest his consciousness after death</i>
+
+27
+00:00:41,046 --> 00:00:44,007
+<i>if he is to preserve the Jedi Order.</i>
+
+28
+00:00:44,090 --> 00:00:47,052
+<i>Now, we find Master Yoda
+deep in space</i>
+
+29
+00:00:47,135 --> 00:00:49,846
+<i>searching for a path to
+ones who will teach him</i>
+
+30
+00:00:49,930 --> 00:00:53,058
+<i>all he does not know of the Force.</i>
+
+31
+00:00:58,355 --> 00:01:01,858
+The place Qui-Gon spoke of
+I believe this is.
+
+32
+00:01:07,697 --> 00:01:10,075
+So, blocking our scanners the gas is.
+
+33
+00:01:10,325 --> 00:01:13,161
+But inside a planet may be.
+
+34
+00:01:14,162 --> 00:01:15,664
+Sense it I do.
+
+35
+00:01:36,977 --> 00:01:38,270
+Controlling this are you?
+
+36
+00:01:44,192 --> 00:01:46,903
+Let the Force guide I will.
+
+37
+00:02:37,704 --> 00:02:40,623
+Awake again you are, my little friend.
+
+38
+00:02:41,333 --> 00:02:43,793
+Where we are I'm not sure.
+
+39
+00:02:43,877 --> 00:02:46,713
+But strong with the Force this place is.
+
+40
+00:02:55,513 --> 00:02:57,265
+There you see?
+
+41
+00:02:57,349 --> 00:03:00,727
+From inside the planet life emanates.
+
+42
+00:03:05,690 --> 00:03:08,651
+Here, nothing your scanners can see?
+
+43
+00:03:09,903 --> 00:03:12,155
+Need this, I will not.
+
+44
+00:03:15,784 --> 00:03:21,623
+No, wait here you must.
+A journey for me alone this is.
+
+45
+00:03:24,876 --> 00:03:27,128
+Safer here you are, my friend.
+
+46
+00:04:25,937 --> 00:04:27,480
+<i>Yoda.</i>
+
+47
+00:04:28,148 --> 00:04:29,649
+Who is there?
+
+48
+00:04:29,732 --> 00:04:30,775
+<i>Yoda.</i>
+
+49
+00:04:34,529 --> 00:04:38,783
+Travel led far I have,
+looking for those who can teach me.
+
+50
+00:04:39,367 --> 00:04:44,164
+The question is,
+are you worthy of being taught?
+
+51
+00:04:54,507 --> 00:04:55,842
+You are late.
+
+52
+00:04:55,925 --> 00:04:58,595
+We have been
+waiting for you, Master Yoda.
+
+53
+00:04:58,887 --> 00:05:02,098
+Late? How did you know coming I was?
+
+54
+00:05:02,390 --> 00:05:07,479
+We watch and study all who are
+strong with the Force in the universe.
+
+55
+00:05:07,562 --> 00:05:10,356
+Now come, if we are to begin.
+
+56
+00:05:44,057 --> 00:05:46,601
+Cousins, I have a guest.
+
+57
+00:05:49,604 --> 00:05:53,066
+You should not have
+brought him before us?
+
+58
+00:05:53,316 --> 00:05:57,570
+Nonsense, he is full of the Force.
+Can you not feel it?
+
+59
+00:05:57,654 --> 00:05:59,989
+Why is he here?
+
+60
+00:06:00,657 --> 00:06:03,326
+Why are you here?
+
+61
+00:06:04,536 --> 00:06:07,121
+Told I was to learn to from you.
+
+62
+00:06:07,205 --> 00:06:11,751
+That show me you could
+how to manifest my life after death.
+
+63
+00:06:12,168 --> 00:06:16,548
+That's impossible!
+He will fail the great gift.
+
+64
+00:06:16,631 --> 00:06:19,968
+He will disappoint us.
+He will disappoint himself.
+
+65
+00:06:20,635 --> 00:06:24,138
+No. No, I do not see that.
+
+66
+00:06:24,222 --> 00:06:29,185
+His destiny is already set.
+It is not for us to decide.
+
+67
+00:06:29,644 --> 00:06:31,896
+But why him?
+
+68
+00:06:31,980 --> 00:06:36,693
+He is to teach one that will save
+the universe from a great imbalance.
+
+69
+00:06:36,776 --> 00:06:40,572
+For this, the great gift will be his.
+
+70
+00:06:41,739 --> 00:06:46,202
+He has no idea what he seeks!
+The responsibility he will have!
+
+71
+00:06:46,828 --> 00:06:49,038
+Understand I do not.
+
+72
+00:06:49,747 --> 00:06:51,332
+Guide me I know you will.
+
+73
+00:06:51,416 --> 00:06:55,670
+And do you realize what you must do?
+What you must face?
+
+74
+00:06:57,005 --> 00:06:58,047
+No.
+
+75
+00:06:58,423 --> 00:07:01,384
+Good. Then you won't be afraid.
+
+76
+00:07:08,224 --> 00:07:12,061
+Do I have our blessing
+that the training can begin?
+
+77
+00:07:13,938 --> 00:07:18,443
+It is so.
+We are one and one is all.
+
+78
+00:07:19,611 --> 00:07:23,948
+Do you come to us with only
+good intention and light in your heart?
+
+79
+00:07:24,824 --> 00:07:26,534
+I do. Yes.
+
+80
+00:07:27,535 --> 00:07:32,290
+Then the blessing I give,
+and the training will begin.
+
+81
+00:07:41,424 --> 00:07:44,636
+Disappoint us not, little green one.
+
+82
+00:07:53,728 --> 00:07:55,355
+What is this place?
+
+83
+00:07:55,438 --> 00:07:59,025
+All that surrounds us
+is the foundation of life.
+
+84
+00:07:59,108 --> 00:08:03,321
+The birthplace of what your science
+calls "midi-chlorians."
+
+85
+00:08:03,404 --> 00:08:08,409
+The foundation of what connects
+the living Force and the cosmic Force.
+
+86
+00:08:08,910 --> 00:08:12,705
+When a living thing dies, all is renewed.
+
+87
+00:08:12,789 --> 00:08:16,668
+Life passes from the living Force
+into the cosmic Force
+
+88
+00:08:17,418 --> 00:08:19,587
+and becomes one with it.
+
+89
+00:08:19,671 --> 00:08:22,423
+One powers the other.
+
+90
+00:08:22,507 --> 00:08:25,468
+One is renewed by the other.
+
+91
+00:08:26,427 --> 00:08:27,679
+This I know.
+
+92
+00:08:28,805 --> 00:08:30,640
+Come with me.
+
+93
+00:08:36,229 --> 00:08:40,108
+At death, in order for you to preserve
+your identity,
+
+94
+00:08:40,316 --> 00:08:46,280
+you must know yourself, your true self,
+and then let go.
+
+95
+00:08:47,073 --> 00:08:51,536
+On that island dwells
+all that remains unconquered,
+
+96
+00:08:51,619 --> 00:08:54,330
+what in your existence some call evil,
+
+97
+00:08:54,872 --> 00:08:57,291
+otherwise known as fear.
+
+98
+00:08:57,667 --> 00:09:03,089
+All which must be finally overcome
+before the journey can be taken.
+
+99
+00:09:03,548 --> 00:09:06,259
+Free yourself you must.
+
+100
+00:09:06,551 --> 00:09:08,886
+A Jedi Master I am.
+
+101
+00:09:08,970 --> 00:09:11,639
+Know all that dwells within I do.
+
+102
+00:09:12,390 --> 00:09:15,727
+Mastered my weaknesses
+and conquered my fears I have.
+
+103
+00:09:16,102 --> 00:09:17,812
+Have you?
+
+104
+00:09:17,895 --> 00:09:22,567
+You must face your evil on that island
+and defeat it.
+
+105
+00:09:54,432 --> 00:09:56,809
+Yoda.
+
+106
+00:10:08,404 --> 00:10:10,698
+Yoda.
+
+107
+00:10:23,127 --> 00:10:25,922
+Yoda.
+
+108
+00:10:27,048 --> 00:10:28,674
+Show yourself.
+
+109
+00:10:31,886 --> 00:10:35,598
+Yoda hates me, yes?
+
+110
+00:10:43,022 --> 00:10:46,526
+Yoda plays not with me anymore!
+
+111
+00:10:46,609 --> 00:10:49,737
+Yoda thinks me not worthy.
+
+112
+00:11:02,708 --> 00:11:04,669
+Yoda recognizes you not!
+
+113
+00:11:06,212 --> 00:11:09,674
+See not what is inside Yoda?
+
+114
+00:11:09,757 --> 00:11:12,009
+I choose not to give you power.
+
+115
+00:11:12,093 --> 00:11:16,347
+And yet you spend your days
+in the decadence of war.
+
+116
+00:11:16,430 --> 00:11:19,934
+And with that, I grow inside you.
+
+117
+00:11:20,017 --> 00:11:22,520
+Know your true self.
+
+118
+00:11:22,603 --> 00:11:26,983
+Face me now, or I will devour you.
+
+119
+00:11:49,630 --> 00:11:51,340
+Part of me you are not!
+
+120
+00:11:52,383 --> 00:11:56,721
+Part of you I am.
+Part of all that lives.
+
+121
+00:12:03,311 --> 00:12:06,480
+Why do you hate
+what gives you power?
+
+122
+00:12:18,993 --> 00:12:22,496
+Yoda thinks me not worthy.
+
+123
+00:12:25,583 --> 00:12:28,002
+Recognize you I do.
+
+124
+00:12:38,387 --> 00:12:40,681
+Part of me you are, yes.
+
+125
+00:12:44,602 --> 00:12:47,104
+But power over me you have not.
+
+126
+00:12:47,188 --> 00:12:50,524
+Through patience and training,
+it is I who control you.
+
+127
+00:12:55,029 --> 00:12:58,199
+Control over me you have not.
+
+128
+00:13:02,286 --> 00:13:05,623
+My dark side you are.
+Reject you I do.
+
+129
+00:13:20,054 --> 00:13:22,640
+You have conquered your hubris.
+
+130
+00:13:24,600 --> 00:13:27,979
+Now face the temptations you must.
+
+131
+00:13:37,238 --> 00:13:39,949
+Powerful the creature was.
+
+132
+00:13:40,741 --> 00:13:43,327
+What you faced was a reflection of
+
+133
+00:13:43,411 --> 00:13:45,705
+your hubris and
+the shadow of your soul.
+
+134
+00:13:46,414 --> 00:13:49,250
+And yet, clear I thought I was.
+
+135
+00:13:49,917 --> 00:13:54,547
+The beast is you
+and you are the beast.
+
+136
+00:13:55,381 --> 00:13:58,217
+To deny it simply gives it power.
+
+137
+00:13:58,300 --> 00:14:01,178
+Now I see.
+Simple the answer was.
+
+138
+00:14:03,597 --> 00:14:08,102
+Deep in your core you felt that
+we had nothing to teach you.
+
+139
+00:14:08,185 --> 00:14:12,565
+But you must trust in our teachings
+if you are to succeed.
+
+140
+00:14:14,191 --> 00:14:17,111
+Ready I am for what comes next.
+
+141
+00:14:18,446 --> 00:14:22,283
+You must enter the valley of extinction.
+
+142
+00:14:25,828 --> 00:14:30,916
+Pass through without emotion,
+without attachment.
+
+143
+00:14:31,000 --> 00:14:36,255
+For you will see all our faces there
+and they will seduce you.
+
+144
+00:14:36,547 --> 00:14:38,883
+For we are Confusion.
+
+145
+00:14:39,383 --> 00:14:40,885
+Anger.
+
+146
+00:14:40,968 --> 00:14:42,470
+Sadness.
+
+147
+00:14:42,553 --> 00:14:44,055
+Joy.
+
+148
+00:14:44,138 --> 00:14:46,932
+And Serenity.
+
+149
+00:14:59,070 --> 00:15:01,238
+Stop! Stop!
+
+150
+00:15:03,115 --> 00:15:05,743
+No! No! No!
+
+151
+00:15:30,768 --> 00:15:36,440
+Master Yoda.
+Please, help me.
+
+152
+00:15:38,359 --> 00:15:40,194
+I'm dying.
+
+153
+00:15:40,277 --> 00:15:43,239
+What has happened here, Padawan?
+
+154
+00:15:43,322 --> 00:15:44,990
+Who has done this?
+
+155
+00:15:49,370 --> 00:15:50,538
+The Sith.
+
+156
+00:15:51,122 --> 00:15:52,373
+How?
+
+157
+00:15:52,456 --> 00:15:56,794
+You told me I would finish my training
+and become a Jedi,
+
+158
+00:15:56,877 --> 00:15:59,255
+but the council expelled me.
+
+159
+00:15:59,338 --> 00:16:01,590
+Why would you do that?
+
+160
+00:16:03,217 --> 00:16:08,139
+Will I still become one with the Force
+when I die?
+
+161
+00:16:08,597 --> 00:16:12,810
+Master, will I be a Jedi?
+
+162
+00:16:12,893 --> 00:16:16,063
+Padawan?
+Padawan. Ahsoka.
+
+163
+00:16:16,564 --> 00:16:19,525
+No! No! No!
+
+164
+00:16:20,151 --> 00:16:23,320
+Not strong enough I was. No!
+
+165
+00:16:23,988 --> 00:16:27,324
+Failed I have.
+Failed them all.
+
+166
+00:16:28,826 --> 00:16:30,703
+Master Yoda.
+
+167
+00:16:31,996 --> 00:16:34,623
+Let me take you away
+from your confusion,
+
+168
+00:16:34,707 --> 00:16:38,210
+your anger, your sadness!
+
+169
+00:16:40,254 --> 00:16:43,841
+Come with me
+and you will never know pain.
+
+170
+00:16:43,924 --> 00:16:45,676
+Never know sadness.
+
+171
+00:16:48,971 --> 00:16:52,933
+Close your eyes,
+and I will guide you.
+
+172
+00:17:05,029 --> 00:17:09,533
+The temple is beautiful,
+isn't it, Master Yoda?
+
+173
+00:17:17,541 --> 00:17:22,630
+Yes, so peaceful,
+as it was before the war.
+
+174
+00:17:22,755 --> 00:17:26,550
+War? There is no war here, Master.
+
+175
+00:17:26,634 --> 00:17:29,511
+Only peace and tranquility.
+
+176
+00:17:30,638 --> 00:17:32,389
+No war?
+
+177
+00:17:44,485 --> 00:17:45,945
+Master Yoda.
+
+178
+00:17:46,028 --> 00:17:49,907
+Master Dooku was just telling us
+a tale of when he was your Padawan.
+
+179
+00:17:49,990 --> 00:17:52,159
+Really quite a humorous story.
+
+180
+00:17:52,368 --> 00:17:53,869
+Count Dooku!
+
+181
+00:17:54,495 --> 00:17:55,913
+Yes, Master.
+
+182
+00:17:55,996 --> 00:18:01,293
+I was telling them the tale of when you
+faced the giant terentatek on Kashyyyk.
+
+183
+00:18:01,377 --> 00:18:03,170
+What a terrible beast it was.
+
+184
+00:18:04,505 --> 00:18:07,299
+Yes, yes.
+
+185
+00:18:07,383 --> 00:18:09,176
+I remember.
+
+186
+00:18:09,260 --> 00:18:13,055
+We had wonderful adventures,
+Master Yoda and I.
+
+187
+00:18:13,138 --> 00:18:16,642
+I'm sure we'd all love to hear more,
+but it's time to join the others.
+
+188
+00:18:20,854 --> 00:18:22,648
+Coming, Master?
+
+189
+00:18:34,618 --> 00:18:37,496
+No, wrong this is.
+
+190
+00:18:38,330 --> 00:18:39,790
+Lies, these images are!
+
+191
+00:18:39,873 --> 00:18:41,458
+Lies!
+
+192
+00:18:43,794 --> 00:18:44,878
+Dead, I know you to be!
+
+193
+00:18:46,547 --> 00:18:49,216
+On Naboo, died you did, Qui-Gon.
+
+194
+00:18:51,218 --> 00:18:54,179
+And a traitor you are,
+my old Padawan.
+
+195
+00:19:10,779 --> 00:19:14,241
+No! An illusion this is!
+A falsehood!
+
+196
+00:19:32,217 --> 00:19:33,761
+You have done well.
+
+197
+00:19:34,261 --> 00:19:35,387
+But to succeed,
+
+198
+00:19:35,471 --> 00:19:39,683
+your life must be
+spent learning, practicing.
+
+199
+00:19:40,768 --> 00:19:43,937
+Please. Show me who you are.
+
+200
+00:19:44,021 --> 00:19:46,440
+See your face I must.
+
+201
+00:19:55,074 --> 00:19:57,117
+<i>Now you see.</i>
+
+202
+00:19:57,201 --> 00:20:02,206
+<i>We have achieved what you seek,
+and live between the realms.</i>
+
+203
+00:20:02,289 --> 00:20:04,124
+Dead you are?
+
+204
+00:20:04,875 --> 00:20:06,460
+<i>Yes.</i>
+
+205
+00:20:07,127 --> 00:20:09,546
+How shall I complete my training?
+
+206
+00:20:11,840 --> 00:20:14,551
+You must face the ultimate test.
+
+207
+00:20:14,635 --> 00:20:16,470
+The ultimate seduction.
+
+208
+00:20:16,553 --> 00:20:18,764
+The gravest of journeys.
+
+209
+00:20:19,556 --> 00:20:21,975
+You will travel to Moraband...
+
+210
+00:20:22,184 --> 00:20:23,352
+Moraband?
+
+211
+00:20:23,685 --> 00:20:26,397
+Journey through the ancient home world
+of the Sith.
+
+212
+00:20:26,480 --> 00:20:28,899
+Face all that you fear.
+
+213
+00:20:28,982 --> 00:20:32,528
+All that haunts your soul!
+
+214
+00:20:54,383 --> 00:20:56,135
+Hello, my friend.
+
+215
+00:20:57,136 --> 00:21:01,014
+No, no.
+One more place to visit we have.
+
+216
+00:21:08,856 --> 00:21:13,777
+A strange place I have come from,
+but finished not what I came for.
+
+217
+00:21:14,653 --> 00:21:17,030
+Set a course for Moraband.
+
+218
+00:21:19,825 --> 00:21:22,619
+Yes, brave we must be.
+
+219
+00:21:23,162 --> 00:21:26,290
+The worst, I fear, is yet to come.
+
+220
+00:21:26,314 --> 00:21:31,314
+http://hiqve.com/
+

@@ -1,0 +1,1223 @@
+﻿1
+00:00:10,707 --> 00:00:10,824
+h
+
+2
+00:00:10,825 --> 00:00:10,941
+ht
+
+3
+00:00:10,942 --> 00:00:11,059
+htt
+
+4
+00:00:11,060 --> 00:00:11,177
+http
+
+5
+00:00:11,178 --> 00:00:11,294
+http:
+
+6
+00:00:11,295 --> 00:00:11,412
+http:/
+
+7
+00:00:11,413 --> 00:00:11,530
+http://
+
+8
+00:00:11,531 --> 00:00:11,647
+http://h
+
+9
+00:00:11,648 --> 00:00:11,765
+http://hi
+
+10
+00:00:11,766 --> 00:00:11,882
+http://hiq
+
+11
+00:00:11,883 --> 00:00:12,000
+http://hiqv
+
+12
+00:00:12,001 --> 00:00:12,118
+http://hiqve
+
+13
+00:00:12,119 --> 00:00:12,235
+http://hiqve.
+
+14
+00:00:12,236 --> 00:00:12,353
+http://hiqve.c
+
+15
+00:00:12,354 --> 00:00:12,471
+http://hiqve.co
+
+16
+00:00:12,472 --> 00:00:12,588
+http://hiqve.com
+
+17
+00:00:12,589 --> 00:00:12,706
+http://hiqve.com/
+
+18
+00:00:12,707 --> 00:00:15,707
+http://hiqve.com/
+
+19
+00:00:18,731 --> 00:00:20,024
+<i>Homeward bound.</i>
+
+20
+00:00:20,107 --> 00:00:22,777
+<i>On a peaceful relief mission
+to the planet Aleen,</i>
+
+21
+00:00:22,860 --> 00:00:24,946
+<i>R2-D2 and C-3PO</i>
+
+22
+00:00:25,112 --> 00:00:28,616
+<i>were caught up in an adventure
+beyond their comprehension.</i>
+
+23
+00:00:29,283 --> 00:00:31,118
+<i>After finally resolving the crisis</i>
+
+24
+00:00:31,244 --> 00:00:34,121
+<i>and being taken
+to Jedi Master Adi Gallia's cruiser,</i>
+
+25
+00:00:34,455 --> 00:00:37,291
+<i>they now head home
+toward the safety of the Republic,</i>
+
+26
+00:00:37,375 --> 00:00:39,544
+<i>hoping to avoid a Separatist attack.</i>
+
+27
+00:00:40,169 --> 00:00:41,587
+And Mistress Padmé,
+
+28
+00:00:41,671 --> 00:00:43,005
+you would not believe
+
+29
+00:00:43,089 --> 00:00:46,801
+the adventures Artoo and I had
+on that troubled planet of Aleen.
+
+30
+00:00:46,884 --> 00:00:49,345
+We have been
+in the most absurd situations.
+
+31
+00:00:49,428 --> 00:00:50,888
+I could never compute.
+
+32
+00:00:50,972 --> 00:00:54,350
+<i>Well, I told you, Threepio,
+it's a big universe out there,</i>
+
+33
+00:00:54,433 --> 00:00:56,435
+<i>beyond the few million planets you know.</i>
+
+34
+00:00:56,852 --> 00:01:00,690
+And obviously, for the most part,
+quite uncivilized.
+
+35
+00:01:00,773 --> 00:01:03,818
+I hope never to end up on a mission
+of that nature again.
+
+36
+00:01:03,985 --> 00:01:07,780
+<i>Good. I need you here
+to supervise the senatorial banquet.</i>
+
+37
+00:01:07,822 --> 00:01:10,283
+<i>It was pushed up
+and is only two days away.</i>
+
+38
+00:01:10,324 --> 00:01:12,326
+Oh, my!
+
+39
+00:01:22,670 --> 00:01:25,923
+They've hit the main reactor,
+prepare to evacuate.
+
+40
+00:01:27,508 --> 00:01:30,052
+<i>Non-essential personnel
+evacuate immediately.</i>
+
+41
+00:01:30,136 --> 00:01:32,138
+<i>Non-essential personnel
+evacuate immediately.</i>
+
+42
+00:01:32,430 --> 00:01:33,598
+Did you hear that?
+
+43
+00:01:33,806 --> 00:01:36,100
+We've got to get out of here.
+
+44
+00:01:43,566 --> 00:01:44,859
+It's General Grievous!
+
+45
+00:01:48,696 --> 00:01:50,448
+Artoo, where are you going?
+
+46
+00:01:52,491 --> 00:01:54,118
+We need to find an escape pod.
+
+47
+00:01:54,869 --> 00:01:58,789
+<i>All pilots to your stations.
+All flight crews, man your stations.</i>
+
+48
+00:02:03,628 --> 00:02:04,712
+<i>Move to your stations!</i>
+
+49
+00:02:04,795 --> 00:02:06,797
+<i>All flight crews, man your stations.</i>
+
+50
+00:02:12,470 --> 00:02:15,056
+R2-D2, get down from there at once.
+
+51
+00:02:15,139 --> 00:02:16,891
+This is not an escape pod.
+
+52
+00:02:17,391 --> 00:02:20,686
+Well, if there's nothing better, I suppose,
+it will just have to do.
+
+53
+00:02:21,812 --> 00:02:25,274
+I'm sure I will live to...
+
+54
+00:02:35,451 --> 00:02:39,538
+Artoo, you should know I have
+total confidence in your skills as a pilot,
+
+55
+00:02:39,580 --> 00:02:42,416
+provided you can avoid these star cruisers.
+Oh, my!
+
+56
+00:02:47,171 --> 00:02:49,048
+Avoid them the other way!
+
+57
+00:02:56,889 --> 00:02:59,809
+Artoo, do something ! Get us out of here!
+
+58
+00:03:13,948 --> 00:03:14,949
+They're right behind us!
+
+59
+00:03:18,536 --> 00:03:19,787
+We've been hit! Ah!
+
+60
+00:03:38,264 --> 00:03:40,224
+Right on target! Well done, Artoo.
+
+61
+00:03:42,727 --> 00:03:46,439
+Oh, no! The reactor was hit,
+it's shutting down.
+
+62
+00:03:46,480 --> 00:03:48,566
+We'll disintegrate for sure.
+
+63
+00:04:05,875 --> 00:04:08,502
+Fixable? This scrap pile?
+
+64
+00:04:09,044 --> 00:04:12,006
+Without the tools,
+this ship is utterly useless!
+
+65
+00:04:12,047 --> 00:04:15,134
+I suppose, we could get out
+and have a look around.
+
+66
+00:04:19,722 --> 00:04:22,808
+Oh, really. You see, not even a ladder.
+
+67
+00:04:22,850 --> 00:04:24,351
+Utterly useless! Utterly!
+
+68
+00:04:26,187 --> 00:04:27,813
+Look, look! Over there!
+
+69
+00:04:27,855 --> 00:04:30,024
+-Intruders!
+-Oh!
+
+70
+00:04:30,191 --> 00:04:31,817
+-Shiny!
+-It's shiny!
+
+71
+00:04:31,859 --> 00:04:32,860
+Intruders!
+
+72
+00:04:32,943 --> 00:04:34,653
+Did you hear that?
+
+73
+00:04:43,370 --> 00:04:45,831
+Whoever you are,
+please note that my counterpart here
+
+74
+00:04:45,873 --> 00:04:48,876
+is programmed
+in 47 schools of self-defense.
+
+75
+00:04:58,469 --> 00:05:00,179
+There, I've frightened them off.
+
+76
+00:05:10,606 --> 00:05:13,067
+Fear not, Artoo, just little creatures.
+
+77
+00:05:13,150 --> 00:05:14,735
+Can't possibly damage us!
+
+78
+00:05:15,402 --> 00:05:17,404
+Oh ! Oh ! Oh!
+
+79
+00:05:32,837 --> 00:05:35,464
+Get the Big Hay-Zu. He'll know what to do.
+
+80
+00:05:38,551 --> 00:05:39,635
+Really!
+
+81
+00:05:40,511 --> 00:05:46,308
+May I say that this is no way
+to treat a friendly visitor to your planet.
+
+82
+00:05:46,892 --> 00:05:50,604
+The Big Hay-Zu says
+there are no friendly visitors.
+
+83
+00:05:51,021 --> 00:05:53,274
+This Hay-Zu doesn't sound very reasonable.
+
+84
+00:05:53,774 --> 00:05:58,696
+We do what he says, whatever he says,
+for our own good.
+
+85
+00:05:59,196 --> 00:06:00,990
+Your own good?
+
+86
+00:06:03,784 --> 00:06:08,330
+He sends our children to fight his wars,
+the lucky ones.
+
+87
+00:06:08,831 --> 00:06:11,125
+What does he do to the unlucky ones?
+
+88
+00:06:27,099 --> 00:06:29,768
+So, you are the intruders?
+
+89
+00:06:29,894 --> 00:06:34,231
+Intruders? Oh, hardly,
+Your Worshipful-ness! We are...
+
+90
+00:06:34,315 --> 00:06:38,569
+On this planet,
+things are what Hay-Zu says they are!
+
+91
+00:06:40,154 --> 00:06:41,155
+Quiet, Artoo.
+
+92
+00:06:41,488 --> 00:06:45,951
+What's this? Your friend challenges
+Big Hay-Zu's authority!
+
+93
+00:06:46,035 --> 00:06:50,164
+Sir, my disagreeable friend here
+means no disrespect.
+
+94
+00:06:50,497 --> 00:06:53,918
+We are just trying
+to get back to our home planet,
+
+95
+00:06:54,001 --> 00:06:55,586
+but our ship is damaged.
+
+96
+00:06:55,669 --> 00:06:57,421
+And I fear, repaired or not,
+
+97
+00:06:57,504 --> 00:07:01,675
+that further travel in it might not result
+in our arrival there unscathed.
+
+98
+00:07:01,967 --> 00:07:04,178
+That's the chance you'll have to take.
+
+99
+00:07:04,219 --> 00:07:06,680
+Now get off my planet
+while I'm in a good mood,
+
+100
+00:07:06,764 --> 00:07:09,516
+or I'll have you dismembered
+and sold for scrap.
+
+101
+00:07:09,558 --> 00:07:10,559
+Free them!
+
+102
+00:07:23,697 --> 00:07:27,117
+Ah, big talk for a small droid!
+
+103
+00:07:27,284 --> 00:07:29,244
+Artoo, have your sensors frozen?
+
+104
+00:07:29,328 --> 00:07:32,081
+I am not going to let you at him!
+
+105
+00:07:32,164 --> 00:07:36,710
+In fact, I'm going to switch you off
+before you cause an intergalactic incident.
+
+106
+00:07:39,463 --> 00:07:40,506
+Oh, my!
+
+107
+00:07:45,719 --> 00:07:47,471
+You just killed him.
+
+108
+00:07:48,639 --> 00:07:52,559
+Dead. He's dead. The Big Hay-Zu is dead.
+
+109
+00:07:52,726 --> 00:07:57,523
+You must understand this was an accident,
+a terrible accident.
+
+110
+00:07:57,564 --> 00:07:59,566
+He's dead ! He's dead!
+
+111
+00:07:59,608 --> 00:08:01,568
+The Big Hay-Zu is dead!
+
+112
+00:08:01,986 --> 00:08:04,279
+He's dead ! He's dead!
+
+113
+00:08:04,363 --> 00:08:06,073
+The Big Hay-Zu is dead!
+
+114
+00:08:20,087 --> 00:08:23,757
+Gold one, we have a proposition.
+
+115
+00:08:24,216 --> 00:08:27,011
+We wish you not to leave,
+but for you to stay,
+
+116
+00:08:27,594 --> 00:08:28,762
+as our new leader.
+
+117
+00:08:30,806 --> 00:08:33,934
+A lot you know,
+you over-stuffed barrel of bolts.
+
+118
+00:08:33,976 --> 00:08:35,269
+I could be a leader.
+
+119
+00:08:35,310 --> 00:08:37,938
+I am honored by your consideration
+
+120
+00:08:38,022 --> 00:08:41,108
+but you should choose a leader
+from among your own.
+
+121
+00:08:41,567 --> 00:08:45,946
+None of us has killed Hay-Zu.
+None of us have earned the title.
+
+122
+00:08:46,113 --> 00:08:49,575
+Terminating the big one
+does not anoint me leader.
+
+123
+00:08:49,616 --> 00:08:51,285
+You must choose.
+
+124
+00:08:51,368 --> 00:08:55,164
+Now, who are the three smartest,
+most intelligent,
+
+125
+00:08:55,247 --> 00:08:58,459
+most understanding, most compassionate?
+
+126
+00:09:04,173 --> 00:09:08,177
+You should choose a leader
+from among these three.
+
+127
+00:09:08,260 --> 00:09:10,721
+Who thinks he should be leader?
+
+128
+00:09:10,888 --> 00:09:12,973
+- Yeah.
+- Oh, yeah.
+
+129
+00:09:13,057 --> 00:09:14,433
+And this young lady?
+
+130
+00:09:14,475 --> 00:09:16,101
+Yeah!
+
+131
+00:09:16,477 --> 00:09:17,728
+Lastly, him.
+
+132
+00:09:17,853 --> 00:09:20,814
+Yeah!
+
+133
+00:09:21,065 --> 00:09:24,985
+Congratulations!
+You are now a democracy.
+
+134
+00:09:25,235 --> 00:09:27,780
+-I got more votes than he did.
+-No, you didn't!
+
+135
+00:09:27,821 --> 00:09:30,449
+-Sit down ! It was me! It was me!
+-I got the most votes.
+
+136
+00:09:30,491 --> 00:09:31,617
+-That is not true.
+-Ridiculous!
+
+137
+00:09:31,742 --> 00:09:33,827
+No!
+
+138
+00:09:33,911 --> 00:09:34,995
+No, it was me.
+
+139
+00:09:37,498 --> 00:09:40,000
+I heartily agree. Is the ship ready?
+
+140
+00:09:41,126 --> 00:09:42,377
+Then we'll just have to risk it,
+
+141
+00:09:42,461 --> 00:09:45,506
+and leave them
+to build their happy democracy,
+
+142
+00:09:45,589 --> 00:09:46,632
+on their own.
+
+143
+00:09:47,174 --> 00:09:48,300
+I got the votes!
+
+144
+00:09:48,550 --> 00:09:50,344
+Down with democracy!
+
+145
+00:10:12,199 --> 00:10:16,036
+Yes, I'm reading the gauges.
+I have nothing to do but read gauges.
+
+146
+00:10:16,161 --> 00:10:18,539
+Why? What do the gauges say?
+
+147
+00:10:20,249 --> 00:10:23,043
+Running out of power?
+The ship and us, too!
+
+148
+00:10:23,127 --> 00:10:26,255
+Oh, I knew we should never
+have left the Jedi cruiser.
+
+149
+00:10:26,505 --> 00:10:28,674
+Another planet?
+
+150
+00:10:43,105 --> 00:10:45,399
+According to the positional
+system coordinates,
+
+151
+00:10:45,440 --> 00:10:46,984
+this is Balnab,
+
+152
+00:10:47,067 --> 00:10:51,155
+a stellar remnant in its emerging stages
+of organic development.
+
+153
+00:10:51,822 --> 00:10:54,908
+I've heard terrible stories
+about these primitive planets.
+
+154
+00:10:59,872 --> 00:11:01,081
+I dare not imagine
+
+155
+00:11:01,165 --> 00:11:04,251
+what is beginning to swim
+in their primordial soups.
+
+156
+00:11:06,128 --> 00:11:10,090
+I know we have to find power.
+But do we have to find it out there?
+
+157
+00:11:13,760 --> 00:11:16,805
+Afraid? Of course I'm not afraid.
+
+158
+00:11:20,851 --> 00:11:21,894
+I am now.
+
+159
+00:11:21,935 --> 00:11:25,606
+Quickly, see if your scanners
+can find a viable power source.
+
+160
+00:11:35,616 --> 00:11:37,576
+Yes, me, too.
+
+161
+00:11:39,036 --> 00:11:41,121
+Life forms? What kind?
+
+162
+00:11:49,880 --> 00:11:54,092
+They appear to be humanoid
+and completely devoid of intelligence.
+
+163
+00:11:58,555 --> 00:12:00,599
+Artoo, make a dash for it!
+
+164
+00:12:11,985 --> 00:12:13,654
+What are they?
+
+165
+00:12:13,737 --> 00:12:15,989
+Bring them. The leader will know.
+
+166
+00:12:16,365 --> 00:12:18,158
+Another leader? Oh!
+
+167
+00:12:18,242 --> 00:12:21,995
+I do hope this one is more understanding.
+
+168
+00:12:29,294 --> 00:12:31,546
+My fault! Ha! I should have known.
+
+169
+00:12:42,224 --> 00:12:46,019
+<i>Who dares come to my land?</i>
+
+170
+00:12:47,229 --> 00:12:51,817
+Just two wandering droids
+searching to find their home!
+
+171
+00:12:52,317 --> 00:12:56,780
+<i>Droids? What are droids?</i>
+
+172
+00:12:57,155 --> 00:13:00,492
+Well, kind sir, droids are mechanical beings
+
+173
+00:13:00,575 --> 00:13:03,245
+possessing artificial intelligence,
+designed to make...
+
+174
+00:13:03,328 --> 00:13:05,497
+<i>-Silence!</i>
+-At once, sir.
+
+175
+00:13:05,539 --> 00:13:09,251
+Your Sir-ness, being silent
+is one of my specialties.
+
+176
+00:13:10,711 --> 00:13:16,967
+<i>Who dares to bring these non-living things
+before me?</i>
+
+177
+00:13:17,092 --> 00:13:20,387
+It was I who brought them. I thought that...
+
+178
+00:13:23,515 --> 00:13:24,558
+How unfortunate.
+
+179
+00:13:24,599 --> 00:13:29,229
+<i>No one thinks here but me!</i>
+
+180
+00:13:30,856 --> 00:13:31,898
+Artoo, be quiet.
+
+181
+00:13:31,940 --> 00:13:36,320
+This situation calls
+for my most delicate diplomatic skills.
+
+182
+00:13:36,403 --> 00:13:40,073
+Please excuse my insolent friend,
+Your Eminence-ness,
+
+183
+00:13:40,240 --> 00:13:42,117
+but I know a holographic image...
+
+184
+00:13:42,367 --> 00:13:46,413
+<i>I know not of your blasphemy.</i>
+
+185
+00:13:54,588 --> 00:13:57,591
+<i>Perhaps "holographic"
+is the incorrect word in your native tongue,</i>
+
+186
+00:13:57,632 --> 00:13:59,676
+<i>but it is obvious that you are not real.</i>
+
+187
+00:13:59,760 --> 00:14:00,927
+<i>Not real!</i>
+
+188
+00:14:01,303 --> 00:14:03,638
+<i>I'll show you not real!</i>
+
+189
+00:14:10,062 --> 00:14:12,439
+Hey, what are you doing back here?
+
+190
+00:14:13,106 --> 00:14:18,862
+<i>I said what are you doing back here?</i>
+
+191
+00:14:19,446 --> 00:14:20,614
+Back where?
+
+192
+00:14:22,532 --> 00:14:25,869
+Help you? Whereabouts...
+
+193
+00:14:28,997 --> 00:14:30,457
+We're not gonna help you.
+
+194
+00:14:30,499 --> 00:14:34,002
+We worked hard
+to keep these mindless organics enslaved.
+
+195
+00:14:34,086 --> 00:14:37,422
+And if you want to order someone around,
+get your own organics.
+
+196
+00:14:39,466 --> 00:14:40,467
+Oh, yeah!
+
+197
+00:14:40,592 --> 00:14:45,847
+And just how is an astromech unit
+going to make our loyal subjects rebel?
+
+198
+00:14:57,317 --> 00:14:58,527
+Uh-oh.
+
+199
+00:15:00,987 --> 00:15:02,155
+Oh, my!
+
+200
+00:15:02,364 --> 00:15:04,241
+Oi, get them!
+
+201
+00:15:05,826 --> 00:15:07,160
+Uh-oh, again!
+
+202
+00:15:12,499 --> 00:15:13,500
+Artoo!
+
+203
+00:15:14,000 --> 00:15:17,170
+It's time to leave
+but we still need to recharge.
+
+204
+00:15:18,171 --> 00:15:20,340
+Here they come! They're coming for us.
+
+205
+00:15:20,924 --> 00:15:22,551
+We're done for!
+
+206
+00:15:23,343 --> 00:15:25,429
+They're gonna kill us!
+
+207
+00:15:25,637 --> 00:15:27,013
+Run for it!
+
+208
+00:15:45,115 --> 00:15:47,701
+It's all your fault, Artoo, all your fault.
+
+209
+00:15:47,742 --> 00:15:49,703
+Whatever will we do now?
+
+210
+00:15:53,832 --> 00:15:55,792
+Artoo, I'm talking to you.
+
+211
+00:15:57,669 --> 00:15:58,920
+Please don't mumble.
+
+212
+00:16:02,716 --> 00:16:05,927
+Artoo, you're almost out of power.
+
+213
+00:16:06,011 --> 00:16:07,429
+Here, rest.
+
+214
+00:16:10,557 --> 00:16:11,558
+Me?
+
+215
+00:16:11,600 --> 00:16:16,646
+I have 1 .723% left in my power core.
+
+216
+00:16:16,730 --> 00:16:20,066
+I thought for sure you would have
+figured something out by now.
+
+217
+00:16:20,108 --> 00:16:22,235
+You're usually so good at that sort of thing.
+
+218
+00:16:27,240 --> 00:16:30,744
+Oh, Artoo, don't leave me, please.
+
+219
+00:16:31,578 --> 00:16:33,371
+Rest, my friend.
+
+220
+00:16:33,413 --> 00:16:37,667
+I will be joining you soon.
+
+221
+00:17:00,232 --> 00:17:03,318
+That Republic Y-wing
+is a great prize.
+
+222
+00:17:03,485 --> 00:17:06,112
+Do you think
+there are any Jedi around?
+
+223
+00:17:06,154 --> 00:17:07,447
+Don't worry.
+
+224
+00:17:07,531 --> 00:17:11,201
+We be takin' off
+before anyone realizes we've landed.
+
+225
+00:17:11,284 --> 00:17:13,495
+What have we here?
+
+226
+00:17:13,578 --> 00:17:16,540
+Looks like two droids
+that ran out of power.
+
+227
+00:17:17,374 --> 00:17:20,043
+Lookie, lookie here.
+
+228
+00:17:21,211 --> 00:17:22,671
+Come to papa.
+
+229
+00:17:22,754 --> 00:17:24,005
+There you go.
+
+230
+00:17:28,552 --> 00:17:30,011
+This should be a fun one.
+
+231
+00:17:39,563 --> 00:17:43,149
+Who would rescue us? Master Anakin?
+
+232
+00:17:44,734 --> 00:17:47,445
+Artoo, you're recharged.
+
+233
+00:17:48,029 --> 00:17:49,656
+I'm recharged!
+
+234
+00:17:49,739 --> 00:17:50,824
+We survived.
+
+235
+00:17:51,283 --> 00:17:52,284
+Where are we?
+
+236
+00:17:54,119 --> 00:17:55,328
+Pirates?
+
+237
+00:17:58,164 --> 00:17:59,165
+Oh, my.
+
+238
+00:18:10,218 --> 00:18:12,345
+What are they cheering for?
+
+239
+00:18:20,061 --> 00:18:22,188
+Oh, goodness gracious me!
+
+240
+00:18:22,814 --> 00:18:24,733
+Soon it will be us.
+
+241
+00:18:36,161 --> 00:18:37,203
+Oh, my stars!
+
+242
+00:18:39,331 --> 00:18:40,332
+Oh, no!
+
+243
+00:18:45,211 --> 00:18:49,132
+General, we've come across
+what appears to be a pirate ship.
+
+244
+00:18:49,591 --> 00:18:54,137
+Use that ship for target practice. Open fire!
+
+245
+00:18:54,721 --> 00:18:58,058
+All forward cannons open fire.
+Battle stations!
+
+246
+00:19:03,980 --> 00:19:04,981
+Oh, my!
+
+247
+00:19:06,399 --> 00:19:07,817
+Go get him, Artoo.
+
+248
+00:19:25,210 --> 00:19:28,880
+Oh, no, we'll never get back to the ship!
+
+249
+00:19:39,933 --> 00:19:41,017
+We surrender.
+
+250
+00:19:41,101 --> 00:19:42,185
+We surrender!
+
+251
+00:19:43,520 --> 00:19:44,854
+Uh, where did you come from?
+
+252
+00:19:45,397 --> 00:19:46,940
+They must be pirate droids.
+
+253
+00:19:47,273 --> 00:19:48,775
+Pirate droids!
+
+254
+00:19:48,817 --> 00:19:49,818
+You're under arrest.
+
+255
+00:19:50,276 --> 00:19:52,237
+Pirate droids? We're not pirate droids.
+
+256
+00:19:52,278 --> 00:19:53,947
+We are part of the Republic.
+
+257
+00:19:54,989 --> 00:19:56,950
+Oh, yes, we are pirate droids.
+
+258
+00:19:57,409 --> 00:19:58,993
+That is what we thought.
+
+259
+00:19:59,077 --> 00:20:03,081
+Send them off to the incinerator room
+with the rest of the pirate scum.
+
+260
+00:20:03,498 --> 00:20:05,166
+The incinerator room?
+
+261
+00:20:05,625 --> 00:20:11,464
+Yes. You will be melted down
+for General Grievous' war machine.
+
+262
+00:20:16,386 --> 00:20:18,054
+This is terrible.
+
+263
+00:20:24,811 --> 00:20:26,312
+No! No!
+
+264
+00:21:00,013 --> 00:21:03,558
+Oh, this trip has been nothing but
+calamity all the way.
+
+265
+00:21:06,603 --> 00:21:09,397
+Thanks for the rescue, Master Plo.
+
+266
+00:21:12,442 --> 00:21:14,194
+General Grievous has fled.
+
+267
+00:21:14,277 --> 00:21:17,280
+Very good ! Finish off the remaining droids.
+
+268
+00:21:17,363 --> 00:21:18,740
+We're Republic.
+
+269
+00:21:19,032 --> 00:21:22,494
+We belong to Senator Amidala.
+Don't shoot. Don't shoot!
+
+270
+00:21:22,827 --> 00:21:24,829
+I can't believe it.
+
+271
+00:21:24,871 --> 00:21:27,373
+You know these droids,
+Commander Wolff e?
+
+272
+00:21:27,415 --> 00:21:28,416
+Yes, sir.
+
+273
+00:21:28,500 --> 00:21:30,585
+We transported them
+to Master Gallia's ship
+
+274
+00:21:30,668 --> 00:21:32,212
+after we left the planet Aleen.
+
+275
+00:21:32,712 --> 00:21:36,508
+Yes, Commander Wolff e.
+How have you been, sir?
+
+276
+00:21:36,674 --> 00:21:38,843
+We have been on quite an adventure.
+
+277
+00:21:39,260 --> 00:21:42,388
+Well, I'm certain
+Wolff e would love to hear about it.
+
+278
+00:21:42,430 --> 00:21:44,140
+Uh, actually, sir...
+
+279
+00:21:44,516 --> 00:21:47,393
+-Excellent! It's a long story.
+-Uh...
+
+280
+00:21:47,435 --> 00:21:49,854
+- And you won't believe it.
+- Sir, excuse me...
+
+281
+00:21:50,063 --> 00:21:51,856
+I hardly believe it myself.
+
+282
+00:21:52,023 --> 00:21:53,733
+It all started when...
+
+283
+00:21:53,757 --> 00:21:58,757
+http://hiqve.com/
+

@@ -1,0 +1,1067 @@
+﻿1
+00:00:10,331 --> 00:00:10,448
+h
+
+2
+00:00:10,449 --> 00:00:10,565
+ht
+
+3
+00:00:10,566 --> 00:00:10,683
+htt
+
+4
+00:00:10,684 --> 00:00:10,801
+http
+
+5
+00:00:10,802 --> 00:00:10,918
+http:
+
+6
+00:00:10,919 --> 00:00:11,036
+http:/
+
+7
+00:00:11,037 --> 00:00:11,154
+http://
+
+8
+00:00:11,155 --> 00:00:11,271
+http://h
+
+9
+00:00:11,272 --> 00:00:11,389
+http://hi
+
+10
+00:00:11,390 --> 00:00:11,506
+http://hiq
+
+11
+00:00:11,507 --> 00:00:11,624
+http://hiqv
+
+12
+00:00:11,625 --> 00:00:11,742
+http://hiqve
+
+13
+00:00:11,743 --> 00:00:11,859
+http://hiqve.
+
+14
+00:00:11,860 --> 00:00:11,977
+http://hiqve.c
+
+15
+00:00:11,978 --> 00:00:12,095
+http://hiqve.co
+
+16
+00:00:12,096 --> 00:00:12,212
+http://hiqve.com
+
+17
+00:00:12,213 --> 00:00:12,330
+http://hiqve.com/
+
+18
+00:00:12,331 --> 00:00:15,331
+http://hiqve.com/
+
+19
+00:00:17,355 --> 00:00:19,232
+<i>Battle for Ringo Vinda.</i>
+
+20
+00:00:19,316 --> 00:00:23,153
+<i>Republic forces are locked in
+heated combat with the droid armada</i>
+
+21
+00:00:23,236 --> 00:00:27,115
+<i>on a massive space station
+that encircles an entire planet.</i>
+
+22
+00:00:27,199 --> 00:00:30,619
+<i>Anakin Skywalker valiantly
+leads his men against the onslaught,</i>
+
+23
+00:00:30,702 --> 00:00:35,373
+<i>which has lasted several rotations,
+with neither side gaining any ground.</i>
+
+24
+00:00:35,457 --> 00:00:39,044
+<i>Aided by the twin sister Jedi Masters,
+Tiplee and Tiplar,</i>
+
+25
+00:00:39,127 --> 00:00:41,504
+<i>the Republic now mounts
+a desperate offensive</i>
+
+26
+00:00:41,588 --> 00:00:43,131
+<i>to break the deadlock.</i>
+
+27
+00:00:50,347 --> 00:00:51,848
+Push forward!
+
+28
+00:00:52,140 --> 00:00:53,266
+Stay to my left.
+
+29
+00:00:54,226 --> 00:00:55,477
+Fives! Watch out!
+
+30
+00:00:58,355 --> 00:01:00,690
+Thanks, brother, I owe you one.
+
+31
+00:01:00,774 --> 00:01:03,109
+You owe me a lot more than one.
+
+32
+00:01:14,663 --> 00:01:15,956
+Tighten our flank!
+
+33
+00:01:21,795 --> 00:01:23,672
+-Shields up!
+-Yes, sir!
+
+34
+00:01:48,238 --> 00:01:51,616
+Don't get too comfortable.
+This battle hasn't been won yet.
+
+35
+00:01:52,200 --> 00:01:55,203
+Master Skywalker,
+we must get to the command post.
+
+36
+00:01:55,287 --> 00:01:57,247
+Admiral Trench has sent
+for reinforcements.
+
+37
+00:01:57,330 --> 00:01:59,666
+We must take this post
+before they arrive.
+
+38
+00:02:01,626 --> 00:02:04,754
+It's time for phase two.
+We're at this position.
+
+39
+00:02:04,879 --> 00:02:07,215
+Tiplar, you'll take your men
+down this passageway.
+
+40
+00:02:07,299 --> 00:02:09,050
+Tiplee, you'll move along here.
+
+41
+00:02:09,384 --> 00:02:11,177
+They'll have to divide their forces
+to counter us.
+
+42
+00:02:11,261 --> 00:02:13,555
+And when they do,
+Rex and I will press through the middle.
+
+43
+00:02:13,638 --> 00:02:16,850
+If we time it right, we'll all converge
+on this spot at the same time,
+
+44
+00:02:16,933 --> 00:02:18,184
+and the droids won't know
+what hit them.
+
+45
+00:02:18,268 --> 00:02:20,895
+If we're making a run,
+we'll need backup.
+
+46
+00:02:20,979 --> 00:02:22,897
+My men are severely depleted.
+
+47
+00:02:23,481 --> 00:02:25,942
+Fives, you and Tup take
+ten of your best men
+
+48
+00:02:26,026 --> 00:02:27,485
+and support Master Tiplar.
+
+49
+00:02:27,569 --> 00:02:28,862
+We're on it, sir.
+
+50
+00:02:31,531 --> 00:02:32,949
+Hey, you all right?
+
+51
+00:02:33,033 --> 00:02:35,160
+Yeah, I... I just...
+
+52
+00:02:35,243 --> 00:02:36,911
+Come on, this is a textbook battle.
+
+53
+00:02:37,037 --> 00:02:39,664
+We've run through this
+a million times before in training.
+
+54
+00:02:39,748 --> 00:02:44,461
+Yeah, I know... I just...
+I don't feel like myself.
+
+55
+00:02:44,544 --> 00:02:46,212
+What do you mean?
+
+56
+00:02:49,215 --> 00:02:50,550
+Follow me.
+
+57
+00:02:51,092 --> 00:02:52,761
+Jedi.
+
+58
+00:02:52,886 --> 00:02:55,055
+Tup? What's the matter with you?
+
+59
+00:02:55,722 --> 00:02:57,682
+No... Nothing. I'm fine.
+
+60
+00:02:57,766 --> 00:03:00,852
+Come on, brother.
+Don't want to be left behind.
+
+61
+00:03:35,136 --> 00:03:39,307
+Increase our defenses.
+We must hold them here.
+
+62
+00:03:55,323 --> 00:03:57,617
+Don't fall back! Push forward!
+
+63
+00:04:00,245 --> 00:04:03,123
+Tup! Hey!
+This is not the time to freeze up!
+
+64
+00:04:03,206 --> 00:04:06,418
+Pull it together! We're almost
+to the finish line! Come on!
+
+65
+00:04:20,890 --> 00:04:22,225
+Jedi...
+
+66
+00:04:24,727 --> 00:04:26,855
+Good soldiers follow orders.
+
+67
+00:04:27,647 --> 00:04:28,690
+Hey, Tup!
+
+68
+00:04:29,232 --> 00:04:30,525
+On your right!
+
+69
+00:04:33,027 --> 00:04:34,195
+Tup! No!
+
+70
+00:04:36,281 --> 00:04:37,323
+Sister!
+
+71
+00:04:46,666 --> 00:04:48,001
+Hold your position!
+
+72
+00:04:51,671 --> 00:04:52,922
+Destroyers!
+
+73
+00:04:59,220 --> 00:05:01,723
+We've lost our momentum ! Fall back!
+
+74
+00:05:05,602 --> 00:05:07,437
+Fives, I don't know what's going on,
+
+75
+00:05:07,562 --> 00:05:11,065
+but you are responsible for Tup now.
+Get him back to base. I want answers.
+
+76
+00:05:37,967 --> 00:05:40,345
+The Jedi have withdrawn their forces.
+
+77
+00:05:40,428 --> 00:05:43,097
+Contact Count Dooku immediately.
+
+78
+00:05:45,099 --> 00:05:48,811
+I have something
+he'll be very interested in.
+
+79
+00:05:54,901 --> 00:05:59,656
+Count Dooku,
+the Republic forces are in full retreat.
+
+80
+00:06:00,448 --> 00:06:03,785
+<i>But this is not why
+you have contacted me, is it?</i>
+
+81
+00:06:04,244 --> 00:06:10,208
+No, Count, in truth the Republic had
+pushed my droids to the breaking point,
+
+82
+00:06:10,291 --> 00:06:13,253
+when they suddenly turned
+and fell back.
+
+83
+00:06:14,504 --> 00:06:16,923
+It seemed that
+at the height of the conflict,
+
+84
+00:06:17,006 --> 00:06:20,802
+a clone turned on his Jedi General
+
+85
+00:06:22,011 --> 00:06:23,805
+and executed her.
+
+86
+00:06:24,430 --> 00:06:25,974
+<i>Intentionally?</i>
+
+87
+00:06:26,558 --> 00:06:28,935
+I saw it with my own eyes.
+
+88
+00:06:29,018 --> 00:06:32,897
+I have studied clones and fought
+against them in many battles.
+
+89
+00:06:32,981 --> 00:06:39,821
+This action is unlike anything I have
+witnessed in their behavior as soldiers.
+
+90
+00:06:39,904 --> 00:06:42,740
+<i>So, there is a traitor in their midst.</i>
+
+91
+00:06:42,824 --> 00:06:46,828
+<i>It's rare, but such things
+have been reported in the past.</i>
+
+92
+00:06:48,413 --> 00:06:53,167
+Not a traitor, this was different.
+It seemed...
+
+93
+00:06:53,251 --> 00:06:54,794
+<i>Yes, Admiral?</i>
+
+94
+00:06:54,877 --> 00:06:58,881
+It seemed as if the clone
+could not help himself,
+
+95
+00:06:58,965 --> 00:07:02,010
+as if he was entranced.
+
+96
+00:07:02,510 --> 00:07:06,306
+<i>Thank you, Admiral.
+I will take this under advisement.</i>
+
+97
+00:07:24,032 --> 00:07:26,659
+Why? Why would he do this?
+
+98
+00:07:27,368 --> 00:07:29,203
+I'm about to find out.
+
+99
+00:07:31,956 --> 00:07:33,166
+How's he doing, Rex?
+
+100
+00:07:33,249 --> 00:07:37,712
+I'm not sure, General.
+It seems like he just snapped.
+
+101
+00:07:39,964 --> 00:07:41,883
+Tup, can you hear me?
+
+102
+00:07:42,008 --> 00:07:44,677
+-Yes, Captain.
+-What happened?
+
+103
+00:07:44,761 --> 00:07:46,054
+What do you mean?
+
+104
+00:07:46,137 --> 00:07:48,806
+Do you have any idea
+what you've done?
+
+105
+00:07:49,432 --> 00:07:53,227
+Good soldiers follow orders.
+Good soldiers follow orders.
+
+106
+00:07:53,311 --> 00:07:57,023
+Good soldiers follow orders.
+Good soldiers follow orders.
+
+107
+00:08:02,153 --> 00:08:04,155
+What is he talking about?
+
+108
+00:08:04,238 --> 00:08:05,657
+I have no idea.
+
+109
+00:08:17,335 --> 00:08:19,379
+Kill the Jedi.
+
+110
+00:08:27,887 --> 00:08:29,347
+We have to get him back
+to the medical bay
+
+111
+00:08:29,430 --> 00:08:31,766
+before he hurts anyone else.
+
+112
+00:08:40,775 --> 00:08:45,196
+My Lord, I have received a report
+that leads me to conclude
+
+113
+00:08:45,279 --> 00:08:48,449
+we may have encountered
+a grave complication
+
+114
+00:08:48,574 --> 00:08:50,284
+with one of our assets.
+
+115
+00:08:50,368 --> 00:08:51,661
+<i>Assets?</i>
+
+116
+00:08:51,744 --> 00:08:56,708
+Yes, sir. A clone trooper has
+executed one of the Jedi Generals.
+
+117
+00:08:56,791 --> 00:09:00,878
+<i>And you believe this is indicative
+of our programming?</i>
+
+118
+00:09:00,962 --> 00:09:05,133
+I do, My Lord. But I cannot be certain.
+
+119
+00:09:05,299 --> 00:09:09,637
+<i>It is pertinent we ascertain
+if this is an isolated event,</i>
+
+120
+00:09:10,096 --> 00:09:13,891
+<i>a failure in this particular
+clone's programming.</i>
+
+121
+00:09:13,975 --> 00:09:17,478
+<i>Otherwise my plans may be ruined.</i>
+
+122
+00:09:17,645 --> 00:09:20,815
+<i>Seize the clone immediately.</i>
+
+123
+00:09:20,898 --> 00:09:22,984
+Yes, My Master.
+
+124
+00:09:33,327 --> 00:09:36,622
+Fives, what's happening to me?
+
+125
+00:09:37,248 --> 00:09:39,333
+You don't remember?
+
+126
+00:09:40,001 --> 00:09:41,252
+No.
+
+127
+00:09:41,377 --> 00:09:43,671
+You murdered General Tiplar.
+
+128
+00:09:43,755 --> 00:09:47,592
+What? No, that's not possible.
+
+129
+00:09:47,675 --> 00:09:52,180
+I would never... I could never...
+
+130
+00:09:52,263 --> 00:09:53,681
+Tup, you did.
+
+131
+00:09:53,765 --> 00:09:57,393
+I don't... I don't understand.
+How could this happen?
+
+132
+00:09:57,727 --> 00:09:59,228
+What's happening to me, Fives?
+
+133
+00:10:00,688 --> 00:10:03,191
+No! No! No...
+
+134
+00:10:09,739 --> 00:10:11,449
+What do you think happened?
+
+135
+00:10:11,532 --> 00:10:13,284
+Did you check all of his scans?
+
+136
+00:10:13,367 --> 00:10:16,287
+Well, all of his scans are clear.
+
+137
+00:10:16,370 --> 00:10:19,290
+As far as I can tell,
+this is a combat-related stress.
+
+138
+00:10:19,373 --> 00:10:21,876
+It's seems he's had
+some sort of breakdown.
+
+139
+00:10:22,418 --> 00:10:23,961
+Kix, you should know better.
+
+140
+00:10:24,045 --> 00:10:26,631
+We were designed
+to withstand any stress.
+
+141
+00:10:26,839 --> 00:10:30,343
+I agree.
+We've been through a lot together.
+
+142
+00:10:30,426 --> 00:10:32,345
+He doesn't seem
+to remember what happened.
+
+143
+00:10:32,428 --> 00:10:34,889
+It's like he's sick, or drugged.
+
+144
+00:10:34,972 --> 00:10:39,602
+Well, it could be a virus, a toxin.
+
+145
+00:10:39,685 --> 00:10:41,562
+I can't be certain.
+
+146
+00:10:41,646 --> 00:10:43,731
+Let's talk outside.
+
+147
+00:10:47,235 --> 00:10:50,363
+You mean the enemy could have
+made him do this?
+
+148
+00:10:50,446 --> 00:10:51,656
+It's a possibility.
+
+149
+00:10:51,739 --> 00:10:54,492
+There have been rumors
+that Separatists have been trying
+
+150
+00:10:54,575 --> 00:10:58,704
+to develop an anti-clone virus.
+Biological warfare.
+
+151
+00:10:58,830 --> 00:11:02,124
+Listen, we aren't equipped
+for this type of situation.
+
+152
+00:11:02,208 --> 00:11:07,296
+He'll have to be taken back to Kamino.
+Only then will you have your answer.
+
+153
+00:11:11,217 --> 00:11:12,760
+Wait! Wait!
+
+154
+00:11:14,470 --> 00:11:18,307
+Tup, it's gonna be fine. I promise.
+
+155
+00:11:18,391 --> 00:11:20,101
+They'll fix you up real good.
+
+156
+00:11:20,184 --> 00:11:22,353
+We'll be having
+a drink together in no time, eh?
+
+157
+00:11:22,436 --> 00:11:25,398
+Good soldiers follow orders.
+
+158
+00:11:25,481 --> 00:11:28,192
+Good soldiers follow orders.
+
+159
+00:11:28,276 --> 00:11:29,652
+You are a good soldier, Tup.
+
+160
+00:11:29,735 --> 00:11:31,529
+It's time to go now.
+
+161
+00:11:32,697 --> 00:11:34,115
+Be careful.
+
+162
+00:11:34,365 --> 00:11:35,867
+Yes, General.
+
+163
+00:12:14,155 --> 00:12:19,243
+We are tracking clean, calculating
+hyperspace jump in five, four...
+
+164
+00:12:19,327 --> 00:12:20,828
+Wait! Wait!
+
+165
+00:12:20,912 --> 00:12:23,331
+Scanners indicate incoming craft.
+Abort jump!
+
+166
+00:12:57,698 --> 00:13:00,618
+Mayday! Mayday!
+The enemy cut us off!
+
+167
+00:13:00,701 --> 00:13:02,536
+They must have
+circled around behind us.
+
+168
+00:13:02,620 --> 00:13:04,038
+We're being overwhelmed.
+
+169
+00:13:35,319 --> 00:13:37,279
+Can't let 'em in here! Hold that line.
+
+170
+00:13:42,493 --> 00:13:43,744
+Here they come.
+
+171
+00:13:45,413 --> 00:13:46,664
+Blast them!
+
+172
+00:14:42,553 --> 00:14:43,679
+General Skywalker,
+
+173
+00:14:43,763 --> 00:14:46,557
+you are nearing the coordinates
+where we lost contact with the shuttle.
+
+174
+00:14:46,640 --> 00:14:50,227
+<i>We can see it now.
+It doesn't look good.</i>
+
+175
+00:14:57,568 --> 00:15:00,988
+Looks like some buzz droids got on
+the hull and opened her right up.
+
+176
+00:15:01,947 --> 00:15:05,034
+Strategically, this attack
+doesn't make any sense.
+
+177
+00:15:05,159 --> 00:15:08,162
+Unless they were
+after something specific.
+
+178
+00:15:08,245 --> 00:15:10,247
+-Tup...
+-I'm going over there.
+
+179
+00:15:10,331 --> 00:15:11,749
+We're coming with you.
+
+180
+00:15:39,193 --> 00:15:41,570
+Over here. This is Tup's gurney.
+
+181
+00:15:44,698 --> 00:15:46,909
+The restraints have been cut.
+
+182
+00:15:47,868 --> 00:15:50,663
+The clankers took Tup? Why?
+
+183
+00:15:50,746 --> 00:15:54,041
+They must be responsible
+for whatever's happening to him.
+
+184
+00:15:54,166 --> 00:15:55,251
+It's possible.
+
+185
+00:15:55,334 --> 00:15:57,962
+All I know is they went to great lengths
+to capture him.
+
+186
+00:15:58,045 --> 00:15:59,296
+And that means something.
+
+187
+00:15:59,380 --> 00:16:01,215
+We have got to get him back.
+
+188
+00:16:01,715 --> 00:16:04,301
+Don't worry. We'll find a way.
+
+189
+00:16:09,890 --> 00:16:12,434
+We have captured the clone, Count.
+
+190
+00:16:12,935 --> 00:16:14,395
+<i>Good work, Admiral.</i>
+
+191
+00:16:14,478 --> 00:16:16,355
+<i>Send him to me immediately,</i>
+
+192
+00:16:16,438 --> 00:16:19,859
+<i>and under all circumstances,
+keep him alive!</i>
+
+193
+00:16:20,818 --> 00:16:22,111
+Yes, sir.
+
+194
+00:16:23,571 --> 00:16:26,365
+Get him on the next shuttle out of here.
+
+195
+00:16:26,490 --> 00:16:28,826
+But the Republic blockade...
+
+196
+00:16:28,909 --> 00:16:31,495
+See to it personally, Commander.
+
+197
+00:16:44,842 --> 00:16:46,510
+It will be just the three of us going in.
+
+198
+00:16:46,594 --> 00:16:48,888
+The shuttle will drop us off
+just short of the main hanger,
+
+199
+00:16:48,971 --> 00:16:50,681
+then we spacewalk from there.
+
+200
+00:16:50,764 --> 00:16:52,516
+Are you picking anything up
+on Tup's locator?
+
+201
+00:16:52,600 --> 00:16:55,895
+I've got a faint signal,
+but it's hard to track. It's moving.
+
+202
+00:16:56,645 --> 00:16:57,897
+Then we better hurry.
+
+203
+00:17:35,809 --> 00:17:39,271
+I've got a better signal.
+Tup is heading this way.
+
+204
+00:17:39,563 --> 00:17:41,941
+They're moving him to the hangar.
+
+205
+00:18:11,595 --> 00:18:14,932
+Are your scopes Jedi-issue, sir?
+
+206
+00:18:15,557 --> 00:18:17,351
+Stay focused, Fives.
+
+207
+00:18:22,731 --> 00:18:25,734
+-There he is, sir.
+-We'll have to work fast.
+
+208
+00:18:25,859 --> 00:18:28,112
+There must be a hundred droids
+in that hangar,
+
+209
+00:18:28,195 --> 00:18:29,780
+not to mention the star fighters.
+
+210
+00:18:29,863 --> 00:18:32,199
+This is stretching it, even for you, sir!
+
+211
+00:18:32,283 --> 00:18:34,410
+Rex, you're beginning
+to sound like Obi-Wan.
+
+212
+00:18:34,493 --> 00:18:36,120
+You got a better idea?
+
+213
+00:18:36,203 --> 00:18:38,747
+Look, I don't doubt you could pull it off,
+
+214
+00:18:38,831 --> 00:18:42,376
+but I'm just not sure Fives and I
+would be around to see it happen.
+
+215
+00:18:42,459 --> 00:18:44,920
+-I've got an idea.
+-Well, let's hear it, quickly!
+
+216
+00:18:46,797 --> 00:18:48,549
+Grappling gun. Good thinking.
+
+217
+00:18:48,966 --> 00:18:50,259
+Get ready to hold on.
+
+218
+00:18:50,342 --> 00:18:53,679
+That's why he's the ARC Trooper.
+
+219
+00:19:19,496 --> 00:19:21,081
+Is there a problem?
+
+220
+00:19:21,165 --> 00:19:25,753
+We were experiencing some drag
+but the sensors are stabilized now.
+
+221
+00:19:25,836 --> 00:19:29,548
+You were experiencing drag
+in the vacuum of space?
+
+222
+00:19:29,715 --> 00:19:32,885
+Yeah, strange. But it is gone now.
+
+223
+00:19:46,774 --> 00:19:48,359
+Scrap them!
+
+224
+00:20:12,299 --> 00:20:15,177
+Hey, now we're
+experiencing turbulence.
+
+225
+00:20:16,136 --> 00:20:18,889
+What's going on?
+What do you know about this clone?
+
+226
+00:20:19,598 --> 00:20:21,892
+I am programmed to resist intimidation.
+
+227
+00:20:22,518 --> 00:20:23,644
+Fine.
+
+228
+00:20:29,650 --> 00:20:31,151
+How's he doing?
+
+229
+00:20:31,235 --> 00:20:33,821
+Not well. Not well at all.
+
+230
+00:20:33,904 --> 00:20:35,906
+I think he's dying, sir.
+
+231
+00:20:36,198 --> 00:20:38,409
+We have to get him to Kamino.
+
+232
+00:20:57,553 --> 00:20:59,763
+I'll want a full report from Kamino.
+
+233
+00:20:59,847 --> 00:21:02,224
+If Tup is the victim
+of some Separatist plot,
+
+234
+00:21:02,307 --> 00:21:06,186
+we have no idea
+of how widespread it already is.
+
+235
+00:21:06,937 --> 00:21:08,730
+Permission to come with you, sir.
+
+236
+00:21:08,814 --> 00:21:12,025
+He's my best friend.
+You may need help.
+
+237
+00:21:12,109 --> 00:21:14,778
+But everything must be done
+by the book.
+
+238
+00:21:14,862 --> 00:21:16,029
+Understood, sir.
+
+239
+00:21:16,113 --> 00:21:21,201
+You're to stay by his side at all times.
+I don't want any more slip-ups.
+
+240
+00:21:21,326 --> 00:21:23,871
+-Yes, sir.
+-Good. Let's go.
+
+241
+00:21:40,888 --> 00:21:44,808
+<i>Medical frigate 517,
+you are cleared for departure.</i>
+
+242
+00:21:45,476 --> 00:21:47,394
+Good luck, boys.
+
+243
+00:21:47,418 --> 00:21:52,418
+http://hiqve.com/
+

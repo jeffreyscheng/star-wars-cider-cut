@@ -1,0 +1,1037 @@
+﻿1
+00:00:10,415 --> 00:00:10,532
+h
+
+2
+00:00:10,533 --> 00:00:10,649
+ht
+
+3
+00:00:10,650 --> 00:00:10,767
+htt
+
+4
+00:00:10,768 --> 00:00:10,885
+http
+
+5
+00:00:10,886 --> 00:00:11,002
+http:
+
+6
+00:00:11,003 --> 00:00:11,120
+http:/
+
+7
+00:00:11,121 --> 00:00:11,238
+http://
+
+8
+00:00:11,239 --> 00:00:11,355
+http://h
+
+9
+00:00:11,356 --> 00:00:11,473
+http://hi
+
+10
+00:00:11,474 --> 00:00:11,590
+http://hiq
+
+11
+00:00:11,591 --> 00:00:11,708
+http://hiqv
+
+12
+00:00:11,709 --> 00:00:11,826
+http://hiqve
+
+13
+00:00:11,827 --> 00:00:11,943
+http://hiqve.
+
+14
+00:00:11,944 --> 00:00:12,061
+http://hiqve.c
+
+15
+00:00:12,062 --> 00:00:12,179
+http://hiqve.co
+
+16
+00:00:12,180 --> 00:00:12,296
+http://hiqve.com
+
+17
+00:00:12,297 --> 00:00:12,414
+http://hiqve.com/
+
+18
+00:00:12,415 --> 00:00:15,415
+http://hiqve.com/
+
+19
+00:00:17,439 --> 00:00:20,901
+<i>As the war between the Republic
+and the Separatists intensifies,</i>
+
+20
+00:00:20,984 --> 00:00:23,236
+<i>many are driven
+from their home planets,</i>
+
+21
+00:00:23,320 --> 00:00:26,781
+<i>and it is up to Senator Amidala
+to secure aid for them.</i>
+
+22
+00:00:27,282 --> 00:00:31,369
+<i>All eyes turn to the Banking Clan
+and the planet Scipio.</i>
+
+23
+00:00:31,453 --> 00:00:35,040
+<i>In an effort to remain independent
+from the Republic and the Separatists,</i>
+
+24
+00:00:35,123 --> 00:00:36,833
+<i>all operations are divided</i>
+
+25
+00:00:36,917 --> 00:00:39,711
+<i>and money transactions
+are performed in a neutral zone</i>
+
+26
+00:00:39,794 --> 00:00:41,713
+<i>surrounding the main vault.</i>
+
+27
+00:00:41,796 --> 00:00:46,426
+<i>For operations to continue,
+there must be no war on Scipio.</i>
+
+28
+00:00:46,509 --> 00:00:49,304
+<i>However, worry about the stability
+of the Banking Clan</i>
+
+29
+00:00:49,429 --> 00:00:50,931
+<i>is brewing within the Republic</i>
+
+30
+00:00:51,014 --> 00:00:54,893
+<i>as the wellspring of money
+may be in jeopardy.</i>
+
+31
+00:00:57,229 --> 00:00:59,689
+Welcome to Scipio, Senator.
+
+32
+00:00:59,773 --> 00:01:01,316
+If you will follow me,
+
+33
+00:01:01,399 --> 00:01:04,444
+we will be traveling
+into the neutral zone.
+
+34
+00:01:21,378 --> 00:01:25,590
+I am afraid your guards
+will have to wait outside.
+
+35
+00:01:25,674 --> 00:01:27,175
+Of course.
+
+36
+00:02:13,221 --> 00:02:17,309
+<i>As Council of Five,
+we are honored but surprised</i>
+
+37
+00:02:17,392 --> 00:02:21,396
+<i>that you have traveled all this way
+for a mere bank transfer.</i>
+
+38
+00:02:21,479 --> 00:02:24,316
+A transfer that has
+not been forthcoming.
+
+39
+00:02:24,399 --> 00:02:28,486
+By request of the Supreme Chancellor,
+I am here to expedite matters.
+
+40
+00:02:28,570 --> 00:02:29,738
+<i>Of course.</i>
+
+41
+00:02:29,821 --> 00:02:33,825
+<i>We would merely request that you
+meet with our special representative</i>
+
+42
+00:02:33,908 --> 00:02:38,246
+<i>who will go over the terms
+and conditions of your loan.</i>
+
+43
+00:02:46,463 --> 00:02:48,173
+Senator Amidala.
+
+44
+00:02:48,840 --> 00:02:50,008
+Clovis.
+
+45
+00:02:50,091 --> 00:02:52,427
+<i>You two know one another?</i>
+
+46
+00:02:52,844 --> 00:02:54,429
+Sir, I was assured
+
+47
+00:02:54,512 --> 00:02:57,974
+that this transaction would be free
+of prejudice and partisan allegiance.
+
+48
+00:02:58,058 --> 00:03:02,145
+This man is a known Separatist
+and traitor to the Republic.
+
+49
+00:03:02,228 --> 00:03:04,606
+-Padmé...
+<i>-I can assure you</i>
+
+50
+00:03:04,689 --> 00:03:08,276
+<i>Rush Clovis is our most trusted
+and best negotiator.</i>
+
+51
+00:03:08,777 --> 00:03:10,403
+I am sorry, gentlemen.
+
+52
+00:03:10,487 --> 00:03:14,157
+But I insist that this man be removed
+from these negotiations.
+
+53
+00:03:14,240 --> 00:03:17,452
+Until then, we have nothing further
+to discuss.
+
+54
+00:03:39,974 --> 00:03:43,311
+Milady no longer requires
+your assistance this evening.
+
+55
+00:03:43,395 --> 00:03:44,813
+Thank you.
+
+56
+00:03:50,026 --> 00:03:51,653
+Milady, watch out!
+
+57
+00:03:51,986 --> 00:03:54,656
+I would stop right there if I were you.
+
+58
+00:03:56,116 --> 00:03:58,618
+How did you get a blaster
+into the neutral zone?
+
+59
+00:03:58,701 --> 00:04:00,161
+We're resourceful.
+
+60
+00:04:00,245 --> 00:04:03,248
+Now, why are you breaking in
+to my quarters?
+
+61
+00:04:03,331 --> 00:04:06,709
+Padmé, you don't understand
+what is going on here.
+
+62
+00:04:06,793 --> 00:04:07,836
+I need your help.
+
+63
+00:04:08,086 --> 00:04:10,588
+Last time you needed my help,
+I ended up poisoned,
+
+64
+00:04:10,672 --> 00:04:11,923
+and you did nothing.
+
+65
+00:04:12,006 --> 00:04:15,343
+That's not true.
+You stole data files from me.
+
+66
+00:04:15,427 --> 00:04:18,096
+That revealed the location
+of a Separatists' droid factory
+
+67
+00:04:18,179 --> 00:04:19,806
+sponsored by you!
+
+68
+00:04:20,390 --> 00:04:23,560
+Look, it's not safe. We can't talk here.
+
+69
+00:04:27,856 --> 00:04:29,566
+Senator, I really don't think...
+
+70
+00:04:29,649 --> 00:04:32,861
+It's all right.
+I want to hear what he has to say.
+
+71
+00:04:48,376 --> 00:04:52,255
+The simple fact is the economics
+of this war are not adding up.
+
+72
+00:04:52,338 --> 00:04:53,965
+You're here for a bank transfer,
+
+73
+00:04:54,048 --> 00:04:56,968
+but I can assure you
+there is no money in the bank.
+
+74
+00:04:57,051 --> 00:04:58,636
+That's absurd.
+
+75
+00:04:58,720 --> 00:05:00,722
+They were ready
+to give me the funds today.
+
+76
+00:05:01,723 --> 00:05:04,476
+They will give you
+your first installment, yes.
+
+77
+00:05:04,559 --> 00:05:06,895
+But they're robbing one side
+to save the other.
+
+78
+00:05:06,978 --> 00:05:09,647
+The entire Banking Clan
+is on the verge of collapse.
+
+79
+00:05:09,731 --> 00:05:12,358
+Collapse? Where is the evidence?
+
+80
+00:05:12,650 --> 00:05:14,569
+In the vault.
+The accounts are sealed there,
+
+81
+00:05:14,652 --> 00:05:17,822
+and no one is allowed to see them
+besides the Core Five.
+
+82
+00:05:18,323 --> 00:05:19,741
+Convenient.
+
+83
+00:05:27,081 --> 00:05:30,335
+Well, now that you're here,
+you must put pressure on them.
+
+84
+00:05:30,418 --> 00:05:32,712
+And do what exactly?
+
+85
+00:05:32,795 --> 00:05:35,381
+Help me gain access to the vault.
+
+86
+00:05:35,465 --> 00:05:39,219
+You're insane to think
+I would ever trust you.
+
+87
+00:05:39,302 --> 00:05:41,804
+I'm sorry, but I cannot help you.
+
+88
+00:05:46,142 --> 00:05:47,810
+Take your hands off me!
+
+89
+00:05:50,980 --> 00:05:52,941
+I've risked everything to tell you this.
+
+90
+00:05:53,024 --> 00:05:55,235
+Don't you see they're trying to kill me
+because of what I know?
+
+91
+00:06:02,450 --> 00:06:06,454
+Please believe me.
+Our past must count for something.
+
+92
+00:06:06,538 --> 00:06:09,457
+I can't stay here. Think about what I ask.
+
+93
+00:06:32,981 --> 00:06:34,941
+<i>If what you are saying is true,</i>
+
+94
+00:06:35,275 --> 00:06:40,196
+<i>then this information Clovis is offering
+is vital to our security.</i>
+
+95
+00:06:41,155 --> 00:06:45,785
+<i>I need you to be very clear
+in this matter for the Republic.</i>
+
+96
+00:06:46,536 --> 00:06:48,454
+<i>Is he telling the truth?</i>
+
+97
+00:06:49,163 --> 00:06:51,124
+Yes. I'm sure.
+
+98
+00:06:51,207 --> 00:06:53,585
+<i>Perhaps then, in this scenario,</i>
+
+99
+00:06:53,668 --> 00:06:57,630
+<i>it would be best for you
+to trust an old friend</i>
+
+100
+00:06:57,714 --> 00:06:59,799
+<i>and do what he suggests.</i>
+
+101
+00:07:21,487 --> 00:07:25,325
+I have decided to accept Clovis
+as the representative of this transaction
+
+102
+00:07:25,408 --> 00:07:27,285
+as long as I can go into the vault
+
+103
+00:07:27,368 --> 00:07:30,204
+and accompany the funds
+throughout the entire process.
+
+104
+00:07:30,538 --> 00:07:34,334
+<i>No outsider
+is ever allowed into the vaults.</i>
+
+105
+00:07:34,417 --> 00:07:37,462
+I come with the authority
+of the Supreme Chancellor.
+
+106
+00:07:37,545 --> 00:07:38,963
+If you have something to hide,
+
+107
+00:07:39,047 --> 00:07:41,132
+then that is something
+we should discuss.
+
+108
+00:07:41,215 --> 00:07:42,383
+Hide?
+
+109
+00:07:42,467 --> 00:07:45,303
+I think considering
+last night's attack on the Senator,
+
+110
+00:07:45,386 --> 00:07:49,307
+it is only fair that we are transparent
+and agree to these terms.
+
+111
+00:07:49,390 --> 00:07:50,892
+What harm will come of it?
+
+112
+00:07:55,647 --> 00:07:58,733
+The vault will be open
+first thing in the morning.
+
+113
+00:07:58,816 --> 00:08:01,361
+Please make sure
+you are here, Senator.
+
+114
+00:08:19,295 --> 00:08:21,881
+Where exactly are we, Clovis?
+
+115
+00:08:21,964 --> 00:08:24,133
+This is my personal residence.
+
+116
+00:08:24,217 --> 00:08:27,553
+A bit remote,
+but we'll have more privacy here.
+
+117
+00:08:37,438 --> 00:08:41,025
+Once I detonate the charge here
+at the main power source,
+
+118
+00:08:41,109 --> 00:08:43,569
+the vault will go
+into immediate shutdown.
+
+119
+00:08:48,282 --> 00:08:50,243
+No one will get in or out.
+
+120
+00:08:50,326 --> 00:08:51,786
+This will give you very little time
+
+121
+00:08:51,869 --> 00:08:55,540
+before the emergency generator cycles
+and takes over.
+
+122
+00:08:56,290 --> 00:08:58,209
+You'll then use this
+to locate the exact files
+
+123
+00:08:58,292 --> 00:09:01,379
+and download them
+from the mainframe.
+
+124
+00:09:03,005 --> 00:09:05,466
+The vault is one
+of the most secure in the galaxy.
+
+125
+00:09:05,550 --> 00:09:08,261
+But it was designed to keep people out.
+
+126
+00:09:09,387 --> 00:09:11,848
+Once you're inside,
+and the power is down,
+
+127
+00:09:11,931 --> 00:09:13,808
+there is little they can do.
+
+128
+00:09:20,273 --> 00:09:21,983
+You make it sound so easy.
+
+129
+00:09:22,066 --> 00:09:25,486
+If you don't mind, Senator,
+I will retire for the night.
+
+130
+00:09:25,570 --> 00:09:27,739
+Of course, Teckla.
+
+131
+00:09:27,822 --> 00:09:30,408
+The information we get tomorrow
+will go a long way
+
+132
+00:09:30,491 --> 00:09:33,453
+to expose, perhaps,
+the real criminals behind this war.
+
+133
+00:09:33,703 --> 00:09:37,248
+These are war profiteers.
+I've exposed that before.
+
+134
+00:09:37,331 --> 00:09:38,833
+Nobody cares.
+
+135
+00:09:38,916 --> 00:09:41,502
+Truth is not on the battlefield.
+
+136
+00:09:44,839 --> 00:09:46,007
+It's late.
+
+137
+00:09:47,258 --> 00:09:49,010
+Good night, Clovis.
+
+138
+00:11:06,087 --> 00:11:09,423
+Clovis, where are you going?
+
+139
+00:11:10,007 --> 00:11:12,009
+I have some business to attend to.
+
+140
+00:11:12,093 --> 00:11:14,637
+This was your idea.
+
+141
+00:11:14,720 --> 00:11:18,432
+I should very much like for you
+to await the Senator's return.
+
+142
+00:11:31,737 --> 00:11:33,364
+If you'll follow me,
+
+143
+00:11:33,447 --> 00:11:36,659
+the credits for the Republic
+are in this section.
+
+144
+00:12:44,185 --> 00:12:45,603
+What happened to the lights?
+
+145
+00:12:45,686 --> 00:12:47,563
+I can't see a thing!
+
+146
+00:12:48,773 --> 00:12:52,068
+Find out what is going on,
+and open the vault immediately.
+
+147
+00:12:52,151 --> 00:12:55,279
+Power has been cut,
+and the security lock has engaged.
+
+148
+00:12:55,363 --> 00:12:57,198
+It will take some time to switch over.
+
+149
+00:13:27,728 --> 00:13:31,023
+-Where is the Senator?
+-We got separated in the darkness.
+
+150
+00:13:31,107 --> 00:13:32,274
+I'm here.
+
+151
+00:13:32,358 --> 00:13:34,443
+No thanks to your security system.
+
+152
+00:13:34,527 --> 00:13:37,947
+This isn't a vault. It's a tomb.
+What is going on?
+
+153
+00:13:38,406 --> 00:13:41,158
+My deepest apologies, Senator.
+
+154
+00:13:41,242 --> 00:13:44,412
+It seems I'm witness
+to many firsts on Scipio.
+
+155
+00:13:44,495 --> 00:13:47,540
+Is this an unfortunate incident
+or a cover up?
+
+156
+00:13:47,748 --> 00:13:50,501
+I'm not sure what you mean.
+
+157
+00:13:50,876 --> 00:13:53,713
+I'm afraid I'm going to have to report
+on your sad state of affairs
+
+158
+00:13:53,796 --> 00:13:55,131
+to the Chancellor.
+
+159
+00:14:09,228 --> 00:14:11,522
+Let's see if you got what we needed.
+
+160
+00:14:21,115 --> 00:14:24,035
+As I said, the vaults are empty.
+
+161
+00:14:24,118 --> 00:14:26,954
+The Chancellor
+must see this immediately.
+
+162
+00:14:29,957 --> 00:14:33,377
+Senator Amidala,
+you are under arrest for espionage.
+
+163
+00:14:33,461 --> 00:14:35,629
+No, there's been some kind of mistake.
+
+164
+00:14:36,130 --> 00:14:37,715
+Take her away.
+
+165
+00:14:45,723 --> 00:14:49,060
+I have powerful friends.
+The Chancellor will hear about this.
+
+166
+00:15:08,788 --> 00:15:11,373
+This way, Master Jedi.
+
+167
+00:15:16,837 --> 00:15:20,591
+Well, well, well.
+What exactly is going on here?
+
+168
+00:15:20,674 --> 00:15:23,844
+Ani. I'm so glad to see you.
+
+169
+00:15:25,096 --> 00:15:27,807
+I guess I'm not only useful
+for fighting wars after all.
+
+170
+00:15:28,182 --> 00:15:31,602
+-How long have I been in here?
+-A few days.
+
+171
+00:15:31,685 --> 00:15:34,355
+They say Teckla is dead. Is it true?
+
+172
+00:15:35,356 --> 00:15:37,858
+Yes. She was found shot
+at the bombsite.
+
+173
+00:15:38,275 --> 00:15:40,319
+-By who?
+-They don't know.
+
+174
+00:15:40,402 --> 00:15:43,072
+The Muuns say
+she sabotaged the power grid.
+
+175
+00:15:43,155 --> 00:15:45,199
+What exactly is going on here?
+
+176
+00:15:45,282 --> 00:15:47,076
+You have to get me out of here.
+
+177
+00:15:47,159 --> 00:15:49,245
+-Clovis is...
+-Clovis?
+
+178
+00:15:49,995 --> 00:15:52,289
+What exactly does Clovis
+have to do with this?
+
+179
+00:15:53,874 --> 00:15:55,376
+I can't explain it here.
+
+180
+00:15:55,459 --> 00:15:59,964
+How could you ever put your trust
+in a man like Clovis after what he did?
+
+181
+00:16:00,047 --> 00:16:02,091
+It's for the Republic, Anakin.
+
+182
+00:16:02,174 --> 00:16:04,885
+Something is very wrong
+with the banks.
+
+183
+00:16:05,094 --> 00:16:06,929
+Why is it that when Clovis is around,
+
+184
+00:16:07,012 --> 00:16:10,683
+your excuse is always that
+you're doing it for the Republic?
+
+185
+00:16:12,059 --> 00:16:13,727
+Anakin, please.
+
+186
+00:16:14,353 --> 00:16:16,397
+You know, maybe
+I'll just leave you here.
+
+187
+00:16:16,730 --> 00:16:18,107
+Ani.
+
+188
+00:16:18,691 --> 00:16:20,651
+You've already been released
+into my custody.
+
+189
+00:16:20,734 --> 00:16:23,779
+You better come with me
+before I change my mind.
+
+190
+00:16:32,580 --> 00:16:34,707
+Anakin, please trust me.
+
+191
+00:16:34,790 --> 00:16:38,335
+I can't leave without the files
+Clovis and I took from the vault.
+
+192
+00:16:38,419 --> 00:16:40,713
+Where exactly do you suggest we look?
+
+193
+00:16:41,005 --> 00:16:45,009
+The disks may be outside the city
+at Clovis' private residence.
+
+194
+00:16:45,676 --> 00:16:49,889
+Fine. I'll do this for you,
+not for Clovis. Artoo.
+
+195
+00:16:51,515 --> 00:16:53,475
+Have the ship ready in case I need you.
+
+196
+00:17:07,781 --> 00:17:09,491
+Over there.
+
+197
+00:17:29,887 --> 00:17:31,263
+Cozy place.
+
+198
+00:17:31,847 --> 00:17:35,601
+Someone was looking for the files.
+They must know Clovis has them.
+
+199
+00:17:35,684 --> 00:17:37,561
+Well, maybe they found
+what they were looking for,
+
+200
+00:17:37,645 --> 00:17:39,897
+and that's why he's missing.
+
+201
+00:17:39,980 --> 00:17:41,065
+We can only hope.
+
+202
+00:17:41,148 --> 00:17:43,359
+Anakin, you're not helping things.
+
+203
+00:17:43,442 --> 00:17:46,111
+You don't seem to understand
+how important these files are.
+
+204
+00:17:46,403 --> 00:17:51,075
+They'll expose a corruption that goes
+to the very core of the Banking Clan.
+
+205
+00:17:51,158 --> 00:17:52,326
+Clovis!
+
+206
+00:17:53,577 --> 00:17:54,995
+Padmé.
+
+207
+00:17:55,788 --> 00:17:56,872
+I knew you'd come.
+
+208
+00:17:59,875 --> 00:18:01,168
+You again?
+
+209
+00:18:01,543 --> 00:18:03,879
+Yes, me again.
+
+210
+00:18:03,963 --> 00:18:06,590
+All right, lover boy, where's the disk?
+
+211
+00:18:06,674 --> 00:18:09,969
+I'm not about to hand over
+the information to some pilot.
+
+212
+00:18:10,052 --> 00:18:14,098
+I'm a Jedi Knight who can save your life
+if you hand over the files!
+
+213
+00:18:14,181 --> 00:18:18,018
+So, what's it going to be?
+You gonna give us the disk?
+
+214
+00:18:18,102 --> 00:18:20,938
+Why? So you can leave me stranded
+like last time?
+
+215
+00:18:21,021 --> 00:18:23,524
+Well, that depends on
+how well-behaved you are.
+
+216
+00:18:23,607 --> 00:18:27,069
+Can you both stop bickering
+so we can get out of here?
+
+217
+00:18:36,245 --> 00:18:37,538
+Down!
+
+218
+00:18:40,874 --> 00:18:41,875
+Thanks.
+
+219
+00:18:41,959 --> 00:18:43,961
+It wasn't you I wanted to save.
+
+220
+00:18:44,044 --> 00:18:46,005
+Anakin, get us out of here.
+
+221
+00:18:46,088 --> 00:18:47,256
+Follow me!
+
+222
+00:18:48,549 --> 00:18:50,050
+Run for it!
+
+223
+00:19:23,375 --> 00:19:26,045
+Artoo, bring the ship around
+and pick us up.
+
+224
+00:20:06,168 --> 00:20:07,169
+Look out!
+
+225
+00:20:08,128 --> 00:20:09,421
+Anakin!
+
+226
+00:20:19,139 --> 00:20:20,474
+Did we lose him?
+
+227
+00:20:27,106 --> 00:20:28,107
+I'm all right.
+
+228
+00:20:39,326 --> 00:20:42,329
+Artoo, hone in on my signal. Artoo?
+
+229
+00:20:50,796 --> 00:20:52,131
+Hey, nice catch.
+
+230
+00:21:18,031 --> 00:21:22,035
+<i>It seems your mission was a success,
+bounty hunter.</i>
+
+231
+00:21:22,119 --> 00:21:26,039
+<i>From this point,
+I will deal with them myself.</i>
+
+232
+00:21:26,063 --> 00:21:31,063
+http://hiqve.com/
+

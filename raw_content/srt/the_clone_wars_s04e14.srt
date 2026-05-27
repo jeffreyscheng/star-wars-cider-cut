@@ -1,0 +1,1024 @@
+﻿1
+00:00:10,499 --> 00:00:10,616
+h
+
+2
+00:00:10,617 --> 00:00:10,733
+ht
+
+3
+00:00:10,734 --> 00:00:10,851
+htt
+
+4
+00:00:10,852 --> 00:00:10,969
+http
+
+5
+00:00:10,970 --> 00:00:11,086
+http:
+
+6
+00:00:11,087 --> 00:00:11,204
+http:/
+
+7
+00:00:11,205 --> 00:00:11,322
+http://
+
+8
+00:00:11,323 --> 00:00:11,439
+http://h
+
+9
+00:00:11,440 --> 00:00:11,557
+http://hi
+
+10
+00:00:11,558 --> 00:00:11,674
+http://hiq
+
+11
+00:00:11,675 --> 00:00:11,792
+http://hiqv
+
+12
+00:00:11,793 --> 00:00:11,910
+http://hiqve
+
+13
+00:00:11,911 --> 00:00:12,027
+http://hiqve.
+
+14
+00:00:12,028 --> 00:00:12,145
+http://hiqve.c
+
+15
+00:00:12,146 --> 00:00:12,263
+http://hiqve.co
+
+16
+00:00:12,264 --> 00:00:12,380
+http://hiqve.com
+
+17
+00:00:12,381 --> 00:00:12,498
+http://hiqve.com/
+
+18
+00:00:12,499 --> 00:00:15,499
+http://hiqve.com/
+
+19
+00:00:18,523 --> 00:00:20,942
+<i>Divided by war,</i>
+
+20
+00:00:20,983 --> 00:00:23,528
+<i>in an effort to end the Galactic conflict,</i>
+
+21
+00:00:23,611 --> 00:00:25,112
+<i>the first ever sanctioned meeting</i>
+
+22
+00:00:25,196 --> 00:00:27,823
+<i>between the Republic
+and the Separatists will be held.</i>
+
+23
+00:00:27,907 --> 00:00:30,451
+<i>And Mandalore is chosen
+as neutral ground</i>
+
+24
+00:00:30,535 --> 00:00:32,578
+<i>for these precarious meetings.</i>
+
+25
+00:00:32,620 --> 00:00:38,125
+<i>Tensions run high as many hold hope
+for these important negotiations.</i>
+
+26
+00:00:38,209 --> 00:00:41,003
+The Republic recognizes
+the tragedy of war.
+
+27
+00:00:41,087 --> 00:00:44,048
+But there is nothing we can change
+that has already occurred.
+
+28
+00:00:44,131 --> 00:00:46,300
+Say it aloud before this gathering,
+
+29
+00:00:46,342 --> 00:00:50,930
+as representative for Chancellor Palpatine,
+that you declare without reservation
+
+30
+00:00:50,972 --> 00:00:53,307
+the Separatist State legitimate.
+
+31
+00:00:57,228 --> 00:01:00,940
+I have something to say
+about the legitimacy of the Separatists.
+
+32
+00:01:02,024 --> 00:01:03,859
+Why is Lux Bonteri here?
+
+33
+00:01:03,943 --> 00:01:06,821
+What could he possibly have to say?
+
+34
+00:01:06,904 --> 00:01:08,155
+He was not invited.
+
+35
+00:01:08,239 --> 00:01:11,117
+You didn't mention that Lux Bonteri
+would be here.
+
+36
+00:01:11,158 --> 00:01:12,827
+I didn't know.
+
+37
+00:01:21,836 --> 00:01:25,506
+I stand before you, son of Mina Bonteri,
+
+38
+00:01:25,590 --> 00:01:29,343
+loyal Separatist, a patriot, a friend.
+
+39
+00:01:34,181 --> 00:01:37,101
+It has come to my attention
+that my mother was murdered
+
+40
+00:01:37,184 --> 00:01:39,353
+by Count Dooku in cold blood.
+
+41
+00:01:39,395 --> 00:01:41,397
+That is a lie!
+
+42
+00:01:41,480 --> 00:01:43,524
+Remove this traitor immediately.
+
+43
+00:01:46,027 --> 00:01:48,070
+I will not be silenced.
+
+44
+00:01:48,154 --> 00:01:49,697
+Stop this!
+
+45
+00:01:49,739 --> 00:01:52,700
+We would ask you to respect
+that we deal with this matter ourselves.
+
+46
+00:01:52,742 --> 00:01:55,077
+No! Dooku is deceiving you.
+
+47
+00:01:55,536 --> 00:01:58,039
+You will all be betrayed
+just like my mother.
+
+48
+00:01:58,122 --> 00:02:01,792
+I apologize for such a rude interruption.
+
+49
+00:02:01,876 --> 00:02:03,294
+Please let us continue.
+
+50
+00:02:05,504 --> 00:02:08,758
+We can't just let them take him.
+He'll be killed.
+
+51
+00:02:08,841 --> 00:02:11,886
+Do what you can, Ahsoka, but be discreet.
+
+52
+00:02:46,754 --> 00:02:52,343
+<i>Those are some rather strong
+accusations you have levied against me.</i>
+
+53
+00:02:52,426 --> 00:02:54,804
+You know what you did, Dooku.
+
+54
+00:02:54,887 --> 00:02:58,349
+<i>Do I? I've done a lot of things, young man.</i>
+
+55
+00:02:58,432 --> 00:03:01,602
+<i>And choose to remember them
+in order of importance.</i>
+
+56
+00:03:01,686 --> 00:03:06,315
+<i>The death of your mother
+seems to have escaped me.</i>
+
+57
+00:03:06,399 --> 00:03:08,442
+I will have my revenge.
+
+58
+00:03:09,402 --> 00:03:13,197
+<i>I think it is time we reacquaint
+the young senator with his mother.</i>
+
+59
+00:03:14,240 --> 00:03:15,783
+<i>Kill him.</i>
+
+60
+00:03:19,203 --> 00:03:20,287
+Ahsoka?
+
+61
+00:03:25,126 --> 00:03:28,546
+Lux, I think it's time to go. Don't you?
+
+62
+00:03:33,384 --> 00:03:35,636
+Artoo, fire up the engines. We're leaving.
+
+63
+00:03:43,894 --> 00:03:44,979
+Run.
+
+64
+00:03:52,027 --> 00:03:53,320
+Hurry! Hurry!
+
+65
+00:03:53,404 --> 00:03:56,824
+-Ahsoka, I appreciate your help, but...
+-Keep moving.
+
+66
+00:04:02,621 --> 00:04:05,833
+Captain Taggart,
+we've got incoming clankers.
+
+67
+00:04:05,875 --> 00:04:08,210
+We'll cover you, sir.
+
+68
+00:04:30,024 --> 00:04:32,193
+<i>Ahsoka, Padmé just contacted me.</i>
+
+69
+00:04:32,234 --> 00:04:35,571
+<i>She told me the peace negotiations
+have all but collapsed. Where are you?</i>
+
+70
+00:04:35,654 --> 00:04:39,200
+I'm en route to Coruscant, Master.
+I have Lux Bonteri with me.
+
+71
+00:04:39,241 --> 00:04:41,869
+Master Jedi, I'm sorry
+if I've caused you any trouble.
+
+72
+00:04:41,911 --> 00:04:42,953
+It's nothing.
+
+73
+00:04:43,412 --> 00:04:45,623
+You will be safe now with the Republic.
+
+74
+00:04:47,291 --> 00:04:50,169
+<i>All right.
+Bring Bonteri to Coruscant immediately.</i>
+
+75
+00:04:50,211 --> 00:04:51,754
+<i>We'll discuss giving him amnesty.</i>
+
+76
+00:04:51,837 --> 00:04:53,047
+Yes, Master.
+
+77
+00:04:54,632 --> 00:04:57,760
+-I can't go with you, Ahsoka.
+-What?
+
+78
+00:04:57,843 --> 00:05:00,471
+I told you, I have a plan.
+
+79
+00:05:01,847 --> 00:05:04,350
+Shooting me is not going to be part of it.
+
+80
+00:05:04,391 --> 00:05:07,686
+What are you doing with a gun anyhow?
+You're not a fighter.
+
+81
+00:05:07,728 --> 00:05:09,730
+I'm no longer a Separatist either.
+
+82
+00:05:09,814 --> 00:05:11,315
+I won't join the Republic.
+
+83
+00:05:11,398 --> 00:05:13,609
+What other options do you have?
+
+84
+00:05:13,692 --> 00:05:15,903
+There is a different way.
+
+85
+00:05:15,945 --> 00:05:17,947
+I understand everything
+that you've been through.
+
+86
+00:05:18,030 --> 00:05:20,282
+I understand you feel alone.
+
+87
+00:05:20,366 --> 00:05:22,785
+But the Republic will help you.
+
+88
+00:05:22,868 --> 00:05:24,578
+Like they helped my mother?
+
+89
+00:05:25,704 --> 00:05:27,998
+I've already made contact
+with a group on Carlac
+
+90
+00:05:28,082 --> 00:05:30,459
+who are noble
+and are allied with my cause.
+
+91
+00:05:30,543 --> 00:05:32,628
+And what cause is that?
+
+92
+00:05:32,711 --> 00:05:34,213
+To kill Dooku.
+
+93
+00:05:35,506 --> 00:05:38,759
+The only one you're going to get killed
+is yourself.
+
+94
+00:05:40,135 --> 00:05:43,013
+I'm sorry, but I'm taking you to Coruscant.
+
+95
+00:05:43,097 --> 00:05:45,599
+You're plan hasn't exactly been
+well thought out, Lux.
+
+96
+00:05:45,683 --> 00:05:49,103
+Without me, how did you think
+you were going to escape those droids?
+
+97
+00:05:49,186 --> 00:05:50,354
+Like this.
+
+98
+00:05:52,189 --> 00:05:53,941
+I'm sorry, Ahsoka.
+
+99
+00:06:02,575 --> 00:06:06,787
+It seems Ahsoka is quite exhausted.
+She probably should sleep it off.
+
+100
+00:06:20,551 --> 00:06:21,802
+Lux?
+
+101
+00:06:23,429 --> 00:06:24,597
+Lux?
+
+102
+00:06:28,058 --> 00:06:30,561
+Where are my lightsabers?
+
+103
+00:06:35,816 --> 00:06:37,318
+Lux!
+
+104
+00:06:37,359 --> 00:06:41,322
+Artoo, take a look around
+and see if you can find where Lux hid them.
+
+105
+00:06:41,405 --> 00:06:44,658
+I'm going to have a little chat
+with Mr. Bonteri.
+
+106
+00:06:53,208 --> 00:06:57,796
+Lux! Lux, where are we?
+And what did you do with my lightsabers?
+
+107
+00:06:57,838 --> 00:07:00,090
+You should've stayed on the ship.
+
+108
+00:07:11,268 --> 00:07:13,896
+Hey, kid. You're late.
+
+109
+00:07:14,355 --> 00:07:16,106
+Death Watch.
+
+110
+00:07:32,790 --> 00:07:34,583
+Did you get us what we need?
+
+111
+00:07:34,667 --> 00:07:37,044
+Yes, I have the information with me.
+
+112
+00:07:37,670 --> 00:07:39,004
+Who's this?
+
+113
+00:07:39,046 --> 00:07:40,547
+I'm his...
+
+114
+00:07:40,589 --> 00:07:42,633
+I'm his betrothed.
+
+115
+00:07:44,551 --> 00:07:45,928
+Right. Right.
+
+116
+00:07:46,303 --> 00:07:47,763
+Betrothed?
+
+117
+00:07:50,182 --> 00:07:52,476
+Little skinny, isn't she?
+
+118
+00:07:54,186 --> 00:07:56,313
+She serves her purpose.
+
+119
+00:08:00,818 --> 00:08:01,986
+We leave now.
+
+120
+00:08:02,069 --> 00:08:03,612
+The snow is coming.
+
+121
+00:08:03,696 --> 00:08:05,572
+What have you gotten us into?
+
+122
+00:08:05,656 --> 00:08:07,491
+It's all under control.
+
+123
+00:08:10,828 --> 00:08:13,914
+These are the Death Watch.
+They're Mandalorian terrorists.
+
+124
+00:08:13,998 --> 00:08:15,249
+- They'll kill us both.
+- Are you coming?
+
+125
+00:08:15,749 --> 00:08:17,251
+Yes.
+
+126
+00:08:17,292 --> 00:08:18,919
+Uh, I should stay with the ship.
+
+127
+00:08:19,003 --> 00:08:21,380
+No. You're coming, too.
+
+128
+00:09:29,156 --> 00:09:30,783
+The boss will see you in there.
+
+129
+00:09:38,290 --> 00:09:40,501
+Don't ruin my plan, okay?
+
+130
+00:09:40,542 --> 00:09:42,336
+Plan? What plan?
+
+131
+00:09:42,836 --> 00:09:44,838
+This is a ho lot race device.
+
+132
+00:09:44,922 --> 00:09:48,133
+It can identify the origin
+of any holo transmission.
+
+133
+00:09:48,175 --> 00:09:51,845
+I knew if I accused Dooku of murder,
+I would be brought to face him.
+
+134
+00:09:51,929 --> 00:09:53,889
+Well, it worked.
+
+135
+00:09:53,972 --> 00:09:56,391
+And I now know Dooku's exact location.
+
+136
+00:09:56,475 --> 00:09:59,561
+If Death Watch moves quick enough
+we can destroy him.
+
+137
+00:09:59,645 --> 00:10:01,563
+Is that enough of a plan for you?
+
+138
+00:10:01,647 --> 00:10:04,399
+This is not some idealistic political group!
+
+139
+00:10:04,483 --> 00:10:07,027
+They will take the information and kill you.
+
+140
+00:10:07,903 --> 00:10:09,947
+I knew you wouldn't understand.
+
+141
+00:10:10,030 --> 00:10:13,867
+The Death Watch are murderers!
+Sworn to destroy Jedi.
+
+142
+00:10:13,909 --> 00:10:16,120
+You don't know what you're doing ! This...
+
+143
+00:10:18,080 --> 00:10:19,665
+Am I interrupting something?
+
+144
+00:10:21,083 --> 00:10:23,877
+No. Of course not. We were just...
+
+145
+00:10:25,170 --> 00:10:27,005
+It's time to talk business.
+
+146
+00:10:29,007 --> 00:10:31,468
+Tell your woman to leave us.
+
+147
+00:10:32,052 --> 00:10:33,303
+Of course.
+
+148
+00:10:37,349 --> 00:10:40,811
+Now, give me what I want.
+
+149
+00:10:41,645 --> 00:10:43,939
+When I know that you will use it correctly.
+
+150
+00:10:44,022 --> 00:10:46,316
+Don't toy with me, boy.
+
+151
+00:10:46,400 --> 00:10:48,235
+You see this scar?
+
+152
+00:10:48,318 --> 00:10:51,363
+It was a parting gift from Count Dooku.
+
+153
+00:10:51,405 --> 00:10:54,199
+If you question my resolve
+to destroy him again,
+
+154
+00:10:54,241 --> 00:10:56,577
+I will give you one just like it.
+
+155
+00:10:57,077 --> 00:10:59,746
+This device will tell you his location.
+
+156
+00:11:01,832 --> 00:11:05,043
+Good. That was painless, wasn't it?
+
+157
+00:11:05,419 --> 00:11:07,671
+Now, let's celebrate.
+
+158
+00:11:20,601 --> 00:11:22,102
+Repair these droids
+
+159
+00:11:22,186 --> 00:11:26,523
+so we can use them
+for target practice again.
+
+160
+00:11:32,571 --> 00:11:35,657
+Please reassemble us.
+
+161
+00:11:35,741 --> 00:11:38,493
+Please reassemble us.
+
+162
+00:11:38,577 --> 00:11:42,789
+We are battle droids no longer.
+Now we are slaves.
+
+163
+00:11:46,460 --> 00:11:48,128
+Please reassemble us.
+
+164
+00:12:00,807 --> 00:12:03,060
+Try that again and I will...
+
+165
+00:12:03,143 --> 00:12:07,648
+You don't want to make them angry.
+They are far from rational.
+
+166
+00:12:08,482 --> 00:12:12,069
+Believe me, you have no idea.
+
+167
+00:12:13,487 --> 00:12:15,781
+-What's your name?
+-Try la.
+
+168
+00:12:15,822 --> 00:12:18,992
+I'm Ahsoka. Where are you from?
+
+169
+00:12:19,076 --> 00:12:21,370
+We were kidnapped from a nearby town.
+
+170
+00:12:21,453 --> 00:12:26,667
+We are a simple people. We trust easily.
+And we were betrayed.
+
+171
+00:12:27,751 --> 00:12:32,381
+We feast. Prepare the food.
+Your masters are hungry.
+
+172
+00:12:55,195 --> 00:12:56,530
+Hungry?
+
+173
+00:12:57,322 --> 00:13:00,367
+Careful not to choke on your stupidity.
+
+174
+00:13:02,452 --> 00:13:06,581
+I see your woman has fit in well.
+Now, how will you fit in?
+
+175
+00:13:06,665 --> 00:13:09,042
+All I want is Dooku dead.
+
+176
+00:13:09,084 --> 00:13:10,419
+Vizsla.
+
+177
+00:13:13,839 --> 00:13:17,718
+Chieftain Pieter,
+I don't remember summoning you.
+
+178
+00:13:19,303 --> 00:13:24,558
+You have taken our women, stolen our food
+and threatened us for too long.
+
+179
+00:13:25,392 --> 00:13:28,562
+Brave for you to come here
+with such bold words.
+
+180
+00:13:29,438 --> 00:13:32,232
+You are no longer welcome here.
+
+181
+00:13:32,274 --> 00:13:36,528
+Well, if our presence here isn't welcome,
+we'll make ready to leave.
+
+182
+00:13:40,991 --> 00:13:43,660
+And you'll return our people to us?
+
+183
+00:13:43,744 --> 00:13:48,081
+Yes, sunrise tomorrow. You have my word.
+
+184
+00:13:49,416 --> 00:13:52,753
+Very well. We'll be waiting.
+
+185
+00:13:58,925 --> 00:14:02,596
+You see? They're not the butchers
+you make them out to be.
+
+186
+00:14:25,452 --> 00:14:27,454
+You have kept your word.
+
+187
+00:14:28,121 --> 00:14:31,208
+We are very grateful
+for your understanding.
+
+188
+00:14:38,090 --> 00:14:40,300
+I am a man of my word.
+
+189
+00:14:40,342 --> 00:14:43,470
+Here is your granddaughter, as promised.
+
+190
+00:14:43,553 --> 00:14:44,554
+-No!
+-Try la!
+
+191
+00:14:49,059 --> 00:14:51,645
+Kill them. Kill them all.
+
+192
+00:14:54,773 --> 00:14:58,735
+No! Our village. Run for your lives!
+
+193
+00:15:03,115 --> 00:15:07,619
+Save them, Ahsoka. Save them.
+Save my people.
+
+194
+00:15:09,830 --> 00:15:12,124
+Why? What are you doing?
+
+195
+00:15:12,165 --> 00:15:15,377
+Never let the weak tell you what to do.
+
+196
+00:15:16,169 --> 00:15:18,547
+Welcome to Death Watch.
+
+197
+00:15:54,666 --> 00:15:57,544
+Now what do we have here?
+
+198
+00:15:57,627 --> 00:16:00,630
+I think we've caught ourselves a Jedi.
+
+199
+00:16:03,049 --> 00:16:04,926
+Drag her back to camp.
+
+200
+00:16:17,314 --> 00:16:21,359
+Thank you, friend. How can we repay you?
+
+201
+00:16:42,255 --> 00:16:45,300
+Rescue your friends. How?
+
+202
+00:16:47,719 --> 00:16:49,429
+I compute.
+
+203
+00:16:49,513 --> 00:16:51,932
+I will prepare the others.
+
+204
+00:16:59,606 --> 00:17:01,691
+Now, Lux Bonteri,
+
+205
+00:17:02,234 --> 00:17:05,946
+this does not look good.
+This does not look good at all.
+
+206
+00:17:06,947 --> 00:17:11,785
+I asked you to join us in good faith
+and you bring a Jedi into our camp.
+
+207
+00:17:11,826 --> 00:17:15,372
+She wasn't meant to be here.
+Please let her go.
+
+208
+00:17:15,455 --> 00:17:17,958
+I'm afraid that's not an option.
+
+209
+00:17:17,999 --> 00:17:21,461
+I believed you had honor,
+but you're just murderers.
+
+210
+00:17:21,503 --> 00:17:23,505
+No better than Dooku.
+
+211
+00:17:23,588 --> 00:17:25,465
+You call us murderers?
+
+212
+00:17:25,549 --> 00:17:29,427
+And yet it was your own lust for revenge
+that made you seek us out.
+
+213
+00:17:29,469 --> 00:17:31,805
+I wanted justice for my mother's death.
+
+214
+00:17:31,846 --> 00:17:33,473
+And you shall have it.
+
+215
+00:17:33,515 --> 00:17:35,809
+But the Jedi are no different from Dooku
+
+216
+00:17:35,850 --> 00:17:40,355
+and this one shall pay in part
+for their crimes against Mandalore.
+
+217
+00:17:40,438 --> 00:17:44,150
+So you see it's not murder at all.
+It's like you say.
+
+218
+00:17:44,818 --> 00:17:46,403
+It's justice.
+
+219
+00:17:50,740 --> 00:17:52,158
+Ahsoka, now!
+
+220
+00:17:53,868 --> 00:17:55,203
+Thanks, buddy.
+
+221
+00:18:00,125 --> 00:18:03,920
+Stop! The Jedi is mine.
+
+222
+00:18:04,004 --> 00:18:06,256
+Lux, get to the ship.
+
+223
+00:18:28,028 --> 00:18:29,863
+I guess Artoo made some friends.
+
+224
+00:19:06,483 --> 00:19:07,734
+Not bad, Jedi.
+
+225
+00:19:08,485 --> 00:19:10,779
+I didn't miss.
+
+226
+00:19:17,077 --> 00:19:18,370
+Ahsoka!
+
+227
+00:19:23,208 --> 00:19:25,085
+Don't let them escape.
+
+228
+00:19:55,448 --> 00:19:57,367
+That's two I owe you.
+
+229
+00:20:52,839 --> 00:20:55,508
+No one followed us. God job, Artoo.
+
+230
+00:20:56,968 --> 00:21:00,555
+What do you mean
+the escape pod has been activated?
+
+231
+00:21:00,638 --> 00:21:02,849
+Lux! Artoo, the ship is yours.
+
+232
+00:21:10,148 --> 00:21:12,692
+Lux. Lux, what are you doing?
+
+233
+00:21:14,569 --> 00:21:16,112
+I can't go with you, Ahsoka.
+
+234
+00:21:18,072 --> 00:21:19,574
+You know that.
+
+235
+00:21:19,657 --> 00:21:21,826
+But we can try...
+
+236
+00:21:22,619 --> 00:21:25,538
+Try to change things together.
+
+237
+00:21:26,915 --> 00:21:29,709
+We make a pretty good team, don't we?
+
+238
+00:21:31,836 --> 00:21:35,423
+Don't worry. We'll meet again. I promise.
+
+239
+00:21:41,387 --> 00:21:43,306
+Be careful, Lux.
+
+240
+00:21:43,330 --> 00:21:48,330
+http://hiqve.com/
+

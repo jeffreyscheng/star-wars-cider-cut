@@ -1,0 +1,927 @@
+﻿1
+00:00:10,707 --> 00:00:10,824
+h
+
+2
+00:00:10,825 --> 00:00:10,941
+ht
+
+3
+00:00:10,942 --> 00:00:11,059
+htt
+
+4
+00:00:11,060 --> 00:00:11,177
+http
+
+5
+00:00:11,178 --> 00:00:11,294
+http:
+
+6
+00:00:11,295 --> 00:00:11,412
+http:/
+
+7
+00:00:11,413 --> 00:00:11,530
+http://
+
+8
+00:00:11,531 --> 00:00:11,647
+http://h
+
+9
+00:00:11,648 --> 00:00:11,765
+http://hi
+
+10
+00:00:11,766 --> 00:00:11,882
+http://hiq
+
+11
+00:00:11,883 --> 00:00:12,000
+http://hiqv
+
+12
+00:00:12,001 --> 00:00:12,118
+http://hiqve
+
+13
+00:00:12,119 --> 00:00:12,235
+http://hiqve.
+
+14
+00:00:12,236 --> 00:00:12,353
+http://hiqve.c
+
+15
+00:00:12,354 --> 00:00:12,471
+http://hiqve.co
+
+16
+00:00:12,472 --> 00:00:12,588
+http://hiqve.com
+
+17
+00:00:12,589 --> 00:00:12,706
+http://hiqve.com/
+
+18
+00:00:12,707 --> 00:00:15,707
+http://hiqve.com/
+
+19
+00:00:18,731 --> 00:00:22,777
+<i>As the Clone War scorches
+its destructive path across the galaxy,</i>
+
+20
+00:00:22,818 --> 00:00:26,239
+<i>it is the Jedi who bring order to the chaos.</i>
+
+21
+00:00:26,280 --> 00:00:29,951
+<i>Though as the war progresses,
+the number of Jedi have declined,</i>
+
+22
+00:00:30,076 --> 00:00:32,662
+<i>and new younglings are harder to find.</i>
+
+23
+00:00:32,787 --> 00:00:36,165
+<i>When a youngling is located,
+they are brought to the Jedi Temple</i>
+
+24
+00:00:36,290 --> 00:00:40,294
+<i>and learn quickly
+that their true family is now the Jedi Order.</i>
+
+25
+00:00:40,795 --> 00:00:43,756
+<i>The trials are hard, tests must be passed,</i>
+
+26
+00:00:43,798 --> 00:00:46,801
+<i>but none is as important as The Gathering.</i>
+
+27
+00:00:47,134 --> 00:00:51,305
+<i>It is then that a Jedi's path will truly begin.</i>
+
+28
+00:00:54,433 --> 00:00:56,310
+Hurry, younglings.
+
+29
+00:00:58,813 --> 00:01:01,440
+You have proved to be
+the top of your class,
+
+30
+00:01:01,482 --> 00:01:04,610
+and so now is the time of The Gathering.
+
+31
+00:01:04,652 --> 00:01:08,197
+For a Jedi,
+there is no greater challenge or honor.
+
+32
+00:01:11,492 --> 00:01:14,328
+What is The Gathering, Padawan Tano?
+
+33
+00:01:15,496 --> 00:01:16,789
+Petro,
+
+34
+00:01:17,331 --> 00:01:18,541
+Ganodi,
+
+35
+00:01:18,666 --> 00:01:19,834
+Byph,
+
+36
+00:01:19,875 --> 00:01:21,210
+Katooni,
+
+37
+00:01:21,794 --> 00:01:22,962
+Zatt,
+
+38
+00:01:23,004 --> 00:01:24,505
+and Gungi,
+
+39
+00:01:24,964 --> 00:01:28,509
+the time has come
+for you to build your own lightsabers.
+
+40
+00:01:28,634 --> 00:01:30,219
+-I knew it!
+-That's so wizard!
+
+41
+00:01:30,344 --> 00:01:32,179
+-Whoa!
+-I knew it!
+
+42
+00:01:32,221 --> 00:01:37,310
+Be warned, this is no simple task,
+and many perils lie ahead of you.
+
+43
+00:01:37,518 --> 00:01:42,356
+Where we are going,
+there is no place more sacred to the Jedi.
+
+44
+00:02:16,390 --> 00:02:19,560
+Not the most hospitable place.
+
+45
+00:02:19,602 --> 00:02:21,729
+I think that's the point.
+
+46
+00:02:40,581 --> 00:02:42,458
+It's a dead end.
+
+47
+00:02:44,919 --> 00:02:49,715
+Younglings, outstretch your hands
+and focus the Force.
+
+48
+00:02:49,757 --> 00:02:53,386
+Together, and only together, can we enter.
+
+49
+00:03:30,506 --> 00:03:34,176
+Now hurry. The sun has already risen,
+and we must begin.
+
+50
+00:03:49,525 --> 00:03:51,152
+Master Yoda.
+
+51
+00:03:53,112 --> 00:03:56,741
+The Force made physical, a Jedi is.
+
+52
+00:03:56,866 --> 00:03:59,952
+Comes great responsibility with that. Yes?
+
+53
+00:04:02,163 --> 00:04:04,832
+Protect others, how does a Jedi? Hmm?
+
+54
+00:04:07,293 --> 00:04:09,545
+Build your own lightsaber, you shall.
+
+55
+00:04:09,628 --> 00:04:13,382
+But first, harvest your crystal,
+each one of you must.
+
+56
+00:04:13,466 --> 00:04:14,508
+-See, I told you !
+-No, I told you.
+
+57
+00:04:14,592 --> 00:04:15,718
+Yoda! Wow.
+
+58
+00:04:15,801 --> 00:04:16,886
+No, I told you.
+
+59
+00:04:17,887 --> 00:04:21,348
+The heart of the lightsaber, the crystal is.
+
+60
+00:04:21,432 --> 00:04:24,310
+Focuses the Force from the Jedi, it does.
+
+61
+00:04:55,841 --> 00:05:01,347
+If Jedi you are to become,
+enter the Crystal Cave, you must.
+
+62
+00:05:02,097 --> 00:05:03,974
+Trust yourself,
+
+63
+00:05:04,058 --> 00:05:05,518
+trust each other,
+
+64
+00:05:05,601 --> 00:05:08,312
+and succeed, you will.
+
+65
+00:05:09,563 --> 00:05:13,818
+Once you have found your crystal,
+do not remain inside.
+
+66
+00:05:13,901 --> 00:05:19,031
+As daylight ends, the door will freeze
+over again, and you will be trapped.
+
+67
+00:05:20,074 --> 00:05:21,534
+For how long?
+
+68
+00:05:21,617 --> 00:05:26,288
+For one rotation. There will be nothing
+anyone can do for you.
+
+69
+00:05:26,372 --> 00:05:28,707
+How will we know which crystal to pick?
+
+70
+00:05:29,542 --> 00:05:32,795
+Only you can know which one is yours.
+Now hurry.
+
+71
+00:05:48,602 --> 00:05:53,983
+How do they expect us to find our crystals
+when the whole place is made up of ice?
+
+72
+00:05:54,066 --> 00:05:58,612
+I don't see the big deal though.
+I could easily last a night in here.
+
+73
+00:05:58,696 --> 00:06:00,531
+From my calculations,
+
+74
+00:06:00,614 --> 00:06:04,201
+taking into account
+the planetary movements in this system,
+
+75
+00:06:04,285 --> 00:06:08,664
+um, the sun only rises
+on Ilum every 19 days.
+
+76
+00:06:08,747 --> 00:06:11,292
+That's a very long night.
+
+77
+00:06:11,375 --> 00:06:14,461
+Well, I don't know about you lot,
+but enough with the chatter.
+
+78
+00:06:14,545 --> 00:06:17,339
+I'm going to be the first
+to get my crystal and get out of here.
+
+79
+00:06:17,423 --> 00:06:21,302
+Petro, wait.
+Maybe we should stay together.
+
+80
+00:06:21,385 --> 00:06:24,013
+No, thank you. You're on your own.
+
+81
+00:06:25,389 --> 00:06:27,725
+Come on, we need to keep moving.
+
+82
+00:06:31,395 --> 00:06:34,565
+You're right. He is selfish.
+
+83
+00:06:47,202 --> 00:06:49,872
+Uh, which way now?
+
+84
+00:06:49,955 --> 00:06:51,248
+We don't have much time,
+
+85
+00:06:51,332 --> 00:06:53,626
+and we have no idea
+where the crystals are.
+
+86
+00:06:53,709 --> 00:06:55,544
+We need to break into groups.
+
+87
+00:06:55,628 --> 00:06:57,129
+What? No!
+
+88
+00:06:58,714 --> 00:07:00,799
+Are we Jedi or cowards?
+
+89
+00:07:00,883 --> 00:07:03,636
+On the count of three,
+close your eyes and point to a door,
+
+90
+00:07:03,719 --> 00:07:06,680
+and that's the direction each of us will go.
+
+91
+00:07:07,222 --> 00:07:10,684
+One, two, three.
+
+92
+00:07:18,025 --> 00:07:21,153
+Uh, sorry, Byph.
+Looks like you're on your own.
+
+93
+00:07:23,739 --> 00:07:26,951
+Byph, your instincts
+told you to go that way.
+
+94
+00:07:27,034 --> 00:07:29,662
+You have to follow your instincts.
+
+95
+00:07:32,456 --> 00:07:36,627
+You shouldn't be afraid of monsters, Byph !
+You're a Jedi.
+
+96
+00:08:02,403 --> 00:08:04,279
+That must be a crystal.
+
+97
+00:08:27,720 --> 00:08:29,805
+I don't think this is the right way.
+
+98
+00:08:30,055 --> 00:08:32,349
+We better go back.
+
+99
+00:08:33,809 --> 00:08:35,894
+Wait. Up there, look!
+
+100
+00:08:36,979 --> 00:08:38,856
+Something's flashing.
+
+101
+00:08:40,190 --> 00:08:44,111
+-I can't see anything.
+-Why can't you see it?
+
+102
+00:08:44,194 --> 00:08:46,530
+Maybe because it's your crystal.
+
+103
+00:08:46,613 --> 00:08:49,366
+They said only we would know.
+
+104
+00:08:49,450 --> 00:08:50,951
+You'll have to climb.
+
+105
+00:08:51,035 --> 00:08:52,119
+But up there?
+
+106
+00:08:53,620 --> 00:08:55,330
+It's just so high.
+
+107
+00:08:55,873 --> 00:08:57,791
+I can't do that.
+
+108
+00:08:57,875 --> 00:08:59,710
+I believe in you.
+
+109
+00:09:00,669 --> 00:09:03,505
+What if I get up there, and there's nothing?
+
+110
+00:09:03,589 --> 00:09:06,967
+Well, that's a risk you'll have to take.
+
+111
+00:09:07,051 --> 00:09:08,469
+Hey, you're lucky.
+
+112
+00:09:08,552 --> 00:09:12,056
+I haven't even seen
+anything resembling my crystal yet.
+
+113
+00:09:12,139 --> 00:09:13,432
+Good luck.
+
+114
+00:09:22,232 --> 00:09:25,360
+A whistling? I can't hear anything.
+
+115
+00:09:36,538 --> 00:09:38,582
+You think it's your crystal?
+
+116
+00:09:44,046 --> 00:09:46,757
+Gungi, no. You'll never make it.
+
+117
+00:09:46,840 --> 00:09:49,259
+You'll freeze to death if you fall in.
+
+118
+00:09:49,343 --> 00:09:51,345
+You need to be patient.
+
+119
+00:09:51,428 --> 00:09:54,640
+See how the sun is setting
+and moving away from the lake?
+
+120
+00:09:54,723 --> 00:09:58,018
+Just like the door we came through,
+it's freezing over again.
+
+121
+00:09:58,102 --> 00:09:59,770
+Once the water freezes over,
+
+122
+00:09:59,853 --> 00:10:01,313
+you will have very little time
+
+123
+00:10:01,396 --> 00:10:03,941
+to get your crystal and get out.
+
+124
+00:10:05,609 --> 00:10:10,197
+Now, excuse me. I have a crystal to find,
+and I'm running out of time.
+
+125
+00:10:10,280 --> 00:10:11,949
+Good luck, Gungi.
+
+126
+00:10:51,572 --> 00:10:55,492
+This whole thing is ridiculous.
+I don't even think there are any crystals.
+
+127
+00:10:55,868 --> 00:10:56,952
+You hear me?
+
+128
+00:10:57,035 --> 00:11:00,664
+You just have us walking in circles
+until we freeze to death.
+
+129
+00:11:00,747 --> 00:11:03,333
+I'm never going to find a crystal. Never!
+
+130
+00:11:06,545 --> 00:11:07,880
+Ah!
+
+131
+00:11:15,846 --> 00:11:17,639
+Now what?
+
+132
+00:11:21,894 --> 00:11:24,897
+Looks like I'm the first back
+with my crystal. Hmm.
+
+133
+00:11:24,980 --> 00:11:26,106
+That wasn't so hard.
+
+134
+00:11:26,565 --> 00:11:27,816
+And the others?
+
+135
+00:11:27,900 --> 00:11:31,945
+Who knows? I didn't want to gloat
+since I found mine so quickly.
+
+136
+00:11:34,823 --> 00:11:36,408
+Show us.
+
+137
+00:11:44,249 --> 00:11:46,418
+A crystal, you have found.
+
+138
+00:11:46,501 --> 00:11:48,170
+Water, you have brought.
+
+139
+00:11:48,253 --> 00:11:52,549
+But that's impossible.
+It was my crystal, I was sure of it.
+
+140
+00:11:52,925 --> 00:11:54,009
+Hmm.
+
+141
+00:11:54,092 --> 00:11:58,180
+So certain, were you.
+Go back, and closer you must look.
+
+142
+00:11:59,306 --> 00:12:01,975
+But the door is already half-closed.
+
+143
+00:12:02,434 --> 00:12:04,311
+Then you better hurry.
+
+144
+00:12:24,414 --> 00:12:25,499
+Oh!
+
+145
+00:12:29,503 --> 00:12:32,631
+You can do this, Katooni. You can do it.
+
+146
+00:12:36,301 --> 00:12:37,678
+That's impossible.
+
+147
+00:12:37,803 --> 00:12:42,015
+It's saying there's crystals everywhere,
+but I can't see anything!
+
+148
+00:12:42,099 --> 00:12:44,142
+Where? Which way?
+
+149
+00:12:44,518 --> 00:12:45,644
+Ugh!
+
+150
+00:12:45,686 --> 00:12:47,354
+You're useless.
+
+151
+00:12:47,479 --> 00:12:49,648
+Stupid, useless, dumb thing,
+
+152
+00:12:49,690 --> 00:12:51,817
+can't even find a simple small crystal !
+
+153
+00:12:51,942 --> 00:12:53,318
+Ugh!
+
+154
+00:13:21,930 --> 00:13:23,849
+There's so many.
+
+155
+00:13:23,890 --> 00:13:26,852
+How am I supposed to know
+which one is mine?
+
+156
+00:13:27,769 --> 00:13:29,354
+It's hopeless.
+
+157
+00:13:30,188 --> 00:13:31,690
+Hopeless.
+
+158
+00:14:20,238 --> 00:14:23,116
+Well, that's going to take too long.
+
+159
+00:15:05,158 --> 00:15:06,868
+I'm not afraid.
+
+160
+00:15:06,993 --> 00:15:09,037
+I can do this.
+
+161
+00:15:09,162 --> 00:15:11,164
+I'm a Jedi.
+
+162
+00:15:11,248 --> 00:15:15,043
+I'm one with the Force,
+and the Force will guide me.
+
+163
+00:15:40,610 --> 00:15:43,530
+I'm running out of time. Where is it?
+
+164
+00:15:46,950 --> 00:15:48,702
+Come on, Zatt.
+
+165
+00:15:48,785 --> 00:15:53,498
+You're going to have to trust yourself
+instead of relying on technology.
+
+166
+00:15:53,582 --> 00:15:55,208
+You can do it.
+
+167
+00:16:01,298 --> 00:16:02,591
+I can feel it.
+
+168
+00:16:02,674 --> 00:16:04,426
+It's close.
+
+169
+00:16:04,509 --> 00:16:06,303
+I can sense it.
+
+170
+00:16:06,386 --> 00:16:08,013
+I can sense it.
+
+171
+00:16:13,518 --> 00:16:15,353
+That must be it.
+
+172
+00:17:51,491 --> 00:17:52,993
+Oh, great!
+
+173
+00:17:53,076 --> 00:17:54,244
+Ah!
+
+174
+00:18:06,006 --> 00:18:08,508
+Oh, no. It's a dead end.
+
+175
+00:18:10,844 --> 00:18:12,512
+Is anyone there?
+
+176
+00:18:12,596 --> 00:18:13,763
+Can you hear me?
+
+177
+00:18:14,264 --> 00:18:18,435
+Great! I have my crystal,
+but I'll never get out of this place!
+
+178
+00:18:25,191 --> 00:18:28,570
+Well done, Gungi, but two still remain.
+
+179
+00:18:37,037 --> 00:18:39,789
+I'm running in circles!
+
+180
+00:18:39,873 --> 00:18:42,542
+Petro! Petro!
+
+181
+00:18:44,711 --> 00:18:47,589
+-Katooni?
+-Petro, I'm trapped.
+
+182
+00:18:47,714 --> 00:18:49,215
+Can you help me get out?
+
+183
+00:18:49,299 --> 00:18:50,383
+I...
+
+184
+00:18:50,425 --> 00:18:53,720
+I can't. I still haven't found my crystal.
+
+185
+00:18:53,762 --> 00:18:55,889
+Petro, you can't leave me!
+
+186
+00:18:57,474 --> 00:18:59,768
+-I have to go.
+-Petro, no!
+
+187
+00:19:01,728 --> 00:19:04,397
+Petro! Petro!
+
+188
+00:19:08,068 --> 00:19:12,072
+-Will they make it, Master?
+-We should help them.
+
+189
+00:19:12,155 --> 00:19:16,409
+Left the cave, you have.
+Help them, you will not.
+
+190
+00:19:19,788 --> 00:19:21,331
+Come on !
+
+191
+00:19:40,141 --> 00:19:43,061
+-Katooni. Katooni !
+-Petro?
+
+192
+00:19:43,103 --> 00:19:45,230
+-Petro!
+-There's no time.
+
+193
+00:19:45,271 --> 00:19:48,108
+Put your hand on the ice.
+Together, we can break it.
+
+194
+00:20:04,999 --> 00:20:08,920
+I knew you'd come back.
+Come on. The doors are closing.
+
+195
+00:20:09,963 --> 00:20:11,464
+Petro?
+
+196
+00:20:11,506 --> 00:20:15,301
+Go ahead. I think I see something.
+
+197
+00:20:15,427 --> 00:20:16,928
+But it's too late.
+
+198
+00:20:16,970 --> 00:20:18,805
+Trust me. Go!
+
+199
+00:20:37,323 --> 00:20:40,535
+I have my crystal, but Petro is still inside.
+
+200
+00:20:40,660 --> 00:20:42,996
+Give up on your friend, do not.
+
+201
+00:20:57,260 --> 00:20:59,846
+Petro! You made it!
+
+202
+00:20:59,929 --> 00:21:01,681
+How did he break the ice?
+
+203
+00:21:01,806 --> 00:21:04,350
+Only water made solid was the door.
+
+204
+00:21:04,476 --> 00:21:07,520
+Easy to break, if you have the will.
+
+205
+00:21:08,938 --> 00:21:11,357
+You said we would be trapped.
+
+206
+00:21:11,441 --> 00:21:15,945
+Not by the cave, you were,
+but by your mind.
+
+207
+00:21:16,029 --> 00:21:17,322
+Lessons you have learned.
+
+208
+00:21:17,947 --> 00:21:19,949
+Find courage, you did.
+
+209
+00:21:21,201 --> 00:21:22,368
+Hope,
+
+210
+00:21:23,620 --> 00:21:24,954
+patience,
+
+211
+00:21:26,623 --> 00:21:28,458
+Trust,
+
+212
+00:21:28,541 --> 00:21:30,001
+confidence,
+
+213
+00:21:30,960 --> 00:21:33,797
+and selflessness. Yes?
+
+214
+00:21:37,133 --> 00:21:42,472
+Take your crystals back to the Temple
+and keep them safe, young Jedi.
+
+215
+00:21:44,474 --> 00:21:46,643
+- So exciting !
+- Yes!
+
+216
+00:21:46,726 --> 00:21:48,144
+All right!
+
+217
+00:21:48,168 --> 00:21:53,168
+http://hiqve.com/
+

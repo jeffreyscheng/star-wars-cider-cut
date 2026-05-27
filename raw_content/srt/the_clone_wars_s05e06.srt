@@ -1,0 +1,1200 @@
+﻿1
+00:00:10,499 --> 00:00:10,616
+h
+
+2
+00:00:10,617 --> 00:00:10,733
+ht
+
+3
+00:00:10,734 --> 00:00:10,851
+htt
+
+4
+00:00:10,852 --> 00:00:10,969
+http
+
+5
+00:00:10,970 --> 00:00:11,086
+http:
+
+6
+00:00:11,087 --> 00:00:11,204
+http:/
+
+7
+00:00:11,205 --> 00:00:11,322
+http://
+
+8
+00:00:11,323 --> 00:00:11,439
+http://h
+
+9
+00:00:11,440 --> 00:00:11,557
+http://hi
+
+10
+00:00:11,558 --> 00:00:11,674
+http://hiq
+
+11
+00:00:11,675 --> 00:00:11,792
+http://hiqv
+
+12
+00:00:11,793 --> 00:00:11,910
+http://hiqve
+
+13
+00:00:11,911 --> 00:00:12,027
+http://hiqve.
+
+14
+00:00:12,028 --> 00:00:12,145
+http://hiqve.c
+
+15
+00:00:12,146 --> 00:00:12,263
+http://hiqve.co
+
+16
+00:00:12,264 --> 00:00:12,380
+http://hiqve.com
+
+17
+00:00:12,381 --> 00:00:12,498
+http://hiqve.com/
+
+18
+00:00:12,499 --> 00:00:15,499
+http://hiqve.com/
+
+19
+00:00:18,523 --> 00:00:20,691
+<i>Ancient Jedi tradition!</i>
+
+20
+00:00:20,775 --> 00:00:23,611
+<i>Six younglings are sent to the secret
+caverns of llum</i>
+
+21
+00:00:23,694 --> 00:00:26,030
+<i>where they are tested by The Gathering,</i>
+
+22
+00:00:26,113 --> 00:00:29,951
+<i>an ancient Jedi ritual where
+each youngling must harvest a crystal,</i>
+
+23
+00:00:30,076 --> 00:00:33,412
+<i>around which they will construct
+their own lightsaber.</i>
+
+24
+00:00:33,454 --> 00:00:36,874
+<i>Along the journey
+they underwent great perils,</i>
+
+25
+00:00:36,958 --> 00:00:39,961
+<i>hardest of which was to face themselves.</i>
+
+26
+00:00:40,586 --> 00:00:42,797
+<i>Now, having passed the test,</i>
+
+27
+00:00:42,838 --> 00:00:45,967
+<i>they take their first step
+into a larger world.</i>
+
+28
+00:01:04,860 --> 00:01:07,780
+I call that move the Whirlwind of Destiny.
+
+29
+00:01:08,155 --> 00:01:09,323
+Show-off.
+
+30
+00:01:11,492 --> 00:01:14,036
+Can everyone gather around, please?
+
+31
+00:01:17,790 --> 00:01:20,293
+You have all successfully passed
+The Gathering
+
+32
+00:01:20,334 --> 00:01:22,169
+and harvested your crystals.
+
+33
+00:01:24,213 --> 00:01:26,841
+So, when do we start to build our sabers?
+
+34
+00:01:27,133 --> 00:01:28,968
+Place your crystals on the table.
+
+35
+00:01:29,010 --> 00:01:31,012
+Your lesson begins now.
+
+36
+00:01:31,137 --> 00:01:35,099
+May I introduce you to architect
+and lightsaber designer, Huyang.
+
+37
+00:01:46,360 --> 00:01:47,695
+These are them?
+
+38
+00:01:47,778 --> 00:01:51,032
+I swear they get younger every expedition.
+
+39
+00:01:51,115 --> 00:01:53,534
+All have passed The Gathering?
+
+40
+00:01:53,618 --> 00:01:54,869
+Yes, sir.
+
+41
+00:01:54,910 --> 00:01:56,370
+Are you sure?
+
+42
+00:01:56,454 --> 00:02:00,291
+But he's a droid.
+You expect us to learn from a droid?
+
+43
+00:02:00,374 --> 00:02:02,084
+Who said that?
+
+44
+00:02:04,462 --> 00:02:07,214
+Many years I have been on this ship
+teaching many a Jedi before you,
+
+45
+00:02:07,298 --> 00:02:10,092
+and I will continue teaching
+many a Jedi after you.
+
+46
+00:02:10,217 --> 00:02:13,054
+Call me what you want,
+but inside my memory banks,
+
+47
+00:02:13,095 --> 00:02:16,057
+I contain a record
+of every lightsaber ever made
+
+48
+00:02:16,140 --> 00:02:18,142
+-and the Jedi who fashioned them.
+-Whoa!
+
+49
+00:02:18,225 --> 00:02:19,560
+- Look at that!
+- Which will you choose,
+
+50
+00:02:19,602 --> 00:02:22,146
+a simple grip, the curved approach,
+
+51
+00:02:22,229 --> 00:02:24,899
+one inlaid with the bone
+of the Cartusion whale,
+
+52
+00:02:24,940 --> 00:02:28,277
+pastillion ore or black onk? Well?
+
+53
+00:02:29,820 --> 00:02:32,740
+From Battles of Rashfond,
+to the Peacekeeping of Parliock,
+
+54
+00:02:32,823 --> 00:02:34,158
+to our very own Clone Wars,
+
+55
+00:02:34,241 --> 00:02:37,828
+the lightsaber is a Jedi's only true ally.
+
+56
+00:02:37,912 --> 00:02:39,121
+But how do they work?
+
+57
+00:02:39,664 --> 00:02:41,624
+Yes, you have brought me crystals,
+
+58
+00:02:41,749 --> 00:02:44,126
+but they're all useless
+unless you give them life.
+
+59
+00:02:44,251 --> 00:02:48,172
+Do you know how to awaken the Force
+within the crystal?
+
+60
+00:02:48,255 --> 00:02:49,340
+No?
+
+61
+00:02:50,257 --> 00:02:51,842
+Then I suggest you listen and learn
+
+62
+00:02:51,926 --> 00:02:55,846
+until you think of a question
+this droid cannot answer.
+
+63
+00:02:55,930 --> 00:02:57,556
+A Wookiee.
+
+64
+00:02:57,640 --> 00:03:00,101
+Rare, you are to the Jedi.
+
+65
+00:03:00,518 --> 00:03:02,895
+Proud, your people must be.
+
+66
+00:03:02,978 --> 00:03:06,190
+Unique, just as your lightsaber will be.
+
+67
+00:03:06,273 --> 00:03:09,151
+Hold out your hand, Wookiee.
+
+68
+00:03:09,235 --> 00:03:12,071
+Describe what you see your saber to be.
+
+69
+00:03:15,449 --> 00:03:17,785
+No, no, no, not what you imagine,
+
+70
+00:03:17,868 --> 00:03:20,079
+but what feel in your hand.
+
+71
+00:03:20,162 --> 00:03:21,497
+Concentrate.
+
+72
+00:03:21,580 --> 00:03:25,710
+What will make you strong in battle
+and humble in retreat?
+
+73
+00:03:25,793 --> 00:03:27,753
+What connects with your Force?
+
+74
+00:03:34,427 --> 00:03:38,222
+Yes, wood. Not a common choice.
+
+75
+00:03:38,305 --> 00:03:41,559
+And only wood from the Brylark tree
+is as strong as metal.
+
+76
+00:03:41,642 --> 00:03:43,894
+Let me see. Where would we find that
+
+77
+00:03:43,978 --> 00:03:49,775
+all the way out here, far from anywhere,
+deep in space?
+
+78
+00:03:52,027 --> 00:03:56,365
+Let's see what we have. Let me see.
+
+79
+00:03:58,200 --> 00:04:00,077
+No, no, no.
+
+80
+00:04:00,327 --> 00:04:02,997
+Ah. I wondered where I'd put that.
+
+81
+00:04:03,080 --> 00:04:04,874
+Oh. That's not mine.
+
+82
+00:04:05,875 --> 00:04:07,293
+Ah ! Ah!
+
+83
+00:04:07,376 --> 00:04:10,129
+What do we have here?
+
+84
+00:04:15,217 --> 00:04:16,886
+Look at that!
+
+85
+00:04:19,180 --> 00:04:21,056
+You can say that again.
+
+86
+00:04:21,390 --> 00:04:22,475
+Wow.
+
+87
+00:04:22,725 --> 00:04:24,810
+It is my job that before you leave this ship,
+
+88
+00:04:24,894 --> 00:04:27,938
+you will have everything you need
+to build your lightsabers
+
+89
+00:04:28,022 --> 00:04:30,441
+and the knowledge of how to do it.
+
+90
+00:04:30,524 --> 00:04:34,195
+So let us begin.
+There is much more work to be done.
+
+91
+00:04:47,249 --> 00:04:48,834
+Well, where are they?
+
+92
+00:04:48,918 --> 00:04:51,295
+The Jedi ship is right in front of us, sir.
+
+93
+00:04:51,378 --> 00:04:54,882
+Lose them,
+and you'll lose more than your head.
+
+94
+00:04:54,965 --> 00:04:57,843
+Our attack must be swift and devastating.
+
+95
+00:04:57,927 --> 00:05:00,888
+They cannot have time to get away.
+
+96
+00:05:02,056 --> 00:05:05,392
+I thought we weren't going to mess
+with Jedi anymore.
+
+97
+00:05:05,518 --> 00:05:07,686
+These aren't Jedi.
+
+98
+00:05:07,728 --> 00:05:10,064
+My sources say they're just younglings
+
+99
+00:05:10,189 --> 00:05:14,235
+headed back to the Jedi Temple
+from a training mission.
+
+100
+00:05:14,902 --> 00:05:17,988
+With the most important treasure
+in the universe,
+
+101
+00:05:18,072 --> 00:05:22,535
+kyber crystals,
+used for making laser swords.
+
+102
+00:05:22,576 --> 00:05:26,247
+The price for just one
+would make a man rich!
+
+103
+00:05:27,164 --> 00:05:31,377
+And we all know how much
+I like to be rich, don't we?
+
+104
+00:05:47,017 --> 00:05:49,103
+What's the rush, Petro?
+
+105
+00:05:50,437 --> 00:05:54,108
+With this lightsaber, I'm going
+to challenge Obi-Wan Kenobi to a duel
+
+106
+00:05:54,191 --> 00:05:55,776
+and kill Grievous.
+
+107
+00:06:07,288 --> 00:06:11,250
+The only person you are going to kill
+with that, my young friend, is yourself.
+
+108
+00:06:11,292 --> 00:06:15,629
+You have inverted the emitter matrix
+which will cause the power grid to backfire.
+
+109
+00:06:15,671 --> 00:06:18,674
+Light this, and all that will be left
+of you and your lightsaber
+
+110
+00:06:18,799 --> 00:06:20,467
+will be your crystal.
+
+111
+00:06:20,593 --> 00:06:25,639
+Start again.
+And this time, please follow the diagram.
+
+112
+00:06:39,194 --> 00:06:42,656
+Remember, quiet your mind
+and concentrate.
+
+113
+00:06:42,781 --> 00:06:45,159
+The design will become clear.
+
+114
+00:06:46,160 --> 00:06:50,331
+Good. Gently. Trust the Force.
+
+115
+00:06:50,372 --> 00:06:52,458
+What was that?
+
+116
+00:06:52,499 --> 00:06:55,002
+I don't know. Hold on.
+
+117
+00:06:59,381 --> 00:07:00,841
+Artoo, what's happened?
+
+118
+00:07:02,927 --> 00:07:04,011
+Where?
+
+119
+00:07:05,179 --> 00:07:06,513
+Oh, no.
+
+120
+00:07:10,184 --> 00:07:14,063
+They're aiming
+for the hyperdrive. Get us out of here!
+
+121
+00:07:24,365 --> 00:07:26,200
+I don't like the sound of that.
+
+122
+00:07:26,241 --> 00:07:28,953
+Stay here. I'll check on the younglings.
+
+123
+00:07:32,414 --> 00:07:34,959
+Excellent shot.
+
+124
+00:07:35,042 --> 00:07:37,294
+Fire the grappling harpoons!
+
+125
+00:07:41,090 --> 00:07:43,884
+Now, reel them in,
+
+126
+00:07:43,926 --> 00:07:46,929
+and let's get what we came for.
+
+127
+00:08:26,552 --> 00:08:27,761
+What's happening?
+
+128
+00:08:27,845 --> 00:08:29,263
+We're being boarded.
+
+129
+00:08:29,346 --> 00:08:31,098
+Here! Why?
+
+130
+00:08:31,974 --> 00:08:33,267
+I don't know.
+
+131
+00:08:34,059 --> 00:08:38,731
+Quickly, give me your crystals,
+and I will hold onto them until we are safe.
+
+132
+00:09:26,862 --> 00:09:29,031
+Younglings! Younglings!
+
+133
+00:09:29,114 --> 00:09:31,617
+-Who's attacking the ship?
+-Pirates.
+
+134
+00:09:31,700 --> 00:09:34,578
+Pirates! They'll kill us all.
+
+135
+00:09:35,871 --> 00:09:38,415
+Perhaps we should hide
+in the ventilation shaft.
+
+136
+00:09:38,499 --> 00:09:39,583
+Follow me.
+
+137
+00:09:41,001 --> 00:09:44,254
+Hiding is for cowards.
+We should stand and fight.
+
+138
+00:09:44,338 --> 00:09:47,591
+We're going to fight.
+Just not the way they expect.
+
+139
+00:09:49,718 --> 00:09:50,803
+Time to go.
+
+140
+00:09:51,845 --> 00:09:53,639
+Is this part of our training?
+
+141
+00:09:53,722 --> 00:09:54,848
+It is now.
+
+142
+00:10:07,194 --> 00:10:08,529
+Shh.
+
+143
+00:10:10,197 --> 00:10:13,992
+Hondo says find the kids
+and bring them to him.
+
+144
+00:10:14,076 --> 00:10:16,245
+Dead or alive?
+
+145
+00:10:16,328 --> 00:10:17,538
+Yes.
+
+146
+00:10:19,873 --> 00:10:22,126
+We must have courage, young Jedi.
+
+147
+00:10:22,209 --> 00:10:27,297
+Ganodi and Zatt, I need you to get
+to the cockpit, find Artoo, and secure it.
+
+148
+00:10:27,381 --> 00:10:29,758
+The rest of you, take Professor Huyang,
+
+149
+00:10:29,842 --> 00:10:33,428
+and seal yourselves inside the hold
+and wait for my command.
+
+150
+00:10:33,512 --> 00:10:35,597
+What are you going to do?
+
+151
+00:10:35,681 --> 00:10:38,475
+I'm going to reroute enough power
+to the engines
+
+152
+00:10:38,559 --> 00:10:42,771
+so that we can break free
+of the pirate ship's hold on us, okay?
+
+153
+00:10:42,855 --> 00:10:45,732
+What about the pirates
+already on board the ship?
+
+154
+00:10:45,816 --> 00:10:47,818
+Once the docking tube is ruptured,
+
+155
+00:10:47,901 --> 00:10:50,404
+when the ships pull apart,
+a vacuum will be created
+
+156
+00:10:50,487 --> 00:10:53,866
+which will suck the pirates off our ship
+and into space.
+
+157
+00:10:53,949 --> 00:10:57,703
+-Will we be sucked into space?
+-No.
+
+158
+00:10:57,786 --> 00:11:02,040
+The cockpit and the hold
+will be sealed and still have air.
+
+159
+00:11:02,124 --> 00:11:06,170
+Do not, and I mean do not,
+engage the pirates.
+
+160
+00:11:06,253 --> 00:11:08,714
+Your only job is to stay hidden.
+
+161
+00:11:08,797 --> 00:11:10,465
+Do you understand?
+
+162
+00:11:11,967 --> 00:11:13,051
+Now go.
+
+163
+00:11:23,562 --> 00:11:26,940
+I smell profit! Ha ha!
+
+164
+00:11:27,065 --> 00:11:30,777
+Nice, juicy, fat, warm profits.
+
+165
+00:11:31,612 --> 00:11:32,654
+Well?
+
+166
+00:11:32,779 --> 00:11:36,200
+We've secured the ship,
+but she seems deserted.
+
+167
+00:11:36,283 --> 00:11:40,370
+Imbecile!
+That is the oldest trick in the book.
+
+168
+00:11:40,454 --> 00:11:44,041
+The runts are probably hiding
+in the ventilation system.
+
+169
+00:11:44,166 --> 00:11:47,169
+Oh, right, didn't think of that.
+
+170
+00:11:47,294 --> 00:11:49,213
+Why does that not surprise me?
+
+171
+00:11:49,296 --> 00:11:54,468
+All that matters is you find the younglings
+and bring me the crystals.
+
+172
+00:11:54,551 --> 00:11:57,638
+If anything gets in the way, kill it!
+
+173
+00:11:57,679 --> 00:11:59,890
+But, boss, they're just kids.
+
+174
+00:12:01,808 --> 00:12:04,978
+"They're just kids."
+When will they learn?
+
+175
+00:12:05,562 --> 00:12:07,564
+In case you lack motivation,
+
+176
+00:12:07,648 --> 00:12:13,237
+remember that on the black market
+these crystals are priceless.
+
+177
+00:12:16,365 --> 00:12:18,200
+We can't fit in there!
+
+178
+00:12:18,325 --> 00:12:20,410
+Smoke them out!
+
+179
+00:12:21,203 --> 00:12:22,996
+You heard the boss.
+
+180
+00:12:37,010 --> 00:12:39,513
+I do love me a party.
+
+181
+00:13:02,202 --> 00:13:03,537
+Hold it!
+
+182
+00:13:07,708 --> 00:13:08,750
+Ah!
+
+183
+00:13:08,875 --> 00:13:11,211
+-Get off him.
+-Easy there.
+
+184
+00:13:11,336 --> 00:13:14,506
+That's no way to make friends, now, is it?
+
+185
+00:13:19,094 --> 00:13:20,679
+Thanks, buddy.
+
+186
+00:13:23,515 --> 00:13:26,560
+Come on, keep up.
+The hold is not much further.
+
+187
+00:13:26,685 --> 00:13:28,186
+Something's wrong.
+
+188
+00:13:44,036 --> 00:13:45,746
+Unhand me, brigand!
+
+189
+00:13:45,871 --> 00:13:48,915
+Well, hello, girls and boys.
+
+190
+00:13:48,999 --> 00:13:52,711
+We've been looking forward
+to meeting you.
+
+191
+00:13:57,549 --> 00:14:01,178
+Now be nice and hand over your crystals.
+
+192
+00:14:01,261 --> 00:14:03,680
+Over my dead body.
+
+193
+00:14:03,764 --> 00:14:07,059
+That can be arranged.
+
+194
+00:14:11,021 --> 00:14:12,272
+Petro, no.
+
+195
+00:14:12,397 --> 00:14:15,400
+Your emitter matrix is still inverted.
+
+196
+00:14:15,442 --> 00:14:18,028
+So, which one of you is first?
+
+197
+00:14:18,737 --> 00:14:20,947
+All bark, no bite.
+
+198
+00:14:21,990 --> 00:14:23,033
+Ah.
+
+199
+00:14:23,367 --> 00:14:27,496
+That's for me.
+I always wanted one of these.
+
+200
+00:14:27,579 --> 00:14:29,623
+You sure you can handle it?
+
+201
+00:14:32,876 --> 00:14:35,712
+Everybody get down.
+
+202
+00:14:44,137 --> 00:14:45,722
+Let's go!
+
+203
+00:14:45,806 --> 00:14:47,265
+Hurry! Hurry! This way, younglings!
+
+204
+00:15:01,405 --> 00:15:02,948
+You could've killed him.
+
+205
+00:15:03,031 --> 00:15:04,533
+Look, we can keep running,
+
+206
+00:15:04,616 --> 00:15:08,078
+or we can stand and fight
+and show these pirates we're not afraid!
+
+207
+00:15:10,038 --> 00:15:11,998
+I cannot approve of such action.
+
+208
+00:15:12,082 --> 00:15:15,335
+Besides, I have been damaged
+and cannot aid you in battle.
+
+209
+00:15:18,004 --> 00:15:21,258
+Petro's right. It's our only choice.
+
+210
+00:15:21,341 --> 00:15:23,135
+Fight or be killed.
+
+211
+00:15:33,395 --> 00:15:35,397
+Zatt, come in.
+
+212
+00:15:35,480 --> 00:15:37,983
+I am overriding
+the emergency power fail-safe
+
+213
+00:15:38,066 --> 00:15:39,860
+<i>and routing energy to the engines.</i>
+
+214
+00:15:39,943 --> 00:15:40,986
+It's working.
+
+215
+00:15:41,069 --> 00:15:44,072
+Any word from the others?
+Have they reached the hold?
+
+216
+00:15:44,281 --> 00:15:47,576
+-Uh, not yet.
+<i>-Where are they?</i>
+
+217
+00:15:47,659 --> 00:15:50,495
+I don't know. I didn't hear from them.
+
+218
+00:15:50,579 --> 00:15:53,582
+Great. I know what that means.
+
+219
+00:15:58,920 --> 00:16:01,131
+Set them to the highest level.
+
+220
+00:16:09,097 --> 00:16:10,223
+Get him.
+
+221
+00:16:12,642 --> 00:16:13,894
+Gungi!
+
+222
+00:16:23,570 --> 00:16:25,947
+Here, kiddie kiddies.
+
+223
+00:16:27,073 --> 00:16:32,078
+You can come out now, innit?
+No one's gonna hurt you.
+
+224
+00:16:34,247 --> 00:16:36,333
+Zatt, close the door to the training room.
+
+225
+00:16:36,416 --> 00:16:38,293
+<i>Katooni! Where are you guys?</i>
+
+226
+00:16:38,418 --> 00:16:41,087
+No time to explain. Just close the door!
+
+227
+00:16:41,171 --> 00:16:43,089
+Artoo, close the door!
+
+228
+00:16:46,259 --> 00:16:48,261
+Hey, what's going on?
+
+229
+00:17:13,119 --> 00:17:14,454
+We can't make it.
+
+230
+00:17:16,706 --> 00:17:18,792
+There are too many blocking the hold.
+
+231
+00:17:26,174 --> 00:17:29,636
+Well, children,
+you have put up quite a fight,
+
+232
+00:17:29,719 --> 00:17:31,888
+but playtime is over.
+
+233
+00:17:31,972 --> 00:17:37,519
+Now, hand over my crystals,
+and no one gets hurt much.
+
+234
+00:17:42,816 --> 00:17:47,070
+Hondo, the Jedi Council will not take kindly
+to this attack.
+
+235
+00:17:47,153 --> 00:17:49,698
+Ahsoka.
+
+236
+00:17:49,823 --> 00:17:52,993
+How will they know who is responsible
+
+237
+00:17:53,076 --> 00:17:55,996
+if there is no one left to tell the tale?
+
+238
+00:17:56,079 --> 00:17:59,416
+You seem less hospitable
+than our last meeting.
+
+239
+00:17:59,499 --> 00:18:02,210
+My mood is based on profit,
+
+240
+00:18:02,335 --> 00:18:06,423
+and today, I am in the mood for crystals.
+
+241
+00:18:06,506 --> 00:18:10,343
+You want the crystals, come and get them!
+
+242
+00:18:17,350 --> 00:18:18,852
+Easy now!
+
+243
+00:18:18,935 --> 00:18:20,270
+Hurry, hurry!
+
+244
+00:18:22,063 --> 00:18:23,189
+What about Ahsoka?
+
+245
+00:18:23,273 --> 00:18:24,691
+Trust her. Now get in there!
+
+246
+00:18:25,609 --> 00:18:26,693
+Oh!
+
+247
+00:18:27,193 --> 00:18:29,112
+How dare you!
+
+248
+00:18:29,195 --> 00:18:32,616
+I've lived on this ship 1,000 years
+and never lost a fight.
+
+249
+00:18:32,699 --> 00:18:35,243
+I'm not about to start today.
+
+250
+00:18:38,204 --> 00:18:39,247
+Ah!
+
+251
+00:18:43,877 --> 00:18:47,130
+You know, had I known you were here,
+
+252
+00:18:47,213 --> 00:18:51,217
+I would have simply asked
+for the crystals directly,
+
+253
+00:18:51,301 --> 00:18:53,261
+and we could have avoided all of this.
+
+254
+00:18:53,386 --> 00:18:54,929
+I don't want to hurt you, Hondo.
+
+255
+00:18:55,055 --> 00:18:58,808
+I know and, and I appreciate that.
+
+256
+00:19:00,727 --> 00:19:01,728
+We're all in the hold,
+
+257
+00:19:01,811 --> 00:19:03,730
+but Ahsoka's still out there
+fighting the pirates.
+
+258
+00:19:03,813 --> 00:19:07,484
+Ahsoka, Ahsoka, come in.
+They've made it to the hold.
+
+259
+00:19:07,567 --> 00:19:08,902
+Then what are you waiting for?
+
+260
+00:19:08,985 --> 00:19:10,236
+<i>But what about you?</i>
+
+261
+00:19:10,278 --> 00:19:11,613
+Do it!
+
+262
+00:19:37,514 --> 00:19:38,932
+What are you doing?
+
+263
+00:19:39,015 --> 00:19:41,351
+Getting you off my ship.
+
+264
+00:20:08,461 --> 00:20:09,504
+Whoa!
+
+265
+00:20:21,641 --> 00:20:25,395
+We're all clear.
+Make the jump to hyperspace.
+
+266
+00:20:37,699 --> 00:20:40,869
+Yes! We did it! They're off the ship!
+
+267
+00:20:45,707 --> 00:20:47,041
+Oh, Professor.
+
+268
+00:20:47,500 --> 00:20:49,669
+Bring him here. I'll fix him.
+
+269
+00:20:52,005 --> 00:20:55,216
+You should have seen Ahsoka.
+She took them all on by herself!
+
+270
+00:20:55,341 --> 00:20:57,510
+Where is Padawan Tano?
+
+271
+00:20:58,052 --> 00:20:59,888
+Padawan Tano, come in.
+
+272
+00:21:00,889 --> 00:21:02,223
+<i>Ahsoka?</i>
+
+273
+00:21:03,057 --> 00:21:06,686
+<i>Ahsoka? Ahsoka, are you there?</i>
+
+274
+00:21:15,403 --> 00:21:18,782
+You have cost me greatly today, young one.
+
+275
+00:21:18,865 --> 00:21:22,118
+And since you lost me so much profit,
+
+276
+00:21:23,369 --> 00:21:25,455
+I am left with no choice
+
+277
+00:21:30,543 --> 00:21:33,213
+But to turn you into
+
+278
+00:21:34,631 --> 00:21:36,049
+profit.
+
+279
+00:21:37,717 --> 00:21:39,052
+Good night.
+
+280
+00:21:39,076 --> 00:21:44,076
+http://hiqve.com/
+

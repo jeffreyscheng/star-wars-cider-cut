@@ -1,0 +1,1077 @@
+﻿1
+00:00:10,373 --> 00:00:10,490
+h
+
+2
+00:00:10,491 --> 00:00:10,607
+ht
+
+3
+00:00:10,608 --> 00:00:10,725
+htt
+
+4
+00:00:10,726 --> 00:00:10,843
+http
+
+5
+00:00:10,844 --> 00:00:10,960
+http:
+
+6
+00:00:10,961 --> 00:00:11,078
+http:/
+
+7
+00:00:11,079 --> 00:00:11,196
+http://
+
+8
+00:00:11,197 --> 00:00:11,313
+http://h
+
+9
+00:00:11,314 --> 00:00:11,431
+http://hi
+
+10
+00:00:11,432 --> 00:00:11,548
+http://hiq
+
+11
+00:00:11,549 --> 00:00:11,666
+http://hiqv
+
+12
+00:00:11,667 --> 00:00:11,784
+http://hiqve
+
+13
+00:00:11,785 --> 00:00:11,901
+http://hiqve.
+
+14
+00:00:11,902 --> 00:00:12,019
+http://hiqve.c
+
+15
+00:00:12,020 --> 00:00:12,137
+http://hiqve.co
+
+16
+00:00:12,138 --> 00:00:12,254
+http://hiqve.com
+
+17
+00:00:12,255 --> 00:00:12,372
+http://hiqve.com/
+
+18
+00:00:12,373 --> 00:00:15,373
+http://hiqve.com/
+
+19
+00:00:17,397 --> 00:00:19,274
+<i>Mystery on Bardotta!</i>
+
+20
+00:00:19,357 --> 00:00:21,693
+<i>An oasis of peace
+during the Clone Wars.</i>
+
+21
+00:00:21,776 --> 00:00:24,779
+<i>The galaxy-wide conflict now threatens
+the ancient ways</i>
+
+22
+00:00:24,863 --> 00:00:26,281
+<i>of the Bar dot tan people.</i>
+
+23
+00:00:26,364 --> 00:00:29,451
+<i>With their spiritual leaders
+mysteriously vanishing,</i>
+
+24
+00:00:29,534 --> 00:00:32,787
+<i>the foundations of order in its system
+are near collapse.</i>
+
+25
+00:00:32,871 --> 00:00:36,958
+<i>In desperation, the Queen of Bardotta
+has called upon the Republic Senate</i>
+
+26
+00:00:37,042 --> 00:00:42,214
+<i>with a puzzling request, to help save
+her people from certain doom.</i>
+
+27
+00:00:42,297 --> 00:00:45,133
+<i>I have humbly come before you
+to ask for assistance</i>
+
+28
+00:00:45,217 --> 00:00:47,594
+<i>in our time of need, Chancellor.</i>
+
+29
+00:00:47,802 --> 00:00:52,807
+Queen Julia, the Republic is honored
+that you have come to us for aid.
+
+30
+00:00:53,725 --> 00:00:59,481
+We are always happy to support
+the neutral systems in a time of crisis.
+
+31
+00:00:59,606 --> 00:01:02,984
+If I may introduce
+two of our best ambassadors...
+
+32
+00:01:03,109 --> 00:01:05,570
+<i>With all due respect, Chancellor,</i>
+
+33
+00:01:05,654 --> 00:01:09,407
+<i>there is only one person
+in the Republic I will meet with.</i>
+
+34
+00:01:15,163 --> 00:01:17,123
+Representative Binks?
+
+35
+00:01:17,290 --> 00:01:20,961
+Why would the Queen of Bardotta
+request the presence of Jar Jar Binks?
+
+36
+00:01:21,044 --> 00:01:22,629
+<i>I'm afraid she would not say,</i>
+
+37
+00:01:22,712 --> 00:01:26,591
+<i>but she impressed upon the Senate
+the urgency of their situation.</i>
+
+38
+00:01:26,675 --> 00:01:29,844
+And what exactly is the trouble
+on Bardotta?
+
+39
+00:01:29,928 --> 00:01:32,597
+<i>Several of the ancient mystics,</i>
+
+40
+00:01:32,681 --> 00:01:35,809
+<i>the Dagoyan Masters,
+have disappeared.</i>
+
+41
+00:01:35,892 --> 00:01:39,646
+A strong connection to the Force
+the Dagoyan Masters have.
+
+42
+00:01:39,729 --> 00:01:45,026
+Yet, unlike the Jedi or Sith they are.
+Warriors, they are not.
+
+43
+00:01:45,735 --> 00:01:50,532
+Intuition, knowledge, the harmony
+of the universe is what they sense.
+
+44
+00:01:51,366 --> 00:01:53,910
+Passively they connect with the Force.
+
+45
+00:01:54,035 --> 00:01:59,291
+<i>I wonder why the Queen doesn't want
+a Jedi sent to solve this mystery?</i>
+
+46
+00:01:59,374 --> 00:02:03,837
+Long ago inducted into the Jedi Order
+Bar dot tan children were.
+
+47
+00:02:03,962 --> 00:02:07,841
+However, thieves the Jedi
+were named by the Dagoyan.
+
+48
+00:02:07,924 --> 00:02:11,469
+The Dagoyan Masters believed the Jedi
+took the children against their will,
+
+49
+00:02:11,553 --> 00:02:13,888
+we were labeled as kidnappers.
+
+50
+00:02:13,972 --> 00:02:16,266
+Chancellor, am I to understand
+the Queen requested
+
+51
+00:02:16,349 --> 00:02:19,144
+Representative Binks
+go alone to Bardotta?
+
+52
+00:02:19,227 --> 00:02:22,439
+<i>I'm afraid she was quite specific
+on that point.</i>
+
+53
+00:02:22,522 --> 00:02:25,483
+I think that course of action is unwise.
+
+54
+00:02:25,567 --> 00:02:27,027
+If there is trouble on Bardotta,
+
+55
+00:02:27,110 --> 00:02:31,239
+I'm afraid Representative Binks will be
+out of his depth.
+
+56
+00:02:31,364 --> 00:02:35,327
+<i>I agree, which is why I came to you.</i>
+
+57
+00:02:35,410 --> 00:02:37,662
+<i>We await your decision.</i>
+
+58
+00:02:38,538 --> 00:02:41,583
+Are you volunteering to undertake
+this mission, Master Windu?
+
+59
+00:02:41,750 --> 00:02:44,711
+If the Council agrees, yes.
+
+60
+00:02:55,096 --> 00:02:57,974
+Do not touch anything.
+
+61
+00:02:58,058 --> 00:03:00,560
+Mesa not doin' nothin'.
+
+62
+00:03:01,019 --> 00:03:04,689
+Representative Binks,
+I do not mean to be presumptuous,
+
+63
+00:03:04,773 --> 00:03:08,443
+but are you sure you are the delegate
+the Queen spoke of?
+
+64
+00:03:08,526 --> 00:03:14,324
+Yup! The Queen is mesa patio.
+Mesa knowin' her for a longo time.
+
+65
+00:03:38,556 --> 00:03:41,768
+The Queen did not request
+your presence, Jedi!
+
+66
+00:03:45,522 --> 00:03:47,690
+Your lightsaber please.
+
+67
+00:03:49,776 --> 00:03:53,363
+Mesa Representative Binks
+of the Republic Senate
+
+68
+00:03:53,446 --> 00:03:55,323
+and hesa with mesa.
+
+69
+00:03:55,698 --> 00:04:00,954
+Representative Binks, you are an
+honored guest of the Queen. Come!
+
+70
+00:04:29,232 --> 00:04:34,612
+Representative Binks of the Republic,
+you were requested to come here alone,
+
+71
+00:04:34,696 --> 00:04:38,074
+why have you brought this Jedi
+to Bardotta?
+
+72
+00:04:38,199 --> 00:04:42,120
+Oh, Great Queenie Julia,
+please forgive mesa.
+
+73
+00:04:42,287 --> 00:04:43,955
+Disa Jedi is mesa patio,
+
+74
+00:04:44,038 --> 00:04:47,333
+hesa comin' here to be helpin'
+mesa solve your troubles.
+
+75
+00:04:47,834 --> 00:04:49,544
+He is your servant, then?
+
+76
+00:04:50,670 --> 00:04:54,132
+Yes! Yes! Dat is the truth,
+
+77
+00:04:54,215 --> 00:04:57,594
+Master in Mace is mesa humble servant.
+
+78
+00:04:58,178 --> 00:05:03,391
+Very well. Jedi, because
+Jar Jar Binks vouches for you,
+
+79
+00:05:03,475 --> 00:05:05,727
+I will allow you to stay here.
+
+80
+00:05:06,436 --> 00:05:09,272
+For now, you must wait
+in the antechamber.
+
+81
+00:05:17,030 --> 00:05:21,409
+Jar Jar, we are in danger.
+An ancient prophecy is coming true.
+
+82
+00:05:21,493 --> 00:05:25,455
+Our beloved Dagoyan Masters
+are disappearing one by one,
+
+83
+00:05:25,538 --> 00:05:27,582
+and if they are not returned,
+
+84
+00:05:27,665 --> 00:05:30,960
+a darkness will arise
+that will engulf the galaxy.
+
+85
+00:05:31,127 --> 00:05:33,880
+Mesa not lettin' that happen, milady.
+
+86
+00:05:35,173 --> 00:05:40,303
+High Seneschal Peteen, I must speak
+to Representative Binks alone.
+
+87
+00:05:57,403 --> 00:05:58,988
+It's been a long time, my love.
+
+88
+00:06:01,699 --> 00:06:07,872
+Come, meditate with me,
+so our minds may be as one.
+
+89
+00:06:16,464 --> 00:06:20,885
+There is a great disturbance
+in the Force here, that much is certain.
+
+90
+00:06:21,553 --> 00:06:23,763
+I can sense it all around me.
+
+91
+00:06:24,472 --> 00:06:29,227
+<i>Difficult to see, such disdain
+for the Jedi there is on Bardotta,</i>
+
+92
+00:06:29,310 --> 00:06:32,313
+<i>a good place for evil to hide it may be.</i>
+
+93
+00:06:32,438 --> 00:06:36,484
+<i>Yet remember, drifting within the flow
+of the living Force,</i>
+
+94
+00:06:36,568 --> 00:06:39,320
+<i>the minds of the Dagoyan Masters are,</i>
+
+95
+00:06:39,404 --> 00:06:44,158
+<i>essential this connection is, whether
+friend to the Jedi they be, or not.</i>
+
+96
+00:06:44,826 --> 00:06:46,703
+If you are looking for a friend
+of the Bardottan's,
+
+97
+00:06:46,786 --> 00:06:49,163
+look no further than
+Representative Binks.
+
+98
+00:06:49,247 --> 00:06:52,584
+The Queen has been alone with him
+for quite some time now.
+
+99
+00:06:52,709 --> 00:06:56,671
+<i>The innocence of a child
+this Gungan has,</i>
+
+100
+00:06:56,796 --> 00:07:00,258
+<i>perhaps appealing
+to the Dagoyan his mind is.</i>
+
+101
+00:07:00,341 --> 00:07:04,596
+Well, my mind will be more at ease
+if I knew what they've been up to.
+
+102
+00:07:07,181 --> 00:07:08,975
+I am here to see Representative Binks.
+
+103
+00:07:09,058 --> 00:07:11,102
+The Queen said no interruptions.
+
+104
+00:07:18,735 --> 00:07:22,614
+Jar Jar, I asked you here
+because I trust you,
+
+105
+00:07:22,697 --> 00:07:26,534
+because I know you will be able
+to help me in ways others cannot.
+
+106
+00:07:26,618 --> 00:07:28,453
+Mesa hopin' so, milady.
+
+107
+00:07:33,041 --> 00:07:35,126
+You will let me inside.
+
+108
+00:07:35,209 --> 00:07:39,964
+You should know better, Master Jedi.
+That will not work on a Dagoyan.
+
+109
+00:07:54,896 --> 00:07:57,231
+I have discovered a terrible secret
+
+110
+00:07:57,315 --> 00:08:00,318
+buried within the rippling waves
+of the Force.
+
+111
+00:08:01,736 --> 00:08:05,031
+Maybe itsa best to get
+Master in Mace to hear this?
+
+112
+00:08:05,114 --> 00:08:10,662
+No, Jar Jar, only you. I must tell you,
+I cannot trust the Jedi with this secret.
+
+113
+00:08:22,507 --> 00:08:24,759
+When the Dagoyan Masters
+started disappearing,
+
+114
+00:08:24,842 --> 00:08:28,096
+I meditated to try and discover
+their whereabouts,
+
+115
+00:08:28,179 --> 00:08:32,433
+but what I saw was shocking.
+I stumbled upon a terrible plot.
+
+116
+00:08:34,435 --> 00:08:36,604
+Excuse the intrusion, Your Majesty.
+
+117
+00:08:37,188 --> 00:08:41,275
+I will not excuse you, where are
+the guards? Who told you to enter?
+
+118
+00:08:41,442 --> 00:08:44,904
+The guards had other business
+to tend to.
+
+119
+00:08:45,947 --> 00:08:49,534
+We apologize, Your Majesty,
+the Jedi slipped past us.
+
+120
+00:08:49,617 --> 00:08:53,830
+You see, Jar Jar,
+these Jedi are deceptive, as I said!
+
+121
+00:08:53,913 --> 00:08:57,625
+Julia Queenie,
+but yo us a let mesa handle dis,
+
+122
+00:08:57,709 --> 00:09:02,088
+I promise da Jedi Master in Mace
+will besa no trouble for you.
+
+123
+00:09:02,964 --> 00:09:05,883
+Very well, Jar Jar,
+take him out of my sight,
+
+124
+00:09:05,967 --> 00:09:08,261
+I will wait right here for you.
+
+125
+00:09:20,273 --> 00:09:21,607
+Careful!
+
+126
+00:09:21,691 --> 00:09:25,319
+What do you think you're doing?
+Where were you last night?
+
+127
+00:09:25,403 --> 00:09:29,157
+Doing? Mesa love da Queen Julia.
+Whats a wrong with dat?
+
+128
+00:09:29,282 --> 00:09:31,492
+You are jeopardizing the mission.
+
+129
+00:09:31,617 --> 00:09:33,661
+No, no, Master in Jedi!
+
+130
+00:09:33,828 --> 00:09:37,415
+Mesa love for beautiful Julia
+is da only thing startin' the talks.
+
+131
+00:09:37,498 --> 00:09:42,503
+Shesa trustin' only mesa.
+Oh, and now yo us a, a little.
+
+132
+00:09:43,963 --> 00:09:45,465
+You must understand, Jar Jar,
+
+133
+00:09:45,548 --> 00:09:47,842
+the Force is strangely
+out of balance here.
+
+134
+00:09:47,925 --> 00:09:49,719
+Did the Queen
+tell you anything important?
+
+135
+00:09:49,844 --> 00:09:53,264
+Dats what she was tr yin' to do
+before yo us a come in all hot like.
+
+136
+00:09:54,724 --> 00:09:57,935
+Take this. Since they seem to want
+to keep us separated,
+
+137
+00:09:58,019 --> 00:10:00,104
+contact me if you learn anything useful.
+
+138
+00:10:00,188 --> 00:10:01,731
+Okie-day, Master in Mace,
+
+139
+00:10:01,814 --> 00:10:05,234
+but only if Queenie thinks
+it's all right to tell you.
+
+140
+00:10:13,993 --> 00:10:16,370
+Master in Mace, come quickly!
+
+141
+00:10:18,831 --> 00:10:22,960
+Shesa gone! Queenie is gone!
+
+142
+00:10:23,044 --> 00:10:25,046
+Calm yourself, Binks.
+
+143
+00:10:25,379 --> 00:10:27,632
+Disin bad, very, very bad!
+
+144
+00:10:27,715 --> 00:10:32,178
+She has disappeared. Like the other
+Dagoyan Masters before her.
+
+145
+00:10:32,261 --> 00:10:36,849
+But it's not possible, no one could have
+left this room without our knowing it.
+
+146
+00:10:37,058 --> 00:10:40,061
+I will convene
+the Bahk-tov council, come!
+
+147
+00:10:58,412 --> 00:11:00,665
+Guards! Bahk-tov toil.
+
+148
+00:11:06,587 --> 00:11:08,673
+There can be no doubt!
+
+149
+00:11:08,756 --> 00:11:11,592
+The prophecy is being fulfilled,
+as it was written.
+
+150
+00:11:11,717 --> 00:11:16,138
+First the Dagoyan Masters disappeared
+and now the Queen.
+
+151
+00:11:16,264 --> 00:11:21,394
+If she does not return in three rotations,
+I'm afraid she will be gone forever
+
+152
+00:11:21,477 --> 00:11:25,565
+and an era of Darkness
+will rise throughout the galaxy.
+
+153
+00:11:25,648 --> 00:11:27,692
+Distinguished Council if I may...
+
+154
+00:11:27,775 --> 00:11:30,236
+The coming of the Jedi was a sign!
+
+155
+00:11:30,361 --> 00:11:35,116
+It was a sign ! Harbinger of doom !
+Harbinger of doom!
+
+156
+00:11:35,199 --> 00:11:39,078
+Council ! Oh, great Bardotta Council.
+
+157
+00:11:39,620 --> 00:11:42,915
+Please, yo us a must listen to mesa.
+
+158
+00:11:43,040 --> 00:11:47,003
+Queenie Julia was me bombad patio
+for many years.
+
+159
+00:11:47,128 --> 00:11:49,380
+Shesa knew there be troubles here.
+
+160
+00:11:49,463 --> 00:11:53,634
+Dats why she callin' mesa,
+to helpin' in your time of need.
+
+161
+00:11:54,802 --> 00:11:58,973
+Mesa takin' my loyal helper
+Master in Mace,
+
+162
+00:11:59,056 --> 00:12:03,728
+and we findin' da Queenie
+and bringin' her backin' to yo us a!
+
+163
+00:12:07,773 --> 00:12:10,318
+Ask them the origin of the prophecy.
+
+164
+00:12:10,484 --> 00:12:15,823
+Now, let mesa askin' yousa
+where dis prophecy comin' from?
+
+165
+00:12:16,365 --> 00:12:19,076
+They are the words
+of the Frangawl clan,
+
+166
+00:12:19,160 --> 00:12:23,748
+who worshipped Malmourral,
+the ancient demon of our faith.
+
+167
+00:12:24,081 --> 00:12:28,502
+Their ancient shrine is located
+under our present-day Temple,
+
+168
+00:12:28,586 --> 00:12:34,342
+far beneath the surface.
+It is a cursed place, an evil place,
+
+169
+00:12:34,425 --> 00:12:38,554
+no one who enters those caverns
+ever returns.
+
+170
+00:12:39,013 --> 00:12:41,599
+Then that is where we must look first.
+
+171
+00:12:41,682 --> 00:12:44,435
+Den dats where we be goin' first!
+
+172
+00:12:54,528 --> 00:12:59,158
+Oh, boy, disin gonna be
+bombad trouble, mesa knowin' it.
+
+173
+00:13:09,210 --> 00:13:12,296
+Are yo us a sure disa the right way?
+
+174
+00:13:12,380 --> 00:13:17,134
+Yes, but ahead there is only darkness,
+and evil.
+
+175
+00:13:17,218 --> 00:13:20,805
+Then yes, Jar Jar,
+this is the correct path.
+
+176
+00:13:20,888 --> 00:13:22,098
+Okay.
+
+177
+00:13:26,727 --> 00:13:31,357
+Here's your weapon Master Jedi.
+Let us hope you do not have to use it.
+
+178
+00:13:35,611 --> 00:13:38,823
+The Frangawl ruled Bardotta
+with an iron hand
+
+179
+00:13:38,906 --> 00:13:42,243
+for most of its early history.
+They were warriors.
+
+180
+00:13:42,326 --> 00:13:44,120
+Some would call them barbarians,
+
+181
+00:13:44,203 --> 00:13:48,249
+but in fact they were men
+and women of spirit.
+
+182
+00:13:52,837 --> 00:13:55,840
+Mesa no likin' this place, no way.
+
+183
+00:14:09,145 --> 00:14:12,023
+Look! A piece of the
+Queenie Julia's headdress!
+
+184
+00:14:17,111 --> 00:14:20,656
+Oh, no! Mesa disappearin'!
+Mesa disappearin'!
+
+185
+00:14:20,740 --> 00:14:23,909
+Master in Mace! Help! Master in Mace!
+
+186
+00:14:25,619 --> 00:14:28,456
+Master in Mace, help!
+
+187
+00:14:36,172 --> 00:14:37,465
+Jar Jar!
+
+188
+00:14:41,886 --> 00:14:44,055
+He's been taken just like the Queen.
+
+189
+00:14:44,138 --> 00:14:46,974
+You go back and get help,
+I'll go after him.
+
+190
+00:14:49,810 --> 00:14:53,064
+Put mesa down, put mesa down!
+
+191
+00:14:53,147 --> 00:14:55,274
+Wheresa yo us a taking me?
+
+192
+00:15:05,618 --> 00:15:07,495
+Put mesa down!
+
+193
+00:15:23,094 --> 00:15:26,388
+Thanks goodness.
+Mesa can see mesa self again.
+
+194
+00:15:26,472 --> 00:15:28,265
+Whosa yo us a, sir?
+
+195
+00:15:28,724 --> 00:15:32,311
+I am Joseph.
+Dagoyan Master of the Royal Council.
+
+196
+00:15:32,394 --> 00:15:33,604
+The others you see with me
+
+197
+00:15:33,687 --> 00:15:35,731
+also have been disappeared
+and brought here.
+
+198
+00:15:37,900 --> 00:15:39,693
+You'll never free yourself.
+
+199
+00:15:39,777 --> 00:15:43,030
+We are doomed to be sacrificed
+to Malmourral.
+
+200
+00:15:47,785 --> 00:15:49,954
+This is bombad trouble.
+
+201
+00:15:51,497 --> 00:15:53,958
+Jar Jar! Where are you? Jar Jar!
+
+202
+00:15:55,543 --> 00:15:58,963
+Master in Mace! Master in Mace!
+
+203
+00:15:59,046 --> 00:16:01,674
+<i>Mesa found the disappearen
+Daba-boy-boy-ogans.</i>
+
+204
+00:16:01,757 --> 00:16:04,885
+I'll follow your signal.
+Wherever you are, don't move!
+
+205
+00:16:05,636 --> 00:16:08,889
+Datsa no problem.
+Mesa not goin' nowheres.
+
+206
+00:16:14,395 --> 00:16:16,605
+Mesa movin'! Mesa movin'!
+
+207
+00:16:16,730 --> 00:16:18,983
+I told you not to do that, Jar Jar!
+
+208
+00:16:19,150 --> 00:16:20,901
+<i>It's not mesa fault!</i>
+
+209
+00:16:41,422 --> 00:16:44,049
+Master in Mace! Master in Mace!
+
+210
+00:16:44,175 --> 00:16:45,509
+Quiet!
+
+211
+00:16:57,980 --> 00:16:59,315
+Julia!
+
+212
+00:16:59,899 --> 00:17:01,483
+Jar Jar!
+
+213
+00:17:01,609 --> 00:17:03,861
+Mesa here to rescue yo us a!
+
+214
+00:17:03,944 --> 00:17:10,034
+Jar Jar. They are stealing the Force.
+They are stealing the Force within us.
+
+215
+00:17:20,002 --> 00:17:24,340
+Now shall the demon of war,
+Malmourral, be sated!
+
+216
+00:17:28,886 --> 00:17:32,473
+Now shall the Frangawl clan
+steal your essence!
+
+217
+00:17:41,148 --> 00:17:42,691
+No!
+
+218
+00:17:50,991 --> 00:17:56,205
+Whosa you? Let mesa go! Let mesa go!
+Let mesa go! No!
+
+219
+00:17:56,288 --> 00:17:59,291
+Let mesa go! Let mesa go!
+
+220
+00:18:10,511 --> 00:18:12,805
+Nosa tickling ! Issa cold!
+
+221
+00:18:13,555 --> 00:18:15,057
+Blasphemer!
+
+222
+00:18:15,307 --> 00:18:19,019
+Mesa not big with the Force.
+Yo us a got the wrong Gungan.
+
+223
+00:18:19,186 --> 00:18:22,231
+The Force resides
+within all living things.
+
+224
+00:18:22,314 --> 00:18:24,984
+What little you have will be ours.
+
+225
+00:18:26,193 --> 00:18:27,319
+Jar Jar!
+
+226
+00:18:36,578 --> 00:18:37,997
+Get him!
+
+227
+00:18:45,838 --> 00:18:49,258
+Stay back. Mesa bombad warrior.
+
+228
+00:19:12,114 --> 00:19:14,450
+Get mesa outta here.
+
+229
+00:19:20,414 --> 00:19:21,415
+Look out!
+
+230
+00:19:27,588 --> 00:19:28,839
+Grab my hand!
+
+231
+00:19:35,262 --> 00:19:36,805
+Mesa need to save the Queenie!
+
+232
+00:19:36,889 --> 00:19:38,015
+Go!
+
+233
+00:20:42,663 --> 00:20:45,165
+The demonic cult of Malmourral
+is active once again.
+
+234
+00:20:45,249 --> 00:20:50,003
+If they steal the essence of the Queen,
+darkness will fall across the stars.
+
+235
+00:20:50,587 --> 00:20:55,759
+Mesa no bombad warrior, but
+mesa swearen to find yo us a Queenie
+
+236
+00:20:55,843 --> 00:20:59,847
+with the help of mesa bombad patio
+Master in Mace!
+
+237
+00:21:04,393 --> 00:21:09,648
+Jar Jar, maybe it's this place,
+but you're starting to make sense to me!
+
+238
+00:21:09,672 --> 00:21:14,672
+http://hiqve.com/
+

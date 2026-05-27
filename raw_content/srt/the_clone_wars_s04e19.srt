@@ -1,0 +1,663 @@
+﻿1
+00:00:10,332 --> 00:00:10,449
+h
+
+2
+00:00:10,450 --> 00:00:10,566
+ht
+
+3
+00:00:10,567 --> 00:00:10,684
+htt
+
+4
+00:00:10,685 --> 00:00:10,802
+http
+
+5
+00:00:10,803 --> 00:00:10,919
+http:
+
+6
+00:00:10,920 --> 00:00:11,037
+http:/
+
+7
+00:00:11,038 --> 00:00:11,155
+http://
+
+8
+00:00:11,156 --> 00:00:11,272
+http://h
+
+9
+00:00:11,273 --> 00:00:11,390
+http://hi
+
+10
+00:00:11,391 --> 00:00:11,507
+http://hiq
+
+11
+00:00:11,508 --> 00:00:11,625
+http://hiqv
+
+12
+00:00:11,626 --> 00:00:11,743
+http://hiqve
+
+13
+00:00:11,744 --> 00:00:11,860
+http://hiqve.
+
+14
+00:00:11,861 --> 00:00:11,978
+http://hiqve.c
+
+15
+00:00:11,979 --> 00:00:12,096
+http://hiqve.co
+
+16
+00:00:12,097 --> 00:00:12,213
+http://hiqve.com
+
+17
+00:00:12,214 --> 00:00:12,331
+http://hiqve.com/
+
+18
+00:00:12,332 --> 00:00:15,332
+http://hiqve.com/
+
+19
+00:00:18,356 --> 00:00:20,358
+<i>Sinister forces on the move.</i>
+
+20
+00:00:20,441 --> 00:00:23,236
+<i>Asajj Ventress has suffered
+a humiliating betrayal</i>
+
+21
+00:00:23,277 --> 00:00:26,739
+<i>at the hands of her own assassin,
+Savage Opress.</i>
+
+22
+00:00:27,114 --> 00:00:28,616
+<i>Having gone into hiding,</i>
+
+23
+00:00:28,699 --> 00:00:31,369
+<i>she now has no choice
+but to seek sanctuary</i>
+
+24
+00:00:31,452 --> 00:00:33,621
+<i>with the Night sisters of Dathomir.</i>
+
+25
+00:01:16,872 --> 00:01:20,626
+Sister, I knew you'd return.
+
+26
+00:01:22,837 --> 00:01:26,257
+I've been hiding. Reevaluating.
+
+27
+00:01:27,008 --> 00:01:29,427
+I suspected as much.
+
+28
+00:01:29,844 --> 00:01:33,848
+Savage, that monster we created,
+has forsaken us.
+
+29
+00:01:33,931 --> 00:01:37,518
+He refused my guidance
+and escaped into the galaxy.
+
+30
+00:01:38,102 --> 00:01:39,854
+I have nothing.
+
+31
+00:01:40,354 --> 00:01:45,985
+You have your breath, your skill,
+and your sisters.
+
+32
+00:01:46,360 --> 00:01:49,655
+You have everything needed to survive.
+
+33
+00:01:50,114 --> 00:01:56,078
+You must give up the ways of the Sith
+and return to our fold.
+
+34
+00:01:56,495 --> 00:02:02,460
+You will leave Dooku's absurd war behind
+and remain with us.
+
+35
+00:02:02,918 --> 00:02:06,213
+No longer to be ordered about.
+
+36
+00:02:06,547 --> 00:02:11,385
+You will be loyal to no one but your sisters,
+
+37
+00:02:11,552 --> 00:02:13,888
+and yourself.
+
+38
+00:02:14,513 --> 00:02:16,057
+And then?
+
+39
+00:02:16,682 --> 00:02:20,227
+And then, you will fulfill your destiny
+
+40
+00:02:20,603 --> 00:02:23,606
+and become a true Night sister.
+
+41
+00:02:41,749 --> 00:02:44,126
+You summoned me, My Lord?
+
+42
+00:02:44,835 --> 00:02:47,421
+The time has come at last to take revenge
+
+43
+00:02:47,505 --> 00:02:51,300
+on Asajj Ventress
+and the witch, Mother Talzin.
+
+44
+00:02:51,759 --> 00:02:55,012
+I have learned Ventress
+has returned to Dathomir.
+
+45
+00:02:55,596 --> 00:02:58,808
+Go there and wipe the witches out.
+
+46
+00:02:59,141 --> 00:03:01,102
+All of them.
+
+47
+00:03:01,227 --> 00:03:03,562
+Their illusions do not frighten me.
+
+48
+00:03:03,938 --> 00:03:05,731
+Yes, Master.
+
+49
+00:03:14,115 --> 00:03:16,117
+Assemble the fleets.
+
+50
+00:03:16,158 --> 00:03:21,789
+The time to exact vengeance against
+the traitor, Ventress, has arrived.
+
+51
+00:03:22,832 --> 00:03:26,335
+We go to Dathomir to battle.
+
+52
+00:03:54,613 --> 00:03:59,034
+Do you pledge yourself to the sisterhood,
+
+53
+00:03:59,118 --> 00:04:03,414
+to the magics, and the old ways?
+
+54
+00:04:04,623 --> 00:04:05,750
+I do.
+
+55
+00:04:06,667 --> 00:04:12,339
+Do you abandon
+your old life for this new one?
+
+56
+00:04:12,673 --> 00:04:13,799
+I do.
+
+57
+00:04:14,091 --> 00:04:18,512
+Your loyalty? Your life?
+
+58
+00:04:18,596 --> 00:04:21,348
+My loyalty. My life.
+
+59
+00:04:55,508 --> 00:05:01,388
+You are now reborn a Sister of the Night.
+
+60
+00:05:01,764 --> 00:05:03,349
+Welcome.
+
+61
+00:05:04,058 --> 00:05:05,643
+Thank you, Mother.
+
+62
+00:05:06,018 --> 00:05:10,439
+And now, we feast and celebrate
+
+63
+00:05:10,523 --> 00:05:13,818
+the baptism of our new sister.
+
+64
+00:05:21,575 --> 00:05:24,036
+We are now approaching Dathomir.
+
+65
+00:05:24,161 --> 00:05:26,705
+Begin landing our troops.
+
+66
+00:05:40,719 --> 00:05:43,722
+I am privileged to be your sister.
+
+67
+00:05:44,390 --> 00:05:46,016
+Thank you, Karis.
+
+68
+00:05:52,773 --> 00:05:54,275
+Droid fighters. Scatter!
+
+69
+00:06:00,114 --> 00:06:02,783
+Prepare yourselves, sisters!
+
+70
+00:06:02,867 --> 00:06:05,452
+The war has come to Dathomir.
+
+71
+00:06:16,964 --> 00:06:21,051
+Establish a perimeter and get the droids
+in attack formation.
+
+72
+00:06:21,135 --> 00:06:25,806
+We'll burn a path through the forest
+right to their fortress.
+
+73
+00:07:01,592 --> 00:07:03,677
+Gather your weapons!
+
+74
+00:07:04,386 --> 00:07:07,264
+The droid army is only here because of me.
+
+75
+00:07:07,723 --> 00:07:10,017
+And so many are going to die.
+
+76
+00:07:10,225 --> 00:07:12,603
+There is no time for regret.
+
+77
+00:07:12,728 --> 00:07:14,939
+Now we must fight.
+
+78
+00:07:16,023 --> 00:07:19,360
+That gutless coward, Grievous,
+is coordinating the attack.
+
+79
+00:07:19,443 --> 00:07:20,778
+I can sense it.
+
+80
+00:07:22,154 --> 00:07:26,158
+You know the droids.
+It gives us an advantage.
+
+81
+00:07:37,878 --> 00:07:39,046
+Karis!
+
+82
+00:07:46,011 --> 00:07:49,640
+Go and lead us to victory.
+
+83
+00:08:19,211 --> 00:08:21,755
+We will need an army
+to fight Grievous.
+
+84
+00:08:21,797 --> 00:08:24,508
+I will speak with Old Daka.
+
+85
+00:08:24,591 --> 00:08:28,012
+She will get us
+the reinforcements we need.
+
+86
+00:08:28,679 --> 00:08:31,598
+Follow me, sisters. Attack!
+
+87
+00:08:41,942 --> 00:08:43,777
+Take to the trees, sisters.
+
+88
+00:08:43,819 --> 00:08:46,989
+We shall attack the droids
+from above and below.
+
+89
+00:09:24,234 --> 00:09:27,321
+Sir, there is heavy fighting
+along the eastern front.
+
+90
+00:09:27,404 --> 00:09:30,449
+Reports indicate Ventress is
+leading the attack.
+
+91
+00:09:30,657 --> 00:09:33,160
+Send in the Defoliator tank.
+
+92
+00:09:33,202 --> 00:09:36,789
+We'll burn those witches to the ground.
+
+93
+00:09:47,508 --> 00:09:49,051
+Go to my chamber.
+
+94
+00:09:49,134 --> 00:09:52,513
+There you will find a small metallic sphere.
+
+95
+00:09:52,846 --> 00:09:55,140
+Bring it to the hidden cave.
+
+96
+00:09:55,182 --> 00:09:57,017
+Yes, Mother.
+
+97
+00:10:24,503 --> 00:10:28,882
+Daka, as the oldest and wisest of us,
+
+98
+00:10:29,091 --> 00:10:32,886
+I need you to resurrect our fallen sisters.
+
+99
+00:10:33,137 --> 00:10:38,392
+Ventress will need the aid
+of the undead army to achieve victory.
+
+100
+00:10:39,393 --> 00:10:43,730
+Then I will begin the chant of resurrection.
+
+101
+00:11:27,858 --> 00:11:29,109
+Rise.
+
+102
+00:11:29,860 --> 00:11:33,113
+Rise. Awake, dead sisters.
+
+103
+00:11:33,280 --> 00:11:34,740
+Rise.
+
+104
+00:11:35,282 --> 00:11:37,951
+Rise. Rise.
+
+105
+00:11:37,993 --> 00:11:42,539
+Awake, dead sisters. Rise.
+
+106
+00:12:25,332 --> 00:12:27,167
+Fire the Defoliator.
+
+107
+00:12:27,209 --> 00:12:28,377
+Roger, roger.
+
+108
+00:12:57,531 --> 00:13:00,701
+The army of the dead, her reinforcements.
+
+109
+00:13:32,065 --> 00:13:35,193
+The undead will clear us a path
+right to Grievous.
+
+110
+00:13:35,610 --> 00:13:38,947
+Ventress has her army now.
+
+111
+00:13:39,281 --> 00:13:40,282
+Good.
+
+112
+00:13:40,741 --> 00:13:45,579
+Now I can deal with Count Dooku.
+
+113
+00:13:48,749 --> 00:13:50,500
+We found it, Mother.
+
+114
+00:13:50,584 --> 00:13:53,670
+Here is the orb you requested.
+
+115
+00:13:54,421 --> 00:13:56,256
+Well done.
+
+116
+00:14:01,970 --> 00:14:05,515
+Ah, here it is.
+
+117
+00:14:05,599 --> 00:14:11,104
+A single lock of Count Dooku's silver hair.
+
+118
+00:14:11,938 --> 00:14:17,361
+He should be more careful
+than making deals with witches.
+
+119
+00:14:26,578 --> 00:14:29,331
+Now for Dooku.
+
+120
+00:15:00,487 --> 00:15:02,364
+Mother Talzin.
+
+121
+00:15:36,857 --> 00:15:38,358
+Surprised?
+
+122
+00:15:39,192 --> 00:15:43,196
+Hardly. You're the one I was sent here for.
+
+123
+00:15:43,530 --> 00:15:45,323
+Then fight me alone.
+
+124
+00:15:45,365 --> 00:15:47,576
+Prove you're the greater warrior.
+
+125
+00:15:47,701 --> 00:15:50,537
+If I win, your army leaves.
+
+126
+00:15:50,620 --> 00:15:54,708
+If you win,
+the Night sisters will surrender to you.
+
+127
+00:15:54,958 --> 00:15:57,711
+I have always been greater than you.
+
+128
+00:16:07,596 --> 00:16:10,265
+Pain, Count Dooku.
+
+129
+00:16:13,935 --> 00:16:17,939
+You will know terrible pain.
+
+130
+00:16:27,324 --> 00:16:28,325
+Enough of this.
+
+131
+00:16:33,747 --> 00:16:37,250
+You think you can defeat me?
+You're nothing.
+
+132
+00:16:46,468 --> 00:16:47,469
+Kill her.
+
+133
+00:17:15,205 --> 00:17:18,667
+Doom is upon us, sister. Run.
+
+134
+00:17:19,793 --> 00:17:21,086
+Save yourself.
+
+135
+00:17:45,610 --> 00:17:50,949
+Grievous, you must stop Mother Talzin
+before she kills me.
+
+136
+00:17:51,366 --> 00:17:53,535
+Follow the witch's magic.
+
+137
+00:17:53,618 --> 00:17:57,581
+It appears as a green mist.
+Follow it to its source.
+
+138
+00:17:57,664 --> 00:18:00,000
+And eliminate Talzin. Quickly!
+
+139
+00:18:14,598 --> 00:18:18,893
+Forget Ventress!
+Our new target is Mother Talzin.
+
+140
+00:18:19,019 --> 00:18:20,687
+Follow me.
+
+141
+00:18:27,110 --> 00:18:33,158
+Call off your army
+and leave Dathomir at once.
+
+142
+00:18:33,617 --> 00:18:37,787
+And let you and that traitor
+
+143
+00:18:37,871 --> 00:18:40,248
+continue plotting against me?
+
+144
+00:18:40,332 --> 00:18:41,541
+Never!
+
+145
+00:18:42,208 --> 00:18:46,546
+You're going to die either way.
+
+146
+00:18:46,588 --> 00:18:50,717
+It's only a matter of how painful it will be.
+
+147
+00:19:40,767 --> 00:19:41,893
+Fire!
+
+148
+00:19:51,903 --> 00:19:53,822
+No! General!
+
+149
+00:21:00,096 --> 00:21:02,891
+It is over, sister.
+
+150
+00:21:03,767 --> 00:21:05,810
+No one remains?
+
+151
+00:21:06,686 --> 00:21:09,439
+This is all my fault.
+
+152
+00:21:10,565 --> 00:21:14,152
+Where do I go? What do I do?
+
+153
+00:21:14,736 --> 00:21:18,031
+This chapter is over.
+
+154
+00:21:18,114 --> 00:21:23,703
+Your destiny will always
+be linked with ours.
+
+155
+00:21:23,787 --> 00:21:28,958
+But you have your own path to follow now.
+
+156
+00:21:31,920 --> 00:21:33,671
+No! Wait!
+
+157
+00:21:34,339 --> 00:21:36,424
+You can't leave me here!
+
+158
+00:21:36,448 --> 00:21:41,448
+http://hiqve.com/
+

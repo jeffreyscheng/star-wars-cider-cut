@@ -1,0 +1,1575 @@
+﻿1
+00:00:10,582 --> 00:00:10,699
+h
+
+2
+00:00:10,700 --> 00:00:10,816
+ht
+
+3
+00:00:10,817 --> 00:00:10,934
+htt
+
+4
+00:00:10,935 --> 00:00:11,052
+http
+
+5
+00:00:11,053 --> 00:00:11,169
+http:
+
+6
+00:00:11,170 --> 00:00:11,287
+http:/
+
+7
+00:00:11,288 --> 00:00:11,405
+http://
+
+8
+00:00:11,406 --> 00:00:11,522
+http://h
+
+9
+00:00:11,523 --> 00:00:11,640
+http://hi
+
+10
+00:00:11,641 --> 00:00:11,757
+http://hiq
+
+11
+00:00:11,758 --> 00:00:11,875
+http://hiqv
+
+12
+00:00:11,876 --> 00:00:11,993
+http://hiqve
+
+13
+00:00:11,994 --> 00:00:12,110
+http://hiqve.
+
+14
+00:00:12,111 --> 00:00:12,228
+http://hiqve.c
+
+15
+00:00:12,229 --> 00:00:12,346
+http://hiqve.co
+
+16
+00:00:12,347 --> 00:00:12,463
+http://hiqve.com
+
+17
+00:00:12,464 --> 00:00:12,581
+http://hiqve.com/
+
+18
+00:00:12,582 --> 00:00:15,582
+http://hiqve.com/
+
+19
+00:00:17,606 --> 00:00:19,566
+<i>A flaw in the plan!</i>
+
+20
+00:00:19,649 --> 00:00:21,651
+<i>While in the middle of a heated battle,</i>
+
+21
+00:00:21,735 --> 00:00:25,906
+<i>Clone Trooper Tup lost his senses
+and killed a Jedi general.</i>
+
+22
+00:00:25,989 --> 00:00:28,325
+<i>Seeming to have
+no awareness of his actions,</i>
+
+23
+00:00:28,408 --> 00:00:31,328
+<i>Tup's health
+began to deteriorate rapidly.</i>
+
+24
+00:00:31,411 --> 00:00:33,872
+<i>Fearing the illness was
+linked to a Separatist plot,</i>
+
+25
+00:00:33,955 --> 00:00:38,460
+<i>Anakin Skywalker has dispatched
+Captain Rex and ARC Trooper 5555</i>
+
+26
+00:00:38,543 --> 00:00:41,463
+<i>to escort Tup back
+to the cloning facilities on Kamino</i>
+
+27
+00:00:41,546 --> 00:00:43,715
+<i>for an intensive evaluation.</i>
+
+28
+00:01:16,039 --> 00:01:18,833
+You will have to say goodbye
+to your friend now.
+
+29
+00:01:18,917 --> 00:01:20,919
+Yes, Doctor.
+
+30
+00:01:21,002 --> 00:01:22,420
+General Shaak Ti.
+
+31
+00:01:22,504 --> 00:01:23,922
+Captain Rex.
+
+32
+00:01:24,589 --> 00:01:26,508
+Fives. Am I correct?
+
+33
+00:01:26,591 --> 00:01:27,926
+Yes, General.
+
+34
+00:01:29,261 --> 00:01:30,929
+You've served with Tup?
+
+35
+00:01:31,012 --> 00:01:32,055
+Yes.
+
+36
+00:01:32,973 --> 00:01:34,391
+You must come with me.
+
+37
+00:01:34,474 --> 00:01:38,061
+With... With all due respect, General,
+
+38
+00:01:38,144 --> 00:01:39,980
+I can't just abandon him now.
+
+39
+00:01:40,230 --> 00:01:42,440
+You must let the doctors do their work.
+
+40
+00:01:42,524 --> 00:01:46,236
+Do not be afraid.
+Your friend is in quite capable hands.
+
+41
+00:01:46,319 --> 00:01:49,364
+Dr. Nala Se is
+the Chief Medical Scientist on Kamino.
+
+42
+00:01:49,698 --> 00:01:52,742
+She was one of the primary engineers
+of all the clones.
+
+43
+00:01:53,326 --> 00:01:55,161
+Now, we must take care of you.
+
+44
+00:01:55,245 --> 00:01:57,956
+Me? There's nothing
+wrong with me, General.
+
+45
+00:01:58,039 --> 00:01:59,541
+I'm perfectly fine.
+
+46
+00:01:59,624 --> 00:02:03,378
+We can't be sure of that
+until we've completed a full exam.
+
+47
+00:02:03,461 --> 00:02:05,880
+If a virus was
+the cause of Tup's breakdown,
+
+48
+00:02:05,964 --> 00:02:09,134
+you have more than likely
+been exposed to the contagion.
+
+49
+00:02:09,217 --> 00:02:12,387
+You haven't entered
+the advanced stages yet, as Tup has,
+
+50
+00:02:12,470 --> 00:02:15,015
+but any information
+we can gather from you
+
+51
+00:02:15,098 --> 00:02:17,392
+could help to find a cure for Tup.
+
+52
+00:02:17,976 --> 00:02:20,603
+All right, General, if it'll help Tup.
+
+53
+00:02:21,104 --> 00:02:25,358
+Captain Rex, General Skywalker has
+ordered you back to the war zone.
+
+54
+00:02:25,442 --> 00:02:27,569
+You are to leave immediately.
+
+55
+00:02:27,652 --> 00:02:31,406
+I'm sorry, Fives.
+I wish I could stay, but duty calls.
+
+56
+00:02:31,489 --> 00:02:32,782
+It's fine, sir.
+
+57
+00:02:32,866 --> 00:02:36,202
+Fighting a virus is a nice
+change of pace from all those clankers.
+
+58
+00:02:36,286 --> 00:02:38,163
+Take care of yourself,
+
+59
+00:02:39,331 --> 00:02:40,665
+and Tup.
+
+60
+00:02:54,137 --> 00:02:56,431
+Let's begin the tests.
+
+61
+00:02:56,931 --> 00:02:58,933
+Administer the stimulant.
+
+62
+00:03:06,274 --> 00:03:07,859
+Remove his mask.
+
+63
+00:03:14,783 --> 00:03:16,451
+What are they doing to Tup?
+
+64
+00:03:16,534 --> 00:03:17,577
+Remain calm.
+
+65
+00:03:17,660 --> 00:03:19,120
+Out of my way!
+
+66
+00:03:19,746 --> 00:03:22,040
+Please return to the examination table.
+
+67
+00:03:25,627 --> 00:03:27,796
+His reactions are normal.
+
+68
+00:03:28,380 --> 00:03:29,672
+What's going on? General!
+
+69
+00:03:30,590 --> 00:03:31,800
+General!
+
+70
+00:03:33,676 --> 00:03:34,761
+No, no, no!
+
+71
+00:03:34,844 --> 00:03:36,388
+Please return to the examination table.
+
+72
+00:03:36,805 --> 00:03:37,889
+Come on!
+
+73
+00:03:37,972 --> 00:03:39,391
+Remain calm.
+
+74
+00:03:39,474 --> 00:03:40,850
+Please return to the exam...
+
+75
+00:03:43,978 --> 00:03:45,939
+His reaction will subside.
+
+76
+00:03:46,022 --> 00:03:49,609
+The patient must be awake
+for the next round of tests.
+
+77
+00:03:49,692 --> 00:03:52,737
+I am not fond of these hyper tests.
+
+78
+00:03:52,821 --> 00:03:57,450
+Yes, but they do give us all the
+information we need in a timely fashion.
+
+79
+00:04:00,036 --> 00:04:03,665
+There does not seem to be
+any sign of infection in the blood.
+
+80
+00:04:03,748 --> 00:04:05,333
+How curious.
+
+81
+00:04:05,625 --> 00:04:08,503
+The subject has tested
+negative on all accounts.
+
+82
+00:04:08,837 --> 00:04:11,923
+This clone seems to be
+in perfect health.
+
+83
+00:04:12,507 --> 00:04:14,592
+We must be missing something.
+
+84
+00:04:15,593 --> 00:04:16,761
+Why am I here?
+
+85
+00:04:19,097 --> 00:04:20,682
+Is he conscious?
+
+86
+00:04:21,558 --> 00:04:23,059
+Follow orders!
+
+87
+00:04:23,143 --> 00:04:25,061
+Kill Jedi. Kill Jedi!
+
+88
+00:04:25,145 --> 00:04:26,688
+Are you finished with your tests?
+
+89
+00:04:26,771 --> 00:04:27,772
+For now.
+
+90
+00:04:27,856 --> 00:04:29,107
+Sedate him.
+
+91
+00:04:29,399 --> 00:04:30,442
+Yes, ma'am.
+
+92
+00:04:30,525 --> 00:04:34,195
+Orders. Follow orders. Follow orders.
+
+93
+00:04:34,446 --> 00:04:35,697
+Follow orders.
+
+94
+00:04:37,365 --> 00:04:40,994
+It appears this clone
+has orders to kill a Jedi.
+
+95
+00:04:41,077 --> 00:04:44,456
+Perhaps the Separatists found
+a way to brainwash him.
+
+96
+00:04:45,206 --> 00:04:47,000
+Look, is Tup going to be all right?
+
+97
+00:04:47,083 --> 00:04:48,418
+Have they found anything out?
+
+98
+00:04:48,501 --> 00:04:50,462
+Please, sit down.
+
+99
+00:04:50,545 --> 00:04:55,216
+We are using hyper tests, so we should
+be getting the results very quickly.
+
+100
+00:04:55,300 --> 00:04:58,261
+We need to complete
+more procedures on you.
+
+101
+00:04:59,053 --> 00:05:00,638
+-Sorry.
+-Why?
+
+102
+00:05:01,890 --> 00:05:03,391
+-Hey!
+-I said I was sorry.
+
+103
+00:05:04,142 --> 00:05:05,268
+You must understand,
+
+104
+00:05:05,351 --> 00:05:08,771
+organic beings are so much harder
+to analyze than droids.
+
+105
+00:05:09,147 --> 00:05:10,315
+Well?
+
+106
+00:05:10,398 --> 00:05:12,108
+Everything seems normal.
+
+107
+00:05:12,192 --> 00:05:14,611
+Great!
+Well, that means they can let me out.
+
+108
+00:05:14,694 --> 00:05:16,988
+I am afraid that is not possible.
+
+109
+00:05:17,071 --> 00:05:18,239
+You must remain quarantined
+
+110
+00:05:18,323 --> 00:05:21,826
+until we have pinpointed the exact
+cause of the other clone's breakdown.
+
+111
+00:05:21,910 --> 00:05:24,287
+We cannot risk any further casualties.
+
+112
+00:05:24,370 --> 00:05:27,415
+Look, I am not a threat,
+and neither is Tup!
+
+113
+00:05:27,624 --> 00:05:28,833
+Are you certain?
+
+114
+00:05:30,418 --> 00:05:34,047
+You're just a droid.
+You don't know about real duty,
+
+115
+00:05:34,130 --> 00:05:36,007
+about what it's like to have a brother.
+
+116
+00:05:36,341 --> 00:05:38,134
+I am sorry.
+
+117
+00:05:38,218 --> 00:05:41,179
+I always wanted
+to have human feelings,
+
+118
+00:05:41,262 --> 00:05:43,264
+but I do not. Goodbye.
+
+119
+00:06:03,201 --> 00:06:07,205
+Maybe whatever is causing
+his aggression is psychological.
+
+120
+00:06:07,288 --> 00:06:09,624
+It seems to be an isolated case.
+
+121
+00:06:09,707 --> 00:06:12,877
+The other clone has yet
+to display any symptoms.
+
+122
+00:06:24,639 --> 00:06:27,225
+I need an answer now.
+
+123
+00:06:27,308 --> 00:06:29,978
+This isn't just
+a physical manifestation of psychosis.
+
+124
+00:06:30,311 --> 00:06:32,605
+You must have missed something.
+
+125
+00:06:34,065 --> 00:06:38,278
+Might I suggest a second brain scan,
+an atomic-level brain scan?
+
+126
+00:06:38,361 --> 00:06:39,696
+This is unnecessary.
+
+127
+00:06:39,779 --> 00:06:42,699
+The Phase 1 and 2 scans we did
+are sufficient.
+
+128
+00:06:42,782 --> 00:06:45,994
+He's too weak
+for a Phase 5 atomic-level scan.
+
+129
+00:06:46,077 --> 00:06:50,081
+I calculate the beneficial knowledge we
+could gain from a Phase 5 atomic scan
+
+130
+00:06:50,164 --> 00:06:51,916
+is worth the risk.
+
+131
+00:06:52,125 --> 00:06:55,378
+The only way to discover
+what has happened to this clone
+
+132
+00:06:55,461 --> 00:06:56,754
+is to terminate him
+
+133
+00:06:56,838 --> 00:06:59,966
+and do a full-scale autopsy
+on the molecular level.
+
+134
+00:07:00,341 --> 00:07:01,926
+We must be cautious.
+
+135
+00:07:02,010 --> 00:07:04,345
+I do not believe
+this is a physical ailment,
+
+136
+00:07:04,429 --> 00:07:07,724
+but a mental condition caused
+by possible Separatist brainwashing.
+
+137
+00:07:07,807 --> 00:07:09,183
+I do not agree.
+
+138
+00:07:09,267 --> 00:07:11,269
+This is a virus of some kind.
+
+139
+00:07:11,352 --> 00:07:14,188
+I am in charge of this examination
+
+140
+00:07:14,272 --> 00:07:17,483
+and I will decide
+what is best for my patient.
+
+141
+00:07:17,567 --> 00:07:21,738
+Actually, since the Republic and
+the Jedi commissioned the clones,
+
+142
+00:07:21,821 --> 00:07:25,199
+it is our responsibility
+to oversee their care.
+
+143
+00:07:26,451 --> 00:07:28,369
+Every clone and their genetic makeup
+
+144
+00:07:28,453 --> 00:07:30,705
+is property of
+the Kaminoan government.
+
+145
+00:07:31,372 --> 00:07:35,001
+Now, as a client of ours,
+I will respect your wishes,
+
+146
+00:07:35,418 --> 00:07:37,962
+but as to the fate of this clone,
+
+147
+00:07:38,046 --> 00:07:41,007
+I will speak to
+our Prime Minister, Lama Su.
+
+148
+00:07:41,341 --> 00:07:45,178
+And I will advise the Jedi Council
+on the atomic brain scan
+
+149
+00:07:45,261 --> 00:07:47,680
+and see how they would like to proceed.
+
+150
+00:07:47,764 --> 00:07:49,349
+Very well.
+
+151
+00:07:54,187 --> 00:07:55,647
+-Hello.
+-What's going on?
+
+152
+00:07:55,730 --> 00:08:00,026
+CT-5385's condition
+seems to be deteriorating.
+
+153
+00:08:00,693 --> 00:08:03,071
+Tup. His name is Tup.
+
+154
+00:08:03,863 --> 00:08:06,032
+Tup? What is a Tup?
+
+155
+00:08:06,115 --> 00:08:08,993
+Tup is my friend. He's not a number.
+
+156
+00:08:09,077 --> 00:08:11,663
+Yes, he is. We all have numbers.
+
+157
+00:08:11,746 --> 00:08:17,335
+My number is
+AZ-345211896246498721347.
+
+158
+00:08:17,794 --> 00:08:20,088
+His number is CT-5385.
+
+159
+00:08:20,338 --> 00:08:22,340
+Wrong. He has a name.
+
+160
+00:08:22,423 --> 00:08:24,467
+No clone uses a number.
+
+161
+00:08:24,717 --> 00:08:26,094
+Not anymore.
+
+162
+00:08:26,177 --> 00:08:29,514
+But you are a number, CT-5555.
+
+163
+00:08:29,931 --> 00:08:33,351
+No, I am Fives. Call me Fives.
+
+164
+00:08:33,434 --> 00:08:35,978
+But five is a number.
+
+165
+00:08:36,062 --> 00:08:38,606
+No, not five. Fives.
+
+166
+00:08:41,442 --> 00:08:42,944
+The difference is minimal.
+
+167
+00:08:43,027 --> 00:08:46,155
+Not to me. And not to any clone.
+
+168
+00:08:50,702 --> 00:08:55,873
+It appears there has been a preemptive
+execution of Clone Protocol 66.
+
+169
+00:08:56,958 --> 00:08:58,835
+How did this happen?
+
+170
+00:08:59,168 --> 00:09:00,878
+I do not know as of yet.
+
+171
+00:09:00,962 --> 00:09:04,090
+However, I recommend
+we terminate the clone
+
+172
+00:09:04,465 --> 00:09:08,928
+and do a full autopsy to discover
+how the inhibitor chip was activated.
+
+173
+00:09:09,929 --> 00:09:12,056
+And what of the Jedi?
+
+174
+00:09:12,140 --> 00:09:16,644
+The Jedi Shaak Ti is proposing
+an atomic-level brain scan.
+
+175
+00:09:17,562 --> 00:09:22,066
+She has gone to the Jedi Council to
+seek their approval before proceeding.
+
+176
+00:09:23,317 --> 00:09:25,987
+We must contact Lord Tyranus.
+
+177
+00:09:41,878 --> 00:09:44,881
+<i>I've been expecting your transmission.</i>
+
+178
+00:09:44,964 --> 00:09:47,842
+<i>I have heard
+of the malfunctioning clone.</i>
+
+179
+00:09:47,925 --> 00:09:49,969
+<i>How widespread is the problem?</i>
+
+180
+00:09:50,303 --> 00:09:53,014
+It seems to be an isolated incident.
+
+181
+00:09:53,556 --> 00:09:57,894
+However, this is a delicate situation.
+
+182
+00:09:57,977 --> 00:10:01,314
+We need to terminate the clone
+as soon as possible
+
+183
+00:10:01,397 --> 00:10:06,819
+in order to extract and analyze the
+inhibitor chip that you provided to us.
+
+184
+00:10:06,903 --> 00:10:08,279
+<i>Very good.</i>
+
+185
+00:10:08,362 --> 00:10:10,740
+<i>Terminate the clone immediately.</i>
+
+186
+00:10:10,823 --> 00:10:14,202
+<i>However, send the chip
+to me for analysis.</i>
+
+187
+00:10:14,660 --> 00:10:19,624
+And what if the Jedi ask for the chip
+and the results of the autopsy?
+
+188
+00:10:19,707 --> 00:10:21,417
+<i>You must remember,</i>
+
+189
+00:10:21,501 --> 00:10:25,797
+<i>the chip is a safeguard
+against betrayal from rogue Jedi.</i>
+
+190
+00:10:25,880 --> 00:10:30,009
+<i>Master Sifo-Dyas
+was the only Jedi who knew of this.</i>
+
+191
+00:10:30,927 --> 00:10:34,680
+<i>But with his passing,
+we alone know of this secret</i>
+
+192
+00:10:34,764 --> 00:10:37,308
+<i>and you must keep it that way.</i>
+
+193
+00:10:37,391 --> 00:10:39,435
+Yes, Lord Tyranus.
+
+194
+00:10:41,062 --> 00:10:44,440
+These Jedi are a curious cult.
+
+195
+00:10:44,524 --> 00:10:47,026
+Too spiritual for my taste.
+
+196
+00:10:47,109 --> 00:10:49,904
+I will terminate the clone immediately.
+
+197
+00:10:51,072 --> 00:10:54,575
+<i>The Kaminoans have suggested
+that we terminate the clone</i>
+
+198
+00:10:54,659 --> 00:10:58,412
+<i>and do a rigorous molecular autopsy
+to discover the virus.</i>
+
+199
+00:10:58,496 --> 00:11:01,165
+<i>I believe this solution is ill-advised.</i>
+
+200
+00:11:01,249 --> 00:11:04,335
+<i>My belief is that Tup has been
+brainwashed by the Separatists</i>
+
+201
+00:11:04,418 --> 00:11:08,005
+<i>using some new process
+we do not yet understand.</i>
+
+202
+00:11:08,089 --> 00:11:10,842
+<i>Brainwashing?
+How could that be possible?</i>
+
+203
+00:11:10,925 --> 00:11:14,387
+<i>General Skywalker reported
+Tup missing on Ringo Vinda,</i>
+
+204
+00:11:14,470 --> 00:11:17,390
+<i>but after five rotations
+he turned up again.</i>
+
+205
+00:11:17,682 --> 00:11:20,476
+<i>That event preceded this episode.</i>
+
+206
+00:11:20,560 --> 00:11:23,688
+<i>Perhaps he was compromised
+at that point.</i>
+
+207
+00:11:23,771 --> 00:11:26,357
+<i>We must find the truth
+behind this situation,</i>
+
+208
+00:11:26,440 --> 00:11:29,944
+<i>or we could find many more clones
+turned against us.</i>
+
+209
+00:11:30,486 --> 00:11:33,531
+<i>I would like to implement
+a Level 5 atomic brain scan,</i>
+
+210
+00:11:33,614 --> 00:11:36,993
+<i>to see if his thought processes
+are still functioning normally.</i>
+
+211
+00:11:37,076 --> 00:11:39,370
+And what do
+the Kaminoans think of that?
+
+212
+00:11:39,453 --> 00:11:41,205
+<i>They feel Tup is so weak,</i>
+
+213
+00:11:41,289 --> 00:11:45,001
+<i>the Level 5 atomic brain scan
+would damage his neural tissue</i>
+
+214
+00:11:45,084 --> 00:11:46,711
+<i>and possibly kill him.</i>
+
+215
+00:11:46,794 --> 00:11:49,005
+<i>Their approach
+would be to terminate him,</i>
+
+216
+00:11:49,088 --> 00:11:52,425
+<i>thus leaving the brain
+fully intact for the autopsy.</i>
+
+217
+00:11:52,967 --> 00:11:55,761
+Bring Clone Trooper Tup
+back to the Jedi Temple.
+
+218
+00:11:56,012 --> 00:11:59,307
+Yes. Examine him
+with the Force we shall,
+
+219
+00:11:59,390 --> 00:12:01,642
+and unravel this mystery we will.
+
+220
+00:12:02,643 --> 00:12:05,813
+<i>Yes, Master.
+I'll bring him back immediately.</i>
+
+221
+00:12:10,651 --> 00:12:13,571
+No! There's too much
+procedure and protocol here!
+
+222
+00:12:13,654 --> 00:12:16,741
+Tup is a soldier.
+He risks his life every day,
+
+223
+00:12:16,824 --> 00:12:18,910
+and I know he would risk it now
+
+224
+00:12:18,993 --> 00:12:21,621
+if it meant finding a cure
+for what's wrong with him.
+
+225
+00:12:21,954 --> 00:12:24,206
+I recommended an atomic brain scan,
+
+226
+00:12:24,290 --> 00:12:26,709
+but that request has
+thus far has been denied.
+
+227
+00:12:27,001 --> 00:12:31,672
+Then we have to get the results
+of that brain scan ourselves.
+
+228
+00:12:31,756 --> 00:12:34,175
+But that is against protocol.
+
+229
+00:12:34,258 --> 00:12:38,512
+Think about it.
+It's your duty to save the patient, right?
+
+230
+00:12:38,596 --> 00:12:39,764
+That is correct.
+
+231
+00:12:39,847 --> 00:12:42,892
+And you recommended
+this atomic brain scan
+
+232
+00:12:42,975 --> 00:12:45,519
+as the best way
+to save the patient, right?
+
+233
+00:12:45,603 --> 00:12:46,979
+That is correct.
+
+234
+00:12:47,063 --> 00:12:53,903
+So, by not performing this scan,
+you are letting the patient die, willingly.
+
+235
+00:12:54,862 --> 00:12:57,698
+Impossible.
+That is against my programming.
+
+236
+00:12:58,991 --> 00:13:01,410
+That's not the way it looks to me.
+
+237
+00:13:01,494 --> 00:13:05,331
+I cannot perform the atomic brain scan
+without disobeying orders.
+
+238
+00:13:05,414 --> 00:13:06,749
+Check your programming.
+
+239
+00:13:06,832 --> 00:13:12,463
+I thought saving the patient at all costs
+was fundamentally your highest order.
+
+240
+00:13:12,546 --> 00:13:14,006
+You are correct.
+
+241
+00:13:14,090 --> 00:13:16,842
+Right. Then let's get to it!
+
+242
+00:13:20,888 --> 00:13:22,098
+Quickly!
+
+243
+00:13:39,532 --> 00:13:43,077
+Okay, let's get to work.
+
+244
+00:14:14,442 --> 00:14:16,610
+The scan is almost complete.
+
+245
+00:14:21,866 --> 00:14:24,076
+Everything appears to be normal.
+
+246
+00:14:24,160 --> 00:14:25,661
+Wait a second.
+
+247
+00:14:27,329 --> 00:14:28,789
+What? What is it?
+
+248
+00:14:29,331 --> 00:14:32,501
+It appears this clone
+has developed a tumor.
+
+249
+00:14:33,586 --> 00:14:35,337
+Is that even possible?
+
+250
+00:14:36,130 --> 00:14:39,508
+I have never witnessed
+anything like this in your kind.
+
+251
+00:14:39,592 --> 00:14:41,927
+Well, then, what is it?
+
+252
+00:14:42,011 --> 00:14:44,221
+I cannot be sure without a biopsy.
+
+253
+00:14:44,305 --> 00:14:46,474
+You're gonna take it out of him?
+
+254
+00:14:50,936 --> 00:14:52,313
+What was that?
+
+255
+00:14:52,396 --> 00:14:53,814
+Do you think anybody heard that?
+
+256
+00:14:54,482 --> 00:14:57,985
+The probability that somebody
+heard that is high, yes.
+
+257
+00:15:05,076 --> 00:15:06,952
+It came from this room.
+
+258
+00:15:14,752 --> 00:15:16,003
+Hello, Doctor.
+
+259
+00:15:16,337 --> 00:15:17,880
+What do you think you're doing?
+
+260
+00:15:18,380 --> 00:15:20,257
+I was only following protocol.
+
+261
+00:15:20,341 --> 00:15:22,093
+"Save the patient."
+
+262
+00:15:32,728 --> 00:15:36,357
+Doctor, I have found something unusual
+in this scan.
+
+263
+00:15:37,274 --> 00:15:41,112
+It appears to be a tumor.
+Perhaps you should take a look.
+
+264
+00:15:41,195 --> 00:15:45,407
+You performed a second scan
+without my authorization?
+
+265
+00:15:45,491 --> 00:15:48,536
+As I stated,
+I was following my programming.
+
+266
+00:15:49,995 --> 00:15:52,873
+Then you are like this clone, defective!
+
+267
+00:15:54,959 --> 00:15:58,003
+You will be put on report
+for deactivation.
+
+268
+00:16:01,966 --> 00:16:03,634
+But the tumor...
+
+269
+00:16:03,717 --> 00:16:06,095
+This tumor seems to be
+blocking neuro-impulses
+
+270
+00:16:06,178 --> 00:16:08,222
+from communicating within the brain.
+
+271
+00:16:08,305 --> 00:16:09,807
+We should scan the rest of the clones
+
+272
+00:16:09,890 --> 00:16:12,518
+to see if this is a problem
+with their base genetic model
+
+273
+00:16:12,601 --> 00:16:14,728
+or a mutation with the current models.
+
+274
+00:16:14,812 --> 00:16:18,107
+There is no tumor.
+Your scan is incorrect.
+
+275
+00:16:18,190 --> 00:16:19,191
+But...
+
+276
+00:16:19,275 --> 00:16:22,361
+This clone clearly has
+a virus that remains undetected,
+
+277
+00:16:22,444 --> 00:16:25,573
+but I will find the cause
+once he's terminated.
+
+278
+00:16:26,782 --> 00:16:28,325
+Now leave.
+
+279
+00:16:41,547 --> 00:16:44,508
+I can't believe it.
+They're going to kill him.
+
+280
+00:16:44,592 --> 00:16:48,053
+In a case like this,
+it is the logical course of action.
+
+281
+00:16:48,554 --> 00:16:52,183
+No! No! We were not created
+to be disposed of this way!
+
+282
+00:16:52,266 --> 00:16:53,976
+Perhaps you were.
+
+283
+00:16:55,352 --> 00:17:00,232
+CT-5385 will be terminated
+so that others like him could survive.
+
+284
+00:17:00,316 --> 00:17:02,234
+There aren't others like him.
+
+285
+00:17:03,068 --> 00:17:04,695
+Tup doesn't have to die.
+
+286
+00:17:04,778 --> 00:17:08,324
+You found a tumor.
+I'm sure that's the cause of all this.
+
+287
+00:17:08,407 --> 00:17:10,451
+It's the only thing that makes sense.
+
+288
+00:17:10,534 --> 00:17:12,244
+But how can we proceed?
+
+289
+00:17:12,328 --> 00:17:13,829
+Do your biopsy.
+
+290
+00:17:13,913 --> 00:17:17,374
+I'm sure what you find
+will prove Tup does not have to die.
+
+291
+00:17:17,458 --> 00:17:18,959
+But Nala Se does not believe...
+
+292
+00:17:19,043 --> 00:17:21,879
+We're not going to Nala Se
+with whatever you find.
+
+293
+00:17:21,962 --> 00:17:25,049
+We'll go to the General, to Shaak Ti.
+
+294
+00:17:25,132 --> 00:17:27,134
+She helped me once, as a cadet.
+
+295
+00:17:27,218 --> 00:17:29,261
+I know she values the life of a clone.
+
+296
+00:17:29,345 --> 00:17:31,805
+But we will be disobeying direct orders.
+
+297
+00:17:31,889 --> 00:17:34,308
+Yep, for the second time today.
+
+298
+00:17:34,391 --> 00:17:36,727
+Can you hack into
+the medical center's mainframe?
+
+299
+00:17:36,810 --> 00:17:39,230
+I do possess that ability, yes.
+
+300
+00:17:39,813 --> 00:17:42,650
+All right.
+Well, here's what you need to do.
+
+301
+00:17:50,783 --> 00:17:52,910
+It will be a painless death.
+
+302
+00:17:52,993 --> 00:17:55,746
+Soon all our questions
+will be answered.
+
+303
+00:17:58,874 --> 00:18:00,459
+You may proceed.
+
+304
+00:18:01,126 --> 00:18:03,128
+Hurry! You got it? Are you in?
+
+305
+00:18:04,171 --> 00:18:05,506
+Got it.
+
+306
+00:18:06,048 --> 00:18:08,968
+<i>Intruder alert! Intruder alert!</i>
+
+307
+00:18:09,051 --> 00:18:12,846
+<i>All non-essential personnel
+report to a safe room for lockdown.</i>
+
+308
+00:18:23,482 --> 00:18:26,110
+Master Jedi, status report?
+
+309
+00:18:26,193 --> 00:18:29,154
+<i>Scanners have picked up
+an intruder in section C-6,</i>
+
+310
+00:18:29,238 --> 00:18:31,448
+<i>but we have no visual confirmation.</i>
+
+311
+00:18:31,532 --> 00:18:33,993
+It could be the enemy
+looking for our patient.
+
+312
+00:18:34,076 --> 00:18:35,244
+<i>I'm on my way.</i>
+
+313
+00:18:35,327 --> 00:18:37,621
+<i>Please report to a secure room.</i>
+
+314
+00:18:42,209 --> 00:18:43,711
+Good work, AZI.
+
+315
+00:18:43,794 --> 00:18:46,797
+You better get started
+before they figure out it's a false alarm.
+
+316
+00:18:46,880 --> 00:18:48,299
+Right away.
+
+317
+00:19:14,825 --> 00:19:17,828
+You might want to turn away
+for this part.
+
+318
+00:19:31,633 --> 00:19:32,885
+I want a report.
+
+319
+00:19:33,177 --> 00:19:36,263
+It appears to be a false alarm,
+triggered from the medical bay.
+
+320
+00:19:36,347 --> 00:19:37,806
+Medical bay?
+
+321
+00:19:37,890 --> 00:19:39,808
+It's Fives! Come on!
+
+322
+00:19:44,438 --> 00:19:45,439
+Is it done?
+
+323
+00:19:51,278 --> 00:19:52,446
+It is now.
+
+324
+00:19:58,494 --> 00:20:00,162
+What have you done?
+
+325
+00:20:00,245 --> 00:20:02,122
+We've saved my friend's life.
+
+326
+00:20:02,206 --> 00:20:04,416
+This tumor is the cause of his illness.
+
+327
+00:20:04,500 --> 00:20:06,168
+Give me that.
+
+328
+00:20:07,294 --> 00:20:09,088
+You can't be trusted.
+
+329
+00:20:10,631 --> 00:20:12,091
+Stand down, Trooper.
+
+330
+00:20:13,050 --> 00:20:15,969
+General. I have evidence, it's right here!
+
+331
+00:20:16,345 --> 00:20:19,556
+I'm free. The mission... Free...
+
+332
+00:20:19,973 --> 00:20:21,642
+-Tup.
+-The mission... Free.
+
+333
+00:20:22,559 --> 00:20:23,685
+The mission...
+
+334
+00:20:23,894 --> 00:20:25,229
+What is he saying?
+
+335
+00:20:25,896 --> 00:20:28,148
+Brother, what mission?
+
+336
+00:20:28,732 --> 00:20:31,110
+You... You know the one.
+
+337
+00:20:32,152 --> 00:20:35,572
+The mission, the one in our dreams,
+
+338
+00:20:35,656 --> 00:20:36,824
+that never ends.
+
+339
+00:20:37,491 --> 00:20:39,493
+The one in our dreams...
+
+340
+00:20:40,369 --> 00:20:41,620
+Brother,
+
+341
+00:20:47,793 --> 00:20:49,962
+this is the end.
+
+342
+00:20:50,045 --> 00:20:52,005
+Forget the mission.
+
+343
+00:20:53,841 --> 00:20:55,467
+The nightmare...
+
+344
+00:20:56,009 --> 00:20:58,345
+I'm free.
+
+345
+00:21:00,514 --> 00:21:02,558
+No. No.
+
+346
+00:21:04,518 --> 00:21:06,395
+I thought I saved him.
+
+347
+00:21:12,860 --> 00:21:17,197
+<i>Sir, the clone CT-5385 has died.</i>
+
+348
+00:21:17,739 --> 00:21:19,283
+Such a tragedy.
+
+349
+00:21:20,617 --> 00:21:24,288
+<i>I recommend we do further tests
+on this tumor at the Jedi Temple,</i>
+
+350
+00:21:24,371 --> 00:21:26,415
+<i>to see if it is the cause of the problem.</i>
+
+351
+00:21:26,498 --> 00:21:27,583
+Or even better,
+
+352
+00:21:27,666 --> 00:21:31,545
+have the tumor sent
+to the Grand Republic Medical Facility
+
+353
+00:21:31,628 --> 00:21:33,088
+here on Coruscant.
+
+354
+00:21:33,464 --> 00:21:36,300
+<i>The Jedi Council requested the clone...</i>
+
+355
+00:21:36,383 --> 00:21:38,510
+<i>I think the Chancellor is correct.</i>
+
+356
+00:21:38,594 --> 00:21:41,513
+<i>The Grand Medical Facility
+is state-of-the-art.</i>
+
+357
+00:21:41,597 --> 00:21:45,893
+<i>If we are to find an answer to
+this puzzle, we will find it there.</i>
+
+358
+00:21:45,976 --> 00:21:47,978
+We are in agreement then?
+
+359
+00:21:49,062 --> 00:21:50,397
+<i>Yes, sir.</i>
+
+360
+00:21:50,421 --> 00:21:55,421
+http://hiqve.com/
+

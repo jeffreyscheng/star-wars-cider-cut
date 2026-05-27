@@ -1,0 +1,1218 @@
+﻿1
+00:00:10,411 --> 00:00:10,528
+h
+
+2
+00:00:10,529 --> 00:00:10,645
+ht
+
+3
+00:00:10,646 --> 00:00:10,763
+htt
+
+4
+00:00:10,764 --> 00:00:10,881
+http
+
+5
+00:00:10,882 --> 00:00:10,998
+http:
+
+6
+00:00:10,999 --> 00:00:11,116
+http:/
+
+7
+00:00:11,117 --> 00:00:11,234
+http://
+
+8
+00:00:11,235 --> 00:00:11,351
+http://h
+
+9
+00:00:11,352 --> 00:00:11,469
+http://hi
+
+10
+00:00:11,470 --> 00:00:11,586
+http://hiq
+
+11
+00:00:11,587 --> 00:00:11,704
+http://hiqv
+
+12
+00:00:11,705 --> 00:00:11,822
+http://hiqve
+
+13
+00:00:11,823 --> 00:00:11,939
+http://hiqve.
+
+14
+00:00:11,940 --> 00:00:12,057
+http://hiqve.c
+
+15
+00:00:12,058 --> 00:00:12,175
+http://hiqve.co
+
+16
+00:00:12,176 --> 00:00:12,292
+http://hiqve.com
+
+17
+00:00:12,293 --> 00:00:12,410
+http://hiqve.com/
+
+18
+00:00:12,411 --> 00:00:15,411
+http://hiqve.com/
+
+19
+00:00:18,435 --> 00:00:22,271
+<i>NARRATOR: Danger looms despite</i>
+<i>recent victories on the Outer Rim.</i>
+
+20
+00:00:22,313 --> 00:00:25,315
+<i>Criminal minds plot at the very heart</i>
+<i>of the Republic.</i>
+
+21
+00:00:25,442 --> 00:00:27,276
+<i>The bounty hunter Cad Bane</i>
+
+22
+00:00:27,402 --> 00:00:30,320
+<i>has assembled some of the deadliest</i>
+<i>criminals in the galaxy</i>
+
+23
+00:00:30,447 --> 00:00:34,241
+<i>and plans a daring attack</i>
+<i>to seize members of the Senate.</i>
+
+24
+00:00:34,284 --> 00:00:37,411
+<i>What could be the aim</i>
+<i>of this despicable act?</i>
+
+25
+00:00:38,121 --> 00:00:39,455
+Here we go.
+
+26
+00:00:41,291 --> 00:00:44,334
+<i>CLONE ON PA: Attention! Attention!</i>
+<i>This is a restricted area.</i>
+
+27
+00:00:44,461 --> 00:00:47,129
+<i>No landing is permitted</i>
+<i>without permission.</i>
+
+28
+00:00:47,172 --> 00:00:50,924
+<i>Violators will be prosecuted</i>
+<i>to the full extent of the law.</i>
+
+29
+00:00:53,011 --> 00:00:54,803
+Put up your hands.
+
+30
+00:00:55,638 --> 00:01:00,476
+I got business with the Senate.
+How about you fellows step aside?
+
+31
+00:01:00,810 --> 00:01:04,271
+On your knees! Raise your hands. Slowly.
+
+32
+00:01:04,981 --> 00:01:09,485
+Son, I wouldn't be so hasty if I were you.
+
+33
+00:01:09,986 --> 00:01:11,361
+Cuff him.
+
+34
+00:01:11,488 --> 00:01:12,821
+(FIRING)
+
+35
+00:01:15,533 --> 00:01:18,452
+-Where's that coming from?
+-I see the shooter up in the tower.
+
+36
+00:01:18,536 --> 00:01:19,620
+Over there...
+
+37
+00:01:19,829 --> 00:01:20,871
+(GRUNTS)
+
+38
+00:01:23,291 --> 00:01:25,042
+(WEAPONS FIRING)
+
+39
+00:01:31,883 --> 00:01:34,343
+(CLICKING)
+
+40
+00:01:40,016 --> 00:01:43,477
+You two, get these uniforms on
+and get this platform clear.
+
+41
+00:01:49,818 --> 00:01:51,026
+(COMLINK BEEPS)
+
+42
+00:01:51,069 --> 00:01:53,987
+<i>DROID: Base to platform.</i>
+<i>What was all that? Report.</i>
+
+43
+00:01:54,572 --> 00:01:57,491
+Protesters against the war.
+We've taken care of them.
+
+44
+00:02:09,587 --> 00:02:12,881
+Finish getting those uniforms on
+and clear this platform now.
+
+45
+00:02:13,341 --> 00:02:16,385
+Everybody else, follow me.
+
+46
+00:02:23,893 --> 00:02:27,187
+ANAKIN: Hey, I'm supposed to be
+on a meditative retreat.
+
+47
+00:02:27,230 --> 00:02:29,231
+We should go away together.
+
+48
+00:02:29,274 --> 00:02:32,359
+I know a place far away from here
+where no one would recognize us.
+
+49
+00:02:32,402 --> 00:02:35,070
+Yeah, it'll be like we're actually
+husband and wife
+
+50
+00:02:35,196 --> 00:02:37,698
+instead of senator and Jedi.
+
+51
+00:02:37,740 --> 00:02:38,866
+(STUTTERS)
+
+52
+00:02:38,908 --> 00:02:41,243
+-I can't, Ani.
+-What do you mean, you can't?
+
+53
+00:02:41,411 --> 00:02:43,203
+Oh, it's only two weeks.
+
+54
+00:02:43,246 --> 00:02:45,747
+We'll be back before anyone
+even notices we're gone.
+
+55
+00:02:46,082 --> 00:02:49,334
+I have to bring this bill before the Senate.
+It's important.
+
+56
+00:02:49,544 --> 00:02:50,836
+Uh-huh.
+
+57
+00:02:50,920 --> 00:02:53,547
+More important
+than the way you feel about me?
+
+58
+00:02:53,590 --> 00:02:57,509
+(SIGHS) Not more important,
+but important.
+
+59
+00:02:57,719 --> 00:03:02,556
+The work I do... The work we both do
+is in service to the Republic,
+
+60
+00:03:02,599 --> 00:03:05,893
+to protect those who would otherwise
+be powerless to protect themselves.
+
+61
+00:03:05,935 --> 00:03:10,439
+Of course, but those are ideals.
+Isn't our love more important to you?
+
+62
+00:03:10,857 --> 00:03:12,774
+-But, I...
+-No! No "but".
+
+63
+00:03:13,401 --> 00:03:18,280
+To me, there's nothing more important
+than the way I feel about you. Nothing.
+
+64
+00:03:18,948 --> 00:03:21,783
+-Anakin, don't be so...
+-Oh, you don't believe me.
+
+65
+00:03:21,910 --> 00:03:24,786
+-I didn't say I...
+-I'll prove it. Just watch.
+
+66
+00:03:25,205 --> 00:03:28,916
+When I finished constructing
+my lightsaber, Obi-Wan said to me,
+
+67
+00:03:28,958 --> 00:03:32,127
+"Anakin, this weapon is your life".
+
+68
+00:03:32,962 --> 00:03:35,714
+This weapon is my life.
+
+69
+00:03:35,798 --> 00:03:40,302
+No, Anakin, I can't. A Jedi lightsaber is...
+
+70
+00:03:42,722 --> 00:03:48,810
+-Wow, it's heavier than I thought.
+-It's yours. Believe me now?
+
+71
+00:03:48,978 --> 00:03:50,103
+(SIGHS IN EXASPERATION)
+
+72
+00:03:50,146 --> 00:03:52,314
+If all you want to do is make fun of me,
+
+73
+00:03:52,440 --> 00:03:54,983
+-I think you should just go.
+-That's not what I want.
+
+74
+00:03:55,985 --> 00:03:57,778
+Not at all.
+
+75
+00:04:09,499 --> 00:04:11,291
+(MACHINERY WHIRRING)
+
+76
+00:04:13,127 --> 00:04:14,336
+Stop!
+
+77
+00:04:18,675 --> 00:04:20,592
+(EXCLAIMING)
+
+78
+00:04:26,099 --> 00:04:30,352
+-You know what to do?
+-I'll figure it out.
+
+79
+00:04:30,770 --> 00:04:33,855
+You better not fail me, bubble brain.
+
+80
+00:04:33,982 --> 00:04:37,859
+Don't worry.
+I'll have the power off in no time.
+
+81
+00:04:38,194 --> 00:04:40,529
+The rest of you come with me.
+
+82
+00:04:44,325 --> 00:04:46,660
+C-3PO: But, Senator Organa,
+it just wouldn't be...
+
+83
+00:04:46,703 --> 00:04:49,454
+-Quick. Hide.
+-ORGANA: The situation cannot be delayed.
+
+84
+00:04:49,539 --> 00:04:51,206
+Now stand aside.
+
+85
+00:04:52,000 --> 00:04:53,792
+I apologize for my abruptness.
+
+86
+00:04:53,876 --> 00:04:57,713
+Oh, Senator Organa, how good to see you.
+What is it?
+
+87
+00:04:58,214 --> 00:05:00,549
+Senator Philo
+has called a meeting in the lobby
+
+88
+00:05:00,675 --> 00:05:03,468
+before we vote on
+the enhanced privacy invasion bill.
+
+89
+00:05:03,553 --> 00:05:06,305
+Right. Privacy invasion bill.
+
+90
+00:05:06,681 --> 00:05:08,473
+We must hurry if we are to stop the vote.
+
+91
+00:05:10,518 --> 00:05:13,395
+-Coming, Senator Amidala?
+-Of course.
+
+92
+00:05:15,315 --> 00:05:16,481
+(DOOR OPENS)
+
+93
+00:05:25,700 --> 00:05:27,242
+BANE: Quietly.
+
+94
+00:05:28,745 --> 00:05:31,872
+Guard change happens now.
+
+95
+00:05:36,544 --> 00:05:38,045
+Here we go.
+
+96
+00:05:38,087 --> 00:05:39,755
+(TIMER TICKING)
+
+97
+00:05:48,431 --> 00:05:49,639
+(EXPLOSION)
+
+98
+00:05:51,476 --> 00:05:54,269
+Now, let's go talk to some senators.
+
+99
+00:05:58,733 --> 00:05:59,941
+(WEAKLY) Help me.
+
+100
+00:06:00,777 --> 00:06:01,818
+(GRUNTS) No.
+
+101
+00:06:01,903 --> 00:06:03,028
+(FIRES)
+
+102
+00:06:04,781 --> 00:06:06,365
+ORGANA: We cannot allow the Chancellor
+
+103
+00:06:06,449 --> 00:06:09,201
+to move this enhanced
+privacy invasion bill forward.
+
+104
+00:06:09,285 --> 00:06:11,203
+We're all in agreement, then.
+
+105
+00:06:13,331 --> 00:06:15,123
+Morning, Senators.
+
+106
+00:06:15,500 --> 00:06:18,919
+You should all consider yourselves
+to be in my power.
+
+107
+00:06:20,338 --> 00:06:23,965
+As long as everybody behaves,
+this will be quick and painless.
+
+108
+00:06:24,675 --> 00:06:28,095
+Do nothing, and it will all be over soon.
+
+109
+00:06:28,721 --> 00:06:31,306
+I don't know who you think you are,
+
+110
+00:06:31,391 --> 00:06:35,977
+but I, for one, have no intention
+of listening to this kind of insolence.
+
+111
+00:06:37,313 --> 00:06:39,064
+(ALL EXCLAIMING)
+
+112
+00:06:40,942 --> 00:06:45,112
+All right, then. If you'll all gather
+at the center of this lovely atrium,
+
+113
+00:06:45,196 --> 00:06:49,908
+my co-workers and I will relieve you
+of any communication devices.
+
+114
+00:06:50,701 --> 00:06:52,994
+I see five of them here in the room. If we...
+
+115
+00:06:53,079 --> 00:06:56,706
+What are you going to do?
+It's not like we carry weapons.
+
+116
+00:07:00,628 --> 00:07:04,339
+-Chancellor Palpatine.
+-What is it, Senator Free Taa?
+
+117
+00:07:05,341 --> 00:07:07,592
+I think you should see this.
+
+118
+00:07:07,885 --> 00:07:09,803
+<i>Sorry to bother you, Chancellor,</i>
+
+119
+00:07:09,887 --> 00:07:13,682
+<i>but I've taken control of the east wing</i>
+<i>of your Senate building,</i>
+
+120
+00:07:13,766 --> 00:07:17,060
+<i>and the occupants are now my hostages.</i>
+
+121
+00:07:17,186 --> 00:07:18,770
+<i>If you care about them,</i>
+
+122
+00:07:18,855 --> 00:07:22,941
+<i>I'd advise you to free Ziro the Hutt</i>
+<i>from your detention center.</i>
+
+123
+00:07:23,234 --> 00:07:26,862
+You should know that the Republic
+does not take kindly to such threats.
+
+124
+00:07:26,946 --> 00:07:31,199
+If you have attempted such a foolhardy
+action as to kidnap a senator,
+
+125
+00:07:31,242 --> 00:07:34,870
+I assure you that it will be met
+with appropriate force.
+
+126
+00:07:35,705 --> 00:07:37,539
+This ought to do it.
+
+127
+00:07:37,707 --> 00:07:39,374
+(POWERING DOWN)
+
+128
+00:07:46,048 --> 00:07:47,215
+What's going on?
+
+129
+00:07:47,467 --> 00:07:50,719
+<i>I'm in control. I make the rules now.</i>
+
+130
+00:07:54,724 --> 00:07:57,392
+Orn Free Taa, help me with this door.
+
+131
+00:07:57,768 --> 00:08:02,063
+It's no use, sir. Someone's gotten
+to the central control panel.
+
+132
+00:08:02,231 --> 00:08:04,858
+They've triggered the security system.
+
+133
+00:08:04,901 --> 00:08:07,194
+The Senate buildings
+have sealed themselves.
+
+134
+00:08:07,236 --> 00:08:08,361
+(BEEPS)
+
+135
+00:08:08,404 --> 00:08:10,530
+This is Chancellor Palpatine.
+
+136
+00:08:10,573 --> 00:08:13,241
+There is an emergency
+at the Senate building.
+
+137
+00:08:13,409 --> 00:08:16,870
+Jedi Council, come in. Is anyone there?
+
+138
+00:08:16,913 --> 00:08:18,747
+That's no use either, sir.
+
+139
+00:08:18,789 --> 00:08:22,083
+They've cut off all communication
+with the outside.
+
+140
+00:08:25,755 --> 00:08:29,257
+Hand over
+your communication devices, please.
+
+141
+00:08:35,890 --> 00:08:39,351
+-I can't let them search me.
+-What? Why not?
+
+142
+00:08:39,435 --> 00:08:43,021
+-I have something they must not find.
+-What is it?
+
+143
+00:08:43,105 --> 00:08:48,860
+Well, hello there, little lady.
+And who might you be?
+
+144
+00:08:49,403 --> 00:08:52,239
+I'm Padmé Amidala, Senator from Naboo,
+
+145
+00:08:52,281 --> 00:08:54,449
+and I demand that
+you release us immediately.
+
+146
+00:08:54,575 --> 00:08:57,285
+The Galactic Senate will not treat
+with terrorists.
+
+147
+00:08:57,453 --> 00:09:01,039
+Ain't you awful young and pretty
+to be a senator?
+
+148
+00:09:09,090 --> 00:09:11,132
+Skywalker! After him!
+
+149
+00:09:16,681 --> 00:09:17,847
+(COMLINK BEEPS)
+
+150
+00:09:17,932 --> 00:09:19,683
+Hello? Come in. Anyone there?
+
+151
+00:09:25,106 --> 00:09:26,189
+Uh-oh.
+
+152
+00:09:41,289 --> 00:09:42,622
+(SQUEAKING)
+
+153
+00:09:52,758 --> 00:09:54,426
+-Oh!
+-Shh!
+
+154
+00:10:42,892 --> 00:10:44,142
+(COMLINK BEEPS)
+
+155
+00:10:44,226 --> 00:10:47,312
+This is General Skywalker.
+Chancellor Palpatine, can you hear me?
+
+156
+00:10:47,396 --> 00:10:50,899
+My dear boy,
+I'm glad to know you're there and all right.
+
+157
+00:10:50,983 --> 00:10:55,070
+<i>-ANAKIN: What is going on down there?</i>
+-I hear it, too. Coming from up ahead.
+
+158
+00:10:58,741 --> 00:11:02,911
+<i>PALPATINE: He sealed the entire building.</i>
+<i>Nobody can get in, and we cannot get out.</i>
+
+159
+00:11:03,245 --> 00:11:05,914
+<i>It's up to you.</i>
+<i>You have to get to the power control room</i>
+
+160
+00:11:05,956 --> 00:11:07,624
+<i>and turn off the security seal.</i>
+
+161
+00:11:21,263 --> 00:11:23,431
+You have two more floors to check.
+
+162
+00:11:24,433 --> 00:11:27,477
+Come on.
+We've got two more floors to check.
+
+163
+00:11:46,455 --> 00:11:50,458
+You take downstairs, I'll go up.
+We'll meet on the other side.
+
+164
+00:11:50,501 --> 00:11:51,960
+(BEEPS IN AGREEMENT)
+
+165
+00:12:27,204 --> 00:12:28,371
+(GLASS SHATTERING)
+
+166
+00:12:39,675 --> 00:12:41,009
+(CLANKING)
+
+167
+00:12:54,356 --> 00:12:56,274
+No lightsaber cuts.
+
+168
+00:12:59,487 --> 00:13:00,945
+Interesting.
+
+169
+00:13:03,824 --> 00:13:09,245
+-What happened? Where's the droid?
+-The droid's gone, but there's good news.
+
+170
+00:13:09,705 --> 00:13:12,624
+-The Jedi's unarmed.
+-What?
+
+171
+00:13:14,001 --> 00:13:19,798
+-It doesn't look like he has his lightsaber.
+-Go. Bring him back to me.
+
+172
+00:13:24,637 --> 00:13:25,845
+(DOOR BEEPING)
+
+173
+00:13:27,181 --> 00:13:28,473
+(HUMMING)
+
+174
+00:13:28,933 --> 00:13:30,016
+Oopsie!
+
+175
+00:13:31,519 --> 00:13:33,561
+Hurry! Hurry! Hurry!
+
+176
+00:13:35,147 --> 00:13:36,231
+(BEEPING)
+
+177
+00:13:36,607 --> 00:13:40,485
+-The lightsaber. I've got it.
+-What?
+
+178
+00:13:42,154 --> 00:13:44,155
+Why do you have a Jedi's lightsaber?
+
+179
+00:13:44,240 --> 00:13:46,866
+The question is whether we should try
+and get it back to...
+
+180
+00:13:46,951 --> 00:13:50,662
+-SENATOR: ...not now, too risky!
+-...the Jedi knight or use it ourselves.
+
+181
+00:13:50,746 --> 00:13:52,038
+(WEAPON FIRING)
+
+182
+00:13:52,915 --> 00:13:56,042
+Everybody, quiet. I've got a call to make.
+
+183
+00:13:59,171 --> 00:14:01,548
+<i>So here's what you're going to do.</i>
+
+184
+00:14:01,632 --> 00:14:07,220
+<i>First, you're going to make a pardon disk.</i>
+<i>You can give it to your friend there.</i>
+
+185
+00:14:07,304 --> 00:14:08,596
+Who? Me?
+
+186
+00:14:08,681 --> 00:14:12,517
+<i>My ship will come and pick him up</i>
+<i>and take him to the prison.</i>
+
+187
+00:14:12,601 --> 00:14:16,354
+<i>Once Ziro has been released</i>
+<i>and is handed over to me,</i>
+
+188
+00:14:16,438 --> 00:14:20,483
+<i>then your associates will be released.</i>
+<i>Understand?</i>
+
+189
+00:14:20,651 --> 00:14:24,320
+Oh, I do, but I feel it is my duty
+to warn you
+
+190
+00:14:24,405 --> 00:14:27,198
+that you will end up paying
+for this outrage.
+
+191
+00:14:27,283 --> 00:14:28,950
+<i>I can live with that.</i>
+
+192
+00:14:29,535 --> 00:14:32,412
+Come on. Open the door. I won't hurt you.
+
+193
+00:14:33,747 --> 00:14:36,958
+Well, well! What have we here?
+
+194
+00:14:42,464 --> 00:14:43,548
+Blast it!
+
+195
+00:14:47,928 --> 00:14:49,095
+(GRUNTING)
+
+196
+00:14:54,935 --> 00:14:57,896
+Tie your little pet up.
+We'll bring him to Bane.
+
+197
+00:14:57,980 --> 00:14:59,480
+(CHUCKLING)
+
+198
+00:15:00,399 --> 00:15:02,317
+Here's the pardon disk.
+
+199
+00:15:02,443 --> 00:15:03,610
+(DOOR OPENS)
+
+200
+00:15:03,861 --> 00:15:05,236
+Let's go.
+
+201
+00:15:06,405 --> 00:15:09,991
+-Why do I have to go to the jail for this?
+-Move it.
+
+202
+00:15:10,075 --> 00:15:13,953
+Sorry, Senator,
+but everyone has a job to do.
+
+203
+00:15:17,791 --> 00:15:19,167
+Hurry up.
+
+204
+00:15:33,182 --> 00:15:34,515
+(DOOR OPENS)
+
+205
+00:15:43,734 --> 00:15:46,194
+Young Skywalker.
+
+206
+00:15:47,321 --> 00:15:53,117
+Not so impressive
+without your lightsaber, are you, Jedi?
+
+207
+00:15:53,619 --> 00:15:55,870
+Toss him in with the others.
+
+208
+00:16:06,590 --> 00:16:08,466
+3D, are we on schedule?
+
+209
+00:16:11,053 --> 00:16:13,179
+Arriving at the prison now.
+
+210
+00:16:27,027 --> 00:16:28,403
+Unlock the doors.
+
+211
+00:16:32,199 --> 00:16:33,408
+(EXCLAIMING)
+
+212
+00:16:33,492 --> 00:16:36,160
+-It's so bright out here.
+-CLONE: Oh, my God.
+
+213
+00:16:36,245 --> 00:16:39,622
+Why couldn't we do this at night
+when it's cooler?
+
+214
+00:16:42,001 --> 00:16:45,753
+Go and get the parting gifts.
+
+215
+00:16:50,718 --> 00:16:51,843
+(BEEPS)
+
+216
+00:16:56,015 --> 00:16:57,932
+(EXPLOSIVES BEEPING)
+
+217
+00:16:59,685 --> 00:17:00,893
+(CHUCKLES)
+
+218
+00:17:00,978 --> 00:17:06,149
+Look at Senator Orn Free Taa.
+He looks so unhappy.
+
+219
+00:17:08,027 --> 00:17:09,902
+(ORN FREE TAA WHIMPERS)
+
+220
+00:17:09,987 --> 00:17:14,866
+Now get me as far away from Coruscant
+as possible!
+
+221
+00:17:14,950 --> 00:17:16,159
+Now!
+
+222
+00:17:17,036 --> 00:17:20,621
+<i>Well, Mr. Chancellor,</i>
+<i>thanks to your calm leadership,</i>
+
+223
+00:17:20,706 --> 00:17:22,832
+<i>the crisis is passed.</i>
+
+224
+00:17:23,417 --> 00:17:28,421
+<i>I got what I want, so I'll return</i>
+<i>your Senate and your senators.</i>
+
+225
+00:17:29,006 --> 00:17:33,468
+<i>Enjoy them, but don't try anything</i>
+<i>until the sun has set.</i>
+
+226
+00:17:34,303 --> 00:17:35,470
+<i>Understand?</i>
+
+227
+00:17:36,430 --> 00:17:37,472
+Oh!
+
+228
+00:17:38,599 --> 00:17:41,476
+We are to rendezvous
+back at the Senate building.
+
+229
+00:17:41,810 --> 00:17:48,816
+What? No, no, no, no! The Outer Rim,
+not the Senate, you stupid machine.
+
+230
+00:17:49,777 --> 00:17:52,653
+But I don't want to go to the Senate!
+
+231
+00:17:54,490 --> 00:17:56,449
+We need to get to the landing platform.
+
+232
+00:17:56,492 --> 00:17:58,493
+-Is everything ready?
+-Yep, yep.
+
+233
+00:17:58,911 --> 00:18:00,244
+Turn on the field.
+
+234
+00:18:00,329 --> 00:18:03,498
+If you so much as breathe
+on one of these lasers,
+
+235
+00:18:03,624 --> 00:18:05,750
+the whole room will blow up.
+
+236
+00:18:05,834 --> 00:18:10,963
+Senators, Jedi, I bid you all
+a most respectful farewell.
+
+237
+00:18:11,840 --> 00:18:13,341
+Let's go.
+
+238
+00:18:25,521 --> 00:18:27,146
+(GLASS SHATTERING)
+
+239
+00:18:28,357 --> 00:18:29,857
+All clear!
+
+240
+00:18:31,318 --> 00:18:32,777
+Sir, are you all right?
+
+241
+00:18:32,861 --> 00:18:35,863
+-Yes, yes, I'm fine.
+-Mission accomplished, sir.
+
+242
+00:18:36,198 --> 00:18:40,034
+<i>-The Chancellor is safe.</i>
+-(SIGHS) Well done, trooper.
+
+243
+00:18:40,160 --> 00:18:41,327
+(COMLINK BEEPS)
+
+244
+00:18:49,795 --> 00:18:54,048
+<i>You were foolish to think you could</i>
+<i>get away with this, bounty hunter.</i>
+
+245
+00:18:54,174 --> 00:18:56,551
+<i>Now lay down your arms</i>
+<i>and come quietly.</i>
+
+246
+00:18:56,844 --> 00:18:58,553
+No, Chancellor,
+
+247
+00:18:58,637 --> 00:19:03,724
+I'm afraid it is you who have been foolish
+with your senators' lives.
+
+248
+00:19:04,685 --> 00:19:09,689
+One false move and the east wing
+of the Senate building goes up in smoke.
+
+249
+00:19:12,234 --> 00:19:14,402
+Please, Ani, wake up.
+
+250
+00:19:14,862 --> 00:19:16,863
+You win, bounty hunter.
+
+251
+00:19:20,075 --> 00:19:21,159
+Holster.
+
+252
+00:19:23,078 --> 00:19:24,370
+Stand down.
+
+253
+00:19:31,044 --> 00:19:32,170
+(GROANS)
+
+254
+00:19:32,254 --> 00:19:34,839
+What are you looking so sad about?
+
+255
+00:19:39,344 --> 00:19:42,180
+FARR: The bounty hunter said
+we should just sit here.
+
+256
+00:19:42,598 --> 00:19:46,934
+-I think we should just sit here.
+-Well, that's not a very good idea.
+
+257
+00:19:51,773 --> 00:19:52,899
+(EXCLAIMS)
+
+258
+00:19:53,442 --> 00:19:54,609
+(GRUNTS)
+
+259
+00:19:54,902 --> 00:19:55,943
+(GASPS)
+
+260
+00:19:56,195 --> 00:19:57,528
+Come on.
+
+261
+00:20:01,450 --> 00:20:02,617
+Let's get going.
+
+262
+00:20:03,785 --> 00:20:04,952
+(EXCLAIMS)
+
+263
+00:20:05,245 --> 00:20:07,788
+(SIGHS) Too bad I don't have my lightsaber.
+
+264
+00:20:08,916 --> 00:20:11,792
+You mean this?
+I found it where you dropped it.
+
+265
+00:20:17,799 --> 00:20:20,593
+Now, quickly! We don't have much time.
+
+266
+00:20:23,972 --> 00:20:30,603
+Well, Hutt, it doesn't look like prison
+had too adverse an effect on you.
+
+267
+00:20:31,313 --> 00:20:37,068
+Oh, you can't imagine
+the unspeakable things I've suffered.
+
+268
+00:20:37,736 --> 00:20:42,990
+The horror! I doubt I'll ever really recover.
+
+269
+00:20:43,242 --> 00:20:45,826
+How about some dead senators
+as payback?
+
+270
+00:20:46,286 --> 00:20:47,995
+(EXPLOSIVES POWERING UP)
+
+271
+00:20:52,084 --> 00:20:53,334
+(SENATORS GROANING)
+
+272
+00:20:55,295 --> 00:20:56,671
+(PADMÉ COUGHING)
+
+273
+00:21:01,301 --> 00:21:07,306
+-Another daring rescue, Master Jedi.
+-I do my best, Senator.
+
+274
+00:21:08,850 --> 00:21:15,147
+Congratulations on a job well done,
+bounty hunter.
+
+275
+00:21:15,691 --> 00:21:20,778
+Time to pay up, Hutt. I don't work for free.
+
+276
+00:21:20,802 --> 00:21:22,802
+http://hiqve.com/
+

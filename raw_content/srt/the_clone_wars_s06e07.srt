@@ -1,0 +1,1178 @@
+﻿1
+00:00:10,400 --> 00:00:10,517
+h
+
+2
+00:00:10,518 --> 00:00:10,634
+ht
+
+3
+00:00:10,635 --> 00:00:10,752
+htt
+
+4
+00:00:10,753 --> 00:00:10,870
+http
+
+5
+00:00:10,871 --> 00:00:10,987
+http:
+
+6
+00:00:10,988 --> 00:00:11,105
+http:/
+
+7
+00:00:11,106 --> 00:00:11,223
+http://
+
+8
+00:00:11,224 --> 00:00:11,340
+http://h
+
+9
+00:00:11,341 --> 00:00:11,458
+http://hi
+
+10
+00:00:11,459 --> 00:00:11,575
+http://hiq
+
+11
+00:00:11,576 --> 00:00:11,693
+http://hiqv
+
+12
+00:00:11,694 --> 00:00:11,811
+http://hiqve
+
+13
+00:00:11,812 --> 00:00:11,928
+http://hiqve.
+
+14
+00:00:11,929 --> 00:00:12,046
+http://hiqve.c
+
+15
+00:00:12,047 --> 00:00:12,164
+http://hiqve.co
+
+16
+00:00:12,165 --> 00:00:12,281
+http://hiqve.com
+
+17
+00:00:12,282 --> 00:00:12,399
+http://hiqve.com/
+
+18
+00:00:12,400 --> 00:00:15,400
+http://hiqve.com/
+
+19
+00:00:17,564 --> 00:00:21,109
+<i>Corruption, discovered at
+the core of the Banking Clan.</i>
+
+20
+00:00:21,568 --> 00:00:24,279
+<i>Reunited, Rush Clovis
+and Senator Amidala</i>
+
+21
+00:00:24,362 --> 00:00:27,324
+<i>discover the full extent
+of the deception.</i>
+
+22
+00:00:27,407 --> 00:00:29,784
+<i>Anakin Skywalker is sent to the rescue.</i>
+
+23
+00:00:30,660 --> 00:00:34,539
+<i>He refuses to trust Clovis and
+asks Padmé not to work with him.</i>
+
+24
+00:00:34,831 --> 00:00:38,793
+<i>Determined to save the banks,
+she refuses her husband's request,</i>
+
+25
+00:00:38,877 --> 00:00:41,796
+<i>throwing their relationship into turmoil.</i>
+
+26
+00:00:42,464 --> 00:00:45,383
+<i>Voted for by both
+the Separatists and the Republic,</i>
+
+27
+00:00:45,467 --> 00:00:49,387
+<i>Rush Clovis is elected new leader
+of the Galactic Banking Clan.</i>
+
+28
+00:00:49,971 --> 00:00:52,974
+<i>Now, all attention is focused on Scipio,</i>
+
+29
+00:00:53,058 --> 00:00:56,144
+<i>as the important
+transfer of power begins.</i>
+
+30
+00:01:20,168 --> 00:01:22,921
+Welcome back to Scipio, Rush Clovis.
+
+31
+00:01:24,047 --> 00:01:26,716
+Our Separatist government has
+great hopes for you.
+
+32
+00:01:26,800 --> 00:01:28,051
+Thank you, Senator.
+
+33
+00:01:29,678 --> 00:01:31,638
+Only you and Senator Amidala
+will be allowed
+
+34
+00:01:31,721 --> 00:01:33,807
+to monitor the exchange proceedings.
+
+35
+00:01:34,349 --> 00:01:38,228
+No forces on either side
+will be allowed into the neutral zone.
+
+36
+00:01:38,311 --> 00:01:41,481
+<i>Senator Amidala, we'll be right here
+if you should need us.</i>
+
+37
+00:01:41,564 --> 00:01:43,358
+Thank you, Commander.
+
+38
+00:02:06,381 --> 00:02:11,469
+<i>It is with great disappointment
+that I implement the following verdict.</i>
+
+39
+00:02:12,804 --> 00:02:15,140
+<i>By decree of the Muun people,</i>
+
+40
+00:02:15,223 --> 00:02:18,310
+<i>the five representatives
+standing before me</i>
+
+41
+00:02:18,393 --> 00:02:20,937
+<i>are found guilty of embezzlement.</i>
+
+42
+00:02:21,396 --> 00:02:23,940
+<i>They shall be imprisoned forthwith,</i>
+
+43
+00:02:24,024 --> 00:02:29,112
+<i>and control of the banks shall
+transfer immediately to Rush Clovis,</i>
+
+44
+00:02:29,195 --> 00:02:32,574
+<i>under the guidance of
+the Muun government.</i>
+
+45
+00:02:40,915 --> 00:02:42,959
+<i>We are grateful to you, Clovis,</i>
+
+46
+00:02:43,043 --> 00:02:46,171
+<i>for everything you have
+done for the Muun people.</i>
+
+47
+00:02:46,629 --> 00:02:50,508
+<i>To have lost the banks
+would have been a historic disaster.</i>
+
+48
+00:02:51,092 --> 00:02:54,429
+I would like you to know I have
+no interest in controlling the banks.
+
+49
+00:02:54,846 --> 00:02:57,515
+<i>I'm simply here to reestablish order.</i>
+
+50
+00:03:02,103 --> 00:03:05,065
+Do you think our friend
+is up to the task?
+
+51
+00:03:05,899 --> 00:03:07,776
+There are few men
+I have met in my career
+
+52
+00:03:07,859 --> 00:03:10,278
+who are more dedicated to a cause
+than Clovis.
+
+53
+00:03:10,612 --> 00:03:14,908
+Once he decides what he is fighting for,
+little will stop him from achieving it.
+
+54
+00:03:15,200 --> 00:03:18,703
+Let us hope you are right,
+for all our sakes.
+
+55
+00:03:39,641 --> 00:03:43,436
+<i>Clovis, how are you liking
+your new office?</i>
+
+56
+00:03:43,812 --> 00:03:47,649
+<i>I must say, you look very comfortable
+behind that desk.</i>
+
+57
+00:03:47,732 --> 00:03:50,652
+Count Dooku,
+what do I owe the pleasure?
+
+58
+00:03:51,069 --> 00:03:53,113
+<i>Come, come, my boy.</i>
+
+59
+00:03:53,196 --> 00:03:55,573
+<i>You don't think
+I'd let such an important day pass</i>
+
+60
+00:03:55,657 --> 00:03:58,201
+<i>without wishing you the best of luck?</i>
+
+61
+00:03:58,660 --> 00:04:01,496
+Thank you.
+But luck has nothing to do with it.
+
+62
+00:04:01,579 --> 00:04:03,915
+The transfer has occurred
+without a hitch.
+
+63
+00:04:03,998 --> 00:04:05,708
+<i>Well, of course it has.</i>
+
+64
+00:04:05,792 --> 00:04:09,087
+<i>The Separatists are
+fully behind your appointment.</i>
+
+65
+00:04:09,170 --> 00:04:12,549
+<i>After all, aren't we
+the ones who put you there?</i>
+
+66
+00:04:14,342 --> 00:04:16,136
+For your support, I am grateful.
+
+67
+00:04:16,219 --> 00:04:19,347
+But I now must lead
+without allegiance towards either side.
+
+68
+00:04:22,183 --> 00:04:24,102
+<i>Is that so?</i>
+
+69
+00:04:24,185 --> 00:04:27,605
+<i>Quite the idealist you have become
+in so short a time.</i>
+
+70
+00:04:28,106 --> 00:04:30,066
+What do you want, Dooku?
+
+71
+00:04:30,191 --> 00:04:32,277
+<i>To collect on my investment.</i>
+
+72
+00:04:32,360 --> 00:04:34,279
+<i>How do you think
+the Republic would like to know</i>
+
+73
+00:04:34,362 --> 00:04:36,948
+<i>that it was I who supplied Rush Clovis</i>
+
+74
+00:04:37,031 --> 00:04:40,660
+<i>with all the information he needed
+to topple the leaders of the bank?</i>
+
+75
+00:04:40,743 --> 00:04:42,579
+I will tell them myself.
+
+76
+00:04:42,662 --> 00:04:44,205
+<i>But you can't.</i>
+
+77
+00:04:44,664 --> 00:04:48,334
+<i>I put you in power, you belong to me.</i>
+
+78
+00:04:49,002 --> 00:04:52,380
+<i>And if you want to stay in control,
+you will do as I say.</i>
+
+79
+00:04:52,797 --> 00:04:55,216
+The banks will remain unbiased.
+
+80
+00:04:55,842 --> 00:05:00,805
+<i>Then I'm afraid the Separatists will be
+unable to pay the interest on our loans.</i>
+
+81
+00:05:01,055 --> 00:05:03,016
+But the banks will collapse and the...
+
+82
+00:05:03,099 --> 00:05:06,436
+<i>Not if you raise interest rates
+on the Republic.</i>
+
+83
+00:05:06,561 --> 00:05:07,562
+What?
+
+84
+00:05:07,812 --> 00:05:09,272
+You know I can't do that.
+
+85
+00:05:09,564 --> 00:05:12,150
+<i>But you can, and you will.</i>
+
+86
+00:05:12,442 --> 00:05:16,946
+<i>Or everything that you've fought
+so hard for will be destroyed.</i>
+
+87
+00:05:30,960 --> 00:05:33,505
+By the new order of the Traxus Division,
+
+88
+00:05:33,671 --> 00:05:35,882
+<i>and in an attempt
+to stabilize the banks,</i>
+
+89
+00:05:36,257 --> 00:05:39,177
+<i>it is essential that interest rates on
+loans to the Republic</i>
+
+90
+00:05:39,260 --> 00:05:40,845
+<i>be raised immediately.</i>
+
+91
+00:05:41,763 --> 00:05:42,805
+What?
+
+92
+00:05:43,014 --> 00:05:44,224
+But you can't do that!
+
+93
+00:05:44,599 --> 00:05:45,600
+Clovis!
+
+94
+00:05:46,476 --> 00:05:47,560
+Clovis?
+
+95
+00:05:47,936 --> 00:05:49,687
+What are you doing?
+
+96
+00:06:03,785 --> 00:06:05,328
+<i>This is an outrage!</i>
+
+97
+00:06:05,453 --> 00:06:07,580
+<i>We warned you this would happen!</i>
+
+98
+00:06:07,664 --> 00:06:09,874
+<i>And what of the Separatists?</i>
+
+99
+00:06:10,333 --> 00:06:14,128
+<i>From the little information Senator
+Amidala has been able to establish,</i>
+
+100
+00:06:14,212 --> 00:06:17,423
+<i>there will be no raise
+on their current loan.</i>
+
+101
+00:06:18,091 --> 00:06:21,636
+<i>I knew from the beginning
+that Clovis would do this.</i>
+
+102
+00:06:22,095 --> 00:06:24,472
+<i>We knew that Clovis would do this.</i>
+
+103
+00:06:29,435 --> 00:06:32,188
+Correct you might have been
+about Clovis.
+
+104
+00:06:32,772 --> 00:06:36,067
+It's incredibly foolish for him
+to make a move like this so early.
+
+105
+00:06:36,317 --> 00:06:39,028
+He will turn the whole Republic
+against him.
+
+106
+00:06:39,320 --> 00:06:44,117
+Not clear to us are his objectives.
+Want this, he might.
+
+107
+00:06:44,909 --> 00:06:48,037
+Something's wrong.
+This doesn't make sense.
+
+108
+00:06:48,454 --> 00:06:51,708
+<i>I would like to call for restraint</i>
+
+109
+00:06:51,791 --> 00:06:54,752
+<i>and allow us time
+to analyze the situation.</i>
+
+110
+00:07:12,520 --> 00:07:14,397
+You may begin your attack.
+
+111
+00:07:14,480 --> 00:07:19,444
+It is time to make Rush Clovis
+look like a powerful Separatist.
+
+112
+00:07:19,527 --> 00:07:21,279
+Right away, sir.
+
+113
+00:07:28,077 --> 00:07:29,621
+It looks like an invasion fleet, sir.
+
+114
+00:07:29,871 --> 00:07:31,623
+We're caught out here in the open.
+
+115
+00:07:36,336 --> 00:07:39,672
+Get the men off this landing pad
+and beyond the city gates.
+
+116
+00:07:50,850 --> 00:07:53,353
+<i>Senator Amidala, come in, please.</i>
+
+117
+00:07:53,436 --> 00:07:54,812
+What is it, Commander Thorn?
+
+118
+00:07:54,896 --> 00:07:57,148
+<i>We're under attack
+by the Separatist garrison.</i>
+
+119
+00:07:57,482 --> 00:07:58,900
+<i>Looks to be a full invasion.</i>
+
+120
+00:07:59,108 --> 00:08:00,401
+Invasion?
+
+121
+00:08:00,485 --> 00:08:01,778
+<i>We can't get to you.</i>
+
+122
+00:08:01,861 --> 00:08:04,739
+<i>I suggest you get to a ship
+as soon as you can.</i>
+
+123
+00:08:28,221 --> 00:08:30,139
+Let's move! Hurry!
+
+124
+00:08:58,960 --> 00:09:00,753
+For the Republic!
+
+125
+00:09:34,287 --> 00:09:36,914
+<i>Our garrison has been
+attacked by the Separatists.</i>
+
+126
+00:09:36,998 --> 00:09:39,417
+<i>And it appears
+they are staging an invasion of Scipio.</i>
+
+127
+00:09:39,500 --> 00:09:40,877
+An invasion?
+
+128
+00:09:41,252 --> 00:09:42,837
+What do they hope to achieve?
+
+129
+00:09:43,337 --> 00:09:46,966
+With this news, the Senate will
+vote immediately to attack Scipio.
+
+130
+00:09:47,300 --> 00:09:49,927
+<i>It appears war has
+already come to Scipio.</i>
+
+131
+00:09:50,178 --> 00:09:52,180
+I want you off that planet immediately.
+
+132
+00:09:52,513 --> 00:09:53,681
+<i>I can't.</i>
+
+133
+00:09:54,140 --> 00:09:55,933
+Surely you can get to a ship.
+
+134
+00:09:56,392 --> 00:09:59,228
+<i>General Skywalker,
+I'm afraid I'm trapped.</i>
+
+135
+00:10:03,024 --> 00:10:04,025
+<i>Let me go!</i>
+
+136
+00:10:05,276 --> 00:10:07,445
+Invoke an emergency meeting
+of the Senate.
+
+137
+00:10:07,528 --> 00:10:09,363
+There is no time to lose.
+
+138
+00:10:11,574 --> 00:10:15,703
+I feel it is only right that you should
+handle this matter, my boy.
+
+139
+00:10:15,787 --> 00:10:18,206
+A lot will be entrusted to you.
+
+140
+00:10:26,172 --> 00:10:27,256
+Don't touch me.
+
+141
+00:10:29,550 --> 00:10:30,676
+What have you done to her?
+
+142
+00:10:32,094 --> 00:10:34,597
+Clovis, what is going on?
+
+143
+00:10:34,680 --> 00:10:36,641
+I didn't want this, Padmé.
+
+144
+00:10:36,724 --> 00:10:40,478
+Why don't you tell her
+what you did want and how you got it.
+
+145
+00:10:41,687 --> 00:10:43,022
+Dooku?
+
+146
+00:10:46,442 --> 00:10:48,486
+Padmé, this is not what it seems.
+
+147
+00:10:48,569 --> 00:10:50,947
+Hasn't she joined our cause?
+
+148
+00:10:51,030 --> 00:10:55,159
+Clovis here told me how instrumental
+you were in getting him to power.
+
+149
+00:10:55,243 --> 00:10:56,494
+If I had known...
+
+150
+00:10:56,577 --> 00:10:59,205
+Either you're with us,
+or you're against us.
+
+151
+00:10:59,288 --> 00:11:00,581
+Arrest her.
+
+152
+00:11:00,665 --> 00:11:02,250
+We can't do this, Dooku.
+
+153
+00:11:02,583 --> 00:11:04,794
+The Separatist Senate
+will never approve.
+
+154
+00:11:06,003 --> 00:11:07,088
+Hey.
+
+155
+00:11:11,801 --> 00:11:14,178
+No, no!
+
+156
+00:11:16,264 --> 00:11:17,390
+No!
+
+157
+00:11:19,475 --> 00:11:22,353
+Are you insane?
+This was not part of the deal.
+
+158
+00:11:22,436 --> 00:11:24,021
+What deal?
+
+159
+00:11:24,105 --> 00:11:25,898
+What have you done here, Clovis?
+
+160
+00:11:25,982 --> 00:11:27,525
+He's given us the banks.
+
+161
+00:11:28,067 --> 00:11:32,113
+Gone are our debts,
+and gone is any credit for the Republic.
+
+162
+00:11:33,489 --> 00:11:36,409
+All of your idealism was just a front.
+
+163
+00:11:36,951 --> 00:11:38,786
+There was nothing I could do.
+
+164
+00:11:39,328 --> 00:11:42,373
+Everyone has their price, my dear.
+
+165
+00:11:49,755 --> 00:11:53,175
+<i>It is with grave news I come before you.</i>
+
+166
+00:11:53,885 --> 00:11:57,054
+<i>Count Dooku and
+his Separatist betrayers</i>
+
+167
+00:11:57,138 --> 00:11:59,140
+<i>have manipulated us, my friends.</i>
+
+168
+00:11:59,765 --> 00:12:02,018
+<i>The war must go to Scipio.</i>
+
+169
+00:12:02,101 --> 00:12:04,729
+<i>Clovis has been their puppet of deceit,</i>
+
+170
+00:12:04,812 --> 00:12:08,941
+<i>as the Separatists are
+currently invading Scipio.</i>
+
+171
+00:12:09,025 --> 00:12:11,777
+<i>We must stop them
+and secure the planet.</i>
+
+172
+00:12:11,861 --> 00:12:16,866
+<i>We have handed the entire
+economic system over to Count Dooku.</i>
+
+173
+00:12:16,949 --> 00:12:19,577
+<i>We are doomed! Invade!</i>
+
+174
+00:12:23,164 --> 00:12:25,166
+<i>As Supreme Chancellor,</i>
+
+175
+00:12:25,249 --> 00:12:28,628
+<i>I must abide
+by the consensus of the Senate.</i>
+
+176
+00:12:28,711 --> 00:12:31,923
+<i>We shall commence
+a mercy mission to Scipio</i>
+
+177
+00:12:32,006 --> 00:12:35,217
+<i>to be led by General Anakin Skywalker.</i>
+
+178
+00:12:36,010 --> 00:12:42,475
+<i>The banks will be secured at all costs.
+And the Republic will not crumble.</i>
+
+179
+00:12:44,393 --> 00:12:47,021
+<i>We'll obtain victory!</i>
+
+180
+00:12:47,730 --> 00:12:50,608
+<i>Yeah, war on Scipio.</i>
+
+181
+00:12:53,194 --> 00:12:57,698
+Great emotions you will find on Scipio,
+will you not?
+
+182
+00:12:59,575 --> 00:13:03,663
+I am worried for Senator Amidala.
+I'm afraid we may be too late.
+
+183
+00:13:03,913 --> 00:13:09,543
+Correct you were about Clovis.
+But let go of your selfishness you must
+
+184
+00:13:09,961 --> 00:13:12,004
+if you are to see clearly.
+
+185
+00:13:12,546 --> 00:13:15,216
+Not all is as it seems.
+
+186
+00:13:16,342 --> 00:13:18,177
+I understand, Master.
+
+187
+00:13:45,579 --> 00:13:50,835
+<i>Lord Tyranus, the Republic fleet
+will be arriving shortly.</i>
+
+188
+00:13:51,210 --> 00:13:52,837
+Very good, my Lord.
+
+189
+00:13:52,920 --> 00:13:55,631
+Clovis has blindly played his part,
+
+190
+00:13:55,715 --> 00:13:59,635
+it now appears he coordinated
+the entire Separatist takeover.
+
+191
+00:14:00,886 --> 00:14:06,225
+<i>And because of this treachery,
+the banks will be firmly placed</i>
+
+192
+00:14:06,600 --> 00:14:10,896
+<i>under the control of
+the Supreme Chancellor.</i>
+
+193
+00:14:24,285 --> 00:14:26,203
+Why are you doing this?
+
+194
+00:14:26,287 --> 00:14:28,414
+You wouldn't understand.
+
+195
+00:14:28,873 --> 00:14:33,419
+I had to strike a deal with Dooku.
+But don't worry, I am the one in control.
+
+196
+00:14:33,502 --> 00:14:36,213
+As soon as things have settled down,
+I can get rid of him.
+
+197
+00:14:36,297 --> 00:14:37,965
+And I'll control it all again.
+
+198
+00:14:38,049 --> 00:14:39,383
+Listen to yourself.
+
+199
+00:14:39,467 --> 00:14:42,887
+The Republic is sending its armada
+to take back the banks.
+
+200
+00:14:42,970 --> 00:14:46,599
+You've brought war
+right where there cannot be war.
+
+201
+00:14:46,682 --> 00:14:50,019
+Your actions have destroyed the banks
+once and for all.
+
+202
+00:15:00,529 --> 00:15:03,491
+Rex, have you gotten a fix
+on Senator Amidala's position?
+
+203
+00:15:03,991 --> 00:15:06,243
+We'll have a better lock
+once we get near the city.
+
+204
+00:15:06,327 --> 00:15:08,829
+But initial scans suggest
+she's still alive, sir.
+
+205
+00:15:09,371 --> 00:15:10,414
+Good.
+
+206
+00:15:10,498 --> 00:15:13,000
+Hawk, we're gonna need air support
+once we're on the ground.
+
+207
+00:15:13,209 --> 00:15:16,337
+You'll have it, General.
+Me and the boys are ready to fly.
+
+208
+00:15:52,373 --> 00:15:55,960
+My Lord, we have
+fully engaged Republic forces.
+
+209
+00:15:56,043 --> 00:15:58,462
+But we are suffering heavy losses.
+
+210
+00:15:58,546 --> 00:16:00,798
+We have accomplished
+what we came here for.
+
+211
+00:16:00,881 --> 00:16:02,716
+It is time to withdraw.
+
+212
+00:16:02,800 --> 00:16:07,721
+But, sir, our forces are
+still engaged in battle on the planet.
+
+213
+00:16:08,264 --> 00:16:09,515
+Leave them.
+
+214
+00:16:09,849 --> 00:16:11,976
+As you wish, Count Dooku.
+
+215
+00:16:28,909 --> 00:16:32,496
+<i>Sir, a Republic attack fleet
+has just entered orbit,</i>
+
+216
+00:16:32,580 --> 00:16:33,914
+<i>and is approaching the city.</i>
+
+217
+00:16:36,000 --> 00:16:37,376
+Get me Count Dooku.
+
+218
+00:16:37,459 --> 00:16:41,338
+<i>It appears Count Dooku has
+left the planet's surface.</i>
+
+219
+00:16:41,422 --> 00:16:42,423
+What?
+
+220
+00:16:42,506 --> 00:16:44,842
+<i>And the Separatist forces
+are in full retreat.</i>
+
+221
+00:16:45,676 --> 00:16:47,511
+<i>We are alone.</i>
+
+222
+00:17:16,707 --> 00:17:19,043
+Rex, hold the droid forces here.
+
+223
+00:17:19,126 --> 00:17:21,587
+-I'm gonna push on and get Padmé.
+-Copy that.
+
+224
+00:17:34,433 --> 00:17:36,060
+Such plans I had.
+
+225
+00:17:37,186 --> 00:17:40,606
+You know, I've spent
+so much of my life misunderstood.
+
+226
+00:17:41,649 --> 00:17:43,734
+What will they say about me now?
+
+227
+00:17:43,817 --> 00:17:45,361
+What will I have left behind?
+
+228
+00:17:46,111 --> 00:17:48,989
+Clovis, you have to turn yourself in.
+
+229
+00:17:58,874 --> 00:18:00,501
+It's over, Clovis.
+
+230
+00:18:11,762 --> 00:18:13,180
+Stay away from me.
+
+231
+00:18:13,264 --> 00:18:16,016
+I didn't do anything wrong.
+You have to believe me.
+
+232
+00:18:16,475 --> 00:18:18,811
+You don't wanna do this.
+
+233
+00:18:19,061 --> 00:18:22,106
+You don't understand.
+You've all been deceived.
+
+234
+00:18:22,189 --> 00:18:23,607
+Yeah, by you.
+
+235
+00:18:23,941 --> 00:18:25,985
+No, by Dooku.
+
+236
+00:18:27,695 --> 00:18:29,655
+I'm not the villain here.
+Tell him, Padmé.
+
+237
+00:18:31,198 --> 00:18:32,449
+Let me go, Clovis.
+
+238
+00:19:02,938 --> 00:19:04,148
+No!
+
+239
+00:19:12,573 --> 00:19:14,950
+I can't hold both of you.
+
+240
+00:19:17,244 --> 00:19:18,495
+Let me go.
+
+241
+00:19:18,579 --> 00:19:20,331
+No, Anakin, don't!
+
+242
+00:19:24,752 --> 00:19:26,086
+Try and climb.
+
+243
+00:19:28,714 --> 00:19:30,090
+I am.
+
+244
+00:19:30,382 --> 00:19:31,925
+I'm losing you.
+
+245
+00:19:32,801 --> 00:19:34,678
+I'm sorry, Padmé.
+
+246
+00:19:36,555 --> 00:19:37,556
+No!
+
+247
+00:19:51,779 --> 00:19:54,323
+It's okay. You're okay.
+
+248
+00:19:54,406 --> 00:19:57,284
+I'm sorry, Anakin. I'm sorry.
+
+249
+00:19:58,243 --> 00:20:00,954
+It's over now. It's all over now.
+
+250
+00:20:06,794 --> 00:20:10,881
+<i>It is clear to the Banking Clan
+it was Rush Clovis</i>
+
+251
+00:20:10,964 --> 00:20:14,927
+<i>who was behind the corruption
+that almost caused our collapse.</i>
+
+252
+00:20:15,010 --> 00:20:19,723
+<i>In hope of a better tomorrow,
+we cede control of the banks</i>
+
+253
+00:20:19,807 --> 00:20:23,644
+<i>to the office of the Chancellor
+of the Galactic Republic.</i>
+
+254
+00:20:27,106 --> 00:20:33,946
+<i>It is with great humility that
+I take on this immense responsibility.</i>
+
+255
+00:20:34,655 --> 00:20:37,950
+<i>Rest assured,
+when the Clone Wars end,</i>
+
+256
+00:20:38,033 --> 00:20:41,662
+<i>I shall reinstate the banks
+as we once knew them.</i>
+
+257
+00:20:42,579 --> 00:20:45,707
+<i>But during these treacherous times,</i>
+
+258
+00:20:46,291 --> 00:20:48,919
+<i>we cannot, in good conscience,
+allow our money</i>
+
+259
+00:20:49,002 --> 00:20:53,924
+<i>to fall under the manipulations
+of a madman like Count Dooku</i>
+
+260
+00:20:54,007 --> 00:20:55,926
+<i>or Separatist control again.</i>
+
+261
+00:21:00,097 --> 00:21:05,853
+<i>May there be prosperity and stability
+at all our Republic lands.</i>
+
+262
+00:21:06,353 --> 00:21:10,190
+<i>May our people be free and safe.</i>
+
+263
+00:21:11,024 --> 00:21:12,901
+<i>Long live the banks.</i>
+
+264
+00:21:13,527 --> 00:21:17,448
+<i>Long live the banks!
+Long live the banks!</i>
+
+265
+00:21:17,531 --> 00:21:18,907
+<i>Long live the banks!</i>
+
+266
+00:21:18,931 --> 00:21:23,931
+http://hiqve.com/
+

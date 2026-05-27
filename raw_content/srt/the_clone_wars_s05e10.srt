@@ -1,0 +1,1004 @@
+﻿1
+00:00:10,582 --> 00:00:10,699
+h
+
+2
+00:00:10,700 --> 00:00:10,816
+ht
+
+3
+00:00:10,817 --> 00:00:10,934
+htt
+
+4
+00:00:10,935 --> 00:00:11,052
+http
+
+5
+00:00:11,053 --> 00:00:11,169
+http:
+
+6
+00:00:11,170 --> 00:00:11,287
+http:/
+
+7
+00:00:11,288 --> 00:00:11,405
+http://
+
+8
+00:00:11,406 --> 00:00:11,522
+http://h
+
+9
+00:00:11,523 --> 00:00:11,640
+http://hi
+
+10
+00:00:11,641 --> 00:00:11,757
+http://hiq
+
+11
+00:00:11,758 --> 00:00:11,875
+http://hiqv
+
+12
+00:00:11,876 --> 00:00:11,993
+http://hiqve
+
+13
+00:00:11,994 --> 00:00:12,110
+http://hiqve.
+
+14
+00:00:12,111 --> 00:00:12,228
+http://hiqve.c
+
+15
+00:00:12,229 --> 00:00:12,346
+http://hiqve.co
+
+16
+00:00:12,347 --> 00:00:12,463
+http://hiqve.com
+
+17
+00:00:12,464 --> 00:00:12,581
+http://hiqve.com/
+
+18
+00:00:12,582 --> 00:00:15,582
+http://hiqve.com/
+
+19
+00:00:18,606 --> 00:00:19,982
+<i>Secret weapons!</i>
+
+20
+00:00:20,691 --> 00:00:22,777
+<i>The Jedi Council deploys a squad of droids</i>
+
+21
+00:00:22,818 --> 00:00:25,613
+<i>on a desperate mission
+aboard a Separatist cruiser.</i>
+
+22
+00:00:26,030 --> 00:00:28,491
+<i>Under the guidance
+of Colonel Meebur Gascon,</i>
+
+23
+00:00:28,616 --> 00:00:32,036
+<i>the droids succeed in stealing
+a crucial encryption module.</i>
+
+24
+00:00:32,537 --> 00:00:37,291
+<i>Now the Colonel and his droid squad
+must return the module to the Jedi Temple</i>
+
+25
+00:00:37,333 --> 00:00:42,296
+<i>to crack a Separatist code detailing an
+impending terror plot against the Republic.</i>
+
+26
+00:00:45,800 --> 00:00:49,136
+How long until my command center
+is operational again?
+
+27
+00:00:51,806 --> 00:00:52,932
+Okay, fine.
+
+28
+00:00:54,308 --> 00:00:58,854
+I meant, how long
+until Beezee is operational again?
+
+29
+00:01:00,606 --> 00:01:01,857
+Well, make it fast!
+
+30
+00:01:02,275 --> 00:01:06,362
+We must get this encryption module
+back to the Republic as soon as possible.
+
+31
+00:01:18,499 --> 00:01:19,709
+Uh-oh!
+
+32
+00:01:29,343 --> 00:01:31,846
+Oh, Beezee! You are all better!
+
+33
+00:01:32,054 --> 00:01:37,018
+WAC, what are you doing back here?
+Who is flying this shuttle?
+
+34
+00:01:37,685 --> 00:01:39,770
+I have good news and bad news, Colonel.
+
+35
+00:01:39,854 --> 00:01:43,024
+The bad news is,
+scans are picking up giant ice formations
+
+36
+00:01:43,149 --> 00:01:44,442
+commonly called comets
+
+37
+00:01:44,525 --> 00:01:46,611
+-heading straight for us.
+-What?
+
+38
+00:01:48,029 --> 00:01:50,031
+What in the world is the good news?
+
+39
+00:01:50,531 --> 00:01:53,701
+At least you have a good excuse
+if your mission is a failure?
+
+40
+00:01:54,035 --> 00:01:56,329
+Get out of my way.
+
+41
+00:02:08,382 --> 00:02:10,343
+Quick! Drop us out of hyperspace!
+
+42
+00:02:17,683 --> 00:02:18,726
+Whoa!
+
+43
+00:02:23,230 --> 00:02:24,231
+Look out!
+
+44
+00:02:37,119 --> 00:02:38,454
+The shuttle's power system
+
+45
+00:02:38,537 --> 00:02:39,580
+has been knocked out.
+
+46
+00:02:39,747 --> 00:02:41,290
+I can see that!
+
+47
+00:02:45,169 --> 00:02:46,504
+He says he can fix it.
+
+48
+00:03:07,692 --> 00:03:09,318
+And swinging right...
+
+49
+00:03:22,665 --> 00:03:24,667
+Auxiliary power has been restored,
+
+50
+00:03:24,750 --> 00:03:26,502
+but it is not enough to get us moving!
+
+51
+00:03:26,585 --> 00:03:29,296
+We need the primary motivators
+re-established now!
+
+52
+00:03:29,588 --> 00:03:31,757
+Forget that!
+We need the engines to come on!
+
+53
+00:03:32,049 --> 00:03:33,759
+That's what I'm saying!
+
+54
+00:03:44,812 --> 00:03:46,814
+Uh-oh. They just got bigger!
+
+55
+00:03:48,524 --> 00:03:50,443
+Come on, you lousy mechs!
+
+56
+00:03:55,865 --> 00:03:57,992
+Colonel, we are headed for that comet!
+
+57
+00:03:58,576 --> 00:03:59,660
+Brace yourself!
+
+58
+00:04:04,540 --> 00:04:06,000
+The engines are back online!
+
+59
+00:04:39,241 --> 00:04:40,284
+Whoa! Whoa!
+
+60
+00:05:09,563 --> 00:05:12,608
+We have lost the stabilizers
+and primary control of the engines.
+
+61
+00:05:14,735 --> 00:05:16,570
+We are going to have to put her down
+on that planet.
+
+62
+00:05:19,990 --> 00:05:22,451
+What planet is it?
+Is it Separatist-controlled?
+
+63
+00:05:22,576 --> 00:05:24,578
+-Who cares?
+-I care!
+
+64
+00:05:24,662 --> 00:05:28,916
+-We can't jeopardize the mission !
+-I think we are past that point, sir.
+
+65
+00:05:53,315 --> 00:05:55,442
+We're going down!
+
+66
+00:06:13,335 --> 00:06:15,546
+I think I ruptured my gizzard.
+
+67
+00:06:44,241 --> 00:06:47,828
+Well, this is a fine mess
+you mechs got us into.
+
+68
+00:06:50,831 --> 00:06:57,588
+Look at this! All the database says is
+"Abafar: Information on planet void."
+
+69
+00:07:00,007 --> 00:07:05,179
+Don't be absurd ! We can't just
+go rushing off like fools into this void!
+
+70
+00:07:05,346 --> 00:07:08,766
+We need to stay put, consider all the facts,
+and then I'll...
+
+71
+00:07:09,016 --> 00:07:11,393
+I'll draw up a reconnaissance plan
+and we can...
+
+72
+00:07:11,518 --> 00:07:14,521
+Hey! Hey! Where are you going, soldier?
+
+73
+00:07:16,398 --> 00:07:18,567
+He says we have to finish our mission.
+
+74
+00:07:23,030 --> 00:07:27,368
+Hey! Where did you get that?
+That is classified material!
+
+75
+00:07:30,079 --> 00:07:33,082
+I will not stand for insubordination!
+
+76
+00:07:33,415 --> 00:07:34,583
+Do not worry, Colonel,
+
+77
+00:07:34,708 --> 00:07:37,795
+I can lead the mission from here
+and return the module.
+
+78
+00:07:38,128 --> 00:07:40,756
+Maybe they'll give me a promotion!
+
+79
+00:07:41,382 --> 00:07:43,634
+Over my dead body!
+
+80
+00:07:43,884 --> 00:07:45,469
+Beezee! Pop your top!
+
+81
+00:07:45,970 --> 00:07:50,057
+I will not let you droids
+commandeer my mission!
+
+82
+00:08:18,669 --> 00:08:20,796
+Oh, so hot.
+
+83
+00:08:24,967 --> 00:08:29,805
+I can't believe I came this close
+to completing my first mission,
+
+84
+00:08:29,930 --> 00:08:33,350
+only to get lost in this detestable desert.
+
+85
+00:08:33,851 --> 00:08:35,352
+Look on the bright side, Colonel.
+
+86
+00:08:35,436 --> 00:08:37,479
+At least it is a sunny day.
+
+87
+00:08:37,938 --> 00:08:40,441
+What sun? I don't see any sun.
+
+88
+00:08:40,983 --> 00:08:43,318
+It's just hot and oppressive.
+
+89
+00:08:44,361 --> 00:08:45,654
+Wait a minute.
+
+90
+00:08:46,363 --> 00:08:47,656
+There's no sun.
+
+91
+00:08:47,948 --> 00:08:50,200
+How do we know
+which direction we're going?
+
+92
+00:08:51,994 --> 00:08:55,372
+You set your directional guidance
+to "straight"?
+
+93
+00:08:55,789 --> 00:09:00,127
+That's all we're going on,
+some rudimentary programming directive
+
+94
+00:09:00,169 --> 00:09:02,337
+in a lousy astromech?
+
+95
+00:09:06,759 --> 00:09:09,762
+Yes! I know you're designed for navigation.
+
+96
+00:09:09,803 --> 00:09:13,474
+But that requires map coordinates
+and environmental input,
+
+97
+00:09:13,599 --> 00:09:16,268
+something we are sorely lacking here.
+
+98
+00:09:16,810 --> 00:09:19,438
+All right, we can't rely on technology.
+
+99
+00:09:20,022 --> 00:09:21,899
+We have to rely on my training,
+
+100
+00:09:22,316 --> 00:09:24,526
+something you droids don't have.
+
+101
+00:09:25,569 --> 00:09:27,029
+How do you know, Colonel?
+
+102
+00:09:28,655 --> 00:09:30,908
+Because droids don't get training!
+
+103
+00:09:31,075 --> 00:09:32,659
+You get programmed.
+
+104
+00:09:34,161 --> 00:09:35,662
+That's your weakness!
+
+105
+00:09:36,205 --> 00:09:40,084
+So how is your training
+going to lead us out of this void?
+
+106
+00:09:41,085 --> 00:09:45,172
+Well,
+my training as an officer tells me
+
+107
+00:09:45,255 --> 00:09:51,345
+to use all available resources
+to stay alive until help comes.
+
+108
+00:09:51,428 --> 00:09:55,015
+So, your officer training,
+how exactly did you learn that?
+
+109
+00:09:55,349 --> 00:09:57,768
+It was drilled into me by my superior.
+
+110
+00:09:58,769 --> 00:10:01,438
+Then you were programmed, just like us.
+
+111
+00:10:01,688 --> 00:10:05,526
+What? No!
+I am not like you droids in any way.
+
+112
+00:10:06,026 --> 00:10:08,612
+I can think outside my program,
+
+113
+00:10:08,695 --> 00:10:10,364
+I mean, my training,
+
+114
+00:10:10,447 --> 00:10:14,868
+and I can make decisions
+based on a complex analysis of a situation.
+
+115
+00:10:15,077 --> 00:10:18,622
+Which is why I insist we return to the ship.
+
+116
+00:10:19,039 --> 00:10:21,875
+Wait a minute. Why can't I find our tracks?
+
+117
+00:10:22,417 --> 00:10:24,461
+-There are not any.
+-What?
+
+118
+00:10:25,087 --> 00:10:28,298
+I noticed it earlier.
+This surface leaves no trace of us.
+
+119
+00:10:29,049 --> 00:10:30,759
+You noticed it earlier?
+
+120
+00:10:30,884 --> 00:10:33,971
+Why in the world didn't you say anything?
+
+121
+00:10:34,471 --> 00:10:36,557
+I did not think we would want
+to go backwards
+
+122
+00:10:36,598 --> 00:10:39,643
+when forward seems to be the only way
+out of this void.
+
+123
+00:10:41,145 --> 00:10:46,400
+Why are you thinking? I don't want you
+to think. Thinking is my job.
+
+124
+00:10:46,483 --> 00:10:48,569
+I am the commanding officer.
+
+125
+00:10:48,610 --> 00:10:50,571
+You are just a pilot!
+
+126
+00:10:50,988 --> 00:10:52,990
+Oh. That hurt.
+
+127
+00:10:55,826 --> 00:11:00,122
+- I have been thinking, Colonel.
+- I told you not to do that.
+
+128
+00:11:01,123 --> 00:11:03,917
+My programming keeps me focused
+on the task at hand,
+
+129
+00:11:03,959 --> 00:11:06,378
+which means I do not have to worry
+about my health,
+
+130
+00:11:06,420 --> 00:11:08,297
+I just have to worry about the mission.
+
+131
+00:11:08,422 --> 00:11:10,090
+Don't even go there.
+
+132
+00:11:10,549 --> 00:11:13,135
+-So I think...
+-Don't do that!
+
+133
+00:11:13,594 --> 00:11:16,054
+...when you die, I should lead D Squad.
+
+134
+00:11:16,972 --> 00:11:18,765
+Stop!
+
+135
+00:11:21,727 --> 00:11:23,270
+You are what's killing me!
+
+136
+00:11:23,395 --> 00:11:26,773
+I can't believe I am forced
+to justify my existence
+
+137
+00:11:26,940 --> 00:11:28,442
+with a droid!
+
+138
+00:11:28,567 --> 00:11:31,778
+I'm at the end ! I can feel it!
+
+139
+00:11:31,820 --> 00:11:36,283
+All I ask is that you just let me die
+with dignity!
+
+140
+00:11:36,825 --> 00:11:38,118
+Is that possible?
+
+141
+00:11:42,247 --> 00:11:44,249
+What? Our ship?
+
+142
+00:11:50,130 --> 00:11:52,424
+You stupid, lucky droids!
+
+143
+00:11:52,466 --> 00:11:56,011
+You have just taken us in a circle!
+
+144
+00:12:06,480 --> 00:12:09,149
+Wait a minute. Is this really our ship?
+
+145
+00:12:10,943 --> 00:12:12,611
+How long have we been gone?
+
+146
+00:12:19,785 --> 00:12:20,827
+Ugh!
+
+147
+00:12:23,163 --> 00:12:24,831
+No, it is not our ship.
+
+148
+00:12:24,873 --> 00:12:27,000
+No. No, no!
+
+149
+00:12:27,042 --> 00:12:29,169
+No, no, no!
+
+150
+00:12:35,175 --> 00:12:38,470
+Artoo is right. This is what happens
+when you stay at the ship.
+
+151
+00:12:40,138 --> 00:12:43,934
+Why is this happening to me?
+
+152
+00:13:15,882 --> 00:13:18,802
+Maybe he is going to jump
+and put himself out of his misery.
+
+153
+00:13:21,013 --> 00:13:24,224
+Well, I vote for myself
+as the new leader of this mission.
+
+154
+00:13:28,353 --> 00:13:33,233
+You cannot vote for Artoo. He is just
+a mech. He cannot lead a squadron.
+
+155
+00:13:35,569 --> 00:13:36,862
+Help!
+
+156
+00:13:38,864 --> 00:13:42,576
+There has to be something out there!
+
+157
+00:13:43,160 --> 00:13:45,037
+Show me a sign,
+
+158
+00:13:46,038 --> 00:13:47,581
+a glimmer of hope!
+
+159
+00:13:54,713 --> 00:13:56,923
+I do not know who he is talking to.
+
+160
+00:13:57,257 --> 00:13:58,884
+Maybe whoever programmed him.
+
+161
+00:14:11,021 --> 00:14:14,941
+There! I see something !
+Oh, a village!
+
+162
+00:14:24,117 --> 00:14:27,746
+What are you waiting for?
+We're saved !
+
+163
+00:14:46,264 --> 00:14:48,141
+What exactly do you see, Colonel?
+
+164
+00:14:48,975 --> 00:14:51,144
+I don't know. Hard to say.
+
+165
+00:14:51,728 --> 00:14:54,606
+An outpost. Maybe a cant in a.
+
+166
+00:14:55,524 --> 00:14:57,442
+Whatever it is, they can help us.
+
+167
+00:15:03,698 --> 00:15:06,076
+I do not see anything either, Artoo.
+
+168
+00:15:06,493 --> 00:15:07,869
+He should've jumped.
+
+169
+00:15:36,440 --> 00:15:37,524
+No.
+
+170
+00:15:37,941 --> 00:15:40,819
+We're going in circles again!
+
+171
+00:15:57,210 --> 00:16:00,672
+I agree.
+We cannot trust his training anymore.
+
+172
+00:16:01,173 --> 00:16:03,383
+But I cannot trust
+your programming, either,
+
+173
+00:16:03,967 --> 00:16:07,095
+especially if you will not vote for me
+to be the new leader.
+
+174
+00:16:08,847 --> 00:16:10,265
+Where are you going now?
+
+175
+00:16:13,685 --> 00:16:15,353
+Hey! That is not true!
+
+176
+00:16:15,687 --> 00:16:17,939
+I am more than just a pilot!
+
+177
+00:16:23,445 --> 00:16:25,238
+We need a new plan, Colonel.
+
+178
+00:16:25,655 --> 00:16:28,700
+I just realized. What if I'm dead?
+
+179
+00:16:29,868 --> 00:16:35,624
+What if I died in that shuttle crash
+and now I'm stuck here in limbo?
+
+180
+00:16:36,124 --> 00:16:37,250
+Yes.
+
+181
+00:16:37,667 --> 00:16:39,336
+I should have gone with the mechs.
+
+182
+00:16:41,046 --> 00:16:43,131
+Think about it. Life.
+
+183
+00:16:43,381 --> 00:16:45,008
+Life is a void.
+
+184
+00:16:45,258 --> 00:16:48,887
+We search and search for answers,
+but there are none.
+
+185
+00:16:49,054 --> 00:16:51,389
+Hope is just an illusion, WAC.
+
+186
+00:16:51,640 --> 00:16:54,518
+Death is the only certainty!
+
+187
+00:16:56,019 --> 00:16:58,188
+Giving up is not in my programming.
+
+188
+00:16:59,147 --> 00:17:01,441
+I am surprised that it is in yours, Colonel.
+
+189
+00:17:10,242 --> 00:17:11,701
+Maybe...
+
+190
+00:17:12,410 --> 00:17:13,620
+Maybe you're right.
+
+191
+00:17:13,703 --> 00:17:17,916
+I was taught to find a rational solution
+to every problem.
+
+192
+00:17:18,542 --> 00:17:19,918
+But this void,
+
+193
+00:17:20,293 --> 00:17:23,213
+this proves that that's not always possible.
+
+194
+00:17:24,422 --> 00:17:26,883
+Maybe I need to change how I see things,
+
+195
+00:17:27,133 --> 00:17:30,387
+and that will change my programming,
+my training.
+
+196
+00:17:31,972 --> 00:17:33,014
+You know what?
+
+197
+00:17:33,348 --> 00:17:35,850
+You are more than just a pilot, WAC.
+
+198
+00:17:36,268 --> 00:17:38,937
+I knew it! I knew it!
+
+199
+00:17:40,814 --> 00:17:43,775
+All right, all righty, calm down, soldier.
+
+200
+00:18:05,046 --> 00:18:06,464
+Whoa! Whoa!
+
+201
+00:18:12,637 --> 00:18:14,472
+This is our way out of the void!
+
+202
+00:18:14,848 --> 00:18:16,683
+You have lost your mind, Colonel!
+
+203
+00:18:17,309 --> 00:18:20,186
+No! This is our only hope!
+
+204
+00:18:20,312 --> 00:18:24,482
+We've got to stop following my training
+or your programming
+
+205
+00:18:24,566 --> 00:18:27,110
+and follow the birds' instincts!
+
+206
+00:18:27,485 --> 00:18:28,737
+Grab hold!
+
+207
+00:18:30,071 --> 00:18:31,698
+Like this? Whoa!
+
+208
+00:18:58,391 --> 00:18:59,643
+Look!
+
+209
+00:19:00,977 --> 00:19:02,604
+I can see a town from here!
+
+210
+00:19:07,317 --> 00:19:08,985
+You can see that, right?
+
+211
+00:19:12,113 --> 00:19:13,198
+I sure can!
+
+212
+00:19:13,573 --> 00:19:17,035
+How did you know, Colonel, that these
+creatures would get us out of the void?
+
+213
+00:19:17,118 --> 00:19:21,539
+You've got your
+programming, I've got my training.
+
+214
+00:19:21,748 --> 00:19:24,793
+But these creatures,
+they have their instincts!
+
+215
+00:19:25,043 --> 00:19:27,253
+They know how to survive out here!
+
+216
+00:19:27,712 --> 00:19:28,880
+If you say so.
+
+217
+00:20:10,588 --> 00:20:14,300
+I don't believe it.
+Those mechs beat us here!
+
+218
+00:20:15,343 --> 00:20:17,554
+Stupid, lucky droids.
+
+219
+00:20:18,096 --> 00:20:19,639
+Just like you said, Colonel.
+
+220
+00:20:20,557 --> 00:20:21,599
+Tell you what, WAC.
+
+221
+00:20:22,308 --> 00:20:24,602
+Why don't you get the squad ready to roll?
+
+222
+00:20:25,437 --> 00:20:28,022
+I've got a second chance
+to complete this mission
+
+223
+00:20:28,106 --> 00:20:30,358
+and I intend to take advantage of it,
+
+224
+00:20:30,942 --> 00:20:33,611
+after I rehydrate myself.
+
+225
+00:20:34,571 --> 00:20:35,613
+That'll be all,
+
+226
+00:20:35,697 --> 00:20:36,740
+Corporal.
+
+227
+00:20:39,409 --> 00:20:40,535
+Corporal?
+
+228
+00:20:40,869 --> 00:20:44,122
+Yes, sir! The squad will be ready to roll.
+
+229
+00:20:45,999 --> 00:20:47,959
+Attention!
+
+230
+00:20:48,251 --> 00:20:50,670
+Front and center, soldiers!
+
+231
+00:20:50,754 --> 00:20:54,424
+I want us ready to roll ! Pronto! Pronto!
+
+232
+00:20:57,761 --> 00:21:00,805
+That is "Corporal WAC" to you, soldier!
+
+233
+00:21:01,055 --> 00:21:04,642
+And I will not tolerate insubordination!
+
+234
+00:21:06,293 --> 00:21:11,293
+http://hiqve.com/
+

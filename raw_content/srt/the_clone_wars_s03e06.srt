@@ -1,0 +1,1235 @@
+﻿1
+00:00:17,434 --> 00:00:19,596
+<i>ANNOUNCER'. A world in crisis!</i>
+
+2
+00:00:19,686 --> 00:00:24,522
+<i>The peaceful planet of Mandalore is
+being strangled by the grip of corruption.</i>
+
+3
+00:00:24,608 --> 00:00:26,349
+<i>With shortages of every kind,</i>
+
+4
+00:00:26,443 --> 00:00:30,027
+<i>citizens must turn to the black market
+in order to survive.</i>
+
+5
+00:00:30,113 --> 00:00:31,820
+<i>Desperate to free her people,</i>
+
+6
+00:00:31,907 --> 00:00:34,649
+<i>Duchess Satine
+has asked her friend Padmé Amidala</i>
+
+7
+00:00:34,743 --> 00:00:36,700
+<i>to speak with the Jedi Council</i>
+
+8
+00:00:36,787 --> 00:00:41,156
+<i>in hopes that they will send assistance
+to her struggling world.</i>
+
+9
+00:00:42,417 --> 00:00:44,658
+The Jedi Council has
+given you a mission, Ahsoka.
+
+10
+00:00:44,753 --> 00:00:46,369
+It's your duty to see it through.
+
+11
+00:00:46,463 --> 00:00:50,001
+Don't you think
+I'm just a little overqualified for this?
+
+12
+00:00:50,092 --> 00:00:54,461
+According to Senator Amidala,
+Mandalore is a deeply corrupt world.
+
+13
+00:00:54,555 --> 00:00:56,011
+If the cycle is to be broken,
+
+14
+00:00:56,098 --> 00:00:58,180
+the future leaders at
+the Royal Academy of Government
+
+15
+00:00:58,267 --> 00:01:00,679
+must learn the evils of corruption.
+
+16
+00:01:00,769 --> 00:01:04,307
+Yoda feels that only a young Padawan
+like you can get through to them.
+
+17
+00:01:19,621 --> 00:01:23,455
+My lady, if I may,
+what do the Jedi know of our ways?
+
+18
+00:01:23,542 --> 00:01:26,375
+Do we really want them meddling
+with our children's education?
+
+19
+00:01:26,461 --> 00:01:27,951
+Surely there is nothing to fear
+
+20
+00:01:28,046 --> 00:01:31,164
+from exposing them to new ideas,
+Prime Minister.
+
+21
+00:01:33,468 --> 00:01:35,050
+Duchess Satine.
+
+22
+00:01:35,887 --> 00:01:37,002
+Prime Minister Almec.
+
+23
+00:01:37,097 --> 00:01:40,055
+Master Skywalker,
+so good to see you again.
+
+24
+00:01:40,142 --> 00:01:41,758
+This is your Padawan, I assume?
+
+25
+00:01:41,852 --> 00:01:45,811
+Yes, my lady. May I present Ahsoka Tano.
+
+26
+00:01:45,897 --> 00:01:48,059
+Duchess. Prime Minister.
+
+27
+00:01:48,650 --> 00:01:51,563
+I am grateful that the Jedi Council
+could spare the two of you
+
+28
+00:01:51,653 --> 00:01:55,112
+to help instruct our leaders
+and peacekeepers of tomorrow.
+
+29
+00:01:55,198 --> 00:01:57,109
+Please thank Master Yoda for me.
+
+30
+00:01:58,660 --> 00:02:01,994
+I'm afraid that
+due to our limited resources,
+
+31
+00:02:02,080 --> 00:02:04,242
+I must return to battle immediately.
+
+32
+00:02:04,333 --> 00:02:06,995
+So you will not be staying,
+Master Skywalker?
+
+33
+00:02:07,085 --> 00:02:12,080
+No, but I assure you,
+Padawan Tano is a highly capable Jedi
+
+34
+00:02:12,174 --> 00:02:14,040
+and has the full confidence of the Council.
+
+35
+00:02:14,134 --> 00:02:17,843
+Very well. Cadet Korkie, Amis, Lagos.
+
+36
+00:02:17,929 --> 00:02:21,923
+These are some of the cadets that
+you will be instructing, Padawan Tano.
+
+37
+00:02:22,017 --> 00:02:23,758
+Nice to meet all of you.
+
+38
+00:02:23,852 --> 00:02:28,062
+- That's a fine weapon. May I see it?
+- I'm afraid not.
+
+39
+00:02:28,148 --> 00:02:32,107
+Because of Master Kenobi's recent visit
+and the trouble that followed,
+
+40
+00:02:32,194 --> 00:02:35,152
+no offvvorlders may carry weapons
+on Mandalore.
+
+41
+00:02:35,238 --> 00:02:38,856
+Master Obi-Wan caused trouble?
+That's a first.
+
+42
+00:02:40,285 --> 00:02:42,652
+Just give me the lightsaber.
+
+43
+00:02:45,707 --> 00:02:48,950
+Thank you for respecting our ways,
+Master Jedi.
+
+44
+00:02:49,378 --> 00:02:52,336
+Excuse the interruption, sir,
+but it is time to depart.
+
+45
+00:02:52,422 --> 00:02:54,413
+General Fisto is expecting us.
+
+46
+00:02:54,549 --> 00:02:56,586
+If you'll excuse me.
+
+47
+00:03:08,188 --> 00:03:09,519
+Corruption is what happens
+
+48
+00:03:09,606 --> 00:03:12,268
+when someone in power
+puts their own personal gain
+
+49
+00:03:12,359 --> 00:03:14,771
+before the interests of
+the people they represent.
+
+50
+00:03:15,278 --> 00:03:18,191
+- So, it's a result of greed?
+- Yes.
+
+51
+00:03:18,573 --> 00:03:23,363
+A leader sacrifices moral integrity
+for the sake of money or power.
+
+52
+00:03:23,453 --> 00:03:27,071
+Entire star systems have collapsed
+into chaos or revolution
+
+53
+00:03:27,124 --> 00:03:29,115
+because their greedy politicians
+got caught up
+
+54
+00:03:29,209 --> 00:03:32,952
+in a cycle of bribery and blackmail,
+while their people suffered.
+
+55
+00:03:33,380 --> 00:03:36,122
+Does that mean
+most government officials are corrupt?
+
+56
+00:03:36,216 --> 00:03:38,457
+Well, no.
+
+57
+00:03:38,552 --> 00:03:41,465
+But the point is
+that temptation is always there,
+
+58
+00:03:41,596 --> 00:03:45,555
+and citizens must be vigilant
+so corruption can't take root.
+
+59
+00:03:45,642 --> 00:03:49,226
+The deadliest enemies of a society
+dwell within its borders.
+
+60
+00:03:49,312 --> 00:03:52,930
+And from these internal threats,
+the people need to be protected.
+
+61
+00:03:53,275 --> 00:03:56,233
+But if you don't trust your leaders,
+isn't that treason?
+
+62
+00:03:56,319 --> 00:03:58,981
+It's every citizen's duty
+to challenge their leaders,
+
+63
+00:03:59,114 --> 00:04:02,482
+to keep them honest and
+hold them accountable if they're not.
+
+64
+00:04:02,576 --> 00:04:03,941
+How do you do that?
+
+65
+00:04:03,994 --> 00:04:07,157
+By exposing corrupt officials
+for what they are.
+
+66
+00:04:07,289 --> 00:04:10,156
+Lasting change can only come from within.
+
+67
+00:04:15,422 --> 00:04:18,915
+<i>Be sure your assignments
+are prepared for tomorrow.</i>
+
+68
+00:04:19,009 --> 00:04:21,341
+The school's out of rations again.
+
+69
+00:04:21,428 --> 00:04:24,591
+I guess there'll be
+no late-night snacks tonight.
+
+70
+00:04:25,015 --> 00:04:28,133
+Listen, we've had a food shortage
+since the war began.
+
+71
+00:04:28,185 --> 00:04:32,019
+Transport ships keep coming in,
+but there's strict rationing.
+
+72
+00:04:32,105 --> 00:04:33,846
+Something is wrong on Mandalore.
+
+73
+00:04:33,982 --> 00:04:37,816
+But these problems are bigger than us.
+Just let the authorities handle it.
+
+74
+00:04:37,861 --> 00:04:40,979
+We have to do something about it,
+like Ahsoka said.
+
+75
+00:04:41,031 --> 00:04:45,867
+Let's go down to the warehouse district
+and see if there really is a food shortage.
+
+76
+00:04:45,952 --> 00:04:49,786
+Beats sitting around here,
+listening to my stomach growl.
+
+77
+00:04:59,549 --> 00:05:02,132
+These doors are heavily secured
+by the government.
+
+78
+00:05:02,219 --> 00:05:03,960
+It won't be secure for long.
+
+79
+00:05:09,059 --> 00:05:11,892
+Looks like the Academy taught us well.
+
+80
+00:05:12,896 --> 00:05:14,853
+Come on, up and over.
+
+81
+00:05:32,207 --> 00:05:34,869
+I have a bad feeling about this.
+
+82
+00:05:36,127 --> 00:05:37,913
+- What are you doing?
+- Quiet!
+
+83
+00:05:38,296 --> 00:05:40,412
+It sounds like someone else is in here.
+
+84
+00:05:40,924 --> 00:05:43,632
+- Let's get out of here.
+- No! Come on!
+
+85
+00:05:47,097 --> 00:05:50,931
+The risk involved makes the price go up.
+
+86
+00:05:53,562 --> 00:05:57,556
+You must be more cautious.
+Coming here could raise suspicion.
+
+87
+00:05:57,607 --> 00:06:01,100
+It's a little late for a meeting, isn't it?
+Let's get a closer look.
+
+88
+00:06:01,611 --> 00:06:03,318
+Are you crazy?
+
+89
+00:06:12,664 --> 00:06:14,575
+It wasn't my idea.
+
+90
+00:06:15,625 --> 00:06:18,162
+Soniee, quick, use your holocam.
+
+91
+00:06:21,089 --> 00:06:24,502
+Those look like Mandalorian police,
+but they're unmarked.
+
+92
+00:06:24,634 --> 00:06:25,920
+Who's that?
+
+93
+00:06:26,803 --> 00:06:29,010
+And who are those guys?
+
+94
+00:06:29,139 --> 00:06:31,346
+What are offworlders doing
+on a secure port?
+
+95
+00:06:31,474 --> 00:06:34,512
+I don't like this. I'm getting out of here.
+
+96
+00:06:52,954 --> 00:06:54,740
+Hurry! This way!
+
+97
+00:07:10,597 --> 00:07:11,678
+Hey!No!
+
+98
+00:07:38,500 --> 00:07:39,956
+What are we going to do?
+
+99
+00:07:40,043 --> 00:07:43,411
+This is bigger than we thought.
+We're going to need help.
+
+100
+00:07:48,134 --> 00:07:50,751
+We should speak to my Aunt Satine.
+
+101
+00:08:05,610 --> 00:08:07,692
+Aunt Satine, may we speak with you?
+
+102
+00:08:09,030 --> 00:08:11,192
+<i>Oi course, Korma. Come "m.</i>
+
+103
+00:08:15,245 --> 00:08:16,861
+We did some investigating.
+
+104
+00:08:16,955 --> 00:08:21,165
+There's no food shortage. We found
+stores of food at the government port.
+
+105
+00:08:21,918 --> 00:08:25,161
+- How would you know this?
+- That doesn't matter right now.
+
+106
+00:08:25,255 --> 00:08:26,495
+I beg to differ.
+
+107
+00:08:26,589 --> 00:08:29,377
+We made a recording of a secret meeting
+between what we know
+
+108
+00:08:29,467 --> 00:08:31,834
+was a government official
+and a black marketeer.
+
+109
+00:08:31,928 --> 00:08:35,842
+That's why everything costs so much
+and so many people are starving.
+
+110
+00:08:35,932 --> 00:08:38,344
+We need your help
+to find the one responsible.
+
+111
+00:08:38,435 --> 00:08:41,302
+This is a serious matter, I agree.
+
+112
+00:08:41,396 --> 00:08:45,560
+But the source of this evil may be
+more than you cadets can handle.
+
+113
+00:08:45,650 --> 00:08:47,391
+People can be very deceiving.
+
+114
+00:08:47,485 --> 00:08:50,227
+You don't want to
+get yourselves into trouble.
+
+115
+00:08:50,321 --> 00:08:53,154
+But, Auntie, don't you see?
+You can't ignore this!
+
+116
+00:08:53,700 --> 00:08:55,532
+I won't, trust me.
+
+117
+00:08:55,618 --> 00:08:59,532
+But for your own safety,
+you must let me take care of it.
+
+118
+00:09:00,206 --> 00:09:03,540
+Now run along, all of you.
+Concentrate on your studies.
+
+119
+00:09:03,626 --> 00:09:07,870
+There will be a time to save the world
+when you're a bit older.
+
+120
+00:09:12,677 --> 00:09:15,715
+She refused to help us because
+she doesn't think we can handle it.
+
+121
+00:09:15,805 --> 00:09:18,388
+She just thinks
+we're a bunch of stupid kids.
+
+122
+00:09:18,475 --> 00:09:20,887
+She acted like nothing was wrong.
+
+123
+00:09:20,977 --> 00:09:23,389
+We need to find someone else
+who believes us.
+
+124
+00:09:23,480 --> 00:09:25,312
+Like who?
+
+125
+00:09:25,398 --> 00:09:27,309
+Mandalore has two people in charge.
+
+126
+00:09:27,358 --> 00:09:30,817
+Since my aunt won't help,
+we'll have to go to the Prime Minister.
+
+127
+00:09:30,862 --> 00:09:32,478
+What makes you think he'll listen?
+
+128
+00:09:32,572 --> 00:09:34,313
+I've known him my whole life.
+
+129
+00:09:34,365 --> 00:09:37,153
+He's always told me to come to him
+if I'm ever in trouble.
+
+130
+00:09:37,202 --> 00:09:40,035
+And I'd say we're all in big trouble.
+
+131
+00:09:40,580 --> 00:09:44,539
+<i>I am most concerned by these allegations,
+my intrepid young cadets.</i>
+
+132
+00:09:44,667 --> 00:09:47,876
+<i>You think Duchess Satine knows
+who the conspirator is?</i>
+
+133
+00:09:48,004 --> 00:09:49,711
+She said she was going to handle it.
+
+134
+00:09:49,839 --> 00:09:52,331
+<i>Meet me in the Palace Plaza tonight.</i>
+
+135
+00:09:52,425 --> 00:09:54,837
+<i>Bring the recording you took
+of the black market deal</i>
+
+136
+00:09:54,886 --> 00:09:57,844
+<i>and all the cadets who know about it.</i>
+
+137
+00:10:02,894 --> 00:10:07,479
+Korkie, you seem distracted today.
+What's going on?
+
+138
+00:10:07,524 --> 00:10:10,391
+We did what you said.
+We found evidence of corruption.
+
+139
+00:10:10,527 --> 00:10:11,688
+What do you mean?
+
+140
+00:10:11,778 --> 00:10:15,612
+Well, we were hungry,
+so we decided to go look for food.
+
+141
+00:10:15,698 --> 00:10:17,029
+- Food?
+- Yeah.
+
+142
+00:10:17,075 --> 00:10:18,861
+Down at the government warehouse.
+
+143
+00:10:18,952 --> 00:10:22,536
+Someone just let you in
+to inspect the warehouse?
+
+144
+00:10:22,580 --> 00:10:25,948
+- No, we broke in.
+- Oh, great.
+
+145
+00:10:26,042 --> 00:10:27,874
+So you committed a crime?
+
+146
+00:10:27,919 --> 00:10:32,038
+It sounds bad, I know, but then
+we saw a meeting and offworlders and...
+
+147
+00:10:32,090 --> 00:10:33,251
+And they chased us!
+
+148
+00:10:33,383 --> 00:10:34,873
+Maybe they chased you
+
+149
+00:10:34,968 --> 00:10:37,881
+because you broke into
+a government warehouse.
+
+150
+00:10:37,929 --> 00:10:41,217
+No! it was a black market deal. I know it!
+
+151
+00:10:41,266 --> 00:10:44,804
+My Aunt Satine told us to stay out of it,
+but we must do something.
+
+152
+00:10:44,894 --> 00:10:47,602
+- Do you have proof?
+-We made a halo-recording.
+
+153
+00:10:47,730 --> 00:10:50,563
+The Prime Minister
+is meeting us tonight to...
+
+154
+00:10:50,650 --> 00:10:52,311
+Are you sure that's a good idea?
+
+155
+00:10:52,402 --> 00:10:57,738
+But I thought you said it was the duty of
+every citizen to expose corrupt officials.
+
+156
+00:10:57,782 --> 00:11:01,116
+I'm only saying
+that you should take this slowly.
+
+157
+00:11:01,244 --> 00:11:06,239
+Examine all of the facts and all of
+the people involved before you act.
+
+158
+00:11:07,584 --> 00:11:11,248
+You sound more like my aunt
+than a Jedi Knight.
+
+159
+00:11:28,271 --> 00:11:29,682
+You Korkie?
+
+160
+00:11:29,772 --> 00:11:32,264
+Prime Minister, is that you?
+
+161
+00:11:32,358 --> 00:11:37,319
+Secret Service. You are all under arrest
+for treason, corruption, and conspiracy.
+
+162
+00:11:37,989 --> 00:11:39,571
+You will come with us.
+
+163
+00:11:39,657 --> 00:11:41,694
+These are the same guards
+we saw last night.
+
+164
+00:11:45,496 --> 00:11:47,237
+We've done nothing wrong.
+
+165
+00:12:04,432 --> 00:12:06,548
+Looks like the Prime Minister set you up.
+
+166
+00:12:06,643 --> 00:12:09,476
+That's treason.
+He's the leader of our system.
+
+167
+00:12:09,562 --> 00:12:11,223
+He couldn't possibly be a traitor.
+
+168
+00:12:11,314 --> 00:12:12,725
+We need proof.
+
+169
+00:12:12,815 --> 00:12:15,523
+We have the recording.
+
+170
+00:12:19,280 --> 00:12:21,521
+That's no good. You can't see who it is.
+
+171
+00:12:21,866 --> 00:12:23,982
+Wait! Stop right there.
+
+172
+00:12:26,537 --> 00:12:29,529
+Information retrieval,
+I need you to ID a hologram.
+
+173
+00:12:35,922 --> 00:12:37,003
+That's him!
+
+174
+00:12:37,090 --> 00:12:39,582
+You're right! That is the Prime Minister.
+
+175
+00:12:39,676 --> 00:12:43,089
+We have to take this to my aunt
+and warn her.
+
+176
+00:12:43,179 --> 00:12:45,090
+They know I talked to her.
+
+177
+00:12:51,104 --> 00:12:52,219
+We're too late.
+
+178
+00:12:55,024 --> 00:12:56,560
+He's dead.
+
+179
+00:12:57,110 --> 00:13:00,569
+Korkie, wait!
+The intruders may still be inside.
+
+180
+00:13:04,075 --> 00:13:06,942
+They took her. This is all my fault!
+
+181
+00:13:17,797 --> 00:13:19,879
+Who knows what they've done to her.
+
+182
+00:13:20,967 --> 00:13:23,584
+Now what?
+How are we supposed to find her?
+
+183
+00:13:23,678 --> 00:13:25,294
+Who can we trust?
+
+184
+00:13:25,388 --> 00:13:28,176
+I need all of you to calm down and focus.
+
+185
+00:13:28,266 --> 00:13:30,633
+We know the Prime Minister is behind this.
+
+186
+00:13:30,727 --> 00:13:33,640
+After my aunt, he's the most
+powerful person on Mandalore.
+
+187
+00:13:33,730 --> 00:13:36,017
+So, let's go talk to him.
+
+188
+00:13:47,076 --> 00:13:49,534
+Master Jedi,
+this is an unexpected pleasure.
+
+189
+00:13:49,620 --> 00:13:50,781
+What can I do for you?
+
+190
+00:13:50,872 --> 00:13:54,911
+Actually, Prime Minister,
+it's what I can do for you.
+
+191
+00:14:01,257 --> 00:14:05,376
+I believe some of my students
+are involved in a conspiracy against you.
+
+192
+00:14:05,845 --> 00:14:07,381
+Intriguing.
+
+193
+00:14:17,565 --> 00:14:20,933
+You can't do this!
+We trusted you, Master Tano.
+
+194
+00:14:23,071 --> 00:14:26,109
+Thank you for bringing the traitors
+to justice, Master Jedi.
+
+195
+00:14:26,199 --> 00:14:29,066
+They mentioned that
+Duchess Satine was their leader.
+
+196
+00:14:29,118 --> 00:14:30,529
+We should arrest her, too.
+
+197
+00:14:30,620 --> 00:14:34,113
+Do not worry,
+we already have her in custody.
+
+198
+00:14:34,540 --> 00:14:36,201
+Really? Where?
+
+199
+00:14:36,292 --> 00:14:38,078
+That is none of your concern.
+
+200
+00:14:38,127 --> 00:14:42,792
+Now I must prepare a public statement
+about the Duchess and her crimes.
+
+201
+00:14:54,519 --> 00:14:57,602
+Officer, I need to interrogate
+the prisoners immediately.
+
+202
+00:15:27,802 --> 00:15:30,385
+Careful. We're being watched.
+
+203
+00:15:30,513 --> 00:15:31,674
+Did he buy it?
+
+204
+00:15:31,722 --> 00:15:35,135
+- Have you found my aunt?
+- Not exactly.
+
+205
+00:15:35,184 --> 00:15:36,720
+But I know they have her in custody.
+
+206
+00:15:36,853 --> 00:15:39,811
+- Where?
+- The Prime Minister wouldn't tell me.
+
+207
+00:15:39,856 --> 00:15:42,894
+I knew this plan wouldn't work.
+
+208
+00:15:43,025 --> 00:15:48,145
+Have a little faith. I'll find her.
+We'll just modify the plan a bit.
+
+209
+00:15:48,197 --> 00:15:50,029
+How are you going to do that?
+
+210
+00:15:50,074 --> 00:15:53,487
+Don't worry. You'll know when to act
+when I give the signal.
+
+211
+00:15:53,536 --> 00:15:57,154
+- What's the signal?
+- You'll know it when you see it.
+
+212
+00:16:00,001 --> 00:16:06,247
+- You will take me to Duchess Satine.
+- I will take you to Duchess Satine.
+
+213
+00:16:36,412 --> 00:16:38,744
+What are you doing?
+
+214
+00:16:39,290 --> 00:16:44,911
+- I must interrogate the Duchess.
+- You must interrogate the Duchess.
+
+215
+00:16:59,852 --> 00:17:01,434
+I'm getting you out of here.
+
+216
+00:17:01,771 --> 00:17:03,353
+Ahsoka, it's a trap.
+
+217
+00:17:03,439 --> 00:17:05,976
+I see you found the Duchess, youngling.
+
+218
+00:17:06,108 --> 00:17:08,520
+You may stop
+your playacting now, Sergeant.
+
+219
+00:17:08,611 --> 00:17:10,443
+- Prime Minister, sir!
+- Prime Minister, sir!
+
+220
+00:17:13,115 --> 00:17:16,358
+Using a Jedi mind trick
+was a very poor decision.
+
+221
+00:17:16,452 --> 00:17:20,320
+My guards have been trained
+to resist such archaic magic.
+
+222
+00:17:21,040 --> 00:17:24,533
+And now you have revealed yourself
+as a conspirator.
+
+223
+00:17:25,670 --> 00:17:27,331
+Set for stun.
+
+224
+00:17:28,798 --> 00:17:30,539
+You little fool.
+
+225
+00:17:32,218 --> 00:17:33,629
+Where is she?
+
+226
+00:17:33,678 --> 00:17:35,715
+Stick to Ahsoka's plan.
+
+227
+00:17:35,805 --> 00:17:38,297
+But how do we do that? It's falling apart.
+
+228
+00:17:38,391 --> 00:17:41,804
+Ahsoka wants us to wait for a signal,
+and that's what we're going to do.
+
+229
+00:17:44,355 --> 00:17:48,644
+Sign it. Sign the confession
+and admit to your treasonous ways.
+
+230
+00:17:48,734 --> 00:17:52,728
+There is only one traitor
+to Mandalore here, Prime Minister,
+
+231
+00:17:52,822 --> 00:17:57,032
+and that's you!
+You control the black market.
+
+232
+00:17:57,159 --> 00:17:58,991
+You have betrayed the public trust,
+
+233
+00:17:59,078 --> 00:18:01,911
+and used your office
+to accumulate wealth and power.
+
+234
+00:18:01,998 --> 00:18:03,534
+It's shameful.
+
+235
+00:18:03,708 --> 00:18:08,794
+Your idealism is inspiring,
+my dear, but hopelessly naive.
+
+236
+00:18:08,838 --> 00:18:11,500
+I established the black market
+for the people.
+
+237
+00:18:11,549 --> 00:18:13,165
+That's absurd!
+
+238
+00:18:13,259 --> 00:18:16,001
+The war is disrupting trade
+across the galaxy.
+
+239
+00:18:16,053 --> 00:18:17,669
+The profits from the black market
+
+240
+00:18:17,763 --> 00:18:21,757
+are being used to purchase
+humanitarian supplies for Mandalore.
+
+241
+00:18:21,851 --> 00:18:26,015
+Think of it as a new tax
+in the interest of national security.
+
+242
+00:18:26,355 --> 00:18:29,689
+It's a tax for your benefit, Prime Minister.
+
+243
+00:18:29,734 --> 00:18:32,772
+Where are these "humanitarian supplies"
+you speak of?
+
+244
+00:18:32,862 --> 00:18:35,695
+Sergeant, put the shock collar on her.
+
+245
+00:18:37,742 --> 00:18:41,736
+My patience has worn thin, Duchess.
+Maybe this will convince you.
+
+246
+00:18:49,545 --> 00:18:52,458
+I would rather die
+than sign your confession.
+
+247
+00:18:52,548 --> 00:18:54,539
+That can be arranged.
+
+248
+00:18:54,634 --> 00:18:56,921
+You're wasting your time!
+
+249
+00:18:57,053 --> 00:19:00,717
+Bring me those traitorous cadets.
+
+250
+00:19:01,432 --> 00:19:04,641
+No, you can't! They're just children!
+
+251
+00:19:10,900 --> 00:19:12,390
+All right, let's move.
+
+252
+00:19:19,617 --> 00:19:22,405
+I'm afraid your nephew
+will have to suffer needlessly.
+
+253
+00:19:22,453 --> 00:19:25,286
+Put the shock collar on Cadet Korkie.
+
+254
+00:19:37,259 --> 00:19:38,420
+Go!
+
+255
+00:20:07,957 --> 00:20:09,197
+Gotcha!
+
+256
+00:20:12,670 --> 00:20:14,456
+Stop fighting!
+
+257
+00:20:20,636 --> 00:20:22,968
+Send for my personal guards.
+
+258
+00:20:39,363 --> 00:20:43,322
+You must know by now
+that I didn't bring you here just to teach.
+
+259
+00:20:43,409 --> 00:20:46,822
+I knew something was amiss,
+but I had no one to trust.
+
+260
+00:20:46,912 --> 00:20:48,823
+I thought if I brought a Jedi,
+
+261
+00:20:48,914 --> 00:20:53,533
+especially a friend of Senator Amidala's,
+we could solve this mystery together.
+
+262
+00:20:53,627 --> 00:20:55,538
+I never doubted you, Duchess.
+
+263
+00:20:55,629 --> 00:20:57,336
+Neither did we.
+
+264
+00:21:10,102 --> 00:21:12,469
+It was an honor
+to serve with a Jedi Knight.
+
+265
+00:21:12,563 --> 00:21:15,601
+It was my privilege to be your teacher.
+
+266
+00:21:21,280 --> 00:21:23,738
+I hope this assignment
+wasn't too boring for you.
+
+267
+00:21:24,450 --> 00:21:25,815
+It had its moments.
+
+268
+00:21:26,660 --> 00:21:29,618
+Like the one
+where you convinced untrained children
+
+269
+00:21:29,705 --> 00:21:32,447
+to help you overthrow
+a corrupt government?
+
+270
+00:21:32,541 --> 00:21:34,623
+That was a highlight.
+
+271
+00:21:34,710 --> 00:21:38,248
+It sounds pretty risky.
+You're lucky you didn't get hurt.
+
+272
+00:21:38,339 --> 00:21:40,706
+Nothing you wouldn't have done.
+
+273
+00:22:32,726 --> 00:22:33,716
+English - SDH
+

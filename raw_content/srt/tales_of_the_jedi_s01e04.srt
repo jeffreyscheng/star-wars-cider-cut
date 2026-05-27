@@ -1,0 +1,526 @@
+1
+00:00:33,708 --> 00:00:37,418
+[JEDI MURMURING]
+
+2
+00:00:55,166 --> 00:00:56,166
+[BEEPS]
+
+3
+00:00:57,500 --> 00:00:58,580
+[DOOR OPENS, CLOSES]
+
+4
+00:01:11,458 --> 00:01:13,078
+[BEEPING]
+
+5
+00:01:13,166 --> 00:01:15,626
+[ELECTRONIC VOICE]
+<i>Archive memory access.</i>
+
+6
+00:01:15,708 --> 00:01:18,498
+<i>Please enter security clearance code.</i>
+
+7
+00:01:18,583 --> 00:01:20,543
+[BEEPING]
+
+8
+00:01:20,625 --> 00:01:23,745
+[ELECTRONIC VOICE]
+<i>Code accepted, Master Sifo-Dyas.</i>
+
+9
+00:01:25,833 --> 00:01:27,173
+<i>Planet Kamino.</i>
+
+10
+00:01:28,666 --> 00:01:30,166
+[BEEPING]
+
+11
+00:01:30,916 --> 00:01:33,666
+[ELECTRONIC VOICE]
+<i>Kamino location deleted.</i>
+
+12
+00:01:35,333 --> 00:01:39,043
+<i>Kamino archive data deleted.</i>
+
+13
+00:01:55,458 --> 00:01:58,328
+[CHATTERING]
+
+14
+00:02:00,375 --> 00:02:03,875
+What's causing all the excitement,
+Master Jocasta?
+
+15
+00:02:03,958 --> 00:02:05,708
+Your apprentice.
+
+16
+00:02:05,791 --> 00:02:06,791
+Qui-Gon?
+
+17
+00:02:06,875 --> 00:02:11,745
+Yes, it would seem
+he has encountered a Sith Lord,
+
+18
+00:02:11,833 --> 00:02:15,173
+or so he claimed to the Jedi High Council.
+
+19
+00:02:15,666 --> 00:02:17,786
+Where was this encounter?
+
+20
+00:02:18,291 --> 00:02:23,171
+Tatooine. Yes, I think that was it.
+
+21
+00:02:23,250 --> 00:02:26,290
+Deep in the Outer Rim, of course.
+
+22
+00:02:26,375 --> 00:02:31,455
+Qui-Gon Jinn always had
+such an active imagination.
+
+23
+00:02:31,541 --> 00:02:34,041
+As did you, Dooku.
+
+24
+00:02:34,541 --> 00:02:39,581
+A quality valued less and less
+in these great halls.
+
+25
+00:02:47,833 --> 00:02:51,633
+[CHATTERING]
+
+26
+00:02:53,291 --> 00:02:55,461
+I guess word travels fast.
+
+27
+00:02:55,958 --> 00:03:00,208
+Well, your statements to the Council
+were rather surprising.
+
+28
+00:03:01,833 --> 00:03:02,963
+[DOOKU] Qui-Gon.
+
+29
+00:03:04,041 --> 00:03:05,381
+Master.
+
+30
+00:03:06,583 --> 00:03:08,833
+I heard of your report to the Council.
+
+31
+00:03:09,666 --> 00:03:13,286
+Tell me about this mysterious attacker
+on Tatooine.
+
+32
+00:03:13,791 --> 00:03:19,211
+I encountered a highly skilled warrior,
+one obviously trained in the Jedi arts.
+
+33
+00:03:19,291 --> 00:03:21,921
+And you believe it was a Sith Lord?
+
+34
+00:03:22,000 --> 00:03:23,170
+Yes.
+
+35
+00:03:23,250 --> 00:03:27,710
+I gather the Council was not eager
+to validate that conclusion?
+
+36
+00:03:27,791 --> 00:03:30,081
+No, they were not, Master.
+
+37
+00:03:30,583 --> 00:03:34,383
+I've been warning them about
+the coming darkness for years,
+
+38
+00:03:34,875 --> 00:03:36,745
+never to be taken seriously.
+
+39
+00:03:37,250 --> 00:03:43,130
+Speaking on behalf of the Council,
+there's no reason to cause undue alarm.
+
+40
+00:03:43,208 --> 00:03:44,998
+So, you doubt his claim?
+
+41
+00:03:45,875 --> 00:03:47,705
+No. I do not.
+
+42
+00:03:48,333 --> 00:03:53,633
+But the wisdom of the Council is
+to be cautious until we know more.
+
+43
+00:03:54,708 --> 00:03:56,668
+Master Yaddle is right about one thing.
+
+44
+00:03:57,916 --> 00:04:00,166
+A Sith Lord is not to be trifled with.
+
+45
+00:04:00,791 --> 00:04:05,331
+And I will not be there to protect you,
+my old Padawan.
+
+46
+00:04:06,083 --> 00:04:07,963
+You need not worry, Master.
+
+47
+00:04:08,041 --> 00:04:09,791
+Obi-Wan fills that role now.
+
+48
+00:04:10,291 --> 00:04:13,081
+He acquits himself quite well.
+
+49
+00:04:13,875 --> 00:04:16,995
+That's good.
+I should like to meet him someday.
+
+50
+00:04:17,916 --> 00:04:19,916
+You're always singing his praises.
+
+51
+00:04:40,083 --> 00:04:43,293
+Master Dooku, are you all right?
+
+52
+00:04:44,375 --> 00:04:49,035
+They grow up so fast, our students.
+
+53
+00:04:50,041 --> 00:04:53,421
+Yes, it is the way of things.
+
+54
+00:04:53,500 --> 00:04:54,500
+Indeed.
+
+55
+00:04:56,125 --> 00:04:58,125
+I must take my leave.
+
+56
+00:05:54,416 --> 00:05:58,376
+I used to bring Qui-Gon here as a boy.
+
+57
+00:06:00,333 --> 00:06:02,963
+He was fascinated with this tree.
+
+58
+00:06:03,791 --> 00:06:09,751
+Having been born here on Coruscant,
+a planet of steel and stone...
+
+59
+00:06:11,916 --> 00:06:13,956
+he knew nothing like it.
+
+60
+00:06:15,958 --> 00:06:21,418
+The Council is leaving for Naboo.
+The funeral is to be held there.
+
+61
+00:06:23,041 --> 00:06:25,001
+[THUNDER RUMBLING]
+
+62
+00:06:25,750 --> 00:06:28,630
+I doubt I will be pleasant company.
+
+63
+00:06:29,791 --> 00:06:32,041
+You hold them accountable?
+
+64
+00:06:35,958 --> 00:06:39,128
+Qui-Gon Jinn has become one
+with the Force.
+
+65
+00:06:43,083 --> 00:06:44,833
+It is time to let him go.
+
+66
+00:06:45,958 --> 00:06:47,418
+And you can do this?
+
+67
+00:06:50,333 --> 00:06:52,003
+What choice have I?
+
+68
+00:06:54,375 --> 00:06:58,075
+[THUNDER RUMBLING]
+
+69
+00:08:05,625 --> 00:08:07,995
+[CONTROLS BEEPING]
+
+70
+00:08:11,833 --> 00:08:13,253
+[SHIP POWERS DOWN]
+
+71
+00:08:20,125 --> 00:08:21,875
+You've gone too far!
+
+72
+00:08:22,625 --> 00:08:25,285
+I don't know what you mean.
+
+73
+00:08:25,375 --> 00:08:28,995
+Qui-Gon Jinn.
+You allowed Maul to kill him.
+
+74
+00:08:30,083 --> 00:08:32,503
+You lost an apprentice, and so did I.
+
+75
+00:08:33,583 --> 00:08:36,423
+All in service of our greater goals.
+
+76
+00:08:41,875 --> 00:08:45,495
+The galaxy will not be remade
+without sacrifice.
+
+77
+00:08:46,500 --> 00:08:49,170
+He could've been a powerful ally.
+
+78
+00:08:49,250 --> 00:08:51,420
+For you, perhaps.
+
+79
+00:08:51,500 --> 00:08:54,080
+[DOOKU] You question my loyalty?
+
+80
+00:08:54,958 --> 00:08:55,958
+Always.
+
+81
+00:08:56,541 --> 00:08:59,171
+I have done everything you asked.
+
+82
+00:09:00,166 --> 00:09:03,626
+And I will ask more of you,
+if we are to succeed.
+
+83
+00:09:05,000 --> 00:09:08,960
+Sifo-Dyas, Kamino, the Clones.
+
+84
+00:09:09,791 --> 00:09:13,671
+I have betrayed everyone
+and everything I know.
+
+85
+00:09:14,250 --> 00:09:18,540
+[SIDIOUS] No, you have been loyal
+to a greater cause.
+
+86
+00:09:19,708 --> 00:09:24,248
+How many have died because of my actions?
+
+87
+00:09:24,875 --> 00:09:26,825
+Such is the price of freedom.
+
+88
+00:09:27,666 --> 00:09:28,666
+[YADDLE] No!
+
+89
+00:09:30,291 --> 00:09:33,921
+This ends here, Sith Lord.
+
+90
+00:09:36,166 --> 00:09:38,496
+So, I have been betrayed?
+
+91
+00:09:38,583 --> 00:09:39,583
+No!
+
+92
+00:09:45,250 --> 00:09:51,500
+Dooku, step to me.
+Whatever your crimes are, help me now.
+
+93
+00:09:52,250 --> 00:09:55,080
+Then you heard? You know.
+
+94
+00:09:56,375 --> 00:09:58,745
+That does not matter.
+
+95
+00:10:00,166 --> 00:10:01,166
+Don't believe her.
+
+96
+00:10:03,375 --> 00:10:08,165
+Whatever lies he's told you,
+whatever you have done,
+
+97
+00:10:08,833 --> 00:10:12,883
+you can make up for it now
+by bringing him to justice.
+
+98
+00:10:13,833 --> 00:10:15,793
+[SIDIOUS] Remember what you told me.
+
+99
+00:10:16,958 --> 00:10:22,828
+The Jedi blindly serve a corrupt Senate
+that fails the Republic it represents.
+
+100
+00:10:25,125 --> 00:10:29,535
+Do you want to prove your loyalty?
+Kill her!
+
+101
+00:10:34,083 --> 00:10:36,503
+There is still a chance
+to make things right.
+
+102
+00:10:40,541 --> 00:10:41,541
+I'm afraid...
+
+103
+00:10:42,791 --> 00:10:44,501
+I know you are.
+
+104
+00:10:47,916 --> 00:10:50,536
+I'm afraid it is too late.
+
+105
+00:10:50,625 --> 00:10:51,625
+[LIGHTSABER IGNITES]
+
+106
+00:10:54,333 --> 00:10:55,333
+No.
+
+107
+00:11:39,916 --> 00:11:42,326
+[YADDLE] I am on your side, Dooku.
+
+108
+00:11:43,375 --> 00:11:46,785
+I stepped down from my position
+on the Council.
+
+109
+00:11:49,166 --> 00:11:51,536
+You were right about so many things.
+
+110
+00:11:52,541 --> 00:11:53,961
+The Council should've listened.
+
+111
+00:11:55,875 --> 00:11:58,285
+Qui-Gon did not have to die.
+
+112
+00:12:06,375 --> 00:12:07,375
+[SIDIOUS CACKLES]
+
+113
+00:12:19,833 --> 00:12:22,133
+[DOOKU] Running back to your Council?
+
+114
+00:12:25,583 --> 00:12:27,633
+It is you who has run, Dooku,
+
+115
+00:12:28,833 --> 00:12:31,673
+into the arms of evil.
+
+116
+00:12:56,666 --> 00:12:59,916
+[SIDIOUS]
+You have done well, my apprentice.
+
+117
+00:13:03,458 --> 00:13:06,788
+Rise, my friend.
+
+118
+00:13:08,000 --> 00:13:09,000
+Master.
+
+119
+00:13:11,041 --> 00:13:12,461
+[RUMBLING]
+
+120
+00:14:00,125 --> 00:14:04,575
+I want only to bring peace and order
+to the galaxy.
+
+121
+00:14:06,291 --> 00:14:12,331
+Already so many have suffered
+for what you call "order".
+
+122
+00:14:13,791 --> 00:14:19,211
+Then let me give you peace, Master Yaddle.
+
+123
+00:14:25,333 --> 00:14:26,333
+[LIGHTSABER IMPACTS]
+

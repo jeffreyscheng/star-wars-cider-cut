@@ -1,0 +1,872 @@
+﻿1
+00:00:10,332 --> 00:00:10,449
+h
+
+2
+00:00:10,450 --> 00:00:10,566
+ht
+
+3
+00:00:10,567 --> 00:00:10,684
+htt
+
+4
+00:00:10,685 --> 00:00:10,802
+http
+
+5
+00:00:10,803 --> 00:00:10,919
+http:
+
+6
+00:00:10,920 --> 00:00:11,037
+http:/
+
+7
+00:00:11,038 --> 00:00:11,155
+http://
+
+8
+00:00:11,156 --> 00:00:11,272
+http://h
+
+9
+00:00:11,273 --> 00:00:11,390
+http://hi
+
+10
+00:00:11,391 --> 00:00:11,507
+http://hiq
+
+11
+00:00:11,508 --> 00:00:11,625
+http://hiqv
+
+12
+00:00:11,626 --> 00:00:11,743
+http://hiqve
+
+13
+00:00:11,744 --> 00:00:11,860
+http://hiqve.
+
+14
+00:00:11,861 --> 00:00:11,978
+http://hiqve.c
+
+15
+00:00:11,979 --> 00:00:12,096
+http://hiqve.co
+
+16
+00:00:12,097 --> 00:00:12,213
+http://hiqve.com
+
+17
+00:00:12,214 --> 00:00:12,331
+http://hiqve.com/
+
+18
+00:00:12,332 --> 00:00:15,332
+http://hiqve.com/
+
+19
+00:00:18,356 --> 00:00:20,107
+<i>A darkness awakes!</i>
+
+20
+00:00:20,149 --> 00:00:24,278
+<i>Count Dooku's bitter betrayal of
+his former apprentice, Asajj Ventress,</i>
+
+21
+00:00:24,403 --> 00:00:29,534
+<i>resulted in the creation of a new menace
+in the galaxy, Savage Opress.</i>
+
+22
+00:00:29,784 --> 00:00:33,037
+<i>Caught in a deadly game of revenge
+between Ventress and Dooku,</i>
+
+23
+00:00:33,120 --> 00:00:35,373
+<i>Savage barely escaped the carnage.</i>
+
+24
+00:00:35,456 --> 00:00:38,459
+<i>Beaten and alone he returned
+to Mother Talzin,</i>
+
+25
+00:00:38,584 --> 00:00:44,048
+<i>his creator, who gave him a new quest
+to pursue his long-lost brother.</i>
+
+26
+00:00:46,968 --> 00:00:49,679
+I can sense him, Grievous.
+
+27
+00:00:50,304 --> 00:00:56,352
+That creature, Savage Opress,
+is growing stronger and stronger
+
+28
+00:00:56,435 --> 00:00:58,646
+as each day passes.
+
+29
+00:00:59,313 --> 00:01:03,150
+You consider him a threat?
+
+30
+00:01:03,818 --> 00:01:05,945
+He is a threat to all of us!
+
+31
+00:01:05,987 --> 00:01:07,572
+Even the Jedi!
+
+32
+00:01:07,655 --> 00:01:12,868
+With the Night sisters eradicated,
+there is no one left to control him.
+
+33
+00:01:13,327 --> 00:01:18,124
+Something is rising, something sinister.
+
+34
+00:01:29,719 --> 00:01:30,928
+He's choking her.
+
+35
+00:01:31,012 --> 00:01:32,430
+-Hey!
+-Let her go!
+
+36
+00:01:35,057 --> 00:01:36,726
+He's choking her.
+
+37
+00:01:39,270 --> 00:01:41,689
+Hurry up! Call the authorities!
+
+38
+00:01:52,575 --> 00:01:57,371
+Mother Talzin, this dust,
+
+39
+00:01:59,582 --> 00:02:01,042
+it's a clue.
+
+40
+00:02:07,256 --> 00:02:12,887
+Yes, Savage, you are getting
+closer and closer.
+
+41
+00:02:13,304 --> 00:02:18,225
+Soon you and your brother will be reunited.
+
+42
+00:02:18,726 --> 00:02:22,188
+I must make the necessary preparations.
+
+43
+00:02:23,022 --> 00:02:26,484
+So he hands me a blaster
+about a fourth the size...
+
+44
+00:02:26,567 --> 00:02:27,735
+Cheers.
+
+45
+00:02:29,236 --> 00:02:32,615
+- Why so tense?
+- I'm not sure.
+
+46
+00:02:33,658 --> 00:02:37,244
+I thought I sensed someone from my past.
+
+47
+00:02:38,329 --> 00:02:40,081
+Who is this someone?
+
+48
+00:02:41,582 --> 00:02:43,084
+A monster.
+
+49
+00:03:15,866 --> 00:03:19,954
+Huh. Hey! What are you doing here?
+Get outta here! I'm about to take off!
+
+50
+00:03:20,037 --> 00:03:24,500
+The cargo you just dropped off,
+what planet did it come from?
+
+51
+00:03:24,959 --> 00:03:28,045
+The junk fields on planet Lotho Minor!
+
+52
+00:03:28,129 --> 00:03:30,464
+-Take me there.
+-Okay! Okay!
+
+53
+00:03:38,097 --> 00:03:40,474
+Uh, shouldn't we be getting
+back to the cruiser?
+
+54
+00:03:40,558 --> 00:03:44,019
+Nah, I'm hungry and tired of
+those government rations.
+
+55
+00:03:44,520 --> 00:03:46,981
+Hey, looks like trouble. Come on.
+
+56
+00:03:52,611 --> 00:03:54,447
+Hey, what are you doing?
+
+57
+00:03:54,572 --> 00:03:57,199
+We don't want any trouble.
+We were only trying to help.
+
+58
+00:03:57,324 --> 00:04:00,661
+Lou ! Are you crazy?
+Pointing that thing at a Jedi?
+
+59
+00:04:00,828 --> 00:04:02,621
+Put it down now!
+
+60
+00:04:03,038 --> 00:04:06,917
+I'm sorry, sir. I'm just all shook up.
+
+61
+00:04:07,668 --> 00:04:10,254
+I understand. You want to tell me
+what happened here?
+
+62
+00:04:10,337 --> 00:04:12,131
+We have it under control, sir.
+
+63
+00:04:12,173 --> 00:04:16,010
+It looks like only a simple altercation.
+Happens here all the time.
+
+64
+00:04:16,051 --> 00:04:19,722
+He's telling the truth.
+We get some rough characters in here.
+
+65
+00:04:19,805 --> 00:04:22,516
+Things like this happen too often to count.
+
+66
+00:04:22,600 --> 00:04:25,186
+Why don't you and your friend
+take a load off?
+
+67
+00:04:25,269 --> 00:04:28,272
+I'll get you some food. Meal's on the house.
+
+68
+00:04:34,987 --> 00:04:37,406
+You're not gonna kill me, are you?
+
+69
+00:04:51,462 --> 00:04:52,671
+Master?
+
+70
+00:04:53,672 --> 00:04:54,882
+Anakin?
+
+71
+00:04:56,133 --> 00:05:01,722
+I sense a disturbance. Something sinister.
+
+72
+00:05:02,890 --> 00:05:04,642
+All the way out here?
+
+73
+00:05:05,309 --> 00:05:06,435
+Yes.
+
+74
+00:05:07,436 --> 00:05:10,564
+Do you know what, or who, it is?
+
+75
+00:05:11,232 --> 00:05:15,653
+No,
+but whatever it is, it feels familiar.
+
+76
+00:05:20,199 --> 00:05:24,537
+Just my luck, I got to go back
+to that scrap pile floating in space.
+
+77
+00:05:24,662 --> 00:05:26,330
+Just get moving.
+
+78
+00:05:26,413 --> 00:05:29,625
+Fine, I guess things could be worse.
+
+79
+00:05:29,708 --> 00:05:31,669
+Though I'm not sure how.
+
+80
+00:05:56,110 --> 00:05:57,611
+He is close.
+
+81
+00:06:21,176 --> 00:06:23,596
+-Get out. Now!
+-No. Come on!
+
+82
+00:06:34,148 --> 00:06:36,567
+I'm here at last, brother.
+
+83
+00:07:37,878 --> 00:07:41,882
+No, no, not when I'm so close!
+
+84
+00:07:54,228 --> 00:07:55,688
+Hey! Big guy!
+
+85
+00:07:55,938 --> 00:07:58,440
+I don't have time for you!
+
+86
+00:07:58,524 --> 00:07:59,817
+Over here!
+
+87
+00:08:05,072 --> 00:08:06,907
+You trackin' somebody?
+
+88
+00:08:07,116 --> 00:08:09,034
+What do you know about it?
+
+89
+00:08:09,827 --> 00:08:11,620
+I'm... I'm Morley.
+
+90
+00:08:11,954 --> 00:08:13,622
+I could help you!
+
+91
+00:08:14,832 --> 00:08:16,542
+We've got everything here!
+
+92
+00:08:16,583 --> 00:08:21,422
+I can get you what you want,
+for the right amount, of course.
+
+93
+00:08:25,592 --> 00:08:31,098
+I mean, it'd be my payment-free
+pleasure, of course!
+
+94
+00:08:32,307 --> 00:08:34,685
+I think I can manage on my own.
+
+95
+00:08:38,647 --> 00:08:42,109
+Show me something,
+show me which way to go!
+
+96
+00:08:44,445 --> 00:08:46,947
+What you need is a guide!
+
+97
+00:08:47,322 --> 00:08:49,324
+Leave me alone!
+
+98
+00:08:49,867 --> 00:08:51,118
+Wait!
+
+99
+00:08:52,786 --> 00:08:56,707
+Trust me! Not everything
+on this planet is junk.
+
+100
+00:08:57,416 --> 00:08:58,667
+It's not?
+
+101
+00:08:59,376 --> 00:09:01,295
+There are things like me.
+
+102
+00:09:01,378 --> 00:09:03,839
+Things that live and breathe.
+
+103
+00:09:04,298 --> 00:09:08,260
+Perhaps you're looking for something
+more like that.
+
+104
+00:09:08,302 --> 00:09:09,595
+Show me.
+
+105
+00:09:10,137 --> 00:09:12,514
+You're already heading
+in the right direction,
+
+106
+00:09:12,598 --> 00:09:16,268
+even though your
+handy doo-da there isn't working.
+
+107
+00:09:16,977 --> 00:09:21,356
+But you'll need my guidance to
+avoid the fire-breathers.
+
+108
+00:09:23,442 --> 00:09:24,985
+Fire-breathers?
+
+109
+00:09:37,998 --> 00:09:41,835
+Yep. Fire-breathers.
+They'll getcha! Follow me!
+
+110
+00:10:17,121 --> 00:10:18,247
+Ah!
+
+111
+00:10:18,455 --> 00:10:22,000
+The Junkers. Junkers strange folk.
+
+112
+00:10:22,668 --> 00:10:25,045
+Yeah, looks like it.
+
+113
+00:10:27,589 --> 00:10:29,550
+We better get outta here.
+
+114
+00:10:30,092 --> 00:10:32,344
+They can get a little cranky.
+
+115
+00:10:44,940 --> 00:10:47,568
+Big guy, we really should go.
+
+116
+00:10:50,237 --> 00:10:51,572
+A fight?
+
+117
+00:11:33,906 --> 00:11:34,990
+Wow!
+
+118
+00:11:41,205 --> 00:11:42,456
+Let's go.
+
+119
+00:11:43,999 --> 00:11:47,085
+So, who are you looking for?
+
+120
+00:11:50,297 --> 00:11:52,132
+Come on.
+
+121
+00:11:52,299 --> 00:11:55,093
+My brother. I've been searching for him.
+
+122
+00:11:55,969 --> 00:11:59,139
+Uh... Does he look like you?
+
+123
+00:11:59,598 --> 00:12:01,266
+Have you seen him?
+
+124
+00:12:01,558 --> 00:12:06,438
+No. No. I just heard stories
+about a horned man.
+
+125
+00:12:07,314 --> 00:12:10,484
+I thought it was just an old local legend.
+
+126
+00:12:10,943 --> 00:12:12,319
+How old?
+
+127
+00:12:13,111 --> 00:12:14,321
+Old.
+
+128
+00:12:16,823 --> 00:12:21,662
+They say he drags things down beneath
+
+129
+00:12:22,246 --> 00:12:24,790
+and they never come back up.
+
+130
+00:12:25,999 --> 00:12:28,502
+Oh, but it's only a legend, like I said.
+
+131
+00:12:37,469 --> 00:12:38,804
+Acid rain.
+
+132
+00:12:39,846 --> 00:12:43,016
+It'll melt us down
+if we don't find shelter soon.
+
+133
+00:12:46,979 --> 00:12:48,355
+Over there.
+
+134
+00:12:54,778 --> 00:12:56,029
+Oh, oh, oh...
+
+135
+00:12:56,113 --> 00:12:57,489
+What the...
+
+136
+00:13:12,963 --> 00:13:14,673
+This is it.
+
+137
+00:13:25,976 --> 00:13:29,062
+It doesn't look like anyone's here, big guy.
+
+138
+00:13:29,938 --> 00:13:31,648
+I can see that!
+
+139
+00:13:40,699 --> 00:13:44,244
+Mother Talzin ! She betrayed me!
+
+140
+00:13:44,328 --> 00:13:46,330
+My brother must be dead!
+
+141
+00:13:54,755 --> 00:13:57,591
+She's not the only one who betrayed you!
+
+142
+00:14:00,260 --> 00:14:02,220
+You'll make a good offering
+
+143
+00:14:02,262 --> 00:14:06,558
+and when my master's finished with you,
+I get the leftovers!
+
+144
+00:14:23,325 --> 00:14:25,243
+Brother? Is that you, brother?
+
+145
+00:15:24,010 --> 00:15:25,178
+Is that you, brother?
+
+146
+00:15:45,824 --> 00:15:46,825
+You!
+
+147
+00:15:49,244 --> 00:15:52,122
+Stop there! What have you done
+with my brother?
+
+148
+00:15:52,205 --> 00:15:54,040
+Answer me, you monster!
+
+149
+00:16:20,275 --> 00:16:23,445
+What? It can't be.
+
+150
+00:16:28,033 --> 00:16:30,160
+-Brother!
+-No!
+
+151
+00:16:32,746 --> 00:16:34,247
+Wait, brother!
+
+152
+00:16:36,666 --> 00:16:38,418
+No! No!
+
+153
+00:16:49,596 --> 00:16:52,849
+No! No! No!
+
+154
+00:16:52,933 --> 00:16:55,435
+You are the brother I've been searching for.
+
+155
+00:16:55,519 --> 00:17:00,357
+No! No! No! No! No!
+
+156
+00:17:00,941 --> 00:17:03,944
+Yes! We are, we are brothers.
+
+157
+00:17:04,069 --> 00:17:05,278
+No!
+
+158
+00:17:07,113 --> 00:17:09,324
+You... You don't know!
+
+159
+00:17:09,866 --> 00:17:12,202
+You don't know anything!
+
+160
+00:17:14,120 --> 00:17:16,289
+Never, never!
+
+161
+00:17:16,915 --> 00:17:18,959
+I know I am your blood!
+
+162
+00:17:19,000 --> 00:17:20,168
+Never!
+
+163
+00:17:21,628 --> 00:17:23,463
+Never, never!
+
+164
+00:17:31,304 --> 00:17:33,807
+I'm ready for my leftovers.
+
+165
+00:17:35,058 --> 00:17:37,185
+Oh ! You're still alive, huh?
+
+166
+00:17:39,896 --> 00:17:42,065
+- Who did this to my brother?
+- No.
+
+167
+00:17:42,148 --> 00:17:43,817
+Are you part of this?
+
+168
+00:17:44,484 --> 00:17:45,569
+No.
+
+169
+00:17:46,194 --> 00:17:49,364
+No. No. I found him this way.
+
+170
+00:17:50,073 --> 00:17:52,909
+It wasn't me. I found him this way.
+
+171
+00:17:52,993 --> 00:17:56,246
+You can't be trusted.
+You're a slithering liar!
+
+172
+00:17:56,329 --> 00:17:57,872
+You should have been helping him!
+
+173
+00:17:57,998 --> 00:18:02,168
+I didn't know! I didn't know!
+
+174
+00:18:09,301 --> 00:18:11,386
+This is where you live?
+
+175
+00:18:14,347 --> 00:18:16,349
+How long have you been here?
+
+176
+00:18:16,850 --> 00:18:19,019
+Years and years and years.
+
+177
+00:18:19,936 --> 00:18:25,025
+Through victory, my chains are broken.
+The chains, the chains are the easy part.
+
+178
+00:18:25,150 --> 00:18:29,321
+It's what goes on in here that's hard.
+
+179
+00:18:31,197 --> 00:18:33,450
+You have been lost, my brother.
+
+180
+00:18:33,575 --> 00:18:35,702
+Do you remember who you are?
+
+181
+00:18:35,952 --> 00:18:37,704
+Where you came from?
+
+182
+00:18:38,038 --> 00:18:43,084
+Always remember I am fear,
+always remember I am hunter,
+
+183
+00:18:43,209 --> 00:18:48,465
+always remember I am filth,
+always remember I am nothing.
+
+184
+00:18:51,051 --> 00:18:52,385
+Your legs...
+
+185
+00:18:52,802 --> 00:18:56,890
+That scum, he took them from me.
+He took them!
+
+186
+00:18:57,182 --> 00:18:58,892
+Who? Who took them?
+
+187
+00:18:59,267 --> 00:19:02,812
+Jedi. Jedi.
+
+188
+00:19:04,606 --> 00:19:06,733
+-You remember?
+-I don't ask for mercy, Master.
+
+189
+00:19:06,816 --> 00:19:10,820
+Mercy is a lie, a delusion of the weak
+to think themselves strong.
+
+190
+00:19:10,987 --> 00:19:13,740
+-I ask not for mercy...
+-What? What is it?
+
+191
+00:19:13,823 --> 00:19:15,909
+-But the chance...
+-Brother, what are you saying?
+
+192
+00:19:16,910 --> 00:19:21,414
+And through the filth,
+through the grief, Jedi!
+
+193
+00:19:22,832 --> 00:19:24,292
+Revenge.
+
+194
+00:19:25,627 --> 00:19:27,754
+I must have revenge.
+
+195
+00:19:38,515 --> 00:19:39,974
+Master Yoda?
+
+196
+00:19:40,725 --> 00:19:43,978
+Feel the disturbance in the Force, do you?
+
+197
+00:19:44,437 --> 00:19:45,814
+Yes, Master.
+
+198
+00:19:46,940 --> 00:19:49,150
+Fear you are in danger, I do.
+
+199
+00:19:49,901 --> 00:19:55,281
+From the dead, an old enemy
+has awakened seeking vengeance.
+
+200
+00:19:56,074 --> 00:19:57,575
+An old enemy?
+
+201
+00:19:58,076 --> 00:20:01,454
+Killed your master many moons ago,
+he did.
+
+202
+00:20:02,747 --> 00:20:05,917
+How can this be? I killed him myself!
+
+203
+00:20:06,626 --> 00:20:08,294
+It is so, I fear.
+
+204
+00:20:10,130 --> 00:20:12,632
+Darth Maul alive?
+
+205
+00:20:12,656 --> 00:20:17,656
+http://hiqve.com/
+

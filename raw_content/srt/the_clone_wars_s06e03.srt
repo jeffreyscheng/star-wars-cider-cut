@@ -1,0 +1,1293 @@
+﻿1
+00:00:10,415 --> 00:00:10,532
+h
+
+2
+00:00:10,533 --> 00:00:10,649
+ht
+
+3
+00:00:10,650 --> 00:00:10,767
+htt
+
+4
+00:00:10,768 --> 00:00:10,885
+http
+
+5
+00:00:10,886 --> 00:00:11,002
+http:
+
+6
+00:00:11,003 --> 00:00:11,120
+http:/
+
+7
+00:00:11,121 --> 00:00:11,238
+http://
+
+8
+00:00:11,239 --> 00:00:11,355
+http://h
+
+9
+00:00:11,356 --> 00:00:11,473
+http://hi
+
+10
+00:00:11,474 --> 00:00:11,590
+http://hiq
+
+11
+00:00:11,591 --> 00:00:11,708
+http://hiqv
+
+12
+00:00:11,709 --> 00:00:11,826
+http://hiqve
+
+13
+00:00:11,827 --> 00:00:11,943
+http://hiqve.
+
+14
+00:00:11,944 --> 00:00:12,061
+http://hiqve.c
+
+15
+00:00:12,062 --> 00:00:12,179
+http://hiqve.co
+
+16
+00:00:12,180 --> 00:00:12,296
+http://hiqve.com
+
+17
+00:00:12,297 --> 00:00:12,414
+http://hiqve.com/
+
+18
+00:00:12,415 --> 00:00:15,415
+http://hiqve.com/
+
+19
+00:00:17,439 --> 00:00:19,482
+<i>Cause of death unknown!</i>
+
+20
+00:00:19,566 --> 00:00:22,027
+<i>Kaminoan Doctor Nala Se was unable</i>
+
+21
+00:00:22,110 --> 00:00:25,238
+<i>to find the cause of an illness
+in Clone Trooper Tup.</i>
+
+22
+00:00:25,322 --> 00:00:27,866
+<i>In a desperate attempt
+to save his friend's life,</i>
+
+23
+00:00:27,949 --> 00:00:30,869
+<i>Fives located and removed a tumor
+from Tup's brain</i>
+
+24
+00:00:30,952 --> 00:00:33,830
+<i>with the help of medical droid AZI-3.</i>
+
+25
+00:00:33,955 --> 00:00:36,958
+<i>Immediately following the procedure,
+Tup died,</i>
+
+26
+00:00:37,042 --> 00:00:39,794
+<i>and Fives was placed under arrest.</i>
+
+27
+00:00:40,086 --> 00:00:43,465
+<i>Now, the tumor is the only hope
+to finding answers</i>
+
+28
+00:00:43,548 --> 00:00:45,717
+<i>for Tup's mysterious illness.</i>
+
+29
+00:00:59,105 --> 00:01:01,983
+General, what did the Chancellor say?
+
+30
+00:01:02,067 --> 00:01:04,778
+Supreme Chancellor Palpatine
+wants the tumor
+
+31
+00:01:04,861 --> 00:01:06,529
+and all of the intel gathered
+
+32
+00:01:06,613 --> 00:01:10,075
+sent to the Grand Republic
+Medical Facility on Coruscant.
+
+33
+00:01:10,158 --> 00:01:13,203
+So, then I'll be going
+to Coruscant as well?
+
+34
+00:01:13,286 --> 00:01:16,248
+You were not a part
+of the Chancellor's request.
+
+35
+00:01:17,249 --> 00:01:18,750
+I'm sorry, Fives,
+
+36
+00:01:18,833 --> 00:01:22,671
+but this is a matter best left
+to the medical professionals.
+
+37
+00:01:22,754 --> 00:01:25,382
+There is still so much we do not know.
+
+38
+00:01:30,428 --> 00:01:32,264
+Perhaps we would know more
+
+39
+00:01:32,347 --> 00:01:35,433
+if this clone had not taken matters
+into his own hands.
+
+40
+00:01:35,517 --> 00:01:37,894
+Listen ! I was trying to save my friend!
+
+41
+00:01:37,978 --> 00:01:42,774
+And yet perhaps by removing
+this tumor, it was you who killed him.
+
+42
+00:01:42,857 --> 00:01:44,276
+What do you care?
+
+43
+00:01:44,359 --> 00:01:47,112
+You were going to kill him anyway,
+and dissect him, too.
+
+44
+00:01:47,195 --> 00:01:49,322
+He's a soldier. He deserves better!
+
+45
+00:01:49,948 --> 00:01:51,908
+Stand down, Fives!
+
+46
+00:01:51,992 --> 00:01:55,203
+Doctor, there is no proof of your claim.
+
+47
+00:01:57,539 --> 00:02:02,585
+I want this specimen and all the data
+prepared for transit to the Jedi Temple.
+
+48
+00:02:03,795 --> 00:02:05,964
+The Chancellor said the tumor and data
+
+49
+00:02:06,047 --> 00:02:09,801
+was to be sent directly
+to the Medical Facility on Coruscant,
+
+50
+00:02:09,884 --> 00:02:11,594
+not the Jedi Temple.
+
+51
+00:02:11,678 --> 00:02:13,388
+And it will get there,
+
+52
+00:02:13,471 --> 00:02:16,975
+but after the Jedi have run
+an analysis on it first.
+
+53
+00:02:17,058 --> 00:02:21,771
+I protest. I must personally deliver
+the tumor to the Chancellor as ordered.
+
+54
+00:02:21,855 --> 00:02:24,399
+You can protest all you want.
+
+55
+00:02:24,899 --> 00:02:26,693
+My word is final.
+
+56
+00:02:33,408 --> 00:02:35,827
+You have one more physical to pass.
+
+57
+00:02:35,910 --> 00:02:39,581
+If you are cleared,
+you will be sent back to the 501 st.
+
+58
+00:02:44,419 --> 00:02:45,754
+Thank you, General.
+
+59
+00:02:46,254 --> 00:02:50,091
+It will be good to put this
+entire incident behind you, Trooper.
+
+60
+00:02:51,801 --> 00:02:52,927
+I agree.
+
+61
+00:03:12,197 --> 00:03:13,782
+AZI-3!
+
+62
+00:03:14,616 --> 00:03:16,826
+Hello, ARC Trooper Fives.
+
+63
+00:03:16,910 --> 00:03:19,662
+I regret that we were
+unable to heal your friend.
+
+64
+00:03:19,746 --> 00:03:21,956
+Yeah, me, too.
+
+65
+00:03:22,082 --> 00:03:24,542
+Are you going to be
+reprogrammed as well?
+
+66
+00:03:24,626 --> 00:03:27,587
+No, AZI, I'm going back to the front.
+
+67
+00:03:27,670 --> 00:03:29,631
+That is not what I heard.
+
+68
+00:03:29,714 --> 00:03:31,925
+I heard your mind
+was going to be wiped
+
+69
+00:03:32,008 --> 00:03:35,720
+and that you would be reassigned here
+and placed on sanitation detail.
+
+70
+00:03:35,804 --> 00:03:37,555
+We can still be friends,
+
+71
+00:03:37,639 --> 00:03:39,432
+assuming we both
+remember each other
+
+72
+00:03:39,516 --> 00:03:41,393
+after our memories have been erased.
+
+73
+00:03:43,478 --> 00:03:46,856
+Let's go, CT-5555.
+
+74
+00:03:47,399 --> 00:03:48,400
+No!
+
+75
+00:04:02,789 --> 00:04:04,416
+Look what you did!
+
+76
+00:04:05,333 --> 00:04:07,252
+I cannot believe what you did!
+
+77
+00:04:07,335 --> 00:04:09,921
+I am not getting my mind erased,
+and neither are you.
+
+78
+00:04:11,381 --> 00:04:12,757
+Get out of here!
+
+79
+00:04:12,841 --> 00:04:14,426
+Are we escaping?
+
+80
+00:04:22,517 --> 00:04:23,726
+Why are we here?
+
+81
+00:04:24,894 --> 00:04:26,271
+I knew it!
+
+82
+00:04:26,354 --> 00:04:28,815
+Nala Se switched the cases.
+
+83
+00:04:28,898 --> 00:04:30,358
+She's trying to hide something.
+
+84
+00:04:30,984 --> 00:04:32,277
+The tumor?
+
+85
+00:04:32,360 --> 00:04:35,280
+So we are going to
+continue our research?
+
+86
+00:04:35,405 --> 00:04:38,533
+Yeah, the research, that's it.
+Now come on!
+
+87
+00:05:09,898 --> 00:05:13,568
+I'm sorry, sir. All ships are locked down
+during the emergency.
+
+88
+00:05:14,235 --> 00:05:16,196
+-What about that one?
+-Hey!
+
+89
+00:05:25,538 --> 00:05:27,373
+There they are!
+
+90
+00:05:28,750 --> 00:05:30,251
+Sorry, brother.
+
+91
+00:05:47,560 --> 00:05:50,104
+I want him brought in alive!
+
+92
+00:05:50,188 --> 00:05:52,732
+-Have that ship tracked.
+-Yes, ma'am.
+
+93
+00:05:55,902 --> 00:05:57,111
+Can you float?
+
+94
+00:05:57,195 --> 00:06:00,114
+I am buoyant
+and have several survival modes.
+
+95
+00:06:01,199 --> 00:06:02,784
+Survival, eh?
+
+96
+00:06:04,452 --> 00:06:08,248
+<i>Autopilot engaged.
+Navigation and orbit set.</i>
+
+97
+00:06:10,291 --> 00:06:13,628
+Wait! What are you doing?
+I thought we were escaping?
+
+98
+00:06:13,711 --> 00:06:15,964
+Nope, this is a diversion.
+
+99
+00:06:16,047 --> 00:06:17,423
+I need them to chase this pod
+
+100
+00:06:17,507 --> 00:06:20,885
+while we go back and investigate
+the cause of Tup's death.
+
+101
+00:06:20,969 --> 00:06:22,428
+Any more questions, Doctor?
+
+102
+00:06:22,512 --> 00:06:24,764
+Actually, yes, now that you mention it...
+
+103
+00:06:37,402 --> 00:06:39,404
+AZI ! AZI!
+
+104
+00:06:39,487 --> 00:06:40,905
+Now what?
+
+105
+00:06:40,989 --> 00:06:43,825
+We're going back to figure out
+why Tup died.
+
+106
+00:06:44,325 --> 00:06:46,494
+I can get us there much faster.
+
+107
+00:06:52,834 --> 00:06:54,752
+You're just full of surprises, aren't you?
+
+108
+00:06:54,836 --> 00:06:57,255
+This is one
+of my various survival modes.
+
+109
+00:06:57,338 --> 00:06:58,673
+I am equipped...
+
+110
+00:07:00,800 --> 00:07:02,093
+Droids.
+
+111
+00:07:02,176 --> 00:07:04,345
+A "thank you" would have been nice.
+
+112
+00:07:16,899 --> 00:07:19,611
+Lord Tyranus, you summoned me?
+
+113
+00:07:19,694 --> 00:07:24,407
+<i>Prime Minister Lama Su tells me
+there has been a complication.</i>
+
+114
+00:07:24,490 --> 00:07:27,076
+<i>What has happened
+to the inhibitor chip?</i>
+
+115
+00:07:27,160 --> 00:07:29,871
+It was stolen by a renegade clone.
+
+116
+00:07:29,954 --> 00:07:32,248
+<i>What does this clone know?</i>
+
+117
+00:07:32,332 --> 00:07:35,918
+Nothing as of yet.
+He is just a soldier, after all.
+
+118
+00:07:36,002 --> 00:07:38,671
+However, he was a friend
+
+119
+00:07:38,755 --> 00:07:41,132
+to the clone which malfunctioned.
+
+120
+00:07:41,215 --> 00:07:43,343
+<i>This behavior is unsettling.</i>
+
+121
+00:07:43,426 --> 00:07:47,680
+<i>First the malfunctioning clone
+and now a renegade.</i>
+
+122
+00:07:47,764 --> 00:07:52,018
+<i>Are you certain these soldiers
+will live up to your design in the end?</i>
+
+123
+00:07:52,101 --> 00:07:57,106
+I am certain. The malfunction to
+the inhibitor chip is an aberration.
+
+124
+00:07:57,190 --> 00:07:59,442
+<i>And how do you explain the renegade?</i>
+
+125
+00:07:59,525 --> 00:08:04,489
+I'm afraid the Jedi have inspired
+creative thinking in some of the clones.
+
+126
+00:08:04,572 --> 00:08:08,159
+That is the cause of this type
+of divergent behavior.
+
+127
+00:08:08,242 --> 00:08:12,580
+<i>Will this interfere with Protocol 66?</i>
+
+128
+00:08:13,414 --> 00:08:15,500
+No, I am certain of that.
+
+129
+00:08:16,250 --> 00:08:18,753
+<i>Find the renegade clone immediately</i>
+
+130
+00:08:18,836 --> 00:08:21,547
+<i>and make sure you recover the chip.</i>
+
+131
+00:08:21,631 --> 00:08:27,011
+<i>The true nature of the inhibitor chip
+must not be discovered by the Jedi.</i>
+
+132
+00:08:27,095 --> 00:08:29,180
+Yes, Lord Tyranus.
+
+133
+00:08:46,155 --> 00:08:47,490
+What...
+
+134
+00:08:47,824 --> 00:08:51,786
+Once we're inside, I need you to
+get me a change of clothes, AZI.
+
+135
+00:08:59,752 --> 00:09:04,632
+Trooper, I think I saw the renegade
+clone head into the storage room.
+
+136
+00:09:04,716 --> 00:09:06,968
+All right, let's check it out.
+
+137
+00:09:09,762 --> 00:09:11,848
+I think he was over there.
+
+138
+00:09:20,022 --> 00:09:22,483
+We need to get the tumor analyzed.
+
+139
+00:09:23,234 --> 00:09:24,569
+Follow me.
+
+140
+00:09:31,617 --> 00:09:33,870
+This is the Genetic Records Hall.
+
+141
+00:09:33,953 --> 00:09:38,249
+It contains data on the original DNA
+of every being we have ever cloned.
+
+142
+00:09:40,168 --> 00:09:42,003
+We will compare the tumor's DNA
+
+143
+00:09:42,086 --> 00:09:44,881
+versus that of Jango Fett,
+the original donor.
+
+144
+00:09:44,964 --> 00:09:48,843
+If any tumor like this has been
+noted before, we will find it.
+
+145
+00:09:50,386 --> 00:09:52,054
+The tumor, please?
+
+146
+00:09:57,393 --> 00:09:58,978
+-Nothing.
+-What?
+
+147
+00:09:59,061 --> 00:10:02,982
+The sample doesn't match anything
+found in the Jango Fett genotype.
+
+148
+00:10:03,065 --> 00:10:05,943
+Furthermore, it is not
+even completely organic.
+
+149
+00:10:06,027 --> 00:10:07,737
+It is foreign to the body.
+
+150
+00:10:07,820 --> 00:10:09,822
+Someone implanted it there.
+
+151
+00:10:09,906 --> 00:10:13,451
+An implant?
+You mean this isn't an accident?
+
+152
+00:10:13,534 --> 00:10:16,621
+-Someone did this to Tup?
+-Precisely.
+
+153
+00:10:21,250 --> 00:10:24,295
+There have been no unauthorized ships
+leaving Kamino, General.
+
+154
+00:10:29,717 --> 00:10:32,512
+I sense we are looking
+in the wrong place.
+
+155
+00:10:33,221 --> 00:10:35,389
+We have a report
+from the Genetic Records Hall.
+
+156
+00:10:35,473 --> 00:10:36,724
+Explain.
+
+157
+00:10:36,808 --> 00:10:39,519
+Someone is accessing
+the Jango Fett genotype.
+
+158
+00:10:39,602 --> 00:10:41,062
+It's them.
+
+159
+00:10:41,145 --> 00:10:43,231
+Evacuate that room quietly.
+
+160
+00:10:51,739 --> 00:10:54,784
+Is there another way out of here
+besides the door we came in?
+
+161
+00:10:54,867 --> 00:10:57,995
+Yes, there are emergency
+access hatches in every major room
+
+162
+00:10:58,079 --> 00:10:59,205
+in case of flooding.
+
+163
+00:10:59,288 --> 00:11:01,791
+Good, let's get moving.
+
+164
+00:11:04,669 --> 00:11:06,045
+There.
+
+165
+00:11:35,116 --> 00:11:37,076
+It's no good.
+They've sealed it from the inside.
+
+166
+00:11:37,159 --> 00:11:41,163
+Station your men at every access point
+back into the main hallway system!
+
+167
+00:11:41,247 --> 00:11:42,373
+Yes, ma'am.
+
+168
+00:11:45,626 --> 00:11:47,420
+Did you get
+all the information you needed?
+
+169
+00:11:47,503 --> 00:11:50,882
+Mostly. We know that the tumor
+is a foreign material
+
+170
+00:11:50,965 --> 00:11:53,342
+and was implanted
+for an unknown reason.
+
+171
+00:11:53,426 --> 00:11:56,679
+However, there is still so much
+we do not know about it.
+
+172
+00:11:56,762 --> 00:12:00,600
+For example, at what stage
+was it introduced to Clone Tup?
+
+173
+00:12:00,683 --> 00:12:01,976
+And why?
+
+174
+00:12:02,643 --> 00:12:06,063
+What is this thing?
+Why would someone put it in Tup?
+
+175
+00:12:06,147 --> 00:12:09,650
+I believe this is an organic chip
+built out of cells.
+
+176
+00:12:10,151 --> 00:12:12,695
+-What's it for?
+-I do not know.
+
+177
+00:12:20,036 --> 00:12:24,165
+Thanks. I need to find out
+if what was in Tup's head is in mine.
+
+178
+00:12:24,248 --> 00:12:25,708
+We have already done a scan and...
+
+179
+00:12:25,791 --> 00:12:29,253
+But it was missed in Tup, and it
+could have been missed in me, too!
+
+180
+00:12:29,337 --> 00:12:31,172
+You have to take it out.
+
+181
+00:12:31,714 --> 00:12:35,009
+We cannot be 100% sure
+if the chip is even there.
+
+182
+00:12:35,092 --> 00:12:37,428
+I know it's there.
+
+183
+00:12:37,511 --> 00:12:39,597
+It is a dangerous surgery...
+
+184
+00:12:42,350 --> 00:12:45,728
+Look, you got it out of Tup,
+you can get it out of me.
+
+185
+00:12:45,811 --> 00:12:49,023
+He died after I removed the chip.
+
+186
+00:12:49,106 --> 00:12:50,900
+Maybe it is connected.
+
+187
+00:12:51,525 --> 00:12:53,361
+You may die, too.
+
+188
+00:12:54,362 --> 00:12:57,114
+It's a chance I have to take.
+
+189
+00:12:57,198 --> 00:12:58,699
+I trust you.
+
+190
+00:13:00,660 --> 00:13:03,537
+All right, I will do it.
+
+191
+00:13:03,621 --> 00:13:06,040
+Let us go to a sterile facility.
+
+192
+00:13:25,977 --> 00:13:28,729
+Hold still. This will not hurt a bit.
+
+193
+00:13:31,983 --> 00:13:34,318
+You sure you know
+what you're doing, right?
+
+194
+00:13:34,402 --> 00:13:36,988
+Why, yes. I have been programmed
+to perform over 100...
+
+195
+00:13:37,071 --> 00:13:38,489
+All right, all right.
+
+196
+00:13:38,572 --> 00:13:39,824
+Let's do this.
+
+197
+00:13:49,291 --> 00:13:51,877
+You will only be unconscious
+for a few minutes.
+
+198
+00:14:18,320 --> 00:14:20,031
+There's no sign of them, General.
+
+199
+00:14:20,114 --> 00:14:21,907
+They must have escaped by now.
+
+200
+00:14:21,991 --> 00:14:24,118
+Escape was never their intention.
+
+201
+00:14:24,201 --> 00:14:26,203
+They are investigating, searching.
+
+202
+00:14:26,287 --> 00:14:29,040
+Their appearance
+in the genetics labs proves this.
+
+203
+00:14:29,123 --> 00:14:31,542
+But what are they searching for?
+
+204
+00:14:40,426 --> 00:14:42,887
+Well? Was it...
+
+205
+00:14:43,471 --> 00:14:45,639
+-Was it there?
+-Yes.
+
+206
+00:14:45,931 --> 00:14:47,516
+Identical in structure.
+
+207
+00:14:47,600 --> 00:14:52,146
+However, it appears that the one I found
+in your friend had malfunctioned,
+
+208
+00:14:52,229 --> 00:14:54,398
+while yours is perfectly intact.
+
+209
+00:14:56,275 --> 00:14:59,695
+Are you sure
+his breakdown was isolated?
+
+210
+00:15:00,071 --> 00:15:02,114
+There is no way of knowing that.
+
+211
+00:15:02,990 --> 00:15:05,159
+And now that we have
+removed your chip,
+
+212
+00:15:05,242 --> 00:15:07,661
+we do not know what will happen to you.
+
+213
+00:15:08,329 --> 00:15:10,122
+So, then,
+
+214
+00:15:10,706 --> 00:15:12,333
+I could snap, too?
+
+215
+00:15:12,416 --> 00:15:16,337
+Possibly. But when we removed
+the chip from Tup, he...
+
+216
+00:15:16,420 --> 00:15:19,298
+I am afraid you may die as well.
+
+217
+00:15:19,381 --> 00:15:22,593
+I need to know if more clones
+than just Tup and I have these,
+
+218
+00:15:22,676 --> 00:15:24,637
+and when we were implanted with them.
+
+219
+00:15:24,720 --> 00:15:27,389
+My analysis suggests
+implantation took place
+
+220
+00:15:27,473 --> 00:15:29,642
+at the earliest stage of development,
+
+221
+00:15:29,725 --> 00:15:32,770
+most likely when you
+and Tup were only embryos.
+
+222
+00:15:33,646 --> 00:15:35,815
+Then we have to start there.
+
+223
+00:15:51,288 --> 00:15:52,498
+Great.
+
+224
+00:15:54,041 --> 00:15:55,709
+Try to act normal.
+
+225
+00:15:56,335 --> 00:15:57,753
+Normal?
+
+226
+00:16:03,050 --> 00:16:04,510
+Hello!
+
+227
+00:16:05,761 --> 00:16:07,763
+How was that? Was that normal?
+
+228
+00:16:07,847 --> 00:16:10,558
+For you, AZI, yeah.
+
+229
+00:16:39,503 --> 00:16:42,882
+We will start with the earliest stage
+of development.
+
+230
+00:16:56,854 --> 00:17:00,107
+Nothing. I will now try
+a Stage 3 embryo.
+
+231
+00:17:05,362 --> 00:17:08,032
+-There it is!
+-Try another.
+
+232
+00:17:12,953 --> 00:17:17,124
+Based on this data, I can calculate
+how many in this tree are altered.
+
+233
+00:17:23,464 --> 00:17:25,466
+I can't believe it.
+
+234
+00:17:25,549 --> 00:17:27,343
+They all have one.
+
+235
+00:17:32,056 --> 00:17:33,641
+Don't move.
+
+236
+00:17:33,933 --> 00:17:35,851
+Why are you doing this?
+
+237
+00:17:35,935 --> 00:17:38,145
+I know what you've done!
+
+238
+00:17:38,562 --> 00:17:40,981
+What is it that you think I have done?
+
+239
+00:17:43,317 --> 00:17:45,653
+How do you explain this?
+
+240
+00:17:45,736 --> 00:17:48,072
+That is a structural inhibitor chip,
+
+241
+00:17:48,155 --> 00:17:50,783
+which is supposed to prevent you
+from being aggressive,
+
+242
+00:17:50,866 --> 00:17:53,202
+like your source, Jango Fett.
+
+243
+00:17:53,285 --> 00:17:58,749
+Jedi Master Sifo-Dyas instructed us to
+implant them during your growth cycle.
+
+244
+00:17:59,041 --> 00:18:00,251
+The Jedi?
+
+245
+00:18:00,334 --> 00:18:02,586
+The Jedi had this done to us?
+
+246
+00:18:02,670 --> 00:18:06,715
+It is not uncommon to have
+inhibitors placed in a clone.
+
+247
+00:18:06,799 --> 00:18:10,761
+I have analyzed this one,
+and apparently it has failed.
+
+248
+00:18:10,844 --> 00:18:13,973
+Up until this point,
+there has never been a problem.
+
+249
+00:18:14,056 --> 00:18:16,433
+Well, you have got a big problem now.
+
+250
+00:18:16,517 --> 00:18:18,018
+Don't move!
+
+251
+00:18:22,898 --> 00:18:24,483
+Drop your weapon.
+
+252
+00:18:24,566 --> 00:18:26,527
+Master Jedi, I know what's going on.
+
+253
+00:18:26,610 --> 00:18:28,028
+I have the evidence.
+
+254
+00:18:28,112 --> 00:18:32,408
+The Jedi instructed that inhibitor chips
+be implanted in us at birth,
+
+255
+00:18:32,491 --> 00:18:35,953
+but Tup's malfunctioned.
+That's what made him lose control.
+
+256
+00:18:36,412 --> 00:18:38,205
+Where is the evidence?
+
+257
+00:18:38,289 --> 00:18:40,124
+I have it right here.
+
+258
+00:18:40,207 --> 00:18:44,420
+As you can see, the chip taken from
+Clone Trooper Tup is black and rotting,
+
+259
+00:18:44,503 --> 00:18:46,422
+indicating a malfunction of some sort.
+
+260
+00:18:47,089 --> 00:18:49,008
+What caused the malfunction?
+
+261
+00:18:49,091 --> 00:18:52,469
+It doesn't matter.
+The fact is Tup's chip malfunctioned
+
+262
+00:18:52,553 --> 00:18:53,929
+and it drove him insane.
+
+263
+00:18:54,013 --> 00:18:56,015
+These chips have to be removed,
+
+264
+00:18:56,098 --> 00:18:59,727
+otherwise the entire Republic Army
+could be compromised.
+
+265
+00:18:59,810 --> 00:19:01,645
+There's no proof of that!
+
+266
+00:19:01,729 --> 00:19:03,605
+This is an isolated incident.
+
+267
+00:19:03,689 --> 00:19:07,484
+Besides, when you removed
+Trooper Tup's chip, he died.
+
+268
+00:19:07,568 --> 00:19:10,112
+Well, that's not going to happen
+to the rest of us.
+
+269
+00:19:10,195 --> 00:19:11,822
+And how do you know that?
+
+270
+00:19:11,905 --> 00:19:13,907
+Because I removed mine!
+
+271
+00:19:14,408 --> 00:19:16,410
+Here is Clone Trooper Fives' chip.
+
+272
+00:19:16,493 --> 00:19:20,748
+As you can see, there is no sign of
+malfunction in either him or the chip.
+
+273
+00:19:20,831 --> 00:19:23,625
+By removing your chip, you are a threat.
+
+274
+00:19:23,709 --> 00:19:27,046
+Master Jedi, we must terminate
+this trooper immediately.
+
+275
+00:19:27,129 --> 00:19:30,841
+I am not a piece of hardware!
+I'm a living being.
+
+276
+00:19:30,924 --> 00:19:35,179
+You were created in our laboratories.
+You are Kaminoan property!
+
+277
+00:19:36,180 --> 00:19:40,684
+Correction, technically,
+he is property of the Republic.
+
+278
+00:19:40,768 --> 00:19:45,689
+That does not change the fact that
+he is a danger and must be terminated.
+
+279
+00:19:45,773 --> 00:19:48,442
+I believe that's for me to decide.
+
+280
+00:19:48,525 --> 00:19:51,362
+Fives, you are coming
+with me to Coruscant.
+
+281
+00:19:51,445 --> 00:19:54,698
+I think it's time you told
+your story to the Chancellor.
+
+282
+00:19:54,782 --> 00:19:58,285
+Master Jedi ! I beg you to reconsider!
+
+283
+00:19:58,577 --> 00:20:02,414
+The Chancellor wanted all the data
+on Tup to be sent to Coruscant.
+
+284
+00:20:02,498 --> 00:20:06,668
+We're sending the data, the tumor
+and Fives along with it.
+
+285
+00:20:06,752 --> 00:20:08,712
+Then I am going with you.
+
+286
+00:20:08,796 --> 00:20:11,131
+As you wish, Doctor.
+
+287
+00:20:21,016 --> 00:20:23,852
+Thank you for believing in me, General.
+
+288
+00:20:24,478 --> 00:20:27,106
+It is not a matter of belief, Fives,
+
+289
+00:20:27,189 --> 00:20:29,733
+it is simply the right thing to do.
+
+290
+00:20:33,153 --> 00:20:35,197
+It looks like you got what you wanted.
+
+291
+00:20:35,280 --> 00:20:36,740
+Thanks to you.
+
+292
+00:20:37,408 --> 00:20:39,493
+I'll see you on the other side.
+
+293
+00:20:39,576 --> 00:20:41,453
+The other side of what?
+
+294
+00:20:44,832 --> 00:20:45,916
+Droids.
+
+295
+00:20:45,940 --> 00:20:50,940
+http://hiqve.com/
+

@@ -1,0 +1,1338 @@
+﻿1
+00:00:10,661 --> 00:00:10,778
+h
+
+2
+00:00:10,779 --> 00:00:10,895
+ht
+
+3
+00:00:10,896 --> 00:00:11,013
+htt
+
+4
+00:00:11,014 --> 00:00:11,131
+http
+
+5
+00:00:11,132 --> 00:00:11,248
+http:
+
+6
+00:00:11,249 --> 00:00:11,366
+http:/
+
+7
+00:00:11,367 --> 00:00:11,484
+http://
+
+8
+00:00:11,485 --> 00:00:11,601
+http://h
+
+9
+00:00:11,602 --> 00:00:11,719
+http://hi
+
+10
+00:00:11,720 --> 00:00:11,836
+http://hiq
+
+11
+00:00:11,837 --> 00:00:11,954
+http://hiqv
+
+12
+00:00:11,955 --> 00:00:12,072
+http://hiqve
+
+13
+00:00:12,073 --> 00:00:12,189
+http://hiqve.
+
+14
+00:00:12,190 --> 00:00:12,307
+http://hiqve.c
+
+15
+00:00:12,308 --> 00:00:12,425
+http://hiqve.co
+
+16
+00:00:12,426 --> 00:00:12,542
+http://hiqve.com
+
+17
+00:00:12,543 --> 00:00:12,660
+http://hiqve.com/
+
+18
+00:00:12,661 --> 00:00:15,661
+http://hiqve.com/
+
+19
+00:00:18,685 --> 00:00:21,103
+<i>ANNOUNCER: Grievous in retreat.</i>
+
+20
+00:00:21,187 --> 00:00:25,691
+Before the battleship Malevolence could
+<i>destroy an Outer Rim clone medical base,</i>
+
+21
+00:00:25,775 --> 00:00:27,234
+<i>a Republic strike force</i>
+
+22
+00:00:27,318 --> 00:00:30,362
+<i>under the command of</i>
+<i>Jedi General Anakin Skywalker</i>
+
+23
+00:00:30,447 --> 00:00:34,867
+<i>crippled the warship,</i>
+<i>disabling its dreaded ion cannon.</i>
+
+24
+00:00:37,787 --> 00:00:41,957
+<i>Now, the Jedi relentlessly pursue</i>
+the Malevolence.
+
+25
+00:01:03,897 --> 00:01:06,774
+Commander, what is the damage level
+to the enemy ship?
+
+26
+00:01:06,816 --> 00:01:09,151
+She's lost her primary shields
+and stabilizers,
+
+27
+00:01:09,277 --> 00:01:12,488
+but the ship is so massive, it can take
+all the fire our cannons can give it.
+
+28
+00:01:12,739 --> 00:01:15,074
+We must summon reinforcements.
+
+29
+00:01:15,158 --> 00:01:16,658
+ANAKIN: That's why I'm here, Master Plo.
+
+30
+00:01:16,785 --> 00:01:19,161
+Anakin. Were you able
+to contact Master Luminara?
+
+31
+00:01:19,287 --> 00:01:23,165
+Yes, Master. She's busy with a fleet
+of Separatist reinforcements nearby.
+
+32
+00:01:23,249 --> 00:01:25,834
+She won't be able to give us support
+until she's turned them away.
+
+33
+00:01:25,919 --> 00:01:27,628
+Then we'll have to make do
+with what we have.
+
+34
+00:01:38,473 --> 00:01:40,516
+We've lost our primary weapon.
+
+35
+00:01:40,642 --> 00:01:43,519
+Uh, the hyperdrive has been disabled.
+
+36
+00:01:44,312 --> 00:01:47,856
+General? General!
+The forward engines are shutting down!
+
+37
+00:01:48,149 --> 00:01:49,525
+Impossible!
+
+38
+00:01:55,156 --> 00:01:56,573
+Admiral, status report.
+
+39
+00:01:56,699 --> 00:01:58,659
+YULAREN: They're not attempting
+to jump to hyperspace.
+
+40
+00:01:58,701 --> 00:02:00,577
+Their hyperdrive must be damaged.
+
+41
+00:02:00,703 --> 00:02:01,745
+This is our chance.
+
+42
+00:02:01,871 --> 00:02:05,374
+All ships target the bridge.
+Maximum firepower!
+
+43
+00:02:14,926 --> 00:02:19,054
+It has sustained extensive damage.
+
+44
+00:02:19,097 --> 00:02:23,976
+<i>General, I have arranged a trap which</i>
+<i>will give you an advantage over the Jedi.</i>
+
+45
+00:02:24,227 --> 00:02:26,562
+I assure you, that is unnecessary.
+
+46
+00:02:26,646 --> 00:02:32,401
+<i>Do not compound your failure this day</i>
+<i>by allowing our prize warship to fall.</i>
+
+47
+00:02:32,485 --> 00:02:36,738
+My lord, they will never capture me
+or this ship.
+
+48
+00:02:36,781 --> 00:02:41,118
+<i>Heading towards you</i>
+<i>is a very important Galactic senator.</i>
+
+49
+00:02:41,244 --> 00:02:46,081
+<i>With her as your hostage,</i>
+<i>they will call off their attack.</i>
+
+50
+00:02:46,166 --> 00:02:48,417
+As you wish, my lord.
+
+51
+00:02:52,005 --> 00:02:57,176
+My lady, are you sure the information
+from Chancellor Palpatine is reliable?
+
+52
+00:02:57,427 --> 00:02:59,261
+Yes. It was secretly given to him
+
+53
+00:02:59,345 --> 00:03:02,347
+by the supreme executive
+of the Banking Clan himself.
+
+54
+00:03:02,432 --> 00:03:06,935
+If they leave the Separatist alliance, it will
+go a long way to shortening this war.
+
+55
+00:03:08,438 --> 00:03:10,480
+We're approaching the system now.
+
+56
+00:03:13,193 --> 00:03:14,276
+(EXCLAIMS)
+
+57
+00:03:14,360 --> 00:03:15,569
+My goodness!
+
+58
+00:03:16,487 --> 00:03:20,574
+This isn't right! That's a droid warship!
+We're in the middle of a battle!
+
+59
+00:03:21,993 --> 00:03:25,037
+Sir, we're scanning
+a small ship off our bow.
+
+60
+00:03:25,205 --> 00:03:28,457
+Good. Our hostage has arrived.
+
+61
+00:03:33,338 --> 00:03:36,590
+Master, I'm picking up a signal
+near the enemy vessel.
+
+62
+00:03:36,674 --> 00:03:38,467
+Something just came out of hyperspace.
+
+63
+00:03:38,551 --> 00:03:43,388
+-Enemy reinforcements?
+-No. It looks like a Naboo ship.
+
+64
+00:03:43,890 --> 00:03:47,976
+Gunners! Stand down!
+What in blazes are they doing out here?
+
+65
+00:03:48,061 --> 00:03:49,645
+Ahsoka, contact that ship!
+
+66
+00:03:52,398 --> 00:03:56,235
+<i>-AHSOKA: Naboo cruiser! Identify yourself!</i>
+-This is Senator Amidala.
+
+67
+00:03:56,319 --> 00:04:00,489
+-Padmé? What are you doing out here?
+<i>-I was sent on a special mission.</i>
+
+68
+00:04:00,573 --> 00:04:03,242
+<i>The Senate was told the Banking Clan</i>
+<i>wanted to negotiate a treaty.</i>
+
+69
+00:04:03,409 --> 00:04:05,118
+Get out of there as fast as you can!
+
+70
+00:04:05,787 --> 00:04:08,121
+Activate the tractor beam!
+
+71
+00:04:10,250 --> 00:04:14,044
+-Have we been hit?
+-I'm afraid it's much worse than that.
+
+72
+00:04:16,506 --> 00:04:17,881
+Padmé, what's happening?
+
+73
+00:04:17,966 --> 00:04:20,676
+<i>I'm being pulled inside the droid cruiser</i>
+<i>by a tractor beam.</i>
+
+74
+00:04:27,976 --> 00:04:30,435
+<i>I will not be made</i>
+<i>a Separatist bargaining chip.</i>
+
+75
+00:04:30,520 --> 00:04:35,190
+<i>Continue your attack!</i>
+<i>You must destroy this monstrous ship!</i>
+
+76
+00:04:39,904 --> 00:04:42,781
+Admiral, order our ships to stop firing.
+
+77
+00:04:55,503 --> 00:04:57,838
+It does not look safe out there, my lady.
+
+78
+00:04:57,922 --> 00:05:02,092
+I see now this whole thing was a trap,
+and I'm afraid I walked right into it.
+
+79
+00:05:02,427 --> 00:05:05,595
+Sir, the Republic cruisers
+have halted their attack.
+
+80
+00:05:05,680 --> 00:05:10,142
+Jedi are so predictable.
+Get the repair team up here.
+
+81
+00:05:10,226 --> 00:05:15,314
+Continue working on the hyperdrive.
+I'm going down to the main hangar.
+
+82
+00:05:21,571 --> 00:05:25,365
+This ship must be returned
+to Count Dooku intact.
+
+83
+00:05:32,290 --> 00:05:34,875
+There is no room for failure.
+
+84
+00:05:40,631 --> 00:05:41,757
+(BEEPING)
+
+85
+00:05:41,841 --> 00:05:44,259
+Come on.
+I've overloaded the power system.
+
+86
+00:05:44,344 --> 00:05:45,844
+Oh! We're doomed.
+
+87
+00:05:47,513 --> 00:05:51,433
+-Where do you think you're going?
+-Somebody has to save her skin.
+
+88
+00:05:51,517 --> 00:05:53,810
+I thought you might say that.
+
+89
+00:05:54,395 --> 00:05:58,982
+There he goes again,
+craving adventure and excitement.
+
+90
+00:05:59,067 --> 00:06:00,901
+You get used to it.
+
+91
+00:06:04,906 --> 00:06:06,740
+Come on, Threepio! Hurry!
+
+92
+00:06:07,283 --> 00:06:10,202
+Hurrying, my lady.
+I'm not sure this is such a good idea.
+
+93
+00:06:24,801 --> 00:06:27,219
+GRIEVOUS: You two! Come with me.
+
+94
+00:06:33,976 --> 00:06:36,186
+(ALARM SOUNDING)
+
+95
+00:06:37,063 --> 00:06:40,565
+Looks like the engines
+are set to destroy themselves.
+
+96
+00:06:40,733 --> 00:06:42,359
+GRIEVOUS: Get out of my way!
+
+97
+00:06:42,485 --> 00:06:44,319
+Hey! That's just rude.
+
+98
+00:06:52,161 --> 00:06:54,496
+DROID 1: Watch what you're doing
+with that thing!
+
+99
+00:06:54,580 --> 00:06:55,705
+DROID 2: Oh, pshaw!
+
+100
+00:06:55,832 --> 00:06:56,832
+(DROID SCREAMING)
+
+101
+00:07:02,422 --> 00:07:05,882
+Sound the alarm!
+We have stowaways onboard!
+
+102
+00:07:13,182 --> 00:07:17,018
+I trust you've already formulated
+a brilliant plan to rescue the Senator?
+
+103
+00:07:17,061 --> 00:07:19,062
+As a matter of fact, I have.
+
+104
+00:07:19,188 --> 00:07:23,358
+But do we have a plan B?
+Every operation needs a backup, Anakin.
+
+105
+00:07:23,401 --> 00:07:25,569
+I don't have a backup. Yet.
+
+106
+00:07:25,695 --> 00:07:27,737
+But I do have a plan
+for getting on that ship.
+
+107
+00:07:27,864 --> 00:07:29,197
+Really?
+
+108
+00:07:29,240 --> 00:07:31,533
+The enemy's sensors
+are obviously damaged,
+
+109
+00:07:31,576 --> 00:07:34,619
+so we'll sneak in behind them
+and dock at the emergency airlock.
+
+110
+00:07:34,704 --> 00:07:36,204
+That's your plan?
+
+111
+00:07:36,247 --> 00:07:38,915
+Just fly there, land,
+hope they don't spot us,
+
+112
+00:07:39,041 --> 00:07:40,750
+and walk in the door?
+
+113
+00:07:40,877 --> 00:07:41,960
+Basically.
+
+114
+00:07:42,044 --> 00:07:44,796
+Oh! Brilliant. Let's get going.
+
+115
+00:08:00,897 --> 00:08:03,648
+C-3PO: Pardon me,
+but might I suggest we keep moving?
+
+116
+00:08:03,733 --> 00:08:06,109
+I think I hear battle droids approaching.
+
+117
+00:08:06,444 --> 00:08:11,698
+But we also need to contact the fleet.
+If I can just get this comm panel working...
+
+118
+00:08:15,036 --> 00:08:18,079
+My lady, I'm afraid I was right.
+
+119
+00:08:23,252 --> 00:08:25,587
+<i>-DROID: Uh, General?</i>
+-What?
+
+120
+00:08:25,630 --> 00:08:28,757
+<i>The damage to the hyperdrive</i>
+<i>was not as bad as we first thought.</i>
+
+121
+00:08:28,883 --> 00:08:31,134
+<i>We should be able</i>
+<i>to get underway again shortly.</i>
+
+122
+00:08:31,260 --> 00:08:33,428
+I must inform Count Dooku.
+
+123
+00:08:33,554 --> 00:08:40,101
+Stay here. Continue the search.
+Find the stowaway and bring him to me.
+
+124
+00:08:40,144 --> 00:08:41,937
+Roger, roger.
+
+125
+00:09:02,416 --> 00:09:04,626
+OBI-WAN: If they spot us,
+we'll be pulverized.
+
+126
+00:09:04,835 --> 00:09:08,922
+They're too busy repairing the ship.
+They don't have time to notice us.
+
+127
+00:09:09,298 --> 00:09:12,467
+Subtlety has never been
+one of your strong points, Anakin.
+
+128
+00:09:12,510 --> 00:09:15,762
+Everything I know
+I learned from you, Master.
+
+129
+00:09:15,805 --> 00:09:17,847
+Oh, if only that were true.
+
+130
+00:09:25,815 --> 00:09:27,148
+(THUDDING)
+
+131
+00:09:27,191 --> 00:09:28,275
+(DROID EXCLAIMS)
+
+132
+00:09:28,317 --> 00:09:29,442
+What was that?
+
+133
+00:09:29,485 --> 00:09:32,529
+-What?
+-That noise. Didn't you hear it?
+
+134
+00:09:32,655 --> 00:09:36,324
+It sounded like a ship docking
+at one of the emergency airlocks.
+
+135
+00:09:36,367 --> 00:09:39,828
+Your circuits are loose.
+No one's crazy enough to do that.
+
+136
+00:09:40,454 --> 00:09:44,791
+Anakin, you're crazy.
+Spinning is not flying.
+
+137
+00:09:44,834 --> 00:09:46,334
+But it's a good trick.
+
+138
+00:09:46,460 --> 00:09:48,420
+OBI-WAN: We do not want to be spotted.
+
+139
+00:09:48,504 --> 00:09:51,172
+-I knew it! It's them!
+-Oh, no.
+
+140
+00:09:55,011 --> 00:09:56,094
+You stay here, Artoo.
+
+141
+00:09:56,178 --> 00:09:57,178
+(R2-D2 BEEPING SOFTLY)
+
+142
+00:09:57,847 --> 00:10:01,099
+<i>Another bold strategy by Skywalker,</i>
+<i>I presume?</i>
+
+143
+00:10:01,183 --> 00:10:02,684
+That's my master.
+
+144
+00:10:02,810 --> 00:10:04,477
+Once they make it off that ship,
+
+145
+00:10:04,520 --> 00:10:07,606
+we'll need reinforcements
+to finish off the enemy.
+
+146
+00:10:07,690 --> 00:10:09,441
+<i>I am on my way, Master Plo.</i>
+
+147
+00:10:09,525 --> 00:10:12,485
+We're receiving a transmission
+from inside the Malevolence.
+
+148
+00:10:12,528 --> 00:10:13,778
+I believe it's the Senator.
+
+149
+00:10:15,990 --> 00:10:17,198
+-Yes?
+<i>-AHSOKA: Master,</i>
+
+150
+00:10:17,325 --> 00:10:18,450
+<i>we've found the Senator.</i>
+
+151
+00:10:18,534 --> 00:10:19,659
+<i>I'm patching her through.</i>
+
+152
+00:10:19,702 --> 00:10:21,119
+-Padmé!
+<i>-PADMÉ: Anakin!</i>
+
+153
+00:10:21,203 --> 00:10:23,997
+<i>-Are you all right? Where are you?</i>
+-On the lower levels.
+
+154
+00:10:24,040 --> 00:10:27,626
+I'm fine, but I don't know for how long.
+Droids are everywhere.
+
+155
+00:10:27,710 --> 00:10:29,669
+Obi-Wan and I are onboard, too.
+
+156
+00:10:29,712 --> 00:10:31,713
+What? What are you doing here?
+
+157
+00:10:31,839 --> 00:10:35,800
+We came to get you off this ship.
+Ahsoka, how can we get to the Senator?
+
+158
+00:10:36,302 --> 00:10:40,722
+According to our scans, there seems to be
+a large open area in the center of the ship.
+
+159
+00:10:40,848 --> 00:10:42,849
+It should be halfway
+between the two of you.
+
+160
+00:10:43,309 --> 00:10:45,560
+We're on our way.
+Did you hear that, Padmé?
+
+161
+00:10:45,686 --> 00:10:47,228
+I'll be there.
+
+162
+00:10:52,735 --> 00:10:56,071
+DROID: General, we just detected
+an unauthorized communication
+
+163
+00:10:56,155 --> 00:10:57,739
+coming from within the ship.
+
+164
+00:10:57,823 --> 00:10:59,407
+What did it say?
+
+165
+00:10:59,533 --> 00:11:04,537
+Well... We don't know.
+We didn't catch it in time.
+
+166
+00:11:04,580 --> 00:11:05,705
+(GRIEVOUS EXCLAIMS ANGRILY)
+
+167
+00:11:05,748 --> 00:11:12,087
+Monitor all internal communications!
+I want that senator on this bridge!
+
+168
+00:11:19,261 --> 00:11:23,223
+-I don't see her, Anakin.
+-She's here, Master. I sense it.
+
+169
+00:11:28,354 --> 00:11:31,272
+This is where
+we're supposed to meet them.
+
+170
+00:11:32,024 --> 00:11:33,775
+He's probably late again.
+
+171
+00:11:33,859 --> 00:11:36,778
+C-3PO: But we do have company
+of another sort.
+
+172
+00:11:36,862 --> 00:11:38,238
+Blast them!
+
+173
+00:11:41,450 --> 00:11:42,909
+There!
+
+174
+00:11:51,043 --> 00:11:52,627
+Look! Jedi!
+
+175
+00:11:52,712 --> 00:11:54,462
+-Fire!
+-No! Wait!
+
+176
+00:11:57,466 --> 00:11:58,967
+I knew that was a bad idea.
+
+177
+00:12:00,720 --> 00:12:01,970
+Jump!
+
+178
+00:12:03,472 --> 00:12:04,973
+C-3PO: Who? Me?
+
+179
+00:12:06,058 --> 00:12:07,600
+(C-3PO SCREAMING)
+
+180
+00:12:10,479 --> 00:12:11,646
+ANAKIN: Padmé!
+
+181
+00:12:16,318 --> 00:12:17,360
+Anakin!
+
+182
+00:12:24,452 --> 00:12:26,828
+There they are! Fire!
+
+183
+00:12:31,375 --> 00:12:32,667
+The bridge is out!
+
+184
+00:12:32,710 --> 00:12:34,836
+Jump to me! I'll use the Force.
+
+185
+00:12:34,879 --> 00:12:36,796
+You have to trust me!
+
+186
+00:12:40,801 --> 00:12:42,010
+I've got you!
+
+187
+00:12:42,136 --> 00:12:45,346
+Nice catch! I'll fetch the droid!
+
+188
+00:12:49,852 --> 00:12:54,189
+-Oh, the things you do to get me alone.
+-Stop talking.
+
+189
+00:12:59,195 --> 00:13:01,321
+Oh! What is going on?
+
+190
+00:13:09,663 --> 00:13:12,373
+Stop me! Please!
+
+191
+00:13:12,875 --> 00:13:15,001
+Blast! That's not good.
+
+192
+00:13:16,045 --> 00:13:18,421
+Anakin, I got separated from your droid.
+
+193
+00:13:18,547 --> 00:13:19,881
+Threepio!
+
+194
+00:13:20,007 --> 00:13:22,717
+I'll take care of it.
+We'll meet you back at The Twilight.
+
+195
+00:13:22,760 --> 00:13:25,720
+No! We can't leave yet.
+I overheard Grievous.
+
+196
+00:13:25,763 --> 00:13:27,388
+Their hyperdrive is almost repaired.
+
+197
+00:13:27,515 --> 00:13:29,390
+I'm already headed in that direction.
+
+198
+00:13:29,433 --> 00:13:33,269
+So, I'll make certain that
+the hyperdrive stays offline.
+
+199
+00:13:33,395 --> 00:13:35,063
+(LAUGHING)
+
+200
+00:13:35,147 --> 00:13:38,942
+We'll see about that, Jedi. Come with me!
+
+201
+00:13:39,235 --> 00:13:40,568
+I'm getting you out of here.
+
+202
+00:13:40,653 --> 00:13:43,238
+Artoo? I need you
+to help me find Threepio.
+
+203
+00:13:43,322 --> 00:13:44,572
+He's on the rail jet.
+
+204
+00:13:44,657 --> 00:13:45,740
+<i>(R2-D2 BEEPING)</i>
+
+205
+00:13:45,825 --> 00:13:47,617
+I know. I know. He does.
+
+206
+00:13:47,743 --> 00:13:50,912
+Look, just find him for me,
+and I'll be there soon.
+
+207
+00:13:55,918 --> 00:14:00,129
+Someone stop this contraption, please!
+
+208
+00:14:03,509 --> 00:14:04,592
+C-3PO: Oh!
+
+209
+00:14:05,636 --> 00:14:08,304
+Well, I suppose I did ask for that.
+
+210
+00:14:25,865 --> 00:14:27,657
+(LAUGHING)
+
+211
+00:14:30,369 --> 00:14:32,120
+Hello, there.
+
+212
+00:14:37,793 --> 00:14:43,965
+General Kenobi, did you really think
+I would leave the hyperdrive unguarded?
+
+213
+00:14:44,216 --> 00:14:47,677
+Anything is possible.
+You haven't exactly impressed me today.
+
+214
+00:14:48,012 --> 00:14:49,304
+(LAUGHS SCORNFULLY)
+
+215
+00:14:49,388 --> 00:14:50,680
+Kill him.
+
+216
+00:15:21,337 --> 00:15:22,670
+That was impressive.
+
+217
+00:15:22,755 --> 00:15:23,922
+(SNARLS)
+
+218
+00:15:24,006 --> 00:15:28,509
+Guard the hyperdrive!
+I will deal with this Jedi myself.
+
+219
+00:15:37,686 --> 00:15:39,938
+Obi-Wan! Come in, Obi-Wan!
+
+220
+00:15:40,022 --> 00:15:42,607
+<i>OBI-WAN: Anakin!</i>
+<i>I'm afraid Grievous is on to us!</i>
+
+221
+00:15:42,691 --> 00:15:44,567
+Yeah, we noticed.
+
+222
+00:15:46,528 --> 00:15:50,323
+We’ll rendezvous back at The Twilight.
+<i>The fleet must engage...</i>
+
+223
+00:15:50,407 --> 00:15:52,867
+Obi-Wan? Come in! Obi-Wan!
+
+224
+00:15:52,952 --> 00:15:55,495
+-What's wrong?
+-They're jamming us!
+
+225
+00:16:04,797 --> 00:16:06,464
+That might buy us some time.
+
+226
+00:16:06,548 --> 00:16:09,467
+-I suppose you have a plan.
+-Follow me.
+
+227
+00:16:11,637 --> 00:16:16,307
+I do believe I'm lost,
+in enemy territory and all alone.
+
+228
+00:16:16,600 --> 00:16:17,642
+(GASPS)
+
+229
+00:16:17,726 --> 00:16:19,644
+Don't shoot! I surrender!
+
+230
+00:16:21,146 --> 00:16:25,900
+R2-D2! Oh, my,
+you are a sight for short circuits.
+
+231
+00:16:25,985 --> 00:16:27,193
+(R2-D2 BEEPING)
+
+232
+00:16:27,277 --> 00:16:31,197
+Master Anakin sent you to find me?
+Well, what kept you, then?
+
+233
+00:16:32,032 --> 00:16:33,533
+(R2-D2 BEEPING)
+
+234
+00:16:35,202 --> 00:16:37,787
+The General is demanding a status report.
+
+235
+00:16:37,871 --> 00:16:41,541
+-Is the hyperdrive repaired yet?
+-It's almost done.
+
+236
+00:16:42,209 --> 00:16:44,043
+I'll give him the good news.
+
+237
+00:16:44,128 --> 00:16:45,169
+Uh...
+
+238
+00:16:48,465 --> 00:16:49,882
+Anakin!
+
+239
+00:16:50,634 --> 00:16:51,759
+(GASPS)
+
+240
+00:16:58,142 --> 00:17:01,519
+Ever since I've known you,
+you've been playing with droids.
+
+241
+00:17:01,603 --> 00:17:05,481
+I used to put them together.
+Now I only take them apart.
+
+242
+00:17:05,566 --> 00:17:07,525
+So, where do we start?
+
+243
+00:17:07,609 --> 00:17:11,154
+First, we need to get rid of these droids
+so they won't know we were here.
+
+244
+00:17:11,238 --> 00:17:14,532
+I'm going to hot-wire the ship,
+give Grievous a little surprise.
+
+245
+00:17:15,117 --> 00:17:18,036
+I guess I'll clean up the droids, then.
+
+246
+00:17:21,540 --> 00:17:24,959
+AHSOKA: Our ships are in attack position.
+Any word from Master Skywalker?
+
+247
+00:17:25,044 --> 00:17:28,421
+No, the droids are jamming
+our transmissions.
+
+248
+00:17:28,464 --> 00:17:32,425
+-We need to give him more time.
+-I'm not sure we can.
+
+249
+00:17:40,100 --> 00:17:41,893
+(DROID SCREAMING)
+
+250
+00:17:57,284 --> 00:17:58,993
+(GRIEVOUS ROARING)
+
+251
+00:18:16,845 --> 00:18:19,847
+That ought to do it.
+How's the housecleaning going?
+
+252
+00:18:19,932 --> 00:18:22,183
+Done! Let's get out of here.
+
+253
+00:18:26,688 --> 00:18:28,689
+I guess repairs are finished.
+
+254
+00:18:28,816 --> 00:18:31,692
+-Prepare to charge up the hyperdrive.
+-Roger, roger.
+
+255
+00:18:36,198 --> 00:18:39,534
+Artoo, are you quite certain
+the ship is in this direction?
+
+256
+00:18:40,035 --> 00:18:41,119
+(R2-D2 BEEPING)
+
+257
+00:18:41,203 --> 00:18:42,662
+This way looks potentially dangerous.
+
+258
+00:18:42,704 --> 00:18:43,830
+(R2-D2 BEEPING)
+
+259
+00:18:43,872 --> 00:18:46,707
+I know the whole place is dangerous!
+
+260
+00:18:46,834 --> 00:18:50,419
+I suggest we stay here
+and let Master Anakin find us.
+
+261
+00:18:51,046 --> 00:18:52,547
+Threepio! What are you doing?
+
+262
+00:18:52,673 --> 00:18:55,550
+Don't just stand there!
+Let's get back to the ship!
+
+263
+00:18:56,218 --> 00:18:58,177
+Power up the engines, Artoo.
+
+264
+00:18:58,262 --> 00:18:59,929
+OBI-WAN: Hold the ship!
+
+265
+00:19:05,936 --> 00:19:08,062
+I'll contact the fleet.
+
+266
+00:19:09,064 --> 00:19:11,399
+Artoo, release the docking clamp.
+
+267
+00:19:33,422 --> 00:19:36,841
+-Time for some clever tricks, Anakin.
+-That's what I was thinking.
+
+268
+00:19:44,600 --> 00:19:46,517
+All batteries, open fire!
+
+269
+00:19:54,526 --> 00:19:57,445
+You know, we have guns.
+You can shoot back anytime.
+
+270
+00:19:57,529 --> 00:19:59,197
+-I was just about to...
+-I got it.
+
+271
+00:20:05,704 --> 00:20:08,206
+She seems to know her way around.
+
+272
+00:20:13,086 --> 00:20:16,130
+<i>General, the hyperdrive</i>
+<i>has been completely repaired.</i>
+
+273
+00:20:16,215 --> 00:20:18,299
+<i>Should we retreat to friendly space?</i>
+
+274
+00:20:18,383 --> 00:20:20,218
+Engage the hyperdrive!
+
+275
+00:20:20,302 --> 00:20:24,096
+I'll meet you
+at our secret base in Sector 4.
+
+276
+00:20:24,473 --> 00:20:27,808
+You heard the General.
+Prepare to make the jump to hyperspace.
+
+277
+00:20:27,893 --> 00:20:28,976
+Yes, sir!
+
+278
+00:20:41,531 --> 00:20:44,367
+-Nice shot, Senator.
+-Beginner's luck.
+
+279
+00:20:44,451 --> 00:20:45,493
+(R2-D2 BEEPING)
+
+280
+00:20:45,577 --> 00:20:47,370
+Pardon me, sir,
+but Artoo's scan of the enemy's ship
+
+281
+00:20:47,454 --> 00:20:49,580
+indicates their hyperdrive is activating.
+
+282
+00:20:49,665 --> 00:20:51,332
+-Don't worry about it.
+-What?
+
+283
+00:20:51,833 --> 00:20:55,002
+DROID: Coordinates are locked.
+Hyperdrive is engaging.
+
+284
+00:20:55,879 --> 00:20:58,673
+Uh... I think we have a problem.
+
+285
+00:20:58,757 --> 00:21:01,509
+<i>General, there's something wrong</i>
+<i>with the hyperdrive.</i>
+
+286
+00:21:01,802 --> 00:21:04,512
+I thought the hyperdrive was fixed!
+
+287
+00:21:05,180 --> 00:21:08,349
+The navicomputer is heading us
+right into the moon!
+
+288
+00:21:08,684 --> 00:21:11,102
+Fools! Reset the navicomputer!
+
+289
+00:21:11,436 --> 00:21:14,021
+Quick! Reset the navicomputer!
+
+290
+00:21:14,106 --> 00:21:15,147
+(RAPID BEEPING)
+
+291
+00:21:16,400 --> 00:21:20,486
+General, we await the Malevolence
+<i>at the rendezvous point.</i>
+
+292
+00:21:20,570 --> 00:21:22,738
+<i>Have you made your escape yet?</i>
+
+293
+00:21:24,950 --> 00:21:26,617
+No! Reset it! Retreat!
+
+294
+00:21:26,702 --> 00:21:27,743
+<i>General?</i>
+
+295
+00:21:28,870 --> 00:21:30,246
+General!
+
+296
+00:21:35,377 --> 00:21:40,047
+Transmission has been cut off, sir.
+I think the General did it himself.
+
+297
+00:21:40,424 --> 00:21:42,091
+-We're gonna die!
+-Abandon ship!
+
+298
+00:21:42,801 --> 00:21:44,135
+(EXPLOSION)
+
+299
+00:21:48,390 --> 00:21:51,392
+I imagine you had something to do
+with that.
+
+300
+00:21:51,435 --> 00:21:53,561
+All part of the plan, Master.
+
+301
+00:21:53,645 --> 00:21:56,480
+(ALL CHEERING)
+
+302
+00:21:56,504 --> 00:21:58,504
+http://hiqve.com/
+

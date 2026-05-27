@@ -1,0 +1,734 @@
+1
+00:00:16,266 --> 00:00:17,183
+[narrator] Trapped.
+
+2
+00:00:17,267 --> 00:00:20,270
+On an unsanctioned mission
+to rescue ARC trooper Echo,
+
+3
+00:00:20,353 --> 00:00:24,774
+General Skywalker, Captain Rex,
+and the Bad Batch travel to Skako Minor,
+
+4
+00:00:24,858 --> 00:00:26,526
+headquarters of the Techno Union.
+
+5
+00:00:26,609 --> 00:00:29,070
+After a harrowing encounter
+with the natives,
+
+6
+00:00:29,154 --> 00:00:31,489
+our heroes infiltrate the city of Purkoll,
+
+7
+00:00:31,573 --> 00:00:35,201
+only to find themselves
+surrounded by Wat Tambor's forces.
+
+8
+00:00:45,920 --> 00:00:48,423
+Hey! [groans]
+
+9
+00:00:50,133 --> 00:00:53,386
+Hunter, hold them off.
+I'll check on Rex and Echo.
+
+10
+00:00:58,892 --> 00:01:00,894
+Situation's almost under control
+out there.
+
+11
+00:01:01,394 --> 00:01:02,645
+How's it going in here?
+
+12
+00:01:02,729 --> 00:01:05,774
+I'm still trying to decrypt
+Echo's cerebral interface.
+
+13
+00:01:05,857 --> 00:01:09,361
+Until I do, we cannot disconnect him
+from this computer system.
+
+14
+00:01:09,444 --> 00:01:10,695
+How is he, Rex?
+
+15
+00:01:10,779 --> 00:01:12,364
+He's too weak to walk.
+
+16
+00:01:12,781 --> 00:01:15,825
+Very disoriented.
+Doesn't even remember how he got here.
+
+17
+00:01:16,159 --> 00:01:18,578
+He remembers being at the Citadel,
+but that's about it.
+
+18
+00:01:18,661 --> 00:01:20,413
+Any word on the extraction squad?
+
+19
+00:01:20,497 --> 00:01:23,249
+We called it in, but no word back.
+
+20
+00:01:26,586 --> 00:01:28,129
+Well, that's no surprise.
+
+21
+00:01:28,213 --> 00:01:30,632
+We knew when we got into this
+we'd be on our own.
+
+22
+00:01:34,469 --> 00:01:36,930
+[Hunter] It's gonna get more difficult
+to get out of here.
+
+23
+00:01:37,347 --> 00:01:39,265
+There are several squads of droids
+closing in.
+
+24
+00:02:10,088 --> 00:02:13,508
+[Crosshair]
+Enemy approaching. Droids-- lots of 'em.
+
+25
+00:02:13,591 --> 00:02:15,218
+How long can you hold them off?
+
+26
+00:02:15,301 --> 00:02:16,636
+How long do you need?
+
+27
+00:02:17,053 --> 00:02:18,847
+Tech, how much longer?
+
+28
+00:02:18,930 --> 00:02:20,807
+Not yet. I need more time.
+
+29
+00:02:29,315 --> 00:02:31,609
+[Droid] We have them
+completely surrounded, sir.
+
+30
+00:02:31,693 --> 00:02:33,028
+Good.
+
+31
+00:02:33,111 --> 00:02:35,280
+Send in the Decimator.
+
+32
+00:02:55,675 --> 00:02:57,218
+I've got it.
+
+33
+00:02:57,302 --> 00:02:58,720
+We can unplug him now.
+
+34
+00:03:08,021 --> 00:03:08,897
+[grunts]
+
+35
+00:03:11,274 --> 00:03:13,068
+[grunting]
+
+36
+00:03:13,151 --> 00:03:15,070
+-Rex?
+-What is it?
+
+37
+00:03:17,989 --> 00:03:19,616
+I got a big headache.
+
+38
+00:03:20,909 --> 00:03:23,203
+Better to feel something than nothing,
+old buddy.
+
+39
+00:03:23,286 --> 00:03:26,498
+It's a touching reunion, guys,
+but we need to get out of here now.
+
+40
+00:03:27,874 --> 00:03:33,171
+There's an exhaust vent that leads
+to the cooling systems right there.
+
+41
+00:03:40,887 --> 00:03:42,263
+They've breached the front door.
+
+42
+00:03:42,347 --> 00:03:44,265
+It won't be long
+before they're through the second.
+
+43
+00:03:46,726 --> 00:03:48,645
+That should get it open.
+
+44
+00:03:56,277 --> 00:03:58,905
+Great. Now how do we get up there?
+
+45
+00:03:59,280 --> 00:04:01,116
+I can help with that.
+
+46
+00:04:02,075 --> 00:04:03,368
+Wait, what?
+
+47
+00:04:03,451 --> 00:04:05,954
+Wrecker, what are you doing?
+
+48
+00:04:07,455 --> 00:04:09,749
+A heads-up would've been nice!
+
+49
+00:04:09,833 --> 00:04:11,584
+The door's nearly breached, sir.
+
+50
+00:04:13,503 --> 00:04:14,546
+Whoa!
+
+51
+00:04:23,263 --> 00:04:25,348
+It's okay, Wrecker. I've got this.
+
+52
+00:04:32,230 --> 00:04:33,481
+What are you doing?
+
+53
+00:04:33,565 --> 00:04:36,651
+I'm putting an end
+to Tambor's little science experiment.
+
+54
+00:04:39,195 --> 00:04:41,281
+Are you done? Time's up.
+
+55
+00:04:44,492 --> 00:04:45,827
+Whoa! Whoa! Oh, no!
+
+56
+00:04:46,494 --> 00:04:47,579
+What is that thing?
+
+57
+00:04:48,246 --> 00:04:49,581
+I don't like it! I don't like it!
+
+58
+00:04:50,457 --> 00:04:52,292
+It's trying to get me! Whoa!
+
+59
+00:05:03,178 --> 00:05:05,847
+[Wat] What happened? Why did it shut off?
+
+60
+00:05:06,431 --> 00:05:09,809
+[Droid]
+No organic targets were detected, sir.
+
+61
+00:05:09,893 --> 00:05:12,395
+The room appears to be empty.
+
+62
+00:05:13,605 --> 00:05:15,315
+Oh, no.
+
+63
+00:05:15,398 --> 00:05:17,442
+[beeping]
+
+64
+00:05:24,074 --> 00:05:25,450
+Orders, sir?
+
+65
+00:05:34,376 --> 00:05:37,671
+They took it-- Techno Union property!
+
+66
+00:05:38,380 --> 00:05:41,174
+They've ruined years of research.
+
+67
+00:05:42,509 --> 00:05:43,802
+Find them!
+
+68
+00:05:45,720 --> 00:05:49,641
+[Tech] Huh. This ventilation corridor
+acts as a cooling system
+
+69
+00:05:49,724 --> 00:05:51,768
+for all the computers in the facility.
+
+70
+00:05:51,851 --> 00:05:53,895
+How did you know it was up here, Echo?
+
+71
+00:05:53,978 --> 00:05:56,147
+Well, they got access to my memory,
+
+72
+00:05:56,231 --> 00:06:00,318
+and I got access
+to the Techno Union database.
+
+73
+00:06:00,402 --> 00:06:04,531
+All their plans, inventory,
+building schematics-- everything.
+
+74
+00:06:05,156 --> 00:06:07,450
+You mean you can find us
+a safe way out of here?
+
+75
+00:06:07,992 --> 00:06:09,828
+Well, there is a way,
+
+76
+00:06:09,911 --> 00:06:11,913
+[coughs] but you're not gonna like it.
+
+77
+00:06:29,347 --> 00:06:31,266
+I don't know about this.
+
+78
+00:06:38,565 --> 00:06:41,943
+I'm telling you, there's a landing pad
+on that other building.
+
+79
+00:06:42,027 --> 00:06:44,320
+So you think
+there's a ship there we can steal?
+
+80
+00:06:44,404 --> 00:06:46,906
+Well, I hope there's a ship we can steal.
+
+81
+00:06:46,990 --> 00:06:49,701
+Let's hope this trip isn't for nothing.
+
+82
+00:07:03,048 --> 00:07:05,675
+Oh, boy. I can't even look.
+
+83
+00:07:06,092 --> 00:07:07,927
+Just keep walking, Tech.
+
+84
+00:07:08,011 --> 00:07:11,014
+That's fine, but if you fall,
+don't take me with you.
+
+85
+00:07:11,097 --> 00:07:13,683
+Uh-oh. I looked. Ahh!
+
+86
+00:07:13,767 --> 00:07:16,353
+I think I'm gonna be sick.
+Not gonna panic.
+
+87
+00:07:16,436 --> 00:07:18,605
+Hang on, Wrecker. We're almost there.
+
+88
+00:07:18,688 --> 00:07:21,358
+Gonna be okay. Breathe.
+
+89
+00:07:24,652 --> 00:07:26,613
+Turn around! Go back!
+
+90
+00:07:38,541 --> 00:07:40,502
+Whoa. Wh-Whoa!
+
+91
+00:07:40,585 --> 00:07:42,629
+Oh, boy. Gotcha!
+
+92
+00:07:44,464 --> 00:07:46,424
+Anybody got a brilliant idea?
+
+93
+00:07:46,508 --> 00:07:48,009
+I do have a brilliant idea.
+
+94
+00:07:48,093 --> 00:07:49,302
+I'm hanging here!
+
+95
+00:07:49,386 --> 00:07:52,847
+When the locals attacked us,
+I recorded the creatures' distress call.
+
+96
+00:07:52,931 --> 00:07:55,475
+He records everything. It's a hobby.
+
+97
+00:07:55,558 --> 00:07:58,978
+Which allows us to call
+those flying creatures to us.
+
+98
+00:07:59,062 --> 00:08:01,940
+[high-pitched noise]
+
+99
+00:08:03,233 --> 00:08:05,235
+[Wrecker] Ow! Enough with the sound!
+
+100
+00:08:05,610 --> 00:08:06,695
+Take that!
+
+101
+00:08:07,654 --> 00:08:09,698
+There is our ride out of here!
+
+102
+00:08:15,537 --> 00:08:17,414
+Now, how do we get on them?
+
+103
+00:08:17,497 --> 00:08:19,332
+How else? We jump!
+
+104
+00:08:22,877 --> 00:08:24,504
+All right, I'll go first.
+
+105
+00:08:32,345 --> 00:08:34,389
+I don't wanna do this, but here I go!
+
+106
+00:08:37,058 --> 00:08:38,393
+[Tech] See you later!
+
+107
+00:08:47,861 --> 00:08:49,904
+Uh, that wasn't part of the plan.
+
+108
+00:08:50,363 --> 00:08:51,823
+Those things can fly!
+
+109
+00:09:04,836 --> 00:09:06,963
+We have to shake those droids!
+
+110
+00:09:07,047 --> 00:09:08,590
+How do I steer this thing?
+
+111
+00:09:18,016 --> 00:09:19,601
+How you holding up, Echo?
+
+112
+00:09:19,684 --> 00:09:22,187
+Never better, sir! [chuckles]
+
+113
+00:09:37,160 --> 00:09:38,912
+[speaking alien language]
+
+114
+00:09:41,623 --> 00:09:44,209
+Their leader is impressed
+we tamed the Keeradaks,
+
+115
+00:09:44,292 --> 00:09:46,586
+but he wants to know why we returned here.
+
+116
+00:09:46,670 --> 00:09:51,591
+Tell him we had no choice. Tell him...
+that we wore out our welcome in Purkoll.
+
+117
+00:09:52,050 --> 00:09:57,222
+[speaking alien language]
+
+118
+00:10:09,693 --> 00:10:10,985
+Not good.
+
+119
+00:10:11,069 --> 00:10:13,405
+If I know Tambor, he'll come after us,
+
+120
+00:10:13,488 --> 00:10:16,157
+us and the Poletecs,
+with everything he's got.
+
+121
+00:10:16,241 --> 00:10:19,619
+[speaking alien language]
+
+122
+00:10:20,370 --> 00:10:21,621
+What's he saying, Tech?
+
+123
+00:10:21,705 --> 00:10:24,457
+He says that we have broken our word.
+
+124
+00:10:25,083 --> 00:10:27,168
+We have brought the war to his village.
+
+125
+00:10:27,252 --> 00:10:29,629
+You're right. Tell him he's right, Tech.
+
+126
+00:10:30,130 --> 00:10:33,425
+Tell him we didn't plan
+to drag his people into war.
+
+127
+00:10:33,508 --> 00:10:36,261
+But look what the Separatists did
+to one of our people!
+
+128
+00:10:40,890 --> 00:10:43,643
+They took away his freedom, his humanity.
+
+129
+00:10:44,185 --> 00:10:46,354
+They tried to turn him into a machine.
+
+130
+00:10:46,438 --> 00:10:48,982
+[speaking alien language]
+
+131
+00:10:54,404 --> 00:10:56,990
+The Techno Union claims it's neutral,
+
+132
+00:10:57,073 --> 00:10:59,075
+but they have chosen sides.
+
+133
+00:10:59,159 --> 00:11:01,953
+Now your people have to choose.
+
+134
+00:11:02,037 --> 00:11:03,705
+Couldn't have said it better, Rex.
+
+135
+00:11:03,788 --> 00:11:06,624
+Ugh! Let's hope it works,
+
+136
+00:11:07,125 --> 00:11:09,127
+because I see forces coming--
+
+137
+00:11:09,669 --> 00:11:11,755
+more than we can handle alone.
+
+138
+00:11:12,505 --> 00:11:17,010
+[speaking alien language]
+
+139
+00:11:22,891 --> 00:11:26,186
+-Report.
+-The clones are hiding among the natives.
+
+140
+00:11:26,561 --> 00:11:30,732
+Take the reinforcements
+and bring back my experiment.
+
+141
+00:11:56,257 --> 00:11:58,093
+[alien noises]
+
+142
+00:12:14,776 --> 00:12:17,028
+[grunting]
+
+143
+00:14:34,624 --> 00:14:36,543
+Rex, we've gotta take out these walkers.
+
+144
+00:14:36,626 --> 00:14:38,336
+I'll take one. You take the other.
+
+145
+00:14:38,420 --> 00:14:41,089
+Don't worry, General.
+The boys and I can handle it.
+
+146
+00:14:41,172 --> 00:14:42,924
+Hunter, Wrecker, you're with me.
+
+147
+00:15:00,108 --> 00:15:01,568
+Still showing off, huh, General?
+
+148
+00:15:01,651 --> 00:15:03,111
+You know me, Echo.
+
+149
+00:15:19,961 --> 00:15:22,505
+That seemed to work.
+But how do we get up there?
+
+150
+00:15:22,589 --> 00:15:24,758
+No, no. Not again!
+
+151
+00:15:24,841 --> 00:15:26,509
+[yells]
+
+152
+00:15:42,525 --> 00:15:44,486
+[alien machine screeches]
+
+153
+00:16:21,231 --> 00:16:23,274
+[speaking alien language, cheering]
+
+154
+00:16:24,651 --> 00:16:26,820
+It's hard to compete with a Jedi.
+
+155
+00:16:30,448 --> 00:16:33,076
+Sir, the attack force has failed.
+
+156
+00:16:33,576 --> 00:16:36,996
+Aw, the loss of the clone
+is a devastating blow
+
+157
+00:16:37,080 --> 00:16:40,083
+to the Techno Union's profit margin.
+
+158
+00:16:40,583 --> 00:16:43,586
+Should we inform the Separatists
+of our loss?
+
+159
+00:16:44,004 --> 00:16:45,922
+All in good time.
+
+160
+00:16:46,006 --> 00:16:49,634
+We must find a way
+to recoup on our investment.
+
+161
+00:16:54,556 --> 00:16:57,225
+Thank you for helping us in our fight.
+
+162
+00:16:57,809 --> 00:17:00,562
+[speaking alien language]
+
+163
+00:17:00,645 --> 00:17:04,024
+[speaking alien language]
+
+164
+00:17:04,107 --> 00:17:07,861
+He said the Jedi will always have an ally
+here on Skako Minor.
+
+165
+00:17:13,033 --> 00:17:14,284
+Rex.
+
+166
+00:17:14,367 --> 00:17:16,870
+Thanks for coming after me.
+
+167
+00:17:17,495 --> 00:17:19,122
+That's what brothers do.
+
+168
+00:17:19,539 --> 00:17:21,541
+I'm just sorry it took so long.
+
+169
+00:17:21,624 --> 00:17:24,085
+Hopefully,
+it's gonna be just like old times.
+
+170
+00:17:32,135 --> 00:17:33,303
+Yeah.
+
+171
+00:17:33,386 --> 00:17:35,096
+Just like old times.
+
+172
+00:17:44,230 --> 00:17:47,150
+[theme music playing]
+

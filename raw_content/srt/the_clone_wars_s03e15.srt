@@ -1,0 +1,1240 @@
+﻿1
+00:00:17,851 --> 00:00:19,387
+<i>Mysterious message!</i>
+
+2
+00:00:20,020 --> 00:00:23,638
+<i>A transmission has been intercepted
+far beyond the Outer Rim,</i>
+
+3
+00:00:23,774 --> 00:00:25,765
+<i>deep in the Crelythiumn system.</i>
+
+4
+00:00:25,943 --> 00:00:29,607
+<i>Why the call has been made,
+and from where, cannot be established.</i>
+
+5
+00:00:29,738 --> 00:00:32,480
+<i>But buried in the message
+is a Jedi distress code</i>
+
+6
+00:00:32,950 --> 00:00:35,738
+<i>that has not been used in over 2,000 years.</i>
+
+7
+00:00:36,286 --> 00:00:39,699
+<i>Obi-Wan Kenobi, Anakin Skywalker
+and his Padawan, Ahsoka,</i>
+
+8
+00:00:39,957 --> 00:00:41,539
+<i>are sent to investigate.</i>
+
+9
+00:00:42,459 --> 00:00:44,200
+<i>Fearing a Separatist trap,</i>
+
+10
+00:00:44,461 --> 00:00:47,544
+<i>they are to meet
+with a heavily armed Jedi cruiser.</i>
+
+11
+00:00:49,424 --> 00:00:51,256
+<i>Rex. Rex, do you read me?</i>
+
+12
+00:00:51,760 --> 00:00:55,128
+<i>We're at the rendezvous point
+awaiting your arrival. Where are you?</i>
+
+13
+00:00:55,430 --> 00:00:58,718
+Sir, we're at the rendezvous point
+and there's no sign of you on our scanners.
+
+14
+00:00:58,976 --> 00:01:01,092
+<i>Oh, come on. That's impossible.</i>
+
+15
+00:01:01,520 --> 00:01:03,511
+Something's wrong.
+We're at the exact coordinates
+
+16
+00:01:03,605 --> 00:01:06,597
+where the distress signal originated,
+but there's nothing here.
+
+17
+00:01:06,692 --> 00:01:09,480
+Rex is at the exact same coordinates,
+and he's not here.
+
+18
+00:01:09,987 --> 00:01:11,694
+This is getting interesting.
+
+19
+00:01:12,990 --> 00:01:14,901
+<i>Unable to find you.
+Where are you, sir?</i>
+
+20
+00:01:15,325 --> 00:01:16,781
+Something's blocking the signal.
+
+21
+00:01:21,039 --> 00:01:22,200
+Not good.
+
+22
+00:01:23,500 --> 00:01:25,958
+Everything's dead. Even the life support.
+
+23
+00:01:26,920 --> 00:01:28,581
+This is really strange.
+
+24
+00:01:31,883 --> 00:01:35,467
+There. See?
+Nothing to be concerned about after all.
+
+25
+00:01:36,513 --> 00:01:38,629
+Then what's that?
+
+26
+00:01:53,488 --> 00:01:54,978
+It's pulling us towards it.
+
+27
+00:02:01,038 --> 00:02:02,824
+Everyone, strap yourselves in.
+
+28
+00:02:02,956 --> 00:02:04,697
+Looks as though we're going for a ride.
+
+29
+00:02:32,736 --> 00:02:34,568
+I must have blacked out.
+
+30
+00:02:35,072 --> 00:02:36,858
+Then who landed the shuttle?
+
+31
+00:02:38,533 --> 00:02:39,773
+Not me.
+
+32
+00:02:40,744 --> 00:02:42,200
+Where are we?
+
+33
+00:02:46,041 --> 00:02:48,874
+Some kind of organic mass.
+
+34
+00:02:49,670 --> 00:02:53,004
+All of our readings indicate
+that it's bigger than an asteroid.
+
+35
+00:02:53,632 --> 00:02:55,669
+But at least the atmosphere is breathable.
+
+36
+00:02:56,385 --> 00:02:59,093
+Well, this is getting more unusual
+by the minute.
+
+37
+00:02:59,179 --> 00:03:01,546
+I can't even lock down
+where in the galaxy we are,
+
+38
+00:03:01,807 --> 00:03:04,515
+or if we are even in our own galaxy.
+
+39
+00:03:07,312 --> 00:03:09,428
+Well, the ship's systems seem fine,
+
+40
+00:03:09,523 --> 00:03:12,060
+but for whatever reason,
+nothing's working.
+
+41
+00:03:23,745 --> 00:03:27,488
+Hey! I saw something.
+A reflection, up on the hill.
+
+42
+00:03:28,417 --> 00:03:29,703
+I don't see anything.
+
+43
+00:03:43,557 --> 00:03:44,672
+Are you the one?
+
+44
+00:03:44,766 --> 00:03:46,222
+What the... What?
+
+45
+00:03:47,018 --> 00:03:48,258
+Did you hear that?
+
+46
+00:03:48,895 --> 00:03:50,226
+I didn't hear anything.
+
+47
+00:03:51,398 --> 00:03:52,729
+Are you the one?
+
+48
+00:03:55,902 --> 00:03:58,394
+-Hello!
+-Who are you?
+
+49
+00:03:58,989 --> 00:04:00,229
+I am Daughter.
+
+50
+00:04:02,075 --> 00:04:03,281
+Are you the one?
+
+51
+00:04:03,952 --> 00:04:05,784
+Uh, the one what?
+
+52
+00:04:06,580 --> 00:04:08,070
+I will take you to him.
+
+53
+00:04:08,498 --> 00:04:09,829
+Him, who?
+
+54
+00:04:09,958 --> 00:04:11,369
+Did you bring us here?
+
+55
+00:04:11,918 --> 00:04:13,704
+Only he can help you.
+
+56
+00:04:14,171 --> 00:04:16,333
+There is little time. Follow me.
+
+57
+00:04:16,715 --> 00:04:18,331
+We must have shelter by nightfall.
+
+58
+00:04:19,885 --> 00:04:23,503
+And we thought the planet was strange.
+How about this one?
+
+59
+00:04:24,014 --> 00:04:26,756
+We'll be fine as long as we stay together.
+
+60
+00:04:45,076 --> 00:04:48,239
+Have you noticed the seasons
+seem to change with the time of day?
+
+61
+00:04:48,371 --> 00:04:49,577
+Yeah.
+
+62
+00:04:49,790 --> 00:04:51,827
+And there are no animals.
+
+63
+00:04:52,125 --> 00:04:54,583
+-And you sense it?
+-Mmm-hmm. Since we arrived.
+
+64
+00:04:55,212 --> 00:04:57,544
+The Force is very strong.
+
+65
+00:04:57,923 --> 00:05:02,042
+An intersection unlike anything
+I've ever felt before. Be wary.
+
+66
+00:05:04,054 --> 00:05:06,170
+Excuse me. Who are you taking us to?
+
+67
+00:05:06,389 --> 00:05:07,550
+The father, of course.
+
+68
+00:05:07,724 --> 00:05:08,885
+Of course!
+
+69
+00:05:09,017 --> 00:05:10,883
+And what exactly are you?
+
+70
+00:05:11,102 --> 00:05:13,059
+We are the ones who guard the power.
+
+71
+00:05:13,188 --> 00:05:16,055
+We are the middle, the beginning
+and the end.
+
+72
+00:05:16,399 --> 00:05:18,265
+Glad she cleared that up for us.
+
+73
+00:05:24,741 --> 00:05:26,072
+Hey! Look out!
+
+74
+00:05:37,087 --> 00:05:38,543
+-Thank you.
+-You're welcome.
+
+75
+00:05:39,923 --> 00:05:41,709
+It is forbidden
+for you to touch me.
+
+76
+00:05:42,300 --> 00:05:44,917
+Sorry. I was just saving your life.
+
+77
+00:05:45,762 --> 00:05:47,252
+That was my brother's work.
+
+78
+00:05:47,889 --> 00:05:49,425
+You are in great danger.
+
+79
+00:05:49,891 --> 00:05:52,599
+Wait for me. Do not leave this place.
+
+80
+00:05:55,730 --> 00:05:57,095
+Hey. Wait!
+
+81
+00:05:57,274 --> 00:05:58,480
+<i>DEA-WAN". Anakin, are you there?</i>
+
+82
+00:05:59,234 --> 00:06:00,474
+Are you all right?
+
+83
+00:06:01,611 --> 00:06:04,478
+Yeah. But our friend here has run off!
+
+84
+00:06:05,240 --> 00:06:07,777
+Go back to the ship
+and try sending another distress call.
+
+85
+00:06:08,118 --> 00:06:11,236
+<i>I'll follow her
+and find out how to get off this rock.</i>
+
+86
+00:06:11,621 --> 00:06:13,111
+And if this is a trap?
+
+87
+00:06:13,498 --> 00:06:15,660
+<i>Then I'm not gonna wait around
+to find out.</i>
+
+88
+00:06:16,126 --> 00:06:19,414
+Anakin, stop! Wait for us to find
+another way around and meet you.
+
+89
+00:06:19,462 --> 00:06:20,952
+--Anakin'?
+
+90
+00:06:22,299 --> 00:06:24,586
+So reckless and impatient.
+
+91
+00:06:25,135 --> 00:06:26,466
+He'll find her.
+
+92
+00:06:26,928 --> 00:06:28,635
+Yes, and what else?
+
+93
+00:06:31,975 --> 00:06:33,181
+Storm's coming.
+
+94
+00:06:39,983 --> 00:06:42,816
+-The ship's gone!
+-Yes, I see that.
+
+95
+00:06:43,820 --> 00:06:45,811
+It was here, no question.
+
+96
+00:06:46,531 --> 00:06:50,149
+And look, everything's dying.
+
+97
+00:06:50,952 --> 00:06:52,534
+Did you lose something?
+
+98
+00:06:53,997 --> 00:06:55,704
+You didn't do as you were asked.
+
+99
+00:06:56,541 --> 00:06:57,997
+And what was that?
+
+100
+00:06:58,835 --> 00:07:01,122
+My sister said to wait!
+
+101
+00:07:01,504 --> 00:07:04,963
+Did she, now?
+Well, we were unfortunately separated.
+
+102
+00:07:05,675 --> 00:07:07,882
+We'd like our ship back, if you don't mind.
+
+103
+00:07:08,511 --> 00:07:10,172
+Not yet.
+
+104
+00:07:11,848 --> 00:07:13,680
+ls it true that he is the Chosen One?
+
+105
+00:07:15,560 --> 00:07:17,301
+What do you know of such things?
+
+106
+00:07:17,854 --> 00:07:20,562
+What is about to happen shall occur,
+
+107
+00:07:21,358 --> 00:07:23,565
+whether you like it or not.
+
+108
+00:07:25,820 --> 00:07:26,981
+You are Sith!
+
+109
+00:07:27,197 --> 00:07:28,232
+Sith?
+
+110
+00:07:30,158 --> 00:07:31,239
+Yes.
+
+111
+00:07:31,826 --> 00:07:33,032
+And no.
+
+112
+00:07:35,372 --> 00:07:37,363
+The storms here are quite lethal.
+
+113
+00:07:37,749 --> 00:07:41,208
+If you want to live,
+I suggest you find shelter.
+
+114
+00:07:45,090 --> 00:07:48,253
+What in the universe was that?
+
+115
+00:07:48,426 --> 00:07:49,666
+I'm not quite sure.
+
+116
+00:07:54,015 --> 00:07:56,256
+Quick. There's a cave over there.
+
+117
+00:08:10,740 --> 00:08:13,903
+Whoever I'm looking for
+is in that monastery.
+
+118
+00:08:56,244 --> 00:08:58,235
+Welcome, my friend.
+
+119
+00:08:59,122 --> 00:09:00,863
+What is it that you want from me?
+
+120
+00:09:01,458 --> 00:09:04,951
+To learn the truth
+about who you really are.
+
+121
+00:09:05,795 --> 00:09:08,457
+One that maybe you have known all along.
+
+122
+00:09:09,382 --> 00:09:13,717
+One you must believe
+in order to fulfill your destiny.
+
+123
+00:09:14,554 --> 00:09:16,420
+Enough with the riddles, old man.
+
+124
+00:09:16,765 --> 00:09:18,096
+Tell me what's going on here.
+
+125
+00:09:20,769 --> 00:09:24,683
+As you can see,
+there is nowhere else to go.
+
+126
+00:09:25,440 --> 00:09:26,805
+It is late.
+
+127
+00:09:27,192 --> 00:09:29,479
+You will be my guest tonight.
+
+128
+00:09:57,847 --> 00:10:01,761
+Obi-Wan, have you done as I asked?
+Have you trained the boy?
+
+129
+00:10:02,393 --> 00:10:04,885
+Master Qui-Gon? How are you here?
+
+130
+00:10:05,688 --> 00:10:07,395
+I am here because you are here.
+
+131
+00:10:07,524 --> 00:10:09,481
+No. I don't understand.
+
+132
+00:10:09,609 --> 00:10:11,065
+What is this place?
+
+133
+00:10:11,653 --> 00:10:12,814
+Unlike any other,
+
+134
+00:10:12,946 --> 00:10:16,530
+a conduit through which
+the entire force of the universe flows.
+
+135
+00:10:17,242 --> 00:10:18,357
+Are we in danger?
+
+136
+00:10:19,077 --> 00:10:21,944
+This planet is both an amplifier
+and a magnet.
+
+137
+00:10:22,497 --> 00:10:24,829
+Three are here who seek Skywalker.
+
+138
+00:10:25,250 --> 00:10:27,958
+They, like me,
+believe him to be the Chosen One.
+
+139
+00:10:30,672 --> 00:10:31,878
+You were right,
+
+140
+00:10:32,173 --> 00:10:35,461
+the Force within him
+is stronger than any known Jedi.
+
+141
+00:10:36,177 --> 00:10:38,293
+I have trained him as well as I could,
+
+142
+00:10:38,513 --> 00:10:41,096
+but he's still willful
+and balance eludes him.
+
+143
+00:10:41,766 --> 00:10:44,849
+If he is the Chosen One,
+he will discover it here.
+
+144
+00:10:45,270 --> 00:10:46,681
+And if not?
+
+145
+00:10:47,021 --> 00:10:48,887
+Then you must realize, with his power,
+
+146
+00:10:48,982 --> 00:10:51,690
+this is a very dangerous place
+for him to be.
+
+147
+00:11:15,633 --> 00:11:19,126
+Wake up, my son. I must tell you a secret.
+
+148
+00:11:19,554 --> 00:11:21,841
+Who's there? Who's there, I said?
+
+149
+00:11:22,140 --> 00:11:24,598
+It is me, Ani. Your mother.
+
+150
+00:11:28,521 --> 00:11:30,603
+What kind of black arts is this?
+
+151
+00:11:31,149 --> 00:11:32,605
+You're dead.
+
+152
+00:11:33,276 --> 00:11:35,768
+Nothing ever really dies, my son.
+
+153
+00:11:36,738 --> 00:11:38,604
+I have a secret to tell you.
+
+154
+00:11:40,200 --> 00:11:41,486
+Then tell me.
+
+155
+00:11:42,202 --> 00:11:43,818
+Everything you have done,
+
+156
+00:11:44,078 --> 00:11:45,489
+everything you have learned,
+
+157
+00:11:45,580 --> 00:11:46,741
+has led you here.
+
+158
+00:11:47,332 --> 00:11:49,790
+Whatever you are, my mother is...
+
+159
+00:11:51,294 --> 00:11:54,161
+-ls dead.
+-And you blame yourself.
+
+160
+00:11:55,215 --> 00:11:57,957
+Your Jedi training
+has served you well, Ani,
+
+161
+00:11:58,551 --> 00:12:00,792
+but you are more than a Jedi.
+
+162
+00:12:01,554 --> 00:12:04,171
+Tell me, where is your pain,
+
+163
+00:12:04,974 --> 00:12:06,590
+so I might take it away?
+
+164
+00:12:07,518 --> 00:12:10,556
+I was too late to save you.
+
+165
+00:12:12,065 --> 00:12:14,523
+I failed as a Jedi, and I failed you.
+
+166
+00:12:15,235 --> 00:12:16,475
+How so?
+
+167
+00:12:17,237 --> 00:12:18,568
+I tasted only vengeance
+
+168
+00:12:18,655 --> 00:12:21,113
+when I slaughtered so many
+to avenge your death.
+
+169
+00:12:21,866 --> 00:12:26,030
+It is time you realized that your guilt
+does not define you, my son.
+
+170
+00:12:26,537 --> 00:12:28,244
+You define your guilt.
+
+171
+00:12:28,790 --> 00:12:31,532
+The only love I feel in my heart
+
+172
+00:12:32,210 --> 00:12:34,793
+is haunted by what would happen
+should I let go.
+
+173
+00:12:35,046 --> 00:12:37,834
+Then it is not love. It is a prison.
+
+174
+00:12:38,174 --> 00:12:41,383
+But I have a wife. You've met her.
+
+175
+00:12:42,303 --> 00:12:44,044
+She's everything to me.
+
+176
+00:12:44,138 --> 00:12:45,845
+She is not your destiny.
+
+177
+00:12:46,015 --> 00:12:47,130
+But I love her!
+
+178
+00:12:47,308 --> 00:12:49,925
+No! She is a poisoner!
+
+179
+00:12:50,144 --> 00:12:51,555
+What are you?
+
+180
+00:12:52,021 --> 00:12:53,432
+Your fate!
+
+181
+00:13:03,283 --> 00:13:04,739
+Are you happy, child?
+
+182
+00:13:11,624 --> 00:13:14,537
+Your master, does he treat you well?
+
+183
+00:13:18,673 --> 00:13:20,755
+What concern of it is yours?
+
+184
+00:13:21,384 --> 00:13:24,376
+I am your future, your potential.
+
+185
+00:13:24,971 --> 00:13:26,427
+This is a trick.
+
+186
+00:13:26,806 --> 00:13:29,343
+There is a wildness to you, young one.
+
+187
+00:13:29,559 --> 00:13:32,597
+Seeds of the dark side
+planted by your master.
+
+188
+00:13:33,062 --> 00:13:34,928
+-Do you feel it?
+-No!
+
+189
+00:13:35,148 --> 00:13:37,230
+He is like no other Jedi.
+
+190
+00:13:37,317 --> 00:13:38,648
+Passionate, impulsive,
+
+191
+00:13:39,152 --> 00:13:40,859
+but I trust him with my life.
+
+192
+00:13:41,904 --> 00:13:43,815
+There are many contradictions in you.
+
+193
+00:13:44,532 --> 00:13:45,772
+And in him.
+
+194
+00:13:49,037 --> 00:13:52,155
+Be warned! You may never see your future
+
+195
+00:13:52,248 --> 00:13:53,955
+if you remain his student.
+
+196
+00:13:54,250 --> 00:13:55,536
+Leave this planet!
+
+197
+00:13:58,087 --> 00:13:59,327
+Ahsoka?
+
+198
+00:14:01,549 --> 00:14:03,131
+I had a vision.
+
+199
+00:14:03,718 --> 00:14:05,459
+I think Anakin may be in trouble.
+
+200
+00:14:13,144 --> 00:14:14,555
+Cannot sleep?
+
+201
+00:14:15,938 --> 00:14:19,556
+To strike an unarmed man
+is hardly the Jedi way.
+
+202
+00:14:20,735 --> 00:14:22,146
+You're a Sith Lord!
+
+203
+00:14:22,820 --> 00:14:25,778
+You have a very simple view
+of the universe.
+
+204
+00:14:26,657 --> 00:14:29,069
+I am neither Sith nor Jedi.
+
+205
+00:14:30,203 --> 00:14:31,819
+I am much more.
+
+206
+00:14:32,747 --> 00:14:34,112
+And so are you.
+
+207
+00:14:35,500 --> 00:14:37,832
+I see through your spells
+and visions, old man.
+
+208
+00:14:38,252 --> 00:14:40,038
+Tell me what is going on here!
+
+209
+00:14:47,345 --> 00:14:49,882
+Some call us Force-wielders.
+
+210
+00:14:54,602 --> 00:14:56,388
+The Jedi have never spoken of this.
+
+211
+00:14:56,604 --> 00:14:57,639
+Hmm.
+
+212
+00:14:57,688 --> 00:15:00,055
+Few still know of our existence.
+
+213
+00:15:01,484 --> 00:15:05,273
+In that room, my mother came to me.
+But it was not her.
+
+214
+00:15:05,488 --> 00:15:07,650
+-It was something else.
+-Ah.
+
+215
+00:15:08,324 --> 00:15:10,110
+My son, I suspect.
+
+216
+00:15:10,827 --> 00:15:12,693
+We can take many forms.
+
+217
+00:15:13,287 --> 00:15:18,453
+The shapes we embody are merely
+a reflection of the life force around us.
+
+218
+00:15:19,919 --> 00:15:22,627
+You carry a great sadness in your heart.
+
+219
+00:15:23,840 --> 00:15:28,209
+My children and I
+can manipulate the Force like no other,
+
+220
+00:15:29,095 --> 00:15:32,759
+therefore it was necessary
+to withdraw from the temporal world
+
+221
+00:15:33,057 --> 00:15:35,014
+and live here as anchorites.
+
+222
+00:15:36,102 --> 00:15:37,684
+As a sanctuary?
+
+223
+00:15:38,312 --> 00:15:39,427
+And a prison.
+
+224
+00:15:40,565 --> 00:15:45,275
+You cannot imagine what pain it is
+to have such love for your children
+
+225
+00:15:45,695 --> 00:15:49,438
+and realize that they could tear
+the very fabric of our universe.
+
+226
+00:15:50,408 --> 00:15:52,149
+I don't understand.
+
+227
+00:15:52,618 --> 00:15:55,610
+It is only here that I can control them.
+
+228
+00:15:56,122 --> 00:15:59,740
+A family in balance. The light and the dark.
+
+229
+00:16:00,209 --> 00:16:01,745
+Day with night.
+
+230
+00:16:02,170 --> 00:16:05,162
+Destruction replaced by creation.
+
+231
+00:16:05,923 --> 00:16:07,960
+Then why reveal yourselves to us?
+
+232
+00:16:09,510 --> 00:16:12,343
+There are some
+who would like to exploit our power.
+
+233
+00:16:13,222 --> 00:16:15,634
+The Sith are but one.
+
+234
+00:16:16,225 --> 00:16:20,719
+Too much dark or light would be
+the undoing of life as you understand it.
+
+235
+00:16:21,772 --> 00:16:24,981
+When news reached me
+that the Chosen One had been found,
+
+236
+00:16:25,735 --> 00:16:28,193
+I needed to see for myself.
+
+237
+00:16:28,988 --> 00:16:30,524
+The Chosen One is a myth.
+
+238
+00:16:31,199 --> 00:16:32,689
+ls it?
+
+239
+00:16:33,201 --> 00:16:35,533
+I should very much like to know.
+
+240
+00:16:36,787 --> 00:16:39,199
+Why don't we find out together?
+
+241
+00:16:40,333 --> 00:16:44,201
+Pass one test and I shall know the truth.
+
+242
+00:16:45,630 --> 00:16:49,123
+Then, you and your friends may leave.
+
+243
+00:17:01,270 --> 00:17:05,184
+The longer we stay here,
+the stranger this place gets.
+
+244
+00:17:05,775 --> 00:17:08,267
+It appears the planet is renewing herself.
+
+245
+00:17:08,819 --> 00:17:10,685
+What about Master Skywalker?
+
+246
+00:17:11,113 --> 00:17:13,275
+Anakin will not be easy to deceive.
+
+247
+00:17:40,226 --> 00:17:44,845
+It is time to face your guilt
+and know the truth.
+
+248
+00:18:01,664 --> 00:18:03,120
+U-ussmca)
+
+249
+00:18:03,666 --> 00:18:06,249
+Whatever he wants, don't do it, Master!
+
+250
+00:18:11,340 --> 00:18:14,583
+Let them go. I will not play your games.
+
+251
+00:18:15,177 --> 00:18:17,339
+Oh, but I think you will.
+
+252
+00:18:17,930 --> 00:18:21,173
+I have ordered my children
+to kill your friends.
+
+253
+00:18:21,892 --> 00:18:23,257
+The question is,
+
+254
+00:18:26,105 --> 00:18:28,563
+which one will you choose to save?
+
+255
+00:18:30,192 --> 00:18:31,682
+Your master?
+
+256
+00:18:32,945 --> 00:18:34,606
+Or your apprentice?
+
+257
+00:18:35,281 --> 00:18:37,773
+You must now release the guilt
+
+258
+00:18:38,200 --> 00:18:40,862
+and free yourself by choosing.
+
+259
+00:18:41,287 --> 00:18:42,368
+No!
+
+260
+00:18:43,289 --> 00:18:45,701
+Their powers are too strong
+for us, Anakin!
+
+261
+00:18:46,042 --> 00:18:47,453
+Save Ahsoka!
+
+262
+00:18:51,756 --> 00:18:53,963
+Let them go.
+
+263
+00:18:54,216 --> 00:18:57,208
+Only you can make my children
+release them.
+
+264
+00:18:58,387 --> 00:19:01,755
+Anakin! The planet is the Force.
+
+265
+00:19:02,725 --> 00:19:03,886
+Use it.
+
+266
+00:19:06,145 --> 00:19:07,635
+You will let them go!
+
+267
+00:19:52,149 --> 00:19:53,264
+Down!
+
+268
+00:20:00,783 --> 00:20:02,694
+On your knees!
+
+269
+00:20:19,176 --> 00:20:22,339
+And now you see who you truly are.
+
+270
+00:20:23,013 --> 00:20:26,301
+Only the Chosen One
+could tame both my children.
+
+271
+00:20:28,644 --> 00:20:30,134
+I've taken your test.
+
+272
+00:20:30,396 --> 00:20:32,512
+Now fulfill your promise and let us go.
+
+273
+00:20:33,190 --> 00:20:37,479
+Ah, but first, you must understand the truth.
+
+274
+00:20:38,320 --> 00:20:40,812
+Now, all of you, leave us.
+
+275
+00:20:42,366 --> 00:20:43,982
+Do not trust him.
+
+276
+00:20:44,368 --> 00:20:45,483
+You think?
+
+277
+00:20:45,536 --> 00:20:47,573
+I said, leave us!
+
+278
+00:20:52,668 --> 00:20:54,534
+Do you feel your destiny?
+
+279
+00:20:55,337 --> 00:20:56,998
+You must see it now.
+
+280
+00:20:57,715 --> 00:20:59,001
+I am dying,
+
+281
+00:20:59,759 --> 00:21:01,841
+and you must replace me.
+
+282
+00:21:02,678 --> 00:21:05,591
+Replace you? I can't stay here.
+
+283
+00:21:06,098 --> 00:21:07,839
+But this is yours.
+
+284
+00:21:08,350 --> 00:21:11,513
+It has been foretold.
+The Chosen One will remain
+
+285
+00:21:11,562 --> 00:21:13,769
+to keep my children in balance.
+
+286
+00:21:15,232 --> 00:21:16,347
+No.
+
+287
+00:21:17,401 --> 00:21:20,564
+I cannot force you to do this.
+
+288
+00:21:21,864 --> 00:21:23,354
+The choice must be yours.
+
+289
+00:21:24,575 --> 00:21:25,781
+But leave
+
+290
+00:21:25,868 --> 00:21:30,362
+and your selfishness shall haunt you
+and the galaxy.
+
+291
+00:21:37,630 --> 00:21:39,041
+Ready to get out of here?
+
+292
+00:22:33,602 --> 00:22:34,592
+English - SDH
+

@@ -1,0 +1,826 @@
+﻿1
+00:00:18,143 --> 00:00:19,474
+<i>NARRATOR". Separatist attack!</i>
+
+2
+00:00:19,561 --> 00:00:22,644
+<i>After the destruction
+of the Republic outpost on the Rishi moon,</i>
+
+3
+00:00:22,981 --> 00:00:26,895
+<i>General Grievous and Asajj Ventress
+plan an attack on the planet Kamino,</i>
+
+4
+00:00:27,027 --> 00:00:28,984
+<i>home of the cloning factories.</i>
+
+5
+00:00:29,196 --> 00:00:31,312
+<i>Meanwhile, aboard a Jedi cruiser,</i>
+
+6
+00:00:31,406 --> 00:00:34,319
+<i>Jedi Knights Anakin Skywalker
+and Obi-Wan Kenobi</i>
+
+7
+00:00:34,660 --> 00:00:37,903
+<i>examine an intercepted message
+from General Grievous.</i>
+
+8
+00:00:38,330 --> 00:00:40,321
+We are decrypting the audio, sir.
+
+9
+00:00:40,415 --> 00:00:43,783
+<i>The clone planet of Kamino
+will be a dangerous target.</i>
+
+10
+00:00:44,628 --> 00:00:47,996
+<i>Just make sure you hold up
+your half of the mission.</i>
+
+11
+00:00:48,423 --> 00:00:51,085
+<i>We must stop the production of new clones</i>
+
+12
+00:00:51,176 --> 00:00:53,213
+<i>if we are to win this war.</i>
+
+13
+00:00:54,930 --> 00:00:55,965
+Kamino.
+
+14
+00:00:56,306 --> 00:00:58,297
+They're going to attack our home planet.
+
+15
+00:00:59,059 --> 00:01:02,427
+The Separatists are taking
+quite the chance even considering this.
+
+16
+00:01:03,021 --> 00:01:06,764
+With all due respect, General,
+if someone comes to our home,
+
+17
+00:01:06,984 --> 00:01:09,191
+they better be carrying a big blaster.
+
+18
+00:01:09,361 --> 00:01:13,150
+I concur with Captain Rex, sir.
+This is personal for us clones.
+
+19
+00:01:13,365 --> 00:01:15,197
+We'll make sure Kamino is secure.
+
+20
+00:01:15,367 --> 00:01:18,530
+Tell your troopers in the 501st
+they're going home.
+
+21
+00:01:18,662 --> 00:01:19,697
+Yes, sir!
+
+22
+00:01:28,422 --> 00:01:30,254
+<i>All is ready, General.</i>
+
+23
+00:01:30,716 --> 00:01:34,084
+Good. We will attack Tipoca City first.
+
+24
+00:01:34,553 --> 00:01:38,342
+<i>I have the exact locations of both
+the clone DNA room</i>
+
+25
+00:01:38,432 --> 00:01:40,218
+<i>and the clone trooper barracks.</i>
+
+26
+00:01:40,601 --> 00:01:43,593
+Both shall be annihilated under my hand.
+
+27
+00:01:44,021 --> 00:01:48,731
+<i>Our hands, General.
+Count Dooku assigned us both this task.</i>
+
+28
+00:01:49,109 --> 00:01:53,273
+But of course, assassin.
+I look forward to meeting you.
+
+29
+00:01:54,698 --> 00:01:57,907
+Are the aqua droids prepared
+for phase two of the plan?
+
+30
+00:01:57,951 --> 00:01:59,112
+Yes mistress.
+
+31
+00:02:29,816 --> 00:02:31,807
+Masters Kenobi and Skywalker.
+
+32
+00:02:32,444 --> 00:02:33,809
+Welcome to Kamino.
+
+33
+00:02:34,112 --> 00:02:35,602
+Greetings, Generals.
+
+34
+00:02:35,906 --> 00:02:38,989
+I wish our arrival
+wasn't under such circumstances.
+
+35
+00:02:39,284 --> 00:02:42,527
+We believe Grievous is planning
+a Separatist attack on Kamino.
+
+36
+00:02:43,288 --> 00:02:48,454
+But the Republic blockade
+is far too strong. They would not dare.
+
+37
+00:02:52,339 --> 00:02:55,331
+Look around, Fives.
+Feels like yesterday we were here.
+
+38
+00:02:56,510 --> 00:02:58,092
+Heading to target practice.
+
+39
+00:02:58,553 --> 00:02:59,964
+Remember that?
+
+40
+00:03:00,472 --> 00:03:01,962
+Do I ever.
+
+41
+00:03:04,476 --> 00:03:05,716
+Hey, 99!
+
+42
+00:03:07,020 --> 00:03:08,806
+Echo! Fives!
+
+43
+00:03:09,398 --> 00:03:11,014
+You actually remember us?
+
+44
+00:03:11,483 --> 00:03:13,850
+I remember all my brothers.
+
+45
+00:03:14,486 --> 00:03:16,978
+ls Hevy here? Where's he?
+
+46
+00:03:17,823 --> 00:03:21,566
+There was an incident
+on the Rishi moon outpost.
+
+47
+00:03:21,910 --> 00:03:25,403
+He saved our lives, but he gave up his own.
+
+48
+00:03:26,248 --> 00:03:27,238
+Oh.
+
+49
+00:03:27,499 --> 00:03:28,580
+I... lsee.
+
+50
+00:03:31,420 --> 00:03:33,411
+Hevy gave you his medal?
+
+51
+00:03:34,673 --> 00:03:37,335
+So why have you returned to Kamino?
+
+52
+00:03:37,759 --> 00:03:40,547
+The Generals received word
+of an impending attack here.
+
+53
+00:03:41,346 --> 00:03:43,553
+Well, how can I help?
+
+54
+00:03:53,567 --> 00:03:55,729
+Attack formation Echo-3.
+
+55
+00:03:57,028 --> 00:03:59,395
+-Status.
+-Deflector shields raised.
+
+56
+00:03:59,865 --> 00:04:03,074
+- Destroyers in position.
+- Forward cannons ready.
+
+57
+00:04:04,035 --> 00:04:05,525
+Landing craft prepared.
+
+58
+00:04:07,122 --> 00:04:09,705
+All ships are in position.
+
+59
+00:04:10,292 --> 00:04:11,782
+Commence attack!
+
+60
+00:04:21,887 --> 00:04:24,219
+The Separatist fleet
+is pressing their attack, sir.
+
+61
+00:04:24,431 --> 00:04:26,217
+Contact command at Tipoca City.
+
+62
+00:04:38,570 --> 00:04:40,026
+<i>Shore up our defenses.</i>
+
+63
+00:04:41,656 --> 00:04:44,068
+The fleet is not as large as I expected.
+
+64
+00:04:45,076 --> 00:04:46,282
+Begin the air strike.
+
+65
+00:04:54,252 --> 00:04:56,493
+Good to see you, General.
+Ready to have some fun?
+
+66
+00:04:56,838 --> 00:04:58,249
+You know me, Broadside.
+
+67
+00:04:58,340 --> 00:05:00,627
+I'd rather be up here
+than stuck in a command center.
+
+68
+00:05:21,988 --> 00:05:24,150
+<i>Warning! Falling Debris.</i>
+
+69
+00:05:24,533 --> 00:05:27,150
+Grievous appears to be
+sacrificing his transports
+
+70
+00:05:27,244 --> 00:05:29,235
+in favor of protecting his command ship.
+
+71
+00:05:29,788 --> 00:05:31,404
+Something's not right.
+
+72
+00:05:46,555 --> 00:05:48,296
+Reinforcements have arrived.
+
+73
+00:05:48,640 --> 00:05:51,928
+Send out the aqua droids
+to assemble the assault craft.
+
+74
+00:05:53,895 --> 00:05:54,930
+Focus on the cruisers!
+
+75
+00:06:08,451 --> 00:06:10,158
+I'm going to press the attack, Master.
+
+76
+00:06:10,537 --> 00:06:13,370
+No, Anakin. Wait! It's too easy.
+
+77
+00:06:13,498 --> 00:06:15,705
+Not even Grievous
+would attack so recklessly.
+
+78
+00:06:15,959 --> 00:06:19,247
+Master, the battle's up here in space,
+not down there.
+
+79
+00:06:19,838 --> 00:06:22,921
+The debris from the destroyed
+Separatist ships is the key.
+
+80
+00:06:23,341 --> 00:06:24,672
+What are you thinking?
+
+81
+00:06:25,051 --> 00:06:26,792
+I think I'd like to go for a swim.
+
+82
+00:06:41,234 --> 00:06:42,565
+Nothing as of yet.
+
+83
+00:06:43,069 --> 00:06:45,561
+Only you could be worried about the ships
+I already shot down.
+
+84
+00:06:48,825 --> 00:06:49,860
+Wait a minute!
+
+85
+00:06:53,371 --> 00:06:56,955
+Aqua droids! It looks as though
+they're assembling assault craft.
+
+86
+00:07:04,758 --> 00:07:05,964
+Anakin, I was right!
+
+87
+00:07:06,092 --> 00:07:09,210
+Those downed transports were hiding
+ships for an underwater assault.
+
+88
+00:07:09,471 --> 00:07:10,586
+Anakin, come in!
+
+89
+00:07:11,848 --> 00:07:14,556
+Hold it right there! Do not move!
+
+90
+00:07:53,765 --> 00:07:55,130
+Thanks for the lift, friend.
+
+91
+00:08:05,610 --> 00:08:09,774
+Anakin, the city is under attack!
+I need you down here now!
+
+92
+00:08:11,783 --> 00:08:13,148
+On my way!
+
+93
+00:08:21,376 --> 00:08:22,616
+Sir, you sent for us?
+
+94
+00:08:22,794 --> 00:08:23,955
+It's a dangerous assignment,
+
+95
+00:08:24,045 --> 00:08:26,787
+but I want you two up on the bridge
+in sniper positions.
+
+96
+00:08:27,298 --> 00:08:28,379
+Yes, sir, we're on it!
+
+97
+00:08:47,736 --> 00:08:48,976
+Watch out!
+
+98
+00:09:16,139 --> 00:09:17,721
+Kill them all!
+
+99
+00:09:53,635 --> 00:09:55,467
+99, get out of here!
+
+100
+00:09:56,930 --> 00:09:58,512
+This is no place for you.
+
+101
+00:10:07,273 --> 00:10:09,605
+There aren't enough droids here
+to capture the city.
+
+102
+00:10:09,901 --> 00:10:11,517
+They're trying to distract us.
+
+103
+00:10:11,611 --> 00:10:14,820
+Go protect the DNA chamber,
+I'll deal with Grievous.
+
+104
+00:10:14,906 --> 00:10:15,941
+Got it.
+
+105
+00:10:31,047 --> 00:10:33,334
+Fives, keep firing! We can beat these guys!
+
+106
+00:10:36,636 --> 00:10:39,094
+-99!
+-I... I brought you some ammo.
+
+107
+00:10:39,430 --> 00:10:42,263
+ls there a better spot than this?
+A better defensive position we can take?
+
+108
+00:10:42,350 --> 00:10:43,465
+Droids! Behind us!
+
+109
+00:10:44,602 --> 00:10:45,637
+The grenades!
+
+110
+00:10:50,441 --> 00:10:52,352
+Thanks, 99. Good job!
+
+111
+00:10:52,861 --> 00:10:54,272
+Look out, there's more!
+
+112
+00:10:56,447 --> 00:10:58,404
+Cadets! What are you doing here?
+
+113
+00:10:58,449 --> 00:11:00,110
+We got separated from our group.
+
+114
+00:11:00,577 --> 00:11:02,614
+-Where were they taking you?
+-The barracks.
+
+115
+00:11:02,912 --> 00:11:04,528
+Oh. I know the best way there!
+
+116
+00:11:05,123 --> 00:11:07,490
+Keep firing! No mercy!
+
+117
+00:11:40,158 --> 00:11:42,365
+Your skills are impressive.
+
+118
+00:11:42,911 --> 00:11:45,869
+Perhaps a match for my own, assassin.
+
+119
+00:11:46,331 --> 00:11:50,325
+Count Dooku may have taught you
+how to swing a lightsaber, General,
+
+120
+00:11:50,543 --> 00:11:53,251
+but that hardly makes you my equal.
+
+121
+00:11:53,671 --> 00:11:57,005
+And yet I am the General
+in charge of this assault.
+
+122
+00:11:57,383 --> 00:12:01,502
+Remember, assassin,
+you are to recover the clone DNA.
+
+123
+00:12:01,846 --> 00:12:03,837
+Why not just destroy it?
+
+124
+00:12:04,349 --> 00:12:08,013
+Because the DNA could unlock
+new possibilities for us.
+
+125
+00:12:08,394 --> 00:12:10,385
+Keep playing with your droids.
+
+126
+00:12:10,730 --> 00:12:13,267
+I'll handle breaking into the DNA room.
+
+127
+00:12:14,859 --> 00:12:17,851
+Shall I provide you with a droid escort?
+
+128
+00:12:18,529 --> 00:12:20,270
+My dear General,
+
+129
+00:12:20,365 --> 00:12:23,403
+there's nothing you have that I could want.
+
+130
+00:12:37,882 --> 00:12:38,963
+What are we going to do?
+
+131
+00:12:39,926 --> 00:12:44,215
+A Separatist victory means death.
+For all of us.
+
+132
+00:12:44,555 --> 00:12:47,388
+The cadet is right, what are we going to do?
+
+133
+00:12:47,475 --> 00:12:48,590
+We fight.
+
+134
+00:12:51,646 --> 00:12:53,228
+But our training's not finished.
+
+135
+00:12:53,731 --> 00:12:57,895
+Look around, we're one and the same.
+Same heart, same blood.
+
+136
+00:12:58,569 --> 00:13:00,560
+Your training is in your blood.
+
+137
+00:13:00,947 --> 00:13:03,609
+And my blood's boiling for a fight.
+
+138
+00:13:03,741 --> 00:13:06,904
+This is our home. This is our war.
+
+139
+00:13:07,412 --> 00:13:08,573
+What about weapons?
+
+140
+00:13:08,913 --> 00:13:10,449
+The armory.
+
+141
+00:13:12,125 --> 00:13:14,958
+Just a few corridors away,
+here in the barracks.
+
+142
+00:13:15,169 --> 00:13:17,877
+I can retrieve
+all the firepower that we need.
+
+143
+00:13:18,756 --> 00:13:21,214
+So, who wants to blast some droids?
+
+144
+00:13:37,442 --> 00:13:40,855
+The droids are spread thin.
+We must press our offensive now.
+
+145
+00:14:05,345 --> 00:14:08,929
+I was beginning to think
+my presence went unnoticed.
+
+146
+00:14:08,973 --> 00:14:11,385
+You weren't planning on leaving
+without saying hello, were you?
+
+147
+00:14:19,108 --> 00:14:21,600
+Here it is. Everything we need is here.
+
+148
+00:14:21,778 --> 00:14:23,314
+Excellent work, 99.
+
+149
+00:14:23,446 --> 00:14:25,483
+Hurry up, the droids have almost
+reached the barracks.
+
+150
+00:14:25,615 --> 00:14:26,821
+Let's get into position.
+
+151
+00:14:31,496 --> 00:14:32,782
+Open up.
+
+152
+00:14:32,997 --> 00:14:37,241
+Get those doors open and scare
+the remaining clones out of hiding.
+
+153
+00:14:37,794 --> 00:14:38,829
+Roger, roger.
+
+154
+00:14:43,007 --> 00:14:44,042
+Blast them!
+
+155
+00:14:47,136 --> 00:14:48,501
+All too easy.
+
+156
+00:14:50,723 --> 00:14:53,010
+Define easy, General.
+
+157
+00:14:54,519 --> 00:14:55,805
+Kenobi!
+
+158
+00:15:39,730 --> 00:15:46,318
+Kenobi, Kamino has fallen.
+Your clone army is doomed.
+
+159
+00:15:46,654 --> 00:15:48,520
+I beg to differ, Grievous.
+
+160
+00:16:17,768 --> 00:16:18,849
+Cadets, now!
+
+161
+00:17:06,817 --> 00:17:08,854
+Last one, Commander! Make it count!
+
+162
+00:17:09,362 --> 00:17:10,773
+I'll get more!
+
+163
+00:17:11,447 --> 00:17:12,608
+99, you can't!
+
+164
+00:17:12,657 --> 00:17:14,318
+I'm a soldier. Like you.
+
+165
+00:17:15,243 --> 00:17:16,529
+This is what I was bred for.
+
+166
+00:17:20,206 --> 00:17:21,662
+99! NO!
+
+167
+00:17:37,139 --> 00:17:38,254
+Commander Cody!
+
+168
+00:17:38,349 --> 00:17:39,430
+Yes, sir!
+
+169
+00:17:40,685 --> 00:17:42,767
+The droids have been pushed back
+to the main hangar.
+
+170
+00:18:22,435 --> 00:18:24,802
+We've got to stop meeting like this,
+my friend.
+
+171
+00:18:41,120 --> 00:18:42,781
+Move it, troopers, on the double!
+
+172
+00:18:44,957 --> 00:18:45,992
+Fire!
+
+173
+00:18:58,846 --> 00:19:00,086
+Look! It's the General.
+
+174
+00:19:24,497 --> 00:19:27,239
+I suppose you expect me to surrender.
+
+175
+00:19:31,671 --> 00:19:35,084
+Actually, I plan to let the clones
+execute you right now.
+
+176
+00:19:35,466 --> 00:19:37,002
+Not this time.
+
+177
+00:19:48,854 --> 00:19:51,061
+We did it. We held them back!
+
+178
+00:19:53,401 --> 00:19:55,608
+We lost a true soldier.
+
+179
+00:19:57,363 --> 00:19:59,104
+He really was one of us.
+
+180
+00:20:01,325 --> 00:20:02,986
+Echo, Fives.
+
+181
+00:20:05,830 --> 00:20:08,663
+You both really stepped up
+in the heat of battle.
+
+182
+00:20:09,375 --> 00:20:11,616
+We did what we had to do, sir.
+
+183
+00:20:12,044 --> 00:20:13,876
+What any clone would've done.
+
+184
+00:20:15,297 --> 00:20:18,915
+Both of you showed valor out there,
+real courage.
+
+185
+00:20:19,260 --> 00:20:21,171
+Reminded me of me, actually.
+
+186
+00:20:21,554 --> 00:20:26,674
+Echo, Fives, you're both officially
+being made ARC Troopers.
+
+187
+00:20:30,229 --> 00:20:33,062
+I don't think the Separatists
+will be coming back here anytime soon.
+
+188
+00:20:33,441 --> 00:20:34,681
+But if they do,
+
+189
+00:20:35,484 --> 00:20:38,897
+Kamino will be lucky
+to have clones like you defending it.
+
+190
+00:20:39,572 --> 00:20:40,733
+Good job, men.
+
+191
+00:21:21,238 --> 00:21:22,228
+English - SDH
+

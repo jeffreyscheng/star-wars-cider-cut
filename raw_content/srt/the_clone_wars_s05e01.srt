@@ -1,0 +1,1191 @@
+﻿1
+00:00:10,400 --> 00:00:10,517
+h
+
+2
+00:00:10,518 --> 00:00:10,634
+ht
+
+3
+00:00:10,635 --> 00:00:10,752
+htt
+
+4
+00:00:10,753 --> 00:00:10,870
+http
+
+5
+00:00:10,871 --> 00:00:10,987
+http:
+
+6
+00:00:10,988 --> 00:00:11,105
+http:/
+
+7
+00:00:11,106 --> 00:00:11,223
+http://
+
+8
+00:00:11,224 --> 00:00:11,340
+http://h
+
+9
+00:00:11,341 --> 00:00:11,458
+http://hi
+
+10
+00:00:11,459 --> 00:00:11,575
+http://hiq
+
+11
+00:00:11,576 --> 00:00:11,693
+http://hiqv
+
+12
+00:00:11,694 --> 00:00:11,811
+http://hiqve
+
+13
+00:00:11,812 --> 00:00:11,928
+http://hiqve.
+
+14
+00:00:11,929 --> 00:00:12,046
+http://hiqve.c
+
+15
+00:00:12,047 --> 00:00:12,164
+http://hiqve.co
+
+16
+00:00:12,165 --> 00:00:12,281
+http://hiqve.com
+
+17
+00:00:12,282 --> 00:00:12,399
+http://hiqve.com/
+
+18
+00:00:12,400 --> 00:00:15,400
+http://hiqve.com/
+
+19
+00:00:18,564 --> 00:00:20,608
+<i>Separatist takeover complete!</i>
+
+20
+00:00:20,775 --> 00:00:23,152
+<i>Another Republic planet has fallen.</i>
+
+21
+00:00:23,277 --> 00:00:26,906
+<i>Onderon has seceded to the
+Confederacy of Independent Systems</i>
+
+22
+00:00:27,073 --> 00:00:29,116
+<i>under the rule of a new king.</i>
+
+23
+00:00:29,408 --> 00:00:32,119
+<i>However, a small band of rebels
+have taken refuge</i>
+
+24
+00:00:32,245 --> 00:00:35,331
+<i>deep within its vast and savage wilderness.</i>
+
+25
+00:00:35,456 --> 00:00:36,749
+<i>From an abandoned outpost,</i>
+
+26
+00:00:36,791 --> 00:00:40,419
+<i>they plot to take back the heavily fortified
+capital city of Iziz</i>
+
+27
+00:00:40,586 --> 00:00:42,922
+<i>and end the Separatist occupation.</i>
+
+28
+00:00:46,425 --> 00:00:49,095
+<i>Unfortunately, the only way
+to reclaim Onderon</i>
+
+29
+00:00:49,136 --> 00:00:50,763
+<i>will be through armed struggle.</i>
+
+30
+00:00:51,264 --> 00:00:53,349
+<i>But we lack
+sufficient hardware and supplies.</i>
+
+31
+00:00:53,474 --> 00:00:57,603
+Onderon is in your king's rule,
+and at the outbreak of the Clone War,
+
+32
+00:00:57,770 --> 00:00:59,981
+he chose to align it with the Separatists.
+
+33
+00:01:00,106 --> 00:01:01,941
+<i>Our true king has been silenced.</i>
+
+34
+00:01:01,983 --> 00:01:05,987
+<i>The one you recognize
+is a traitor and a Separatist minion.</i>
+
+35
+00:01:06,153 --> 00:01:07,905
+<i>We need your help to survive this.</i>
+
+36
+00:01:08,656 --> 00:01:11,492
+Find a way we shall.
+
+37
+00:01:11,867 --> 00:01:13,869
+<i>We await your answer.</i>
+
+38
+00:01:18,708 --> 00:01:22,211
+There are pockets of rebels on many
+of these planets that just need guidance.
+
+39
+00:01:22,378 --> 00:01:26,382
+With training and resources,
+they could attack soft targets
+
+40
+00:01:26,507 --> 00:01:29,343
+while the Republic continues
+to engage them on the battlefield.
+
+41
+00:01:29,427 --> 00:01:31,846
+That sounds like terrorism, Anakin.
+
+42
+00:01:31,887 --> 00:01:33,681
+Well, I think of it as an insurgency.
+
+43
+00:01:33,764 --> 00:01:36,559
+To help realign these planets
+with the Republic.
+
+44
+00:01:36,767 --> 00:01:41,105
+We can divide the Separatist forces
+and press them on two fronts.
+
+45
+00:01:41,355 --> 00:01:44,525
+A means to an end fear cannot be.
+
+46
+00:01:45,276 --> 00:01:48,446
+Stop those who spread terror
+the Jedi must.
+
+47
+00:01:48,863 --> 00:01:52,867
+Indeed. What you're suggesting
+would open up dangerous possibilities.
+
+48
+00:01:52,950 --> 00:01:55,036
+We must not train terrorists.
+
+49
+00:01:55,286 --> 00:01:56,579
+Uh, rebels.
+
+50
+00:01:56,954 --> 00:02:00,374
+How we conduct war is
+what distinguishes us from others.
+
+51
+00:02:00,458 --> 00:02:02,710
+Funding rebels to overthrow
+a legitimate government
+
+52
+00:02:02,752 --> 00:02:04,795
+puts innocent lives at risk.
+
+53
+00:02:04,879 --> 00:02:08,466
+We can minimize collateral damage
+by using arms that mainly affect droids.
+
+54
+00:02:09,091 --> 00:02:11,385
+The least we can do
+is help them defend themselves.
+
+55
+00:02:11,761 --> 00:02:13,554
+Test the tactic while we're at it.
+
+56
+00:02:14,805 --> 00:02:16,974
+This could be a great new weapon for us.
+
+57
+00:02:21,062 --> 00:02:22,313
+Hmm.
+
+58
+00:02:22,396 --> 00:02:24,565
+Train and observe.
+
+59
+00:02:24,607 --> 00:02:26,734
+Send advisors we will.
+
+60
+00:02:26,776 --> 00:02:28,402
+I'll assemble a team.
+
+61
+00:02:28,819 --> 00:02:30,655
+I'm going with you.
+
+62
+00:02:30,738 --> 00:02:32,490
+What? You don't trust me?
+
+63
+00:02:32,740 --> 00:02:35,326
+Too much. That's what worries me.
+
+64
+00:02:49,965 --> 00:02:52,927
+<i>This is Valkyrie 29-29.
+We're coming up on the drop zone.</i>
+
+65
+00:02:59,350 --> 00:03:00,810
+Go! Go! Go! Go!
+
+66
+00:03:26,627 --> 00:03:28,212
+We've spotted them, sir.
+
+67
+00:03:39,140 --> 00:03:40,182
+Stay where you are.
+
+68
+00:03:44,812 --> 00:03:46,564
+Identify yourselves.
+
+69
+00:03:50,234 --> 00:03:52,236
+It's all right. We're friends.
+
+70
+00:03:52,570 --> 00:03:54,196
+Jedi.
+
+71
+00:03:57,950 --> 00:04:01,662
+I'm Commander Tano. We're here
+to help you take back your planet.
+
+72
+00:04:02,413 --> 00:04:05,958
+My name is Steela.
+I'll guide you to our secret base.
+
+73
+00:05:13,067 --> 00:05:14,235
+Hmm?
+
+74
+00:05:17,029 --> 00:05:18,072
+Mmm.
+
+75
+00:05:18,155 --> 00:05:20,574
+A bit rough around the edges,
+wouldn't you say?
+
+76
+00:05:20,991 --> 00:05:22,743
+That's why I brought Rex here.
+
+77
+00:05:22,827 --> 00:05:26,831
+They're not exactly what I would call shiny,
+sir, but I can work with them.
+
+78
+00:05:46,225 --> 00:05:49,436
+-General Skywalker.
+-At your service.
+
+79
+00:05:49,520 --> 00:05:53,691
+This is General Kenobi, Commander Tano
+and Captain Rex.
+
+80
+00:05:54,108 --> 00:05:57,528
+We're looking forward to taking the fight
+to those scrapping droids.
+
+81
+00:05:57,736 --> 00:06:00,281
+Yes, all in good time.
+
+82
+00:06:01,198 --> 00:06:03,367
+Saw. Saw Gerrera.
+
+83
+00:06:03,576 --> 00:06:07,788
+He fashions himself as our leader,
+though no one elected him.
+
+84
+00:06:08,789 --> 00:06:10,708
+Well, for now, we're in charge.
+
+85
+00:06:11,125 --> 00:06:12,751
+And there is much to learn.
+
+86
+00:06:18,632 --> 00:06:20,634
+The Separatists have strength in numbers.
+
+87
+00:06:20,801 --> 00:06:23,721
+We're gonna show you
+how to target and destroy them.
+
+88
+00:06:23,804 --> 00:06:26,765
+Now, to be clear,
+we are not here to fight your war.
+
+89
+00:06:26,891 --> 00:06:28,976
+Rather, to show you how to conduct it
+
+90
+00:06:29,059 --> 00:06:31,729
+in the most efficient
+and successful way possible.
+
+91
+00:06:34,815 --> 00:06:36,567
+Captain Rex.
+
+92
+00:06:37,484 --> 00:06:40,321
+I'll show you
+how the 501 st destroy clankers.
+
+93
+00:06:40,446 --> 00:06:45,117
+First, I need volunteers to carry supplies
+from our entry point a half-click west.
+
+94
+00:06:45,451 --> 00:06:48,078
+-Shouldn't be a problem.
+-Excellent.
+
+95
+00:06:50,915 --> 00:06:53,834
+Lux, it's good to see you again.
+
+96
+00:06:54,001 --> 00:06:56,003
+It's good to see you, too, Ahsoka.
+
+97
+00:06:56,295 --> 00:06:59,465
+I didn't realize you had
+such strong ties to Onderon.
+
+98
+00:06:59,632 --> 00:07:03,010
+Onderon is my home.
+My mother represented it in the Senate.
+
+99
+00:07:03,636 --> 00:07:06,764
+Your voice is strong. Like hers was.
+
+100
+00:07:07,514 --> 00:07:10,309
+Have you reconsidered
+joining the Republic Senate?
+
+101
+00:07:10,476 --> 00:07:14,146
+Even if we do take back Onderon,
+it won't change how I feel.
+
+102
+00:07:14,480 --> 00:07:16,148
+I'm not fighting for the Republic.
+
+103
+00:07:16,523 --> 00:07:19,193
+Well, what matters now
+is we need each other's help.
+
+104
+00:07:19,318 --> 00:07:20,986
+Just like we did on Carlac.
+
+105
+00:07:21,654 --> 00:07:24,823
+Carlac? What happened on Carlac?
+
+106
+00:07:26,116 --> 00:07:29,036
+Ahsoka is the reason I'm here
+and not with Death Watch.
+
+107
+00:07:29,495 --> 00:07:32,373
+-Really?
+-What he means is...
+
+108
+00:07:32,456 --> 00:07:34,875
+She saved me from a huge mistake.
+
+109
+00:07:38,879 --> 00:07:39,964
+Hmm...
+
+110
+00:07:40,047 --> 00:07:42,341
+Lux obviously thinks highly of you.
+
+111
+00:07:42,383 --> 00:07:43,550
+I guess so.
+
+112
+00:07:43,676 --> 00:07:45,844
+Let's hope that respect is well founded.
+
+113
+00:07:50,349 --> 00:07:53,352
+The pilot in the front hatch
+controls the tank, the shells
+
+114
+00:07:53,394 --> 00:07:55,229
+and the short-range blasters.
+
+115
+00:07:55,312 --> 00:07:58,732
+The commander in the top hatch
+controls the turret and the main cannon.
+
+116
+00:07:59,024 --> 00:08:03,320
+You have to take out both chambers,
+otherwise the tank will remain operational.
+
+117
+00:08:19,920 --> 00:08:25,259
+Everyone, divide up into teams of two, and
+we'll practice an assault on both hatches.
+
+118
+00:08:26,719 --> 00:08:28,262
+I'll take the top.
+
+119
+00:08:28,345 --> 00:08:30,097
+Let's see what you're made of, Bonteri.
+
+120
+00:08:44,069 --> 00:08:45,446
+Sorry about that.
+
+121
+00:08:46,697 --> 00:08:48,699
+You're a terrible soldier, Bonteri.
+
+122
+00:08:50,117 --> 00:08:54,079
+I'm not sure if they're more interested
+in fighting the droids or each other.
+
+123
+00:08:54,246 --> 00:08:57,458
+They'll learn.
+We just need time to train them properly.
+
+124
+00:08:57,583 --> 00:08:59,293
+Keep your eyes on the quick learners.
+
+125
+00:08:59,626 --> 00:09:02,129
+-In this fight, time is not on our side.
+-Come on ! Hustle!
+
+126
+00:09:02,254 --> 00:09:03,881
+Go, go, go, go, go!
+
+127
+00:09:28,906 --> 00:09:32,326
+An unscheduled ship entered the
+atmosphere in sector S-11
+
+128
+00:09:32,451 --> 00:09:34,161
+and failed to register.
+
+129
+00:09:34,244 --> 00:09:36,914
+The rebels may be operating in that area.
+
+130
+00:09:37,289 --> 00:09:38,916
+Check it out.
+
+131
+00:09:45,631 --> 00:09:49,468
+Come on, move it like a soldier!
+Like a real soldier!
+
+132
+00:09:49,510 --> 00:09:51,512
+Come on, Donald ! Pick it up, Hutch!
+
+133
+00:09:51,637 --> 00:09:54,014
+- You can do better than that.
+- Come on, hustle!
+
+134
+00:09:54,264 --> 00:09:55,849
+I said hustle!
+
+135
+00:09:56,016 --> 00:09:59,770
+That's what I'm talking about right there.
+Go, go, go! Good. Good!
+
+136
+00:10:00,020 --> 00:10:01,688
+-You sure you're up for this?
+-Saw...
+
+137
+00:10:01,814 --> 00:10:04,858
+-It was an accident.
+-You would have had us both killed.
+
+138
+00:10:06,944 --> 00:10:07,986
+Just stop it.
+
+139
+00:10:09,488 --> 00:10:12,199
+Sit down, boy, this isn't the Senate.
+
+140
+00:10:12,324 --> 00:10:13,867
+You've got no talent for this.
+
+141
+00:10:13,951 --> 00:10:17,329
+It's going to take a lot more than muscle
+to defeat the Separatists.
+
+142
+00:10:17,788 --> 00:10:20,666
+Politics have failed us. We have no choice.
+
+143
+00:10:21,166 --> 00:10:22,626
+We always have a choice.
+
+144
+00:10:23,377 --> 00:10:24,878
+Then make yours.
+
+145
+00:10:25,671 --> 00:10:28,382
+Look, if we're going to succeed,
+you'll need to be exceptional
+
+146
+00:10:28,507 --> 00:10:30,384
+with words and action.
+
+147
+00:10:30,509 --> 00:10:32,553
+There will be time for both.
+
+148
+00:10:39,184 --> 00:10:43,147
+Destroyers are quick, pack twin blasters
+and come with their own shield generators.
+
+149
+00:10:43,230 --> 00:10:45,983
+Nothing short of a cannon will pierce it.
+
+150
+00:10:46,441 --> 00:10:48,610
+But they do have two weaknesses,
+
+151
+00:10:48,735 --> 00:10:51,238
+and you will need to work together
+to exploit them.
+
+152
+00:10:55,200 --> 00:10:57,411
+The shields deflect high-velocity attacks.
+
+153
+00:11:02,541 --> 00:11:06,253
+What the shields don't stop are slow
+or stationary objects.
+
+154
+00:11:06,420 --> 00:11:09,798
+They're designed to absorb them
+so nothing hinders their movement.
+
+155
+00:11:17,472 --> 00:11:19,892
+Destroyers are blind from behind.
+
+156
+00:11:20,100 --> 00:11:23,228
+A distraction combined with a rear assault
+will give you a kill.
+
+157
+00:11:23,729 --> 00:11:26,565
+The trick is to get the right speed
+on the droid popper.
+
+158
+00:11:29,943 --> 00:11:33,655
+These are unarmed. Just concentrate
+on getting it past the shield.
+
+159
+00:11:35,240 --> 00:11:36,742
+Watch and learn.
+
+160
+00:11:42,748 --> 00:11:44,082
+Quite brilliant.
+
+161
+00:11:55,302 --> 00:11:56,970
+Hmm. Nice touch.
+
+162
+00:11:57,471 --> 00:11:58,931
+Thanks.
+
+163
+00:12:01,141 --> 00:12:02,517
+Not bad.
+
+164
+00:12:11,818 --> 00:12:12,945
+Ugh.
+
+165
+00:12:13,904 --> 00:12:17,449
+Be mindful of your frustration,
+it will only hold you back.
+
+166
+00:12:17,991 --> 00:12:19,826
+Here, use your shoulder.
+
+167
+00:12:19,952 --> 00:12:22,829
+Let your arm swing,
+and keep your eyes on the target.
+
+168
+00:12:26,333 --> 00:12:27,960
+Great.
+
+169
+00:12:28,168 --> 00:12:29,836
+Okay, let's get back to work.
+
+170
+00:12:29,962 --> 00:12:32,631
+Everyone pair up. We'll practice in groups.
+
+171
+00:12:38,136 --> 00:12:41,431
+Hey, Commander,
+how about, uh, helping me practice?
+
+172
+00:12:58,991 --> 00:13:01,201
+Roger, roger. This is Command.
+
+173
+00:13:02,035 --> 00:13:04,830
+Copy that. I'll send a squad out now.
+
+174
+00:13:06,290 --> 00:13:09,876
+We've located the rebels.
+Proceed to sector S-29.
+
+175
+00:13:10,419 --> 00:13:11,628
+Shoot to kill.
+
+176
+00:13:33,483 --> 00:13:36,028
+I can't get the distance or the speed right.
+
+177
+00:13:36,111 --> 00:13:39,906
+Don't give up. Learning this could save
+your life and those around you.
+
+178
+00:13:41,950 --> 00:13:43,577
+A little backspin might help.
+
+179
+00:13:45,329 --> 00:13:47,873
+Just take it easy. Don't get frustrated.
+
+180
+00:13:55,964 --> 00:13:58,467
+-You got it.
+-Good teacher, Jedi.
+
+181
+00:13:59,217 --> 00:14:00,260
+Oh!
+
+182
+00:14:00,344 --> 00:14:02,804
+Just forget it. I'll never learn this.
+
+183
+00:14:06,183 --> 00:14:07,768
+Uh, keep practicing.
+
+184
+00:14:19,863 --> 00:14:22,699
+-You made it look easy.
+-Wasn't always that way.
+
+185
+00:14:23,867 --> 00:14:26,244
+Right, the Force. Is that your secret?
+
+186
+00:14:26,703 --> 00:14:28,705
+No, perseverance.
+
+187
+00:14:29,706 --> 00:14:32,876
+Look, you'll get the hang of it.
+I wouldn't let it get you down.
+
+188
+00:14:33,418 --> 00:14:34,920
+I'm not feeling down.
+
+189
+00:14:36,713 --> 00:14:38,215
+I just know what I'm good at.
+
+190
+00:14:56,316 --> 00:14:57,359
+Impressive.
+
+191
+00:14:58,235 --> 00:15:00,028
+Most impressive.
+
+192
+00:15:00,112 --> 00:15:03,532
+Fixed targets are one thing.
+How about this?
+
+193
+00:15:14,042 --> 00:15:15,252
+Nice job.
+
+194
+00:15:18,380 --> 00:15:21,550
+You've clearly mastered
+your ability to focus.
+
+195
+00:15:24,302 --> 00:15:26,763
+Snips, are you losing focus?
+
+196
+00:15:27,097 --> 00:15:29,641
+-No, Master.
+-Good.
+
+197
+00:15:29,724 --> 00:15:32,811
+A head shot is the only decisive way
+to disable a droid.
+
+198
+00:15:33,395 --> 00:15:37,357
+They don't need arms, legs, or even bodies
+to pass intel to Central Command.
+
+199
+00:15:37,858 --> 00:15:39,860
+All right. Shoot at will.
+
+200
+00:15:42,946 --> 00:15:45,115
+Wait a minute, what is that?
+
+201
+00:15:47,242 --> 00:15:48,452
+Droids!
+
+202
+00:15:52,038 --> 00:15:53,081
+Take cover!
+
+203
+00:16:05,552 --> 00:16:07,304
+It appears the training is over.
+
+204
+00:16:18,732 --> 00:16:20,775
+I'll take the left flank if you take the right.
+
+205
+00:16:21,485 --> 00:16:25,989
+No, Anakin, we can only protect them.
+We cannot fight this war for them.
+
+206
+00:16:30,744 --> 00:16:31,828
+There are too many.
+
+207
+00:16:31,912 --> 00:16:35,624
+But Anakin, Ahsoka and I can hold them off
+while you get your people out of here.
+
+208
+00:16:38,084 --> 00:16:39,920
+You didn't teach us to run.
+
+209
+00:16:40,003 --> 00:16:42,380
+Saw, use your disrupters
+to take out the droids.
+
+210
+00:16:42,506 --> 00:16:43,757
+I'm on it.
+
+211
+00:16:43,840 --> 00:16:46,176
+Ready, disrupters, on my mark.
+
+212
+00:16:47,719 --> 00:16:48,762
+Now!
+
+213
+00:16:50,514 --> 00:16:51,556
+What is that?
+
+214
+00:16:52,682 --> 00:16:55,143
+-It looks like an explosive.
+-How can you tell?
+
+215
+00:16:56,728 --> 00:16:59,564
+-Not bad.
+-That is only the first wave.
+
+216
+00:17:12,035 --> 00:17:14,663
+-We'll handle this.
+-No, I will.
+
+217
+00:17:15,497 --> 00:17:16,540
+Duck!
+
+218
+00:17:36,685 --> 00:17:39,479
+Hey, Bonteri, you ready to try again?
+
+219
+00:17:42,357 --> 00:17:44,693
+-Hey! What are you doing?
+-What you taught us!
+
+220
+00:17:52,117 --> 00:17:54,077
+Surrender, rebel.
+
+221
+00:17:54,244 --> 00:17:58,415
+You will answer for your crimes
+against the Separatist Alliance...
+
+222
+00:18:13,263 --> 00:18:15,098
+We, uh, need to clean you up.
+
+223
+00:18:15,557 --> 00:18:19,728
+I like it. Now you look more like
+a soldier than a politician.
+
+224
+00:18:19,853 --> 00:18:23,148
+Well, maybe a good politician
+needs to get dirty now and then.
+
+225
+00:18:31,239 --> 00:18:33,158
+Take confidence from this victory.
+
+226
+00:18:33,241 --> 00:18:36,411
+But rest assured,
+there will be more droids coming
+
+227
+00:18:36,620 --> 00:18:38,496
+now that they know your position.
+
+228
+00:18:38,580 --> 00:18:40,832
+It doesn't matter, you're ready now.
+
+229
+00:18:40,915 --> 00:18:43,501
+We are going to take the fight to the droids.
+
+230
+00:18:43,585 --> 00:18:46,004
+You don't have to hide in the jungle
+any longer.
+
+231
+00:18:46,087 --> 00:18:49,466
+Droids were a bit dim.
+More so than I imagined.
+
+232
+00:18:49,549 --> 00:18:53,011
+They make up for it in numbers.
+They're designed to overwhelm.
+
+233
+00:18:53,428 --> 00:18:56,264
+But they're not designed
+to deal with our approach.
+
+234
+00:18:56,514 --> 00:18:58,516
+We hit them where they least expect it.
+
+235
+00:18:58,600 --> 00:18:59,934
+And before they realize what happened...
+
+236
+00:19:00,101 --> 00:19:02,270
+We fade in with the rest of the population.
+
+237
+00:19:02,354 --> 00:19:03,855
+Exactly.
+
+238
+00:19:03,938 --> 00:19:06,775
+We need a plan to get inside the city.
+
+239
+00:19:07,067 --> 00:19:09,235
+I have an idea.
+
+240
+00:19:33,843 --> 00:19:36,179
+Identification, please.
+
+241
+00:19:42,560 --> 00:19:43,603
+Halt!
+
+242
+00:19:44,312 --> 00:19:46,815
+What were you doing
+outside of the city gates?
+
+243
+00:19:47,482 --> 00:19:49,901
+Hunting. We've been trekking for days.
+
+244
+00:19:51,152 --> 00:19:54,197
+Did you register before your excursion?
+
+245
+00:19:55,073 --> 00:19:58,952
+No, but most of our time is spent
+in the bush collecting our traps.
+
+246
+00:19:59,035 --> 00:20:00,662
+We come to the city to sell.
+
+247
+00:20:01,746 --> 00:20:04,374
+You can't get thrip larvae like this in Iziz.
+
+248
+00:20:04,457 --> 00:20:07,210
+Only the biggest trees
+on the other side of Onderon.
+
+249
+00:20:07,293 --> 00:20:10,672
+Hey, listen, we need to deliver
+all of this in time for supper.
+
+250
+00:20:11,339 --> 00:20:12,424
+Hmm.
+
+251
+00:20:12,507 --> 00:20:14,008
+Are you scanning anything?
+
+252
+00:20:14,676 --> 00:20:17,804
+It's hard to tell
+with so much organic matter.
+
+253
+00:20:18,221 --> 00:20:21,307
+Come on !
+Our merchants are waiting inside.
+
+254
+00:20:21,391 --> 00:20:22,976
+Can you hurry it up?
+
+255
+00:20:23,810 --> 00:20:26,521
+-Let them through.
+-Roger, roger.
+
+256
+00:20:36,698 --> 00:20:37,824
+Good plan.
+
+257
+00:20:37,907 --> 00:20:40,785
+Like Saw said,
+those droids are dumber than we thought.
+
+258
+00:20:50,128 --> 00:20:53,715
+Not a bad start.
+But now the hard work begins.
+
+259
+00:20:54,299 --> 00:20:56,885
+You must find recruits
+and choose your targets wisely.
+
+260
+00:20:57,343 --> 00:20:59,053
+They'll be looking for us.
+
+261
+00:20:59,262 --> 00:21:00,638
+We should split up.
+
+262
+00:21:00,722 --> 00:21:03,433
+Regroup after nightfall.
+I'll alert our brothers.
+
+263
+00:21:07,312 --> 00:21:09,939
+We'll make sure you have
+the supplies you need.
+
+264
+00:21:10,023 --> 00:21:11,900
+Rex and I will take care of that.
+
+265
+00:21:12,525 --> 00:21:13,568
+Good luck.
+
+266
+00:21:13,651 --> 00:21:15,111
+You, too.
+
+267
+00:21:28,750 --> 00:21:30,460
+How do you think they'll do?
+
+268
+00:21:31,586 --> 00:21:34,464
+I have a feeling
+we'll be pleasantly surprised.
+
+269
+00:21:34,964 --> 00:21:37,550
+So you admit our new strategy will work.
+
+270
+00:21:37,801 --> 00:21:39,844
+I am hopeful, Anakin.
+
+271
+00:21:40,428 --> 00:21:41,721
+Hopeful.
+
+272
+00:21:41,745 --> 00:21:46,745
+http://hiqve.com/
+

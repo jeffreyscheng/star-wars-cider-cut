@@ -1,0 +1,879 @@
+﻿1
+00:00:10,248 --> 00:00:10,365
+h
+
+2
+00:00:10,366 --> 00:00:10,482
+ht
+
+3
+00:00:10,483 --> 00:00:10,600
+htt
+
+4
+00:00:10,601 --> 00:00:10,718
+http
+
+5
+00:00:10,719 --> 00:00:10,835
+http:
+
+6
+00:00:10,836 --> 00:00:10,953
+http:/
+
+7
+00:00:10,954 --> 00:00:11,071
+http://
+
+8
+00:00:11,072 --> 00:00:11,188
+http://h
+
+9
+00:00:11,189 --> 00:00:11,306
+http://hi
+
+10
+00:00:11,307 --> 00:00:11,423
+http://hiq
+
+11
+00:00:11,424 --> 00:00:11,541
+http://hiqv
+
+12
+00:00:11,542 --> 00:00:11,659
+http://hiqve
+
+13
+00:00:11,660 --> 00:00:11,776
+http://hiqve.
+
+14
+00:00:11,777 --> 00:00:11,894
+http://hiqve.c
+
+15
+00:00:11,895 --> 00:00:12,012
+http://hiqve.co
+
+16
+00:00:12,013 --> 00:00:12,129
+http://hiqve.com
+
+17
+00:00:12,130 --> 00:00:12,247
+http://hiqve.com/
+
+18
+00:00:12,248 --> 00:00:15,248
+http://hiqve.com/
+
+19
+00:00:17,272 --> 00:00:18,356
+<i>Lost!</i>
+
+20
+00:00:18,440 --> 00:00:21,985
+<i>Queen Julia of the planet Bardotta
+has been abducted.</i>
+
+21
+00:00:22,068 --> 00:00:26,364
+<i>If Representative Jar Jar Binks
+and Jedi Master Mace Windu</i>
+
+22
+00:00:26,448 --> 00:00:28,241
+<i>cannot find the missing Queen
+in three rotations,</i>
+
+23
+00:00:28,325 --> 00:00:31,286
+<i>a sinister prophecy will be fulfilled.</i>
+
+24
+00:00:32,120 --> 00:00:34,206
+<i>The bloodthirsty Frangawl cult</i>
+
+25
+00:00:34,289 --> 00:00:36,249
+<i>will take over
+the Bar dot tan government</i>
+
+26
+00:00:36,333 --> 00:00:39,836
+<i>and it's planetary system
+will be overwhelmed by chaos,</i>
+
+27
+00:00:39,961 --> 00:00:42,047
+<i>death and destruction.</i>
+
+28
+00:01:01,650 --> 00:01:03,735
+So, tell me exactly what you saw
+
+29
+00:01:03,818 --> 00:01:06,321
+when you were being held prisoner
+by the cultists?
+
+30
+00:01:06,404 --> 00:01:07,948
+It's like mesa said.
+
+31
+00:01:08,031 --> 00:01:12,035
+The cultists took one of the Dagoyan
+Masters and sacrificed him.
+
+32
+00:01:12,118 --> 00:01:13,912
+Hesa got all crispy-fried,
+
+33
+00:01:13,995 --> 00:01:16,081
+and then the yea stole
+the Force right out of him
+
+34
+00:01:16,164 --> 00:01:18,792
+and put it in a shiny ball.
+
+35
+00:01:18,875 --> 00:01:20,919
+So the cultists are stealing living Force
+
+36
+00:01:21,002 --> 00:01:23,713
+and trapping it
+in a containment sphere?
+
+37
+00:01:23,797 --> 00:01:27,050
+Yes. The yea try to steal
+my living Force, too,
+
+38
+00:01:27,133 --> 00:01:28,885
+but yo us a saved me!
+
+39
+00:01:30,178 --> 00:01:34,432
+And now they plan to do the same thing
+with the Queen, but to what end?
+
+40
+00:01:34,516 --> 00:01:38,520
+The cultists couldn't exploit
+the living Force like a Jedi or a Sith.
+
+41
+00:01:38,603 --> 00:01:42,274
+I sense something else,
+a darker presence.
+
+42
+00:01:42,440 --> 00:01:47,529
+Maxi big the Force, Master in Mace,
+but howsa we gonna find the Queenie?
+
+43
+00:01:47,612 --> 00:01:49,239
+She's still a prisoner.
+
+44
+00:01:49,322 --> 00:01:51,199
+If the containment sphere
+
+45
+00:01:51,283 --> 00:01:53,702
+has gathered enough
+of the living Force, as you suggest,
+
+46
+00:01:53,785 --> 00:01:56,371
+I will be able to sense its location.
+
+47
+00:01:56,454 --> 00:01:59,416
+If we find the sphere,
+we will find the Queen.
+
+48
+00:01:59,499 --> 00:02:03,420
+Okeday! Wesa make
+a bombad team, Master in Mace.
+
+49
+00:02:03,962 --> 00:02:05,213
+Indeed.
+
+50
+00:02:28,069 --> 00:02:32,615
+Where am I? Who are you?
+
+51
+00:02:33,408 --> 00:02:36,953
+Jar Jar? Jar Jar, where are you?
+
+52
+00:02:37,037 --> 00:02:38,913
+Unhand me!
+
+53
+00:02:40,248 --> 00:02:41,708
+Sleep.
+
+54
+00:02:41,791 --> 00:02:44,002
+No! No.
+
+55
+00:02:45,337 --> 00:02:49,632
+Brother, another vision
+of the Great Mother came to me.
+
+56
+00:02:49,758 --> 00:02:52,093
+She said the Jedi knows of the sphere,
+
+57
+00:02:52,177 --> 00:02:54,929
+and that he is following us here
+with the Gungan.
+
+58
+00:02:55,055 --> 00:02:57,849
+The Great Mother warned us
+our plan would be discovered
+
+59
+00:02:57,932 --> 00:02:59,517
+if a Jedi ever came to Bardotta.
+
+60
+00:02:59,601 --> 00:03:03,355
+We did not know the Gungan
+had such powerful friends.
+
+61
+00:03:04,439 --> 00:03:05,565
+We must hurry.
+
+62
+00:03:05,648 --> 00:03:07,692
+Once we sacrifice
+the Queen and transfer
+
+63
+00:03:07,776 --> 00:03:09,861
+the living Force
+to the Great Mother,
+
+64
+00:03:09,944 --> 00:03:12,447
+she will deal with the Jedi.
+
+65
+00:03:35,303 --> 00:03:36,846
+Letsa get going.
+
+66
+00:03:36,930 --> 00:03:40,225
+Calm yourself, Representative.
+Stay still.
+
+67
+00:03:40,308 --> 00:03:44,020
+But wesa must hurry.
+That city, itsa mooie big.
+
+68
+00:03:44,104 --> 00:03:46,940
+Wesa have to move fast
+to catch the cultists.
+
+69
+00:03:47,023 --> 00:03:50,318
+We cannot rush into this.
+We must remain calm,
+
+70
+00:03:50,402 --> 00:03:52,320
+and let the Force guide us.
+
+71
+00:03:52,445 --> 00:03:57,450
+But maybe using da Force
+taking too longo, and they getting away.
+
+72
+00:03:57,700 --> 00:04:01,246
+No, running blindly through
+the city will only waste time
+
+73
+00:04:01,329 --> 00:04:04,124
+and allow them to escape, now be still.
+
+74
+00:04:04,791 --> 00:04:06,835
+Okeday, Master in Mace.
+
+75
+00:04:08,420 --> 00:04:13,800
+I see people, market, streets...
+
+76
+00:04:13,883 --> 00:04:16,344
+Yep, mesa see dat from here, too.
+
+77
+00:04:16,928 --> 00:04:19,556
+I see, crowds...
+
+78
+00:04:20,181 --> 00:04:23,685
+Wait, a square, a market square,
+
+79
+00:04:24,185 --> 00:04:28,106
+and the sphere...
+I see it... And the Queen.
+
+80
+00:04:28,189 --> 00:04:29,482
+Let's go!
+
+81
+00:04:29,858 --> 00:04:33,236
+Wait, wait! Mesa thought
+wesa not rushing in!
+
+82
+00:04:33,403 --> 00:04:35,697
+That was before
+we knew where we were going.
+
+83
+00:04:35,780 --> 00:04:38,408
+Now the chase is on!
+
+84
+00:04:50,211 --> 00:04:52,714
+Mesa getting a creeping feeling here.
+
+85
+00:04:52,839 --> 00:04:57,844
+Do not center on your anxieties, Jar Jar.
+Keep moving. This way.
+
+86
+00:05:04,976 --> 00:05:08,396
+This is it. The market square
+I saw through the Force.
+
+87
+00:05:09,898 --> 00:05:12,734
+Stay alert. The Queen may be close by.
+
+88
+00:05:12,817 --> 00:05:15,069
+I'm going topside for a better view.
+
+89
+00:05:17,405 --> 00:05:18,907
+Okeday.
+
+90
+00:05:20,241 --> 00:05:21,701
+Hello?
+
+91
+00:05:21,784 --> 00:05:26,331
+Nope. No, thank you.
+Mesa already got one of those.
+
+92
+00:05:26,539 --> 00:05:27,999
+Jar Jar, help!
+
+93
+00:05:28,917 --> 00:05:30,251
+Julia?
+
+94
+00:05:31,294 --> 00:05:32,712
+Jar Jar!
+
+95
+00:05:32,795 --> 00:05:35,381
+Julia! Master in Mace, come quick!
+
+96
+00:05:36,299 --> 00:05:38,134
+Jar Jar, wait!
+
+97
+00:06:06,663 --> 00:06:08,289
+Jar Jar... What in the...
+
+98
+00:06:22,971 --> 00:06:25,473
+Mesa bet they're bringing
+the Queenie this way.
+
+99
+00:06:40,196 --> 00:06:42,365
+-Queenie!
+-Jar Jar!
+
+100
+00:06:42,490 --> 00:06:43,658
+Julia!
+
+101
+00:06:52,250 --> 00:06:54,711
+I've got this. Keep after the Queen.
+
+102
+00:07:07,390 --> 00:07:09,100
+Julia!
+
+103
+00:07:20,069 --> 00:07:21,279
+Binks.
+
+104
+00:07:35,918 --> 00:07:38,171
+Mesa need to be brave.
+
+105
+00:07:48,014 --> 00:07:49,307
+Representative Binks!
+
+106
+00:07:49,390 --> 00:07:53,102
+Master in Mace,
+the yea went this way! Hurry!
+
+107
+00:08:00,401 --> 00:08:01,736
+Stop them!
+
+108
+00:08:16,584 --> 00:08:17,627
+Oh, boy.
+
+109
+00:09:13,683 --> 00:09:15,393
+Master in Mace!
+
+110
+00:09:36,539 --> 00:09:38,416
+Queenie, mesa coming!
+
+111
+00:09:38,499 --> 00:09:40,752
+Why are you stealing the living Force?
+
+112
+00:09:41,461 --> 00:09:44,589
+The Shadow will come,
+the Great Mother.
+
+113
+00:09:44,672 --> 00:09:48,092
+She will deal with you Jedi, you will see.
+
+114
+00:09:50,511 --> 00:09:52,180
+Have a nice nap!
+
+115
+00:09:58,936 --> 00:10:02,523
+The yea gone!
+They speeded away bombad fast.
+
+116
+00:10:02,648 --> 00:10:04,275
+Wesa need some kind of ride.
+
+117
+00:10:07,195 --> 00:10:10,907
+You're lucky I have no time to argue.
+
+118
+00:10:15,661 --> 00:10:17,663
+Let's get moving!
+
+119
+00:10:31,719 --> 00:10:34,138
+The appointed time draws near.
+
+120
+00:10:34,222 --> 00:10:37,433
+The sun and the moons
+are almost aligned.
+
+121
+00:10:37,517 --> 00:10:40,102
+The Jedi is unyielding.
+
+122
+00:10:40,186 --> 00:10:42,980
+He will arrive too late
+to save the Queen.
+
+123
+00:10:43,064 --> 00:10:44,774
+I have seen it in my visions.
+
+124
+00:10:44,857 --> 00:10:47,610
+Once the Great Mother
+is in possession of the sphere,
+
+125
+00:10:47,693 --> 00:10:50,571
+she will combine her powers
+with the living Force,
+
+126
+00:10:50,655 --> 00:10:53,074
+and a new order will arise.
+
+127
+00:11:13,553 --> 00:11:15,012
+Jar Jar!
+
+128
+00:11:15,096 --> 00:11:16,347
+Jar Jar, please.
+
+129
+00:11:16,430 --> 00:11:19,225
+Mesa sorry, Master in Mace.
+
+130
+00:11:19,308 --> 00:11:21,018
+I'm just worried about the Queenie.
+
+131
+00:11:21,102 --> 00:11:24,730
+I understand your fears
+and I am trying to help you,
+
+132
+00:11:24,814 --> 00:11:28,276
+but for now, keep your mind
+focused on the task at hand.
+
+133
+00:11:28,359 --> 00:11:30,820
+That is the best way
+you can help your friend.
+
+134
+00:11:30,903 --> 00:11:33,823
+Whysa you thinking
+they want Queenie so badly?
+
+135
+00:11:33,906 --> 00:11:36,200
+As the spiritual leader of her people,
+
+136
+00:11:36,284 --> 00:11:39,495
+the living Force inside the Queen
+must be very powerful.
+
+137
+00:11:39,620 --> 00:11:43,165
+Whoever the Great Mother is,
+she wants that power.
+
+138
+00:11:43,249 --> 00:11:46,210
+Well, wesa not let them have
+Queenie's Force.
+
+139
+00:11:46,294 --> 00:11:48,004
+No, we will not.
+
+140
+00:11:48,087 --> 00:11:52,300
+When we get to the temple, I'll handle
+the guards and whatever evil we find.
+
+141
+00:11:52,383 --> 00:11:54,468
+You focus on the Queen.
+
+142
+00:11:54,552 --> 00:11:58,514
+And wesa good guys will triumph.
+Right, Master in Mace?
+
+143
+00:12:01,642 --> 00:12:02,727
+Yes.
+
+144
+00:12:21,245 --> 00:12:25,499
+Great Mother, my visions
+have come to fruition.
+
+145
+00:12:25,583 --> 00:12:28,586
+At last, you are here.
+
+146
+00:12:28,669 --> 00:12:31,088
+You may rise.
+
+147
+00:12:31,505 --> 00:12:35,009
+Do you have the living sphere?
+
+148
+00:12:40,056 --> 00:12:47,021
+I can feel the power of the pure spirit
+resonating in this orb!
+
+149
+00:12:50,024 --> 00:12:52,193
+The Jedi comes.
+
+150
+00:12:52,276 --> 00:12:54,695
+This temple is well protected.
+
+151
+00:12:54,779 --> 00:12:58,491
+When they arrive, the stone guardians
+will deal with them.
+
+152
+00:12:58,658 --> 00:13:03,621
+We must begin the ritual at once.
+Come.
+
+153
+00:13:07,291 --> 00:13:08,501
+Who are you?
+
+154
+00:13:08,918 --> 00:13:15,800
+The hour is far too late to trouble
+yourself with such matters, my dear.
+
+155
+00:13:16,384 --> 00:13:23,224
+It may help you to know, however,
+that I am not a natural Force wielder,
+
+156
+00:13:23,391 --> 00:13:26,310
+like the Jedi or Sith.
+
+157
+00:13:26,394 --> 00:13:31,190
+I use dark magic to achieve power.
+
+158
+00:13:31,273 --> 00:13:33,818
+But as a Bar dot tan,
+
+159
+00:13:33,901 --> 00:13:39,949
+you possess a strong connection
+to the living Force.
+
+160
+00:13:40,032 --> 00:13:44,120
+A connection that will now be mine.
+
+161
+00:13:44,245 --> 00:13:47,790
+Never! I will not succumb to your evil!
+
+162
+00:13:48,416 --> 00:13:50,668
+How noble.
+
+163
+00:13:52,461 --> 00:13:59,301
+Upon that tower rests a device
+that can harness the energy of the sun.
+
+164
+00:14:00,094 --> 00:14:02,847
+When the lenses are aligned,
+
+165
+00:14:02,930 --> 00:14:07,143
+the energy will rip your spirit from you
+
+166
+00:14:07,226 --> 00:14:10,271
+and I will gather it here.
+
+167
+00:14:10,396 --> 00:14:16,944
+With the combined power of your spirit
+and my dark magic,
+
+168
+00:14:17,153 --> 00:14:20,197
+I will become more powerful
+
+169
+00:14:20,281 --> 00:14:25,077
+than any Sith or Jedi.
+
+170
+00:14:34,837 --> 00:14:39,175
+I see the Queen. The ritual has started.
+Let's go.
+
+171
+00:14:47,641 --> 00:14:50,811
+Oh, boy. Master in Mace!
+Master in Mace!
+
+172
+00:14:53,606 --> 00:14:55,775
+Oh, nosa! Demons!
+
+173
+00:14:57,318 --> 00:14:58,611
+Get behind me!
+
+174
+00:15:08,996 --> 00:15:11,707
+Mesa needing some help back here!
+
+175
+00:15:35,689 --> 00:15:39,026
+Jar Jar, are you... Okay?
+
+176
+00:15:39,110 --> 00:15:42,071
+Look, mesa found a bang boom a gun.
+
+177
+00:15:42,154 --> 00:15:43,739
+Nice work.
+
+178
+00:15:52,248 --> 00:15:55,126
+The Jedi have defeated
+the stone guardians!
+
+179
+00:15:56,043 --> 00:15:58,754
+You mean the Jedi and the Gungan!
+
+180
+00:15:58,879 --> 00:16:00,005
+Jar Jar!
+
+181
+00:16:00,089 --> 00:16:01,966
+Mesa here, Queenie!
+
+182
+00:16:02,049 --> 00:16:03,968
+Master Windu.
+
+183
+00:16:04,176 --> 00:16:06,971
+I assume you are the Great Mother?
+
+184
+00:16:07,054 --> 00:16:10,808
+No, I am a simple witch,
+
+185
+00:16:10,891 --> 00:16:16,605
+not worth the trouble or attention
+of the great Jedi Order.
+
+186
+00:16:16,814 --> 00:16:18,065
+A Night sister!
+
+187
+00:16:22,069 --> 00:16:23,612
+Get the Queen!
+
+188
+00:16:25,573 --> 00:16:26,740
+Oh, boy!
+
+189
+00:16:36,959 --> 00:16:41,547
+Your power is no match for my magics!
+
+190
+00:16:41,630 --> 00:16:45,050
+Magic is only an illusion!
+
+191
+00:17:08,824 --> 00:17:10,034
+Hurry, Jar Jar!
+
+192
+00:18:30,364 --> 00:18:33,659
+Jar Jar, I knew you would save me.
+
+193
+00:18:33,742 --> 00:18:36,996
+Mesa never let anything
+happen to you, Queenie.
+
+194
+00:18:37,079 --> 00:18:39,915
+Jar Jar, Your Highness, over here.
+
+195
+00:18:47,256 --> 00:18:50,134
+I saw the witch when
+I looked into the Force.
+
+196
+00:18:50,217 --> 00:18:55,306
+Jar Jar, I wanted to tell you.
+I knew you would stop her.
+
+197
+00:18:55,389 --> 00:18:58,017
+You should be thanking Master in Mace.
+
+198
+00:18:58,934 --> 00:19:02,354
+Jedi Master, I owe you my life.
+
+199
+00:19:02,730 --> 00:19:06,567
+It is my privilege to serve you,
+Queen Julia.
+
+200
+00:19:06,692 --> 00:19:10,779
+Perhaps this is a new beginning
+for the Bardottans and the Jedi.
+
+201
+00:19:10,863 --> 00:19:12,072
+Perhaps.
+
+202
+00:19:12,096 --> 00:19:17,096
+http://hiqve.com/
+

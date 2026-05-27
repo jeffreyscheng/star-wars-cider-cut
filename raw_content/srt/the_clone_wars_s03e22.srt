@@ -1,0 +1,676 @@
+﻿1
+00:00:17,851 --> 00:00:19,387
+<i>ANNOUNCER‘. Jedi abducted!</i>
+
+2
+00:00:19,520 --> 00:00:21,727
+<i>Ahsoka Tano is missing in action.</i>
+
+3
+00:00:21,813 --> 00:00:23,895
+<i>Captured and released into a hostile jungle,</i>
+
+4
+00:00:24,024 --> 00:00:28,018
+<i>she fights to stay alive with the help
+of a small band of Jedi younglings.</i>
+
+5
+00:00:28,362 --> 00:00:33,198
+<i>As Anakin Skywalker scours the galaxy,
+desperate to find his lost apprentice,</i>
+
+6
+00:00:33,325 --> 00:00:36,738
+<i>Trandoshan sport hunters
+track their youngling prey.</i>
+
+7
+00:00:36,870 --> 00:00:40,864
+<i>With the death of their leader Kalifa,
+and separated from her friends,</i>
+
+8
+00:00:40,916 --> 00:00:45,251
+<i>we ﬁnd Ahsoka on the run,
+as the hunters close in around her.</i>
+
+9
+00:01:42,394 --> 00:01:43,884
+Where is she?
+
+10
+00:01:44,688 --> 00:01:48,977
+This one was faster than most,
+I've lost the scent!
+
+11
+00:01:50,444 --> 00:01:52,811
+She can't hide forever.
+
+12
+00:01:52,904 --> 00:01:54,895
+Mark my words,
+
+13
+00:01:54,990 --> 00:01:57,027
+I'll have her hide
+
+14
+00:01:57,117 --> 00:02:01,327
+and nail it to the wall for killing my son.
+
+15
+00:02:40,911 --> 00:02:42,401
+You made it!
+
+16
+00:02:42,496 --> 00:02:44,328
+We feared the worst.
+
+17
+00:02:46,541 --> 00:02:48,327
+Where's Kalifa?
+
+18
+00:02:48,418 --> 00:02:49,749
+She didn't make it.
+
+19
+00:02:50,796 --> 00:02:52,662
+She's dead?
+
+20
+00:02:54,257 --> 00:02:56,089
+I can't believe it.
+
+21
+00:02:56,176 --> 00:02:59,009
+She had been here longer than any of us,
+and now...
+
+22
+00:02:59,096 --> 00:03:02,589
+We're all going to die here,
+it's only a matter of time.
+
+23
+00:03:03,558 --> 00:03:08,223
+If it's only a matter of time till we die,
+I say we go down with a fight.
+
+24
+00:03:09,690 --> 00:03:11,351
+That is suicide.
+
+25
+00:03:11,942 --> 00:03:16,106
+You've said that every few days
+they release new prisoners on the beach.
+
+26
+00:03:16,530 --> 00:03:20,990
+I say we attack that dropship head on.
+They'll never expect it.
+
+27
+00:03:24,204 --> 00:03:25,694
+ls it worth a shot?
+
+28
+00:03:26,915 --> 00:03:28,781
+Maybe it is.
+
+29
+00:03:41,221 --> 00:03:43,462
+Get ready, we'll have to be swift.
+
+30
+00:03:43,557 --> 00:03:45,889
+The drop point's not far.
+
+31
+00:03:56,111 --> 00:03:57,226
+Now!
+
+32
+00:04:04,161 --> 00:04:07,495
+What the...
+It's one of those blasted Jedi whelps!
+
+33
+00:04:08,415 --> 00:04:09,405
+Get her!
+
+34
+00:04:21,762 --> 00:04:23,127
+I'll take the pilot!
+
+35
+00:05:44,177 --> 00:05:45,417
+Get out of there, come on!
+
+36
+00:05:45,804 --> 00:05:47,511
+But the prisoners! They'll die!
+
+37
+00:05:47,639 --> 00:05:48,754
+Hit the release, hurry!
+
+38
+00:06:09,953 --> 00:06:13,196
+Well, I guess we won't be escaping
+on that ship.
+
+39
+00:06:13,290 --> 00:06:15,281
+We'll find another way.
+
+40
+00:06:21,673 --> 00:06:24,290
+-What was that?
+-A survivor.
+
+41
+00:06:27,637 --> 00:06:30,629
+It could be one of the prisoners
+they were dropping off.
+
+42
+00:06:41,693 --> 00:06:43,229
+What is that?
+
+43
+00:06:47,240 --> 00:06:48,856
+It's a Wookiee!
+
+44
+00:06:56,791 --> 00:06:58,077
+Ahh!
+
+45
+00:06:58,126 --> 00:07:02,916
+It's the younglings that did this.
+They're getting bold.
+
+46
+00:07:02,964 --> 00:07:05,080
+What about survivors?
+
+47
+00:07:05,592 --> 00:07:07,583
+Both of our men were killed,
+
+48
+00:07:07,636 --> 00:07:11,254
+and there was only one prisoner,
+a Wookiee.
+
+49
+00:07:11,806 --> 00:07:14,594
+And he's missing.
+
+50
+00:07:15,435 --> 00:07:20,930
+So now the younglings are organized, bold,
+
+51
+00:07:20,982 --> 00:07:23,974
+and they've got a Wookiee.
+
+52
+00:07:28,657 --> 00:07:30,864
+Your name is Chewbacca?
+
+53
+00:07:32,827 --> 00:07:36,286
+Chewbacca, does anyone even know
+you were taken?
+
+54
+00:07:39,834 --> 00:07:43,293
+No, but he says his home world
+is very close.
+
+55
+00:07:43,380 --> 00:07:44,495
+That's great,
+
+56
+00:07:44,631 --> 00:07:46,963
+but it might as well be Coruscant,
+as far as I'm concerned.
+
+57
+00:07:47,050 --> 00:07:48,791
+We've got no ship.
+
+58
+00:07:54,641 --> 00:07:58,976
+He thinks he can contact his home planet
+if we find a way to transmit a signal.
+
+59
+00:07:59,062 --> 00:08:01,679
+Right, and how would we do that?
+
+60
+00:08:01,773 --> 00:08:03,138
+Send smoke signals?
+
+61
+00:08:03,233 --> 00:08:06,521
+We don't exactly have a transmitter
+lying around, if you haven't noticed.
+
+62
+00:08:11,032 --> 00:08:15,196
+Chewbacca says he can build a transmitter
+from the wreckage on the beach.
+
+63
+00:08:18,123 --> 00:08:19,909
+Well, we can't just sit here.
+
+64
+00:08:20,625 --> 00:08:23,583
+Fine, we'll do it the Wookiee way.
+
+65
+00:08:29,259 --> 00:08:31,751
+Chewbacca and I will go out
+to inspect the crash site.
+
+66
+00:08:31,845 --> 00:08:34,678
+You two stay here,
+and signal us if you see anything.
+
+67
+00:08:55,493 --> 00:08:57,279
+Get back! It's a patrol.
+
+68
+00:09:06,546 --> 00:09:08,082
+Happy hunting.
+
+69
+00:09:20,727 --> 00:09:23,515
+Hopefully that patrol
+won't be back for a while.
+
+70
+00:09:24,230 --> 00:09:26,267
+What are we looking for?
+
+71
+00:09:30,111 --> 00:09:33,524
+Are you still feeling optimistic about
+making a transmitter out of this junk?
+
+72
+00:09:39,370 --> 00:09:42,783
+Now, what do we have here?
+
+73
+00:10:00,809 --> 00:10:04,052
+We better get going.
+That patrol might come back.
+
+74
+00:10:12,612 --> 00:10:16,105
+Come on, pretties. One more step.
+
+75
+00:10:17,617 --> 00:10:19,779
+It looks clear, come on.
+
+76
+00:10:25,583 --> 00:10:26,948
+It's okay.
+
+77
+00:10:29,129 --> 00:10:31,871
+Time to join the Force, Jedi!
+
+78
+00:10:35,051 --> 00:10:36,712
+Sniper! Get down!
+
+79
+00:11:01,661 --> 00:11:04,323
+I'll gut you, whelp!
+
+80
+00:11:16,342 --> 00:11:18,208
+Wait! We should take him prisoner!
+
+81
+00:11:18,344 --> 00:11:20,506
+Fine. Chewbacca, let's take him.
+
+82
+00:11:42,869 --> 00:11:44,030
+How's it looking, Chewbacca?
+
+83
+00:11:47,123 --> 00:11:48,613
+Will it work?
+
+84
+00:11:52,212 --> 00:11:53,623
+Well, something's working.
+
+85
+00:11:57,050 --> 00:11:58,461
+We've got a prisoner.
+
+86
+00:11:58,551 --> 00:12:01,794
+We should be using him to our advantage
+while we have a chance.
+
+87
+00:12:02,055 --> 00:12:04,717
+I thought the prisoner
+was the backup plan?
+
+88
+00:12:04,807 --> 00:12:07,515
+It's clear enough
+that we cannot rely on that device.
+
+89
+00:12:08,728 --> 00:12:12,266
+No offense,
+but we just can't sit here any longer.
+
+90
+00:12:12,357 --> 00:12:13,722
+We should wait.
+
+91
+00:12:13,858 --> 00:12:19,069
+I agree with Jinx, we have to act
+while we have an advantage.
+
+92
+00:12:19,155 --> 00:12:22,238
+Let's say we do it your way,
+what's the plan?
+
+93
+00:12:22,325 --> 00:12:26,114
+We can use the prisoner to trick the enemy
+into flying one of their pods down to us,
+
+94
+00:12:26,204 --> 00:12:27,615
+then we hijack the pod,
+
+95
+00:12:27,705 --> 00:12:29,912
+fly up to their base
+and take them by surprise.
+
+96
+00:12:29,999 --> 00:12:34,334
+Ahsoka, you got us
+to believe in ourselves again,
+
+97
+00:12:34,420 --> 00:12:37,833
+and, well, I believe Jinx's plan will work.
+
+98
+00:12:37,966 --> 00:12:39,252
+Look, do what you want,
+
+99
+00:12:39,342 --> 00:12:43,301
+but O-Mer and I are leaving
+with the prisoner in the morning.
+
+100
+00:12:46,015 --> 00:12:48,632
+Their hearts are in the right place.
+
+101
+00:12:48,726 --> 00:12:50,637
+You know I can't let them go alone.
+
+102
+00:12:52,397 --> 00:12:55,731
+We're not going to be able
+to do this without you.
+
+103
+00:12:55,817 --> 00:12:57,558
+We need your help.
+
+104
+00:12:58,987 --> 00:13:02,480
+Who knows?
+Maybe our luck's just about to change.
+
+105
+00:13:13,334 --> 00:13:14,950
+All right, we better get started.
+
+106
+00:13:15,044 --> 00:13:18,002
+Right, time to call your friends.
+
+107
+00:13:18,715 --> 00:13:21,298
+I'm not helping you, whelp!
+
+108
+00:13:22,218 --> 00:13:24,835
+Chewbacca,
+we need him at eye level, please.
+
+109
+00:13:26,848 --> 00:13:28,805
+You will listen to me.
+
+110
+00:13:29,392 --> 00:13:31,679
+No, I won't.
+
+111
+00:13:35,857 --> 00:13:38,189
+You will listen to me.
+
+112
+00:13:40,111 --> 00:13:42,193
+I will listen to you.
+
+113
+00:13:42,864 --> 00:13:46,949
+You were our captive,
+but now you've escaped.
+
+114
+00:13:48,077 --> 00:13:51,945
+I was your captive but now I've escaped.
+
+115
+00:13:52,874 --> 00:13:56,412
+You need to call a speeder to pick you up.
+
+116
+00:13:56,753 --> 00:14:01,042
+I need to call a speeder to pick me up.
+
+117
+00:14:04,385 --> 00:14:07,127
+<i>Smug? Where have you been?</i>
+
+118
+00:14:07,221 --> 00:14:11,510
+I need a speeder to pick me up.
+
+119
+00:14:29,202 --> 00:14:30,738
+Get in. Let's go.
+
+120
+00:14:30,870 --> 00:14:31,985
+Now.
+
+121
+00:14:54,769 --> 00:14:56,225
+Want a lift?
+
+122
+00:15:11,536 --> 00:15:15,029
+Krix and Smug should be back by now.
+
+123
+00:15:35,268 --> 00:15:39,808
+Kill them! Kill them! I want their skins!
+
+124
+00:15:49,532 --> 00:15:51,443
+Hey, let's give him a lift.
+
+125
+00:16:56,641 --> 00:16:59,884
+A valiant effort, little younglings,
+
+126
+00:17:00,311 --> 00:17:03,349
+especially you, Togruta.
+
+127
+00:17:04,774 --> 00:17:09,314
+You will be a prized trophy
+in my collection.
+
+128
+00:17:16,244 --> 00:17:18,656
+Make it quick, General.
+We're charging by the minute.
+
+129
+00:17:18,746 --> 00:17:21,613
+And if my ship gets damaged,
+it'll cost you extra.
+
+130
+00:18:01,289 --> 00:18:02,905
+Can you get me up there?
+
+131
+00:19:16,113 --> 00:19:17,194
+Lo-Taren!
+
+132
+00:19:21,619 --> 00:19:22,780
+What?
+
+133
+00:19:54,860 --> 00:19:56,521
+You're beaten.
+
+134
+00:19:56,862 --> 00:19:59,854
+You murdered my son,
+
+135
+00:19:59,990 --> 00:20:03,153
+and you need to pay for what you did.
+
+136
+00:20:03,244 --> 00:20:06,862
+Your son died because of your own actions,
+
+137
+00:20:06,997 --> 00:20:08,704
+not mine.
+
+138
+00:20:10,543 --> 00:20:11,749
+Don't!
+
+139
+00:20:39,280 --> 00:20:40,315
+Ahsoka!
+
+140
+00:20:45,953 --> 00:20:49,036
+It is good to see you safe, little Soka.
+
+141
+00:20:50,332 --> 00:20:52,448
+Ahsoka, I am so sorry.
+
+142
+00:20:52,626 --> 00:20:53,832
+For what?
+
+143
+00:20:53,919 --> 00:20:56,251
+For letting you go, for letting you get taken.
+
+144
+00:20:56,338 --> 00:20:57,544
+It was my fault.
+
+145
+00:20:57,631 --> 00:21:00,544
+No, Master, it wasn't your fault.
+
+146
+00:21:00,634 --> 00:21:03,968
+I should've paid more attention,
+I should've tried harder.
+
+147
+00:21:04,305 --> 00:21:09,015
+You already did everything you could,
+everything you had to do.
+
+148
+00:21:09,977 --> 00:21:12,139
+When I was out there, alone,
+
+149
+00:21:12,229 --> 00:21:16,439
+all I had was your training
+and the lessons you taught me.
+
+150
+00:21:16,609 --> 00:21:20,568
+And because of you, I did survive.
+
+151
+00:21:20,946 --> 00:21:22,687
+And not only that,
+
+152
+00:21:22,865 --> 00:21:26,153
+I was able to lead others to survive as well.
+
+153
+00:21:26,994 --> 00:21:28,860
+I don't know what to say.
+
+154
+00:21:29,455 --> 00:21:31,037
+I do.
+
+155
+00:21:32,082 --> 00:21:34,073
+Thank you, Master.
+
+156
+00:21:36,128 --> 00:21:38,916
+You're welcome, my Padawan.
+
+157
+00:22:32,518 --> 00:22:33,508
+English - SDH
+

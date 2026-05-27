@@ -1,0 +1,980 @@
+﻿1
+00:00:10,150 --> 00:00:10,267
+h
+
+2
+00:00:10,268 --> 00:00:10,384
+ht
+
+3
+00:00:10,385 --> 00:00:10,502
+htt
+
+4
+00:00:10,503 --> 00:00:10,620
+http
+
+5
+00:00:10,621 --> 00:00:10,737
+http:
+
+6
+00:00:10,738 --> 00:00:10,855
+http:/
+
+7
+00:00:10,856 --> 00:00:10,973
+http://
+
+8
+00:00:10,974 --> 00:00:11,090
+http://h
+
+9
+00:00:11,091 --> 00:00:11,208
+http://hi
+
+10
+00:00:11,209 --> 00:00:11,325
+http://hiq
+
+11
+00:00:11,326 --> 00:00:11,443
+http://hiqv
+
+12
+00:00:11,444 --> 00:00:11,561
+http://hiqve
+
+13
+00:00:11,562 --> 00:00:11,678
+http://hiqve.
+
+14
+00:00:11,679 --> 00:00:11,796
+http://hiqve.c
+
+15
+00:00:11,797 --> 00:00:11,914
+http://hiqve.co
+
+16
+00:00:11,915 --> 00:00:12,031
+http://hiqve.com
+
+17
+00:00:12,032 --> 00:00:12,149
+http://hiqve.com/
+
+18
+00:00:12,150 --> 00:00:15,150
+http://hiqve.com/
+
+19
+00:00:18,439 --> 00:00:21,025
+<i>A government toppled by civil war.</i>
+
+20
+00:00:21,359 --> 00:00:24,779
+<i>Refusing to accept Prince Lee-Char
+as the next ruler of Mon Cala,</i>
+
+21
+00:00:24,987 --> 00:00:27,573
+<i>the Quarren people
+join the Separatist alliance,</i>
+
+22
+00:00:27,782 --> 00:00:30,535
+<i>and launch an all-out attack
+on the Mon Calamari.</i>
+
+23
+00:00:31,077 --> 00:00:32,286
+<i>Caught unprepared,</i>
+
+24
+00:00:32,370 --> 00:00:36,082
+<i>the young prince and his Jedi protectors
+are quickly overwhelmed</i>
+
+25
+00:00:36,123 --> 00:00:39,752
+<i>and forced to retreat into caves
+far below the capital city,</i>
+
+26
+00:00:40,002 --> 00:00:44,090
+<i>leaving Count Dooku and his allies
+to plan their next move.</i>
+
+27
+00:00:44,882 --> 00:00:48,177
+<i>And the young prince,
+has he been captured?</i>
+
+28
+00:00:48,261 --> 00:00:49,428
+No, My Lord.
+
+29
+00:00:49,470 --> 00:00:51,597
+Unfortunately he escaped capture,
+
+30
+00:00:51,639 --> 00:00:55,142
+and is hiding with what's left of the Jedi
+and their army.
+
+31
+00:00:55,476 --> 00:00:58,729
+<i>Do not underestimate this boy, Tamson.</i>
+
+32
+00:00:58,813 --> 00:01:00,815
+<i>He must not become a symbol</i>
+
+33
+00:01:00,856 --> 00:01:04,026
+<i>for the Mon Calamari people to rally behind.</i>
+
+34
+00:01:04,110 --> 00:01:07,446
+This child is but a coward. He is no leader.
+
+35
+00:01:07,697 --> 00:01:09,407
+<i>That is irrelevant.</i>
+
+36
+00:01:09,490 --> 00:01:12,994
+<i>The whispering of his name
+can rekindle hope,</i>
+
+37
+00:01:13,452 --> 00:01:17,915
+<i>and hope is something
+we cannot allow our enemy to possess.</i>
+
+38
+00:01:17,999 --> 00:01:21,711
+Excuse me, Count Dooku,
+but what of the prisoners?
+
+39
+00:01:21,961 --> 00:01:23,254
+<i>They are to be processed.</i>
+
+40
+00:01:23,671 --> 00:01:26,382
+<i>Internment camps
+have been set up below the city.</i>
+
+41
+00:01:26,465 --> 00:01:27,842
+<i>Gather the rabble there.</i>
+
+42
+00:01:28,134 --> 00:01:29,719
+<i>Then set them to work.</i>
+
+43
+00:01:30,011 --> 00:01:33,848
+Surely, you do not mean all of them.
+The women and children...
+
+44
+00:01:34,015 --> 00:01:36,017
+<i>Are to be sent as well.</i>
+
+45
+00:01:36,100 --> 00:01:37,226
+<i>Is that understood?</i>
+
+46
+00:01:37,685 --> 00:01:39,312
+Yes, My Lord.
+
+47
+00:01:39,478 --> 00:01:42,607
+<i>Tamson, I'm sending you reinforcements.</i>
+
+48
+00:01:42,690 --> 00:01:46,527
+<i>Hold them in reserve
+and wait for the Republic's next move.</i>
+
+49
+00:01:46,611 --> 00:01:48,571
+As you wish, Count Dooku.
+
+50
+00:01:54,910 --> 00:01:58,539
+We've lost contact with all
+clone troopers and Mon Cala soldiers.
+
+51
+00:01:58,706 --> 00:02:00,249
+The Quarren ambushed us.
+
+52
+00:02:00,374 --> 00:02:03,669
+They were ready to attack
+long before the peace talks came to an end.
+
+53
+00:02:03,878 --> 00:02:05,755
+<i>Desperate, the situation is.</i>
+
+54
+00:02:05,921 --> 00:02:08,382
+<i>Reinforce your position, clones, we can...</i>
+
+55
+00:02:08,633 --> 00:02:11,844
+Master, please repeat.
+Are you sending reinforcements?
+
+56
+00:02:12,219 --> 00:02:13,387
+<i>You're breaking up.</i>
+
+57
+00:02:15,723 --> 00:02:16,932
+Are they coming?
+
+58
+00:02:17,141 --> 00:02:18,643
+I don't know.
+
+59
+00:02:18,726 --> 00:02:22,563
+But they know our situation.
+They must know to send help.
+
+60
+00:02:22,605 --> 00:02:24,732
+Yeah, but it may take them a while
+to get here.
+
+61
+00:02:24,815 --> 00:02:27,568
+We're gonna have to get ourselves
+to the surface and get off this rock.
+
+62
+00:02:27,818 --> 00:02:29,737
+I will not leave my people to die.
+
+63
+00:02:30,071 --> 00:02:35,117
+With all due respect, Your Highness,
+if we stay, we all die.
+
+64
+00:02:36,661 --> 00:02:39,705
+We must reach the surface
+and see if our ship is still there.
+
+65
+00:02:39,747 --> 00:02:42,124
+The prince will decide our course of action.
+
+66
+00:02:42,458 --> 00:02:45,419
+I think it is best for us
+to try and escape using your ship.
+
+67
+00:02:45,795 --> 00:02:47,797
+As you wish, Your Highness. Follow me.
+
+68
+00:02:58,766 --> 00:03:00,935
+It'll take us days
+to outfit another clone regiment
+
+69
+00:03:01,018 --> 00:03:02,019
+for underwater combat.
+
+70
+00:03:02,436 --> 00:03:04,647
+<i>Days our friends do not have.</i>
+
+71
+00:03:04,730 --> 00:03:09,026
+Perhaps we should look to armies
+other than clones to help our cause.
+
+72
+00:03:09,235 --> 00:03:11,112
+What do you suggest?
+
+73
+00:03:11,779 --> 00:03:15,157
+A suitable ally, we must find,
+to help with this mission.
+
+74
+00:03:15,366 --> 00:03:19,620
+<i>Yes, an underwater race
+that has a standing army,</i>
+
+75
+00:03:19,704 --> 00:03:22,123
+<i>and is close enough to send help quickly.</i>
+
+76
+00:03:24,041 --> 00:03:25,584
+<i>Naboo?</i>
+
+77
+00:03:25,793 --> 00:03:28,754
+Yes, to the Gungans, we must look.
+
+78
+00:03:28,838 --> 00:03:30,464
+We shall contact them immediately.
+
+79
+00:03:45,938 --> 00:03:48,649
+That's a lot of enemy troops
+between us and the surface.
+
+80
+00:03:48,691 --> 00:03:51,527
+It's no problem.
+I just hope you're a fast swimmer.
+
+81
+00:03:51,819 --> 00:03:54,155
+Says the boy from the desert planet.
+
+82
+00:03:54,238 --> 00:03:56,699
+Are you certain your ship is still there?
+
+83
+00:03:57,158 --> 00:03:58,492
+There's only one way to find out.
+
+84
+00:03:58,951 --> 00:04:01,829
+I'll create a diversion
+so you can get past those patrols.
+
+85
+00:04:02,163 --> 00:04:04,206
+All right. Try to get a mini-sub or two.
+
+86
+00:04:04,623 --> 00:04:06,000
+It'll help us speed to the surface.
+
+87
+00:04:06,459 --> 00:04:07,793
+No problem.
+
+88
+00:04:48,918 --> 00:04:50,503
+Ahsoka, you're up first.
+
+89
+00:04:50,544 --> 00:04:52,379
+Take the prince and Senator Tills.
+
+90
+00:04:52,421 --> 00:04:53,881
+Got it!
+
+91
+00:05:17,404 --> 00:05:20,699
+<i>Sir, the Jedi have reappeared
+with the prince.</i>
+
+92
+00:05:23,536 --> 00:05:25,579
+<i>They are headed to the surface.</i>
+
+93
+00:05:25,663 --> 00:05:26,664
+Predictable.
+
+94
+00:05:27,456 --> 00:05:29,750
+Let them get within sight of their ship.
+
+95
+00:05:30,167 --> 00:05:35,130
+I want them to watch their hope
+sink to the bottom of the sea.
+
+96
+00:05:37,424 --> 00:05:38,425
+There's the ship.
+
+97
+00:05:38,592 --> 00:05:39,635
+Still in one piece.
+
+98
+00:05:46,892 --> 00:05:47,977
+Spring the trap.
+
+99
+00:06:04,410 --> 00:06:05,661
+Oh!
+
+100
+00:06:13,794 --> 00:06:16,422
+Well, Prince,
+how do you feel about fighting again?
+
+101
+00:06:16,630 --> 00:06:18,632
+Master Jedi, we're too vulnerable here.
+
+102
+00:06:18,716 --> 00:06:20,467
+We must reach the sea floor.
+
+103
+00:06:20,759 --> 00:06:23,637
+Grab onto the debris.
+Let it carry you to the bottom.
+
+104
+00:06:25,723 --> 00:06:27,349
+I think I'm getting seasick.
+
+105
+00:06:59,423 --> 00:07:03,093
+-Back so soon?
+-Yeah, the ship had some problems.
+
+106
+00:07:03,177 --> 00:07:05,346
+I can see that, all around me.
+
+107
+00:07:05,512 --> 00:07:06,889
+This is our only chance.
+
+108
+00:07:07,097 --> 00:07:09,767
+We need to split up
+and hide the prince's whereabouts.
+
+109
+00:07:10,017 --> 00:07:13,062
+- I'm not sure that's the best strategy.
+- I'm sure.
+
+110
+00:07:13,854 --> 00:07:15,981
+Captain Ackbar's words are my own.
+
+111
+00:07:16,023 --> 00:07:18,525
+It will give us the best chances of surviving
+if we split up.
+
+112
+00:07:18,859 --> 00:07:20,027
+As you wish.
+
+113
+00:07:20,069 --> 00:07:22,905
+Ahsoka, you and the prince
+go with Kit and take the clones.
+
+114
+00:07:22,988 --> 00:07:24,782
+I'll take the senators and Captain Ackbar.
+
+115
+00:07:24,907 --> 00:07:25,908
+Lay low.
+
+116
+00:07:26,367 --> 00:07:28,994
+Our only hope is that Master Yoda
+can send help in time.
+
+117
+00:07:29,370 --> 00:07:32,498
+No, Prince Lee-Char is our only hope.
+
+118
+00:08:12,621 --> 00:08:14,581
+Master Yoda, sir,
+
+119
+00:08:14,707 --> 00:08:17,418
+to what's we owing
+the pleasure of your transmission?
+
+120
+00:08:17,710 --> 00:08:19,753
+<i>Your help, the Republic needs.</i>
+
+121
+00:08:20,045 --> 00:08:23,590
+Something's telling me
+it's big help you need. No?
+
+122
+00:08:23,924 --> 00:08:26,427
+<i>Senator Amidala, your long-time ally,</i>
+
+123
+00:08:26,927 --> 00:08:29,138
+<i>trapped on an occupied planet, she is.</i>
+
+124
+00:08:29,763 --> 00:08:30,848
+Hmm.
+
+125
+00:08:31,557 --> 00:08:35,144
+Mesa needs some thinking time
+to respond to this a news.
+
+126
+00:08:35,394 --> 00:08:37,438
+Thinking ! Nosa thinking.
+
+127
+00:08:37,730 --> 00:08:41,900
+Mesa thinking Padmé would help us,
+has helped us, big time.
+
+128
+00:08:42,109 --> 00:08:44,194
+Wesa gots to help her now.
+
+129
+00:08:44,278 --> 00:08:46,989
+Yo us a right. Thinking time's done.
+
+130
+00:08:47,156 --> 00:08:48,949
+Wesa need to be leaving now.
+
+131
+00:09:04,965 --> 00:09:09,136
+I don't think we've been followed.
+Commander Monnk, post a lookout.
+
+132
+00:09:10,429 --> 00:09:13,515
+We have no army and we don't know
+if reinforcements are coming.
+
+133
+00:09:13,599 --> 00:09:15,184
+What are our options?
+
+134
+00:09:15,267 --> 00:09:18,270
+We sit tight. There's not much we can do.
+
+135
+00:09:28,989 --> 00:09:30,532
+Sir, you better come see this.
+
+136
+00:09:45,839 --> 00:09:48,509
+So many prisoners!
+Where are they taking them?
+
+137
+00:09:48,592 --> 00:09:50,302
+To become slaves.
+
+138
+00:09:50,344 --> 00:09:52,971
+I can't believe Nossor Ri and the Quarren
+agreed to this.
+
+139
+00:09:53,222 --> 00:09:56,725
+Count Dooku rules here for now,
+not the Quarren.
+
+140
+00:09:57,017 --> 00:10:01,021
+What you see, Prince,
+is the future of all the people on this world,
+
+141
+00:10:01,105 --> 00:10:03,023
+Mon Cala and Quarren,
+
+142
+00:10:03,107 --> 00:10:05,192
+all slaves for Count Dooku.
+
+143
+00:10:23,127 --> 00:10:26,922
+Captain Ackbar, which of these structures
+houses the city's interplanetary scanners?
+
+144
+00:10:27,422 --> 00:10:30,884
+It's over there, across the square. Why?
+
+145
+00:10:30,968 --> 00:10:34,555
+Well, just in case
+Master Yoda is sending reinforcements,
+
+146
+00:10:34,596 --> 00:10:37,141
+I thought it would be helpful if the enemy
+couldn't tell they were coming.
+
+147
+00:10:37,391 --> 00:10:38,976
+If we knock out those sensors,
+
+148
+00:10:39,059 --> 00:10:42,563
+they won't see our reinforcements
+until they're right on top of the city.
+
+149
+00:10:42,604 --> 00:10:44,565
+Assuming someone is coming.
+
+150
+00:10:44,648 --> 00:10:47,901
+I am sure
+Master Yoda will find a way to send help.
+
+151
+00:10:47,943 --> 00:10:50,028
+Anakin, it's your move.
+
+152
+00:10:50,070 --> 00:10:51,446
+Follow me.
+
+153
+00:11:04,501 --> 00:11:06,753
+There must be something more I can do.
+
+154
+00:11:06,837 --> 00:11:09,548
+I know it's hard, but you have to be patient.
+
+155
+00:11:10,340 --> 00:11:13,594
+But you saw my people. I failed them.
+
+156
+00:11:14,094 --> 00:11:19,433
+No, remember Captain Ackbar's words,
+"You are the hope of your people."
+
+157
+00:11:19,725 --> 00:11:22,144
+As long as you live, they will endure.
+
+158
+00:11:22,728 --> 00:11:25,564
+I need an army. We have to fight back.
+
+159
+00:11:25,898 --> 00:11:29,193
+You don't have to carry a sword
+to be powerful.
+
+160
+00:11:29,276 --> 00:11:32,738
+Some leaders' strength
+is inspiring greatness in others.
+
+161
+00:11:33,280 --> 00:11:35,199
+But my people don't even know I'm alive.
+
+162
+00:11:35,282 --> 00:11:38,285
+How can I inspire them
+if they think I'm dead?
+
+163
+00:11:50,255 --> 00:11:53,425
+Okay, just cover me.
+I'm gonna have to concentrate.
+
+164
+00:11:53,717 --> 00:11:55,969
+Concentrate? Concentrate on what?
+
+165
+00:11:56,261 --> 00:11:58,138
+Bringing that building down.
+
+166
+00:12:09,983 --> 00:12:11,026
+Anakin, hurry.
+
+167
+00:12:43,225 --> 00:12:44,309
+What's happening? Report!
+
+168
+00:12:44,685 --> 00:12:47,896
+We've lost all radar and sonar scanning, sir.
+
+169
+00:12:48,063 --> 00:12:51,608
+-Reestablish the connections.
+-We cannot, sir.
+
+170
+00:12:51,692 --> 00:12:52,693
+Why not?
+
+171
+00:12:52,943 --> 00:12:56,071
+The building that housed the radar is gone.
+
+172
+00:12:58,699 --> 00:12:59,992
+We're blind.
+
+173
+00:13:00,033 --> 00:13:01,285
+Prepare for an attack.
+
+174
+00:13:01,368 --> 00:13:04,496
+But there was nothing on the scope
+prior to the attack.
+
+175
+00:13:04,621 --> 00:13:08,292
+That is precisely why we must assume
+an attack is imminent!
+
+176
+00:13:08,667 --> 00:13:10,168
+Guards, to me!
+
+177
+00:13:11,712 --> 00:13:13,297
+Where are you going?
+
+178
+00:13:13,463 --> 00:13:17,551
+To find that meddling prince
+and his Jedi friends!
+
+179
+00:13:41,450 --> 00:13:44,161
+At least we're taking attention away
+from the prince.
+
+180
+00:14:01,845 --> 00:14:03,972
+Oh, no, the prince... Hurry!
+
+181
+00:14:08,435 --> 00:14:10,562
+The prince, he's alive!
+
+182
+00:14:10,604 --> 00:14:11,605
+Look there!
+
+183
+00:14:11,938 --> 00:14:13,940
+People of Mon Cala,
+
+184
+00:14:14,024 --> 00:14:17,569
+all people of Mon Cala
+who would not be slaves,
+
+185
+00:14:17,611 --> 00:14:18,612
+have hope.
+
+186
+00:14:18,779 --> 00:14:20,739
+We will fight for you, Prince.
+
+187
+00:14:20,947 --> 00:14:23,658
+You will not be prisoners much longer.
+
+188
+00:14:23,742 --> 00:14:25,827
+Okay, I think the show is over.
+
+189
+00:14:25,911 --> 00:14:28,038
+The guards will be coming. We have to go.
+
+190
+00:14:48,100 --> 00:14:49,810
+Wesa ready.
+
+191
+00:15:15,043 --> 00:15:18,463
+Gungans. The tide has turned in our favor.
+
+192
+00:15:18,505 --> 00:15:21,591
+Let's free my people. Attack!
+
+193
+00:15:52,873 --> 00:15:56,001
+Ani, mesa so happy to see you.
+
+194
+00:15:56,209 --> 00:15:57,711
+Perfect timing, Jar Jar.
+
+195
+00:15:58,044 --> 00:16:03,133
+Whats a? Mesa can't hear so good
+since me submerged.
+
+196
+00:16:40,504 --> 00:16:43,548
+Tamson. Tamson, come in. Where are you?
+
+197
+00:16:44,216 --> 00:16:47,135
+The Republic reinforcements
+are overwhelming our defenses.
+
+198
+00:16:47,677 --> 00:16:50,597
+We must retreat. We must retreat now.
+
+199
+00:16:50,805 --> 00:16:52,807
+<i>I warned you this attack was coming.</i>
+
+200
+00:16:52,891 --> 00:16:55,268
+<i>Where are the Jedi
+concentrating their attack?</i>
+
+201
+00:16:55,769 --> 00:16:57,812
+There are two groups of Jedi,
+
+202
+00:16:57,896 --> 00:16:59,689
+one, in the lower city center,
+
+203
+00:16:59,773 --> 00:17:03,026
+and two, releasing the prisoners
+near the coral base.
+
+204
+00:17:03,318 --> 00:17:06,571
+<i>The prisoners!
+The prince must be with them.</i>
+
+205
+00:17:06,613 --> 00:17:10,450
+<i>I'm committing the reinforcements
+that Count Dooku sent to the attack.</i>
+
+206
+00:17:10,534 --> 00:17:12,577
+<i>He will not escape this time.</i>
+
+207
+00:17:18,583 --> 00:17:19,584
+Churn them up.
+
+208
+00:17:53,243 --> 00:17:56,037
+Stay in the center, there's less turbulence.
+
+209
+00:19:09,694 --> 00:19:10,695
+Anakin!
+
+210
+00:19:14,949 --> 00:19:17,369
+Skywalker, we've got one chance.
+
+211
+00:19:44,020 --> 00:19:46,898
+Ahsoka, escape with the prince.
+I'll hold him off.
+
+212
+00:19:59,786 --> 00:20:01,454
+Sever one of the legs.
+
+213
+00:21:06,770 --> 00:21:08,396
+Find the prince!
+
+214
+00:21:08,480 --> 00:21:09,606
+Find him!
+
+215
+00:21:14,861 --> 00:21:17,697
+Now you and I are the only ones left.
+
+216
+00:21:18,198 --> 00:21:20,033
+I'm sorry, Lee-Char.
+
+217
+00:21:20,116 --> 00:21:23,536
+I know what I must do.
+I know my people need me.
+
+218
+00:21:24,037 --> 00:21:26,206
+I just don't know how to win this war.
+
+219
+00:21:26,706 --> 00:21:31,544
+Look, I know you're scared,
+but you can't let your fear control you.
+
+220
+00:21:31,753 --> 00:21:33,129
+Aren't you scared?
+
+221
+00:21:33,588 --> 00:21:35,924
+I used to be, all the time,
+
+222
+00:21:36,007 --> 00:21:39,469
+until I realized that
+if you make decisions out of fear,
+
+223
+00:21:39,552 --> 00:21:41,679
+you're more likely to be wrong.
+
+224
+00:21:41,721 --> 00:21:45,016
+I will unify Mon Cala again, I promise.
+
+225
+00:21:46,267 --> 00:21:47,769
+We have to go.
+
+226
+00:21:47,793 --> 00:21:52,793
+http://hiqve.com/
+

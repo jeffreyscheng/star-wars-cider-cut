@@ -1,0 +1,1015 @@
+﻿1
+00:00:10,415 --> 00:00:10,532
+h
+
+2
+00:00:10,533 --> 00:00:10,649
+ht
+
+3
+00:00:10,650 --> 00:00:10,767
+htt
+
+4
+00:00:10,768 --> 00:00:10,885
+http
+
+5
+00:00:10,886 --> 00:00:11,002
+http:
+
+6
+00:00:11,003 --> 00:00:11,120
+http:/
+
+7
+00:00:11,121 --> 00:00:11,238
+http://
+
+8
+00:00:11,239 --> 00:00:11,355
+http://h
+
+9
+00:00:11,356 --> 00:00:11,473
+http://hi
+
+10
+00:00:11,474 --> 00:00:11,590
+http://hiq
+
+11
+00:00:11,591 --> 00:00:11,708
+http://hiqv
+
+12
+00:00:11,709 --> 00:00:11,826
+http://hiqve
+
+13
+00:00:11,827 --> 00:00:11,943
+http://hiqve.
+
+14
+00:00:11,944 --> 00:00:12,061
+http://hiqve.c
+
+15
+00:00:12,062 --> 00:00:12,179
+http://hiqve.co
+
+16
+00:00:12,180 --> 00:00:12,296
+http://hiqve.com
+
+17
+00:00:12,297 --> 00:00:12,414
+http://hiqve.com/
+
+18
+00:00:12,415 --> 00:00:15,415
+http://hiqve.com/
+
+19
+00:00:18,439 --> 00:00:20,733
+<i>Piracy in deep space!</i>
+
+20
+00:00:20,775 --> 00:00:25,655
+<i>Infamous outlaw Hondo Ohnaka attacks
+a Jedi transport carrying six younglings,</i>
+
+21
+00:00:25,780 --> 00:00:28,282
+<i>who just received their lightsaber crystals.</i>
+
+22
+00:00:28,616 --> 00:00:30,409
+<i>So rare are these crystals,</i>
+
+23
+00:00:30,451 --> 00:00:34,747
+<i>that Hondo knows he can sell them
+on the black market for a small fortune.</i>
+
+24
+00:00:34,956 --> 00:00:37,291
+<i>In a desperate attempt
+to save the younglings,</i>
+
+25
+00:00:37,416 --> 00:00:40,920
+<i>Ahsoka Tano is captured by Hondo
+and his pirate horde.</i>
+
+26
+00:00:41,462 --> 00:00:46,300
+<i>Now, with a damaged ship,
+the younglings are stranded and alone.</i>
+
+27
+00:00:51,806 --> 00:00:54,934
+This is the <i>Crucible.</i>
+Calling the Republic fleet.
+
+28
+00:00:54,976 --> 00:00:57,979
+Come in, please. We need help.
+
+29
+00:00:58,187 --> 00:01:00,690
+<i>This is General Kenobi.
+We have your transmission.</i>
+
+30
+00:01:00,815 --> 00:01:02,316
+The General Kenobi?
+
+31
+00:01:05,820 --> 00:01:09,156
+The pirate Hondo has attacked
+and severely damaged our ship
+
+32
+00:01:09,198 --> 00:01:11,826
+and taken our chaperone, Ahsoka Tano.
+
+33
+00:01:11,951 --> 00:01:14,620
+I'm dispatching Commander Cody
+to bring you back.
+
+34
+00:01:14,662 --> 00:01:16,622
+We shall deal with Hondo on Florrum.
+
+35
+00:01:16,664 --> 00:01:18,207
+<i>Will Ahsoka be all right?</i>
+
+36
+00:01:18,666 --> 00:01:22,169
+Hondo would be even more of a fool
+than I think he is to hurt her.
+
+37
+00:01:22,211 --> 00:01:24,964
+Once we've picked you up,
+we'll focus on rescuing Ahsoka.
+
+38
+00:01:25,006 --> 00:01:27,717
+But we could help Ahsoka a lot
+sooner than you can.
+
+39
+00:01:28,175 --> 00:01:30,303
+<i>You have shown great bravery
+but these pirates...</i>
+
+40
+00:01:30,344 --> 00:01:33,180
+It was us who managed
+to drive them from the ship.
+
+41
+00:01:33,306 --> 00:01:37,685
+You will not jeopardize your safety
+trying to be heroes, understood?
+
+42
+00:01:37,977 --> 00:01:39,353
+<i>Yes, Master.</i>
+
+43
+00:01:40,688 --> 00:01:43,649
+Their coordinates put them
+dangerously close to Florrum.
+
+44
+00:01:43,691 --> 00:01:45,526
+I do not want them getting any ideas.
+
+45
+00:01:45,860 --> 00:01:47,194
+You will need to leave quickly, Cody.
+
+46
+00:01:47,320 --> 00:01:49,363
+Sir, enemy fleet's
+coming out of hyperspace!
+
+47
+00:02:02,335 --> 00:02:04,879
+Battle stations! Launch all fighters!
+
+48
+00:02:05,004 --> 00:02:08,257
+Cody, looks like you're staying
+here for now.
+
+49
+00:03:29,672 --> 00:03:30,840
+What do you think?
+
+50
+00:03:31,674 --> 00:03:33,843
+I think you've finished your lightsaber.
+
+51
+00:03:34,343 --> 00:03:36,512
+Doesn't mean you know how to use it.
+
+52
+00:03:36,637 --> 00:03:39,932
+Well, if you hurry up with yours,
+maybe we could find out.
+
+53
+00:03:46,647 --> 00:03:49,483
+I'll finish mine when I'm ready.
+
+54
+00:03:52,194 --> 00:03:55,156
+Seeing as how our rescue party
+has forgotten us,
+
+55
+00:03:55,197 --> 00:03:56,991
+you'll have plenty of time.
+
+56
+00:03:59,452 --> 00:04:01,245
+They probably just got delayed.
+
+57
+00:04:02,997 --> 00:04:07,084
+Delayed? Ahsoka needs our help
+and we're sitting around like children.
+
+58
+00:04:07,501 --> 00:04:09,086
+We are children.
+
+59
+00:04:09,336 --> 00:04:11,672
+I vote we mount a rescue mission.
+
+60
+00:04:13,841 --> 00:04:15,801
+Gungi is with me. Byph?
+
+61
+00:04:18,846 --> 00:04:20,806
+That's three votes for and...
+
+62
+00:04:20,848 --> 00:04:22,516
+One against.
+
+63
+00:04:25,519 --> 00:04:26,854
+Perfect timing.
+
+64
+00:04:26,979 --> 00:04:28,856
+There's a problem with the ship.
+
+65
+00:04:28,981 --> 00:04:30,357
+What kind of problem?
+
+66
+00:04:30,483 --> 00:04:34,695
+Breaking away from the pirate ship
+ruptured the entire filtering system.
+
+67
+00:04:34,987 --> 00:04:36,030
+What does that mean?
+
+68
+00:04:36,113 --> 00:04:38,282
+It means, she's venting coolant
+
+69
+00:04:38,365 --> 00:04:40,993
+and if we don't land soon,
+the engines will explode.
+
+70
+00:04:41,035 --> 00:04:43,370
+We'll have to land and let the system reset.
+
+71
+00:04:43,496 --> 00:04:46,373
+Then it's settled.
+If we stay out here, we'll die.
+
+72
+00:04:46,499 --> 00:04:50,377
+We go to Florrum, let the engines cool,
+and rescue Ahsoka.
+
+73
+00:04:52,963 --> 00:04:55,007
+A rescue mission?
+
+74
+00:05:21,575 --> 00:05:24,411
+It would be wise
+if you would let me go.
+
+75
+00:05:24,495 --> 00:05:27,498
+No, it would be unprofitable
+if I would let you go,
+
+76
+00:05:27,581 --> 00:05:31,669
+and why would I do something
+as shortsighted as that?
+
+77
+00:05:32,169 --> 00:05:34,004
+If you don't let me go,
+
+78
+00:05:34,088 --> 00:05:37,591
+you will wish you had been born
+a protocol droid.
+
+79
+00:05:38,342 --> 00:05:40,010
+Sometimes I do anyway.
+
+80
+00:05:40,094 --> 00:05:45,224
+But you are really in no position
+to make threats, young lady.
+
+81
+00:05:45,933 --> 00:05:48,769
+You look stressed. Are you thirsty?
+
+82
+00:05:48,853 --> 00:05:50,563
+A drink, perhaps?
+
+83
+00:05:53,774 --> 00:05:57,695
+Sorry, but I do not like to share.
+
+84
+00:06:43,282 --> 00:06:44,950
+Our forces are being overrun.
+
+85
+00:06:44,992 --> 00:06:47,161
+The droids are sending out
+boarding parties.
+
+86
+00:06:47,953 --> 00:06:50,915
+We must get to the main hangar
+to repel them.
+
+87
+00:07:38,379 --> 00:07:41,882
+We're being overrun ! Push forward!
+
+88
+00:08:01,735 --> 00:08:03,070
+Kenobi...
+
+89
+00:08:12,413 --> 00:08:14,039
+You'll regret that.
+
+90
+00:08:22,756 --> 00:08:24,591
+Florrum.
+
+91
+00:08:30,597 --> 00:08:32,933
+Guess we're in the right place.
+
+92
+00:08:51,118 --> 00:08:54,788
+Artoo, finish reassembling
+Master Huyang, will you?
+
+93
+00:08:55,914 --> 00:08:57,791
+I hate to see him like this.
+
+94
+00:08:59,293 --> 00:09:01,211
+Ganodi, you stay with the ship.
+
+95
+00:09:01,295 --> 00:09:03,422
+And who put you in charge?
+
+96
+00:09:03,464 --> 00:09:05,549
+We're going to need to make quick escape.
+
+97
+00:09:05,632 --> 00:09:08,719
+And you are the only one that
+had flight simulator training at the temple.
+
+98
+00:09:08,927 --> 00:09:11,638
+Oh. Seeing as you put it like that...
+
+99
+00:09:42,169 --> 00:09:45,005
+I don't see anything, there's no one.
+
+100
+00:09:46,757 --> 00:09:49,093
+Are we sure we even landed
+near their base?
+
+101
+00:09:49,176 --> 00:09:52,179
+Well, we couldn't land too close, could we?
+
+102
+00:09:52,304 --> 00:09:57,518
+My scanner's indicating
+a strong power source, that way.
+
+103
+00:09:58,018 --> 00:10:00,020
+It must be their base.
+
+104
+00:10:00,145 --> 00:10:04,358
+You have no idea how we are going
+to get inside and find Ahsoka, do you?
+
+105
+00:10:04,483 --> 00:10:05,859
+I'm working on it.
+
+106
+00:10:07,861 --> 00:10:09,696
+Byph is right, we better get moving.
+
+107
+00:10:09,780 --> 00:10:12,032
+We'll figure out a strategy on the way.
+
+108
+00:10:25,712 --> 00:10:28,465
+You know the Republic
+won't pay a ransom for me,
+
+109
+00:10:28,549 --> 00:10:30,551
+and the Separatists can't be trusted.
+
+110
+00:10:30,634 --> 00:10:32,553
+They'll betray you and kill us both.
+
+111
+00:10:32,678 --> 00:10:34,721
+Yes, I know this, my dear.
+
+112
+00:10:34,805 --> 00:10:38,058
+The Separatists are no friends of mine.
+
+113
+00:10:38,183 --> 00:10:42,229
+Don't ask me why,
+but Dooku holds such a grudge against me
+
+114
+00:10:42,354 --> 00:10:47,234
+since our little "I-held-him-hostage" affair.
+
+115
+00:10:47,276 --> 00:10:52,698
+The truth is, I have my sights set
+on more nefarious criminals than I,
+
+116
+00:10:52,739 --> 00:10:56,410
+a businessman,
+who will pay handsomely for a Jedi.
+
+117
+00:10:56,451 --> 00:10:59,371
+A female Jedi at that!
+
+118
+00:10:59,413 --> 00:11:01,415
+You don't scare me, Hondo.
+
+119
+00:11:02,875 --> 00:11:07,212
+Oh, by the way, they don't care
+if you're dead or alive.
+
+120
+00:11:07,754 --> 00:11:12,092
+I mean, I prefer alive, less messy.
+
+121
+00:11:12,134 --> 00:11:16,889
+But I find my moods
+so changeable these days.
+
+122
+00:11:23,270 --> 00:11:25,731
+-General ! The fuel barrel.
+-Right!
+
+123
+00:11:36,283 --> 00:11:38,952
+Fall back! Fall back!
+
+124
+00:11:41,496 --> 00:11:45,167
+This is General Kenobi.
+Abandon ship. Abandon ship.
+
+125
+00:11:45,292 --> 00:11:47,002
+<i>Sir, shouldn't we stay and fight.</i>
+
+126
+00:11:47,127 --> 00:11:48,420
+<i>We can't lose the ship now.</i>
+
+127
+00:11:48,462 --> 00:11:51,632
+Cody, the ship is already lost.
+We must face it.
+
+128
+00:11:51,757 --> 00:11:54,801
+But you and I are going to give Grievous
+a little parting gift.
+
+129
+00:12:13,695 --> 00:12:15,656
+A ship? What kind?
+
+130
+00:12:16,531 --> 00:12:20,994
+The side of the ship says
+"Preigo's Traveling World of Wonder."
+
+131
+00:12:21,495 --> 00:12:24,039
+They're a traveling carnival act!
+
+132
+00:12:27,376 --> 00:12:30,337
+Faster, you lazy creatures! Faster!
+
+133
+00:12:30,379 --> 00:12:33,799
+Old Hondo will be furious if we are late.
+
+134
+00:12:33,882 --> 00:12:35,509
+You hear me?
+
+135
+00:12:53,193 --> 00:12:54,528
+Hey!
+
+136
+00:12:54,653 --> 00:12:58,991
+You there! What... What are you doing?
+I said faster, not stop.
+
+137
+00:13:02,577 --> 00:13:05,539
+Sir, are we to understand
+
+138
+00:13:05,580 --> 00:13:08,041
+you are on your way
+to the pirate stronghold?
+
+139
+00:13:08,083 --> 00:13:10,043
+Yes, what's it to you?
+
+140
+00:13:10,085 --> 00:13:13,046
+Who are you? How did you get out here?
+
+141
+00:13:13,171 --> 00:13:15,882
+Sir, our ship crashed
+and we've been stranded,
+
+142
+00:13:16,008 --> 00:13:19,011
+but our misfortune is to your benefit.
+
+143
+00:13:19,344 --> 00:13:23,557
+Oh, really?
+And how is that, my curious friend?
+
+144
+00:13:23,890 --> 00:13:26,560
+We are...
+
+145
+00:13:26,685 --> 00:13:29,688
+Acrobats, entertainers!
+
+146
+00:13:31,273 --> 00:13:35,068
+We would love to join your act and
+travel with you to your next destination.
+
+147
+00:13:35,193 --> 00:13:40,407
+Really? All of you wish to join my act?
+Right.
+
+148
+00:13:40,532 --> 00:13:42,784
+You would like to come with us
+
+149
+00:13:42,909 --> 00:13:47,122
+when we go to entertain Hondo
+and his pirate horde?
+
+150
+00:13:47,247 --> 00:13:49,916
+Very much so, yes.
+
+151
+00:13:50,417 --> 00:13:51,543
+Oh no, no, no. I...
+
+152
+00:13:51,585 --> 00:13:55,088
+I'm sorry, the pirates are
+an unforgiving audience,
+
+153
+00:13:55,130 --> 00:13:57,549
+I couldn't possibly...
+
+154
+00:13:57,632 --> 00:14:00,093
+What... How did you...
+
+155
+00:14:00,218 --> 00:14:01,970
+Oh my, my.
+
+156
+00:14:03,638 --> 00:14:06,099
+Artists! True artists!
+
+157
+00:14:06,183 --> 00:14:10,020
+Young man,
+how many of these tricks can you do?
+
+158
+00:14:13,523 --> 00:14:15,108
+How many do you want?
+
+159
+00:14:15,609 --> 00:14:19,446
+Oh ! Welcome to the show!
+
+160
+00:14:35,128 --> 00:14:37,506
+General, we have secured the ship.
+
+161
+00:14:37,631 --> 00:14:38,965
+Excellent.
+
+162
+00:14:39,007 --> 00:14:44,471
+Waste no time and get me every last piece
+of information from the data banks.
+
+163
+00:14:45,180 --> 00:14:48,475
+<i>General Grievous, you have defeated me</i>
+
+164
+00:14:48,517 --> 00:14:52,312
+<i>and taken control
+of my ship, congratulations.</i>
+
+165
+00:14:52,396 --> 00:14:56,483
+<i>However, if you are watching this message
+that means I'm boarding an escape pod</i>
+
+166
+00:14:56,525 --> 00:14:59,361
+<i>and shall soon be safely away
+from the ship,</i>
+
+167
+00:14:59,486 --> 00:15:01,321
+<i>which is about to self-destruct.</i>
+
+168
+00:15:01,738 --> 00:15:04,574
+<i>General Grievous, you have defeated me...</i>
+
+169
+00:15:15,669 --> 00:15:17,003
+Sir.
+
+170
+00:15:21,508 --> 00:15:24,177
+Wait! Wait! What are you doing?
+
+171
+00:15:24,678 --> 00:15:26,721
+-Uh-oh.
+-Uh-oh!
+
+172
+00:15:44,406 --> 00:15:47,701
+I'm afraid the younglings
+are now on their own.
+
+173
+00:16:19,566 --> 00:16:22,569
+Preigo.
+
+174
+00:16:28,241 --> 00:16:31,578
+You better know what you are doing
+because I don't see Ahsoka.
+
+175
+00:16:31,661 --> 00:16:32,913
+Patience.
+
+176
+00:16:33,121 --> 00:16:39,127
+I, Preigo, your humble servant,
+have searched far and wide,
+
+177
+00:16:39,252 --> 00:16:42,422
+oh, illustrious plunderer of the universe,
+
+178
+00:16:42,464 --> 00:16:46,259
+and found you
+a most special entertainment.
+
+179
+00:16:46,801 --> 00:16:48,428
+Good!
+
+180
+00:16:48,512 --> 00:16:53,350
+I would hate to be forced to
+cut off their heads like I did your last act.
+
+181
+00:16:53,433 --> 00:16:54,976
+You remember those guys?
+
+182
+00:16:59,648 --> 00:17:03,818
+You are a brave man
+to come before me again.
+
+183
+00:17:04,152 --> 00:17:06,655
+Look! He has Ahsoka's lightsabers!
+
+184
+00:17:06,780 --> 00:17:07,822
+I'll get them!
+
+185
+00:17:08,657 --> 00:17:10,450
+Where is my Jedi?
+
+186
+00:17:10,534 --> 00:17:12,994
+I would hate for her to miss the show.
+
+187
+00:17:13,119 --> 00:17:16,456
+Which I'm hoping will be better
+than last time.
+
+188
+00:17:17,832 --> 00:17:20,961
+Excellent! Let the show begin!
+
+189
+00:17:21,044 --> 00:17:22,963
+Yes, of course.
+
+190
+00:17:23,713 --> 00:17:28,093
+<i>May I present the Animal Instincts.</i>
+
+191
+00:17:35,433 --> 00:17:37,352
+Oh, no.
+
+192
+00:17:38,311 --> 00:17:40,146
+I love a kiddie act.
+
+193
+00:18:09,593 --> 00:18:11,219
+What is this business?
+
+194
+00:18:11,595 --> 00:18:15,974
+I believe he wants you to be a part
+of the next stunt.
+
+195
+00:18:17,100 --> 00:18:18,935
+Ho-ho! Does he now?
+
+196
+00:18:19,019 --> 00:18:20,604
+Come with us.
+
+197
+00:18:22,355 --> 00:18:23,773
+Which one of you said that?
+
+198
+00:18:26,151 --> 00:18:31,281
+I may not be as young as I once was,
+but I'm older.
+
+199
+00:18:33,116 --> 00:18:35,035
+Stand right here.
+
+200
+00:18:35,118 --> 00:18:37,662
+Who wants to see Hondo's moves?
+
+201
+00:18:37,746 --> 00:18:39,789
+Talk to me!
+
+202
+00:19:10,779 --> 00:19:12,489
+You guys shouldn't be here.
+
+203
+00:19:12,572 --> 00:19:15,700
+Don't worry, we have a plan.
+
+204
+00:19:15,784 --> 00:19:17,160
+I think.
+
+205
+00:19:24,000 --> 00:19:26,961
+I'm flying!
+
+206
+00:19:28,338 --> 00:19:30,131
+What the...
+Oh no, no, no, no!
+
+207
+00:19:30,215 --> 00:19:31,841
+Not again ! Oh!
+
+208
+00:19:38,807 --> 00:19:40,975
+Well, that was a good act!
+
+209
+00:19:43,228 --> 00:19:45,480
+It's those bleeding Jedi kids.
+
+210
+00:19:45,563 --> 00:19:48,233
+Wait... What? The children are Jedi?
+
+211
+00:19:48,316 --> 00:19:49,401
+Oh!
+
+212
+00:19:57,951 --> 00:19:59,953
+Get to those speeders!
+
+213
+00:20:03,623 --> 00:20:05,250
+We've gotta run for it!
+
+214
+00:20:06,042 --> 00:20:08,878
+Those blasted kids
+have screwed everything up!
+
+215
+00:20:08,962 --> 00:20:10,797
+Hondo's going to kill us!
+
+216
+00:20:24,602 --> 00:20:26,646
+Quick! Get to that speeder!
+
+217
+00:20:34,404 --> 00:20:35,655
+Get us out of here!
+
+218
+00:20:42,287 --> 00:20:43,788
+What is going on?
+
+219
+00:20:44,539 --> 00:20:46,416
+Where's my Jedi?
+
+220
+00:20:46,499 --> 00:20:49,127
+Someone stop them ! Hurry, Gwarm!
+
+221
+00:20:49,502 --> 00:20:51,045
+Get after them!
+
+222
+00:20:51,212 --> 00:20:52,756
+Ah.
+
+223
+00:20:52,839 --> 00:20:54,674
+I know how you feel.
+
+224
+00:20:55,216 --> 00:20:58,052
+You lost your master,
+
+225
+00:20:58,136 --> 00:21:01,347
+and I lost my Jedi.
+
+226
+00:21:02,140 --> 00:21:03,308
+Ugh.
+
+227
+00:21:14,944 --> 00:21:16,029
+How do you feel?
+
+228
+00:21:16,404 --> 00:21:18,239
+Better now.
+
+229
+00:21:18,698 --> 00:21:23,578
+I could pretend to be angry
+but you were all very brave, thank you.
+
+230
+00:21:24,204 --> 00:21:25,371
+We disobeyed orders.
+
+231
+00:21:25,830 --> 00:21:27,957
+Well, I've learned from my master
+
+232
+00:21:28,500 --> 00:21:32,629
+that sometimes doing the right thing
+means bending the rules.
+
+233
+00:21:34,130 --> 00:21:36,174
+Ganodi, come in, please.
+
+234
+00:21:36,257 --> 00:21:39,093
+Get the ship ready we need to take off.
+
+235
+00:21:39,117 --> 00:21:44,117
+http://hiqve.com/
+

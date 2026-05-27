@@ -1,0 +1,1162 @@
+1
+00:00:15,849 --> 00:00:17,142
+[narrator] Conspiracy!
+
+2
+00:00:17,225 --> 00:00:20,186
+After repeated setbacks
+on the planet Anaxes,
+
+3
+00:00:20,270 --> 00:00:22,772
+an elite clone squad
+is deployed to investigate
+
+4
+00:00:22,856 --> 00:00:25,358
+the Separatists' tactical advantage.
+
+5
+00:00:25,442 --> 00:00:28,069
+This special unit, called the Bad Batch,
+
+6
+00:00:28,153 --> 00:00:30,363
+infiltrates Admiral Trench's Cyber Center
+
+7
+00:00:30,447 --> 00:00:32,574
+to steal a strategic algorithm
+
+8
+00:00:32,657 --> 00:00:35,493
+capable of predicting
+the Republic's every move.
+
+9
+00:00:36,119 --> 00:00:37,662
+What our heroes found
+
+10
+00:00:37,746 --> 00:00:41,124
+was a live signal
+from the ARC trooper known as Echo,
+
+11
+00:00:41,207 --> 00:00:44,210
+a clone long believed to be dead.
+
+12
+00:00:59,559 --> 00:01:03,396
+[Hunter] Word is the general staff
+isn't completely behind this mission.
+
+13
+00:01:03,480 --> 00:01:07,484
+I admit the idea that Echo
+is still alive is a long shot.
+
+14
+00:01:07,567 --> 00:01:09,819
+I'm sure the Council
+will approve the mission.
+
+15
+00:01:09,903 --> 00:01:11,613
+Just remember the primary goal
+
+16
+00:01:11,696 --> 00:01:14,491
+is to learn how the Separatists
+are predicting our strategy,
+
+17
+00:01:14,574 --> 00:01:16,284
+whether it's Echo behind it or not.
+
+18
+00:01:16,701 --> 00:01:19,788
+Well, if you want my opinion,
+sounds like a trap,
+
+19
+00:01:19,871 --> 00:01:24,417
+but me and the boys will tag along anyway,
+if only to say "I told you so."
+
+20
+00:01:24,918 --> 00:01:26,461
+Just make sure you're ready
+
+21
+00:01:26,544 --> 00:01:28,505
+if we get the go-ahead
+from General Kenobi.
+
+22
+00:01:28,588 --> 00:01:31,007
+If you're certain
+he'll approve the mission, why wait?
+
+23
+00:01:31,091 --> 00:01:35,428
+-Let's get going.
+-First, we have that thing to do.
+
+24
+00:01:35,512 --> 00:01:38,014
+-Uh, what thing?
+-You know.
+
+25
+00:01:38,723 --> 00:01:40,600
+We don't have time for that, sir.
+
+26
+00:01:41,726 --> 00:01:43,061
+Yes, we do.
+
+27
+00:01:44,396 --> 00:01:47,107
+Well, I'll just let you two sort this out.
+
+28
+00:01:47,190 --> 00:01:49,776
+I'll be waiting on the ship
+with the rest of the team.
+
+29
+00:01:50,485 --> 00:01:52,445
+Come on, Rex. I'm late as it is.
+
+30
+00:02:24,144 --> 00:02:25,603
+[Padmé] You're late again.
+
+31
+00:02:28,481 --> 00:02:30,442
+Padmé, I'm so sorry.
+
+32
+00:02:30,525 --> 00:02:33,570
+We didn't anticipate
+the Outer Rim Sieges would last this long.
+
+33
+00:02:33,653 --> 00:02:36,614
+That would be why
+they call it a siege, Anakin.
+
+34
+00:02:36,698 --> 00:02:38,366
+I know, I just thought that I--
+
+35
+00:02:38,450 --> 00:02:43,329
+You thought you could bring a swift end
+to the conflict single-handedly.
+
+36
+00:02:44,039 --> 00:02:45,040
+Yeah.
+
+37
+00:02:45,123 --> 00:02:49,669
+[chuckles]
+Anakin, what you're doing is important.
+
+38
+00:02:49,753 --> 00:02:54,966
+The Republic needs you on the front lines
+just as they need my voice in the Senate.
+
+39
+00:02:55,759 --> 00:02:56,760
+I know.
+
+40
+00:03:10,690 --> 00:03:12,108
+Oh, great.
+
+41
+00:03:15,653 --> 00:03:16,863
+What is it?
+
+42
+00:03:17,280 --> 00:03:19,366
+[sighs] Obi-Wan is coming.
+
+43
+00:03:20,492 --> 00:03:22,619
+No, that's not it.
+
+44
+00:03:22,702 --> 00:03:24,204
+There's something else.
+
+45
+00:03:25,997 --> 00:03:27,207
+It's Rex.
+
+46
+00:03:27,290 --> 00:03:29,167
+I'm worried he's letting
+his personal feelings
+
+47
+00:03:29,250 --> 00:03:31,127
+drive him too much on this mission.
+
+48
+00:03:31,961 --> 00:03:34,255
+I wonder where he learned that.
+
+49
+00:03:35,173 --> 00:03:36,174
+[scoffs]
+
+50
+00:03:37,926 --> 00:03:39,344
+Rex, where's Anakin?
+
+51
+00:03:39,427 --> 00:03:41,179
+I need to speak to him about this mission.
+
+52
+00:03:41,262 --> 00:03:43,348
+Well, General, he's, um...
+
+53
+00:03:43,431 --> 00:03:45,642
+Well, he's inside your barracks, isn't he?
+
+54
+00:03:45,725 --> 00:03:46,851
+Yes, sir.
+
+55
+00:03:47,477 --> 00:03:48,853
+What's going on here?
+
+56
+00:03:49,270 --> 00:03:50,271
+Nothing, sir.
+
+57
+00:03:50,355 --> 00:03:53,024
+I was just waiting for the General...
+uh, General.
+
+58
+00:03:54,401 --> 00:03:57,070
+You'll have to do
+better than that, Captain.
+
+59
+00:03:57,946 --> 00:04:00,073
+You've known Rex a long time.
+
+60
+00:04:00,865 --> 00:04:06,162
+When you throw caution to the wind
+and take chances, where is he?
+
+61
+00:04:06,663 --> 00:04:07,997
+Right beside me.
+
+62
+00:04:08,748 --> 00:04:12,293
+Then maybe that's where you should be
+for him, Ani.
+
+63
+00:04:12,794 --> 00:04:16,423
+Trust his instincts like he trusts yours.
+
+64
+00:04:16,881 --> 00:04:19,175
+I'm just trying to look out for him.
+
+65
+00:04:20,010 --> 00:04:21,302
+I know you are.
+
+66
+00:04:24,014 --> 00:04:25,390
+I love you, Ani.
+
+67
+00:04:25,807 --> 00:04:26,808
+[sighs]
+
+68
+00:04:27,392 --> 00:04:28,393
+I love you too.
+
+69
+00:04:31,021 --> 00:04:33,314
+Then what is Anakin doing in there?
+
+70
+00:04:33,398 --> 00:04:37,068
+Ah, he's spot-checking my gear, sir.
+
+71
+00:04:37,152 --> 00:04:39,279
+Really? Without you?
+
+72
+00:04:39,362 --> 00:04:40,822
+Well...
+
+73
+00:04:41,781 --> 00:04:43,033
+Here you go, Rex.
+
+74
+00:04:43,116 --> 00:04:44,784
+-And try not to break it again.
+-Anakin.
+
+75
+00:04:44,868 --> 00:04:47,370
+About this mission, the Council thinks--
+
+76
+00:04:47,454 --> 00:04:49,330
+That it's a good idea? I agree.
+
+77
+00:04:49,414 --> 00:04:50,707
+Let's get moving, Rex.
+
+78
+00:04:50,790 --> 00:04:51,791
+No, wait. That's not--
+
+79
+00:04:51,875 --> 00:04:52,959
+[Anakin] No time.
+
+80
+00:04:54,586 --> 00:04:57,255
+I hope you at least told Padmé
+I said hello.
+
+81
+00:05:24,074 --> 00:05:27,077
+So, how many missions
+has your team been on, Sergeant?
+
+82
+00:05:27,660 --> 00:05:30,413
+Honestly, sir, I've lost count.
+
+83
+00:05:30,497 --> 00:05:32,874
+All the action sort of blurs together.
+
+84
+00:05:33,958 --> 00:05:38,254
+I know you work with Cody sometimes,
+but who do you guys report to?
+
+85
+00:05:38,755 --> 00:05:41,299
+Hmm... good question.
+
+86
+00:05:41,383 --> 00:05:43,301
+Can't say I've got an answer.
+
+87
+00:05:43,968 --> 00:05:44,969
+Yeah!
+
+88
+00:05:47,013 --> 00:05:49,224
+We are approaching Skako Minor.
+
+89
+00:05:49,307 --> 00:05:51,434
+It looks to be a difficult landing.
+
+90
+00:06:33,560 --> 00:06:36,354
+Rex, what do we know about this place?
+
+91
+00:06:36,438 --> 00:06:40,358
+On this part of Skako,
+there's a race of locals, the Poletecs.
+
+92
+00:06:40,442 --> 00:06:43,028
+All we know is they're very primitive.
+
+93
+00:06:43,111 --> 00:06:44,779
+"Primitive" is being kind.
+
+94
+00:06:44,863 --> 00:06:48,283
+My intel says
+the Poletecs worship flying reptiles.
+
+95
+00:06:49,325 --> 00:06:50,952
+[screeches]
+
+96
+00:06:51,036 --> 00:06:53,663
+Oh! What the heck was that?
+
+97
+00:06:53,747 --> 00:06:54,998
+It's one of those reptiles.
+
+98
+00:06:55,081 --> 00:06:56,916
+I want that thing off my ship.
+
+99
+00:06:57,000 --> 00:06:59,252
+Hold on! Hold on!
+Don't just run out there.
+
+100
+00:07:11,056 --> 00:07:13,433
+Hey! Get off of there!
+
+101
+00:07:13,516 --> 00:07:16,144
+Hey, calm down. We need to talk to them.
+
+102
+00:07:16,644 --> 00:07:18,688
+-Why?
+-The General's right.
+
+103
+00:07:20,315 --> 00:07:21,399
+Look out, Rex!
+
+104
+00:07:34,662 --> 00:07:36,081
+I have a thermal reading.
+
+105
+00:07:36,164 --> 00:07:38,750
+Point-two-five east, elevation 175.
+
+106
+00:07:39,167 --> 00:07:41,419
+Relax. I'll handle this.
+
+107
+00:07:45,674 --> 00:07:47,050
+What are you doing?
+
+108
+00:07:47,133 --> 00:07:48,760
+Going for a ride.
+
+109
+00:08:49,904 --> 00:08:52,907
+Tech, I'm with the General.
+Hone in on my signal.
+
+110
+00:08:55,076 --> 00:08:58,079
+[speaking alien language]
+
+111
+00:09:00,457 --> 00:09:01,708
+[growls]
+
+112
+00:09:03,585 --> 00:09:05,587
+-[speaking alien language]
+-[grunts]
+
+113
+00:09:08,965 --> 00:09:11,134
+[speaking alien language]
+
+114
+00:09:12,886 --> 00:09:16,806
+Okay, I think we're gonna have
+a slight communication problem here.
+
+115
+00:09:17,349 --> 00:09:20,352
+[speaking alien language]
+
+116
+00:09:36,743 --> 00:09:39,245
+That creature still has
+a hold of the General.
+
+117
+00:09:44,793 --> 00:09:47,212
+We're going in,
+but remember what the General said.
+
+118
+00:09:47,295 --> 00:09:50,256
+"No casualties, disarm only."
+
+119
+00:09:50,340 --> 00:09:51,758
+We're on it, Captain.
+
+120
+00:09:51,841 --> 00:09:53,802
+Wrecker, Crosshair, rockslide!
+
+121
+00:10:15,365 --> 00:10:17,575
+[speaking alien language]
+
+122
+00:10:33,800 --> 00:10:35,593
+[alien screeching]
+
+123
+00:10:37,220 --> 00:10:39,097
+[speaking alien language]
+
+124
+00:10:40,932 --> 00:10:42,892
+[speaking alien language]
+
+125
+00:10:45,729 --> 00:10:47,564
+Tech, translate what he said.
+
+126
+00:10:55,697 --> 00:10:59,909
+He says
+he does not want our war on his planet.
+
+127
+00:11:00,452 --> 00:11:02,120
+That is why he took our leader.
+
+128
+00:11:02,203 --> 00:11:04,039
+We didn't bring the war here.
+
+129
+00:11:04,122 --> 00:11:06,124
+It was Wat Tambor and the Separatists.
+
+130
+00:11:06,708 --> 00:11:12,547
+[speaking alien language]
+
+131
+00:11:12,630 --> 00:11:14,007
+...Separatists.
+
+132
+00:11:14,090 --> 00:11:15,091
+[beeping]
+
+133
+00:11:16,009 --> 00:11:18,178
+Tell him we apologize for what's happened.
+
+134
+00:11:18,261 --> 00:11:23,016
+But tell him the enemy is holding
+one of our men prisoner in Purkoll.
+
+135
+00:11:23,099 --> 00:11:27,228
+As soon as we rescue him,
+we'll leave his planet, for good.
+
+136
+00:11:29,022 --> 00:11:33,818
+[speaking alien language]
+
+137
+00:11:43,620 --> 00:11:46,498
+[speaking alien language]
+
+138
+00:11:47,499 --> 00:11:50,794
+[speaking alien language]
+
+139
+00:11:50,877 --> 00:11:53,046
+The chief says
+he will provide us with scouts
+
+140
+00:11:53,129 --> 00:11:55,298
+and lead us to Tambor's city.
+
+141
+00:11:55,382 --> 00:11:56,925
+From there, we're on our own.
+
+142
+00:11:57,759 --> 00:12:00,053
+Any help is better than no help.
+
+143
+00:12:06,267 --> 00:12:10,355
+We are receiving a transmission
+from Admiral Trench on Anaxes.
+
+144
+00:12:11,106 --> 00:12:12,190
+Put him through.
+
+145
+00:12:13,316 --> 00:12:17,112
+Pardon the intrusion, Minister Tambor...
+
+146
+00:12:18,321 --> 00:12:20,865
+but I have disturbing news.
+
+147
+00:12:21,408 --> 00:12:23,618
+You may proceed, Admiral.
+
+148
+00:12:24,994 --> 00:12:30,333
+An infiltration team of clones
+has traced the algorithm signal to Skako.
+
+149
+00:12:30,917 --> 00:12:34,421
+I believe your operation there
+is in jeopardy.
+
+150
+00:12:35,839 --> 00:12:39,092
+The Republic would not dare attack us.
+
+151
+00:12:39,175 --> 00:12:42,929
+The Techno Union has corporate neutrality.
+
+152
+00:12:43,013 --> 00:12:45,557
+From what I have seen,
+
+153
+00:12:45,640 --> 00:12:49,352
+that would not matter
+to these Republic operatives.
+
+154
+00:12:51,271 --> 00:12:53,773
+Then we shall be ready for them.
+
+155
+00:13:03,992 --> 00:13:05,827
+[speaking alien language]
+
+156
+00:13:09,456 --> 00:13:11,291
+Hope nobody's scared of heights.
+
+157
+00:13:13,710 --> 00:13:15,378
+Well, I'm not scared of nothing.
+
+158
+00:13:15,462 --> 00:13:20,550
+I just... When I'm up real high,
+I got a problem with gravity.
+
+159
+00:13:20,633 --> 00:13:22,260
+Speaking of problems,
+
+160
+00:13:22,344 --> 00:13:24,429
+I am no longer picking up Echo's signal.
+
+161
+00:13:24,512 --> 00:13:26,890
+I... I don't understand.
+
+162
+00:13:26,973 --> 00:13:28,808
+You said it was coming from this city.
+
+163
+00:13:28,892 --> 00:13:30,393
+I can only speculate,
+
+164
+00:13:30,477 --> 00:13:34,689
+but it is possible there's a latency issue
+with the frequency
+
+165
+00:13:34,773 --> 00:13:37,734
+caused by all these
+atmospheric disturbances.
+
+166
+00:13:38,151 --> 00:13:42,405
+Or... maybe they sent the signal
+to lure us into a trap.
+
+167
+00:13:42,489 --> 00:13:44,783
+And maybe your friend's actually dead.
+
+168
+00:13:45,450 --> 00:13:47,494
+Well, I can't be the only one
+thinking of that.
+
+169
+00:13:47,577 --> 00:13:49,704
+Look, every mission could be a trap.
+
+170
+00:13:49,788 --> 00:13:51,414
+This one is no different.
+
+171
+00:13:51,498 --> 00:13:55,794
+I'm telling you that signal is being sent
+by Echo himself! He's alive!
+
+172
+00:13:56,211 --> 00:13:59,464
+[Crosshair] I think you're letting
+your personal feelings get in the way
+
+173
+00:13:59,547 --> 00:14:02,133
+because you left him for dead
+at the Citadel.
+
+174
+00:14:02,217 --> 00:14:04,094
+I had no choice. You hear me?
+
+175
+00:14:04,177 --> 00:14:06,054
+Oh, I don't blame you.
+
+176
+00:14:06,638 --> 00:14:08,682
+I would've left him for dead too.
+
+177
+00:14:09,057 --> 00:14:11,976
+Besides, he's just another reg.
+
+178
+00:14:13,395 --> 00:14:14,604
+Hey!
+
+179
+00:14:15,313 --> 00:14:18,650
+Why don't you pick on someone
+not your size?
+
+180
+00:14:20,402 --> 00:14:22,696
+You'll be a whole lot smaller
+when I'm through with you.
+
+181
+00:14:23,655 --> 00:14:24,698
+That's enough!
+
+182
+00:14:26,741 --> 00:14:30,078
+Sergeant, take your men
+and scout the area for a tower entrance.
+
+183
+00:14:30,870 --> 00:14:32,539
+I want to talk to my Captain alone.
+
+184
+00:14:42,298 --> 00:14:45,301
+Rex, I hate to say it, but...
+
+185
+00:14:45,719 --> 00:14:49,723
+you have to prepare yourself
+for the possibility that Echo is dead,
+
+186
+00:14:49,806 --> 00:14:51,891
+and this is all a Separatist trick.
+
+187
+00:14:51,975 --> 00:14:56,271
+Sir, I have watched so many of my brothers
+fall during this war,
+
+188
+00:14:56,354 --> 00:14:58,815
+and I try not to hang on
+to any one of them.
+
+189
+00:14:58,898 --> 00:15:02,944
+But that changed
+when I heard that Separatist transmission.
+
+190
+00:15:03,028 --> 00:15:04,904
+It was no algorithm.
+
+191
+00:15:04,988 --> 00:15:07,657
+That was Echo's voice. I know it.
+
+192
+00:15:08,408 --> 00:15:09,743
+I hope you're right.
+
+193
+00:15:09,826 --> 00:15:12,704
+But if, for some reason, you're wrong...
+
+194
+00:15:12,787 --> 00:15:14,831
+Then I'll deal with it.
+
+195
+00:15:18,001 --> 00:15:20,378
+[wind howling]
+
+196
+00:15:37,145 --> 00:15:40,315
+We're in business, General.
+Tech regained Echo's signal.
+
+197
+00:15:40,398 --> 00:15:43,151
+It's coming from this tower.
+How's it going, Tech?
+
+198
+00:15:51,368 --> 00:15:52,786
+Sorry it took so long.
+
+199
+00:15:53,536 --> 00:15:55,288
+Hey, Crosshair, check it out.
+
+200
+00:15:59,042 --> 00:16:01,002
+Yeah, it's a lift.
+
+201
+00:16:01,419 --> 00:16:03,046
+Well, we already knew that.
+
+202
+00:16:03,838 --> 00:16:06,007
+Wait, wait, wait. A lift?
+
+203
+00:16:06,466 --> 00:16:08,093
+How far up are we going?
+
+204
+00:16:08,510 --> 00:16:12,222
+Don't worry, Wrecker. I'll hold your hand.
+
+205
+00:16:12,305 --> 00:16:14,140
+Hey! Cut it out, Sarge.
+
+206
+00:16:14,224 --> 00:16:16,142
+Just give me some droids to crush.
+
+207
+00:16:22,732 --> 00:16:25,443
+Remember, this is a stealth mission.
+
+208
+00:16:25,527 --> 00:16:28,321
+No blasting, no blowing things up.
+
+209
+00:16:28,405 --> 00:16:29,698
+Nobody knows we're here.
+
+210
+00:16:31,574 --> 00:16:32,701
+[yells]
+
+211
+00:16:32,784 --> 00:16:34,619
+Intruders! Attack!
+
+212
+00:16:38,206 --> 00:16:39,749
+Why?
+
+213
+00:16:41,584 --> 00:16:43,586
+So much for stealth.
+
+214
+00:17:05,984 --> 00:17:07,527
+Yeah! Hah! Ha-ha!
+
+215
+00:17:07,610 --> 00:17:09,279
+Yeah!
+
+216
+00:17:10,071 --> 00:17:14,034
+Uh... sorry. I just got excited.
+
+217
+00:17:16,703 --> 00:17:18,788
+I've still got a lock on Echo's signal.
+
+218
+00:17:19,789 --> 00:17:22,500
+All right, men. Let's hunt some droids.
+
+219
+00:17:22,917 --> 00:17:25,670
+Now you're talking! Yeah!
+
+220
+00:17:42,520 --> 00:17:45,106
+Where exactly
+is Echo's signal coming from?
+
+221
+00:17:45,190 --> 00:17:47,859
+Strange. I just lost the signal.
+
+222
+00:17:47,942 --> 00:17:49,444
+What? How can that be?
+
+223
+00:17:50,028 --> 00:17:52,655
+There's no "atmospheric disturbances"
+up here.
+
+224
+00:17:52,739 --> 00:17:54,240
+Well, I have a new theory.
+
+225
+00:17:54,324 --> 00:17:56,826
+I'm surprised
+I did not consider it earlier.
+
+226
+00:17:56,910 --> 00:18:00,413
+The signal is only traceable
+during data transmissions.
+
+227
+00:18:00,497 --> 00:18:04,668
+So until Echo dispenses more intel,
+I cannot pick up the signal.
+
+228
+00:18:04,751 --> 00:18:07,045
+Okay, we're splitting up.
+
+229
+00:18:07,128 --> 00:18:08,588
+Search every door.
+
+230
+00:18:08,672 --> 00:18:11,132
+If someone finds Echo, contact the others.
+
+231
+00:18:11,216 --> 00:18:14,761
+We go in together,
+just in case there's trouble.
+
+232
+00:18:33,697 --> 00:18:35,323
+Drop your weapon!
+
+233
+00:18:35,407 --> 00:18:37,200
+You are surrounded!
+
+234
+00:18:49,838 --> 00:18:51,840
+Ah! It appears the signal is back.
+
+235
+00:18:53,133 --> 00:18:54,426
+It's from up ahead.
+
+236
+00:18:59,222 --> 00:19:01,016
+In there.
+
+237
+00:19:16,114 --> 00:19:17,699
+Tech, open this door.
+
+238
+00:19:21,369 --> 00:19:24,372
+You clones are so predictable.
+
+239
+00:19:24,873 --> 00:19:26,541
+Wat Tambor.
+
+240
+00:19:26,624 --> 00:19:32,547
+Your algorithm predicted nearly every move
+you made to infiltrate Purkoll.
+
+241
+00:19:32,630 --> 00:19:34,382
+There is no algorithm.
+
+242
+00:19:34,841 --> 00:19:37,010
+We know you're holding
+a prisoner of war here.
+
+243
+00:19:37,385 --> 00:19:40,805
+Prisoner?
+I don't know what you mean, Captain.
+
+244
+00:19:40,889 --> 00:19:44,184
+I am leaving here with my friend.
+
+245
+00:19:44,267 --> 00:19:46,519
+Your friend is dead.
+
+246
+00:19:46,603 --> 00:19:48,772
+His mind is ours.
+
+247
+00:19:49,439 --> 00:19:50,440
+Liar!
+
+248
+00:19:54,986 --> 00:19:56,654
+Execute them.
+
+249
+00:20:46,955 --> 00:20:49,582
+Tech, open that door for Rex!
+
+250
+00:20:49,666 --> 00:20:50,667
+Yes, sir!
+
+251
+00:20:51,167 --> 00:20:53,503
+I hope you find
+what you're looking for, Captain.
+
+252
+00:21:17,193 --> 00:21:19,612
+I don't like the look of this.
+
+253
+00:21:26,494 --> 00:21:28,455
+I'm definitely picking up a life-form
+in there.
+
+254
+00:21:28,997 --> 00:21:31,291
+It seems to be a stasis chamber.
+
+255
+00:21:31,916 --> 00:21:33,543
+I think I can get it open.
+
+256
+00:21:48,641 --> 00:21:50,518
+Echo. Tech.
+
+257
+00:21:51,102 --> 00:21:52,479
+We got to get him out of here.
+
+258
+00:21:52,562 --> 00:21:55,648
+Figure out how to unplug him from--
+from this mess.
+
+259
+00:22:02,530 --> 00:22:04,532
+What have they done to you?
+
+260
+00:22:04,616 --> 00:22:09,162
+We-- We have to get to the shuttle
+to escape the Citadel.
+
+261
+00:22:09,245 --> 00:22:11,456
+-No! I'll go first.
+-Echo.
+
+262
+00:22:11,539 --> 00:22:14,501
+-No! No. No.
+-Echo, it's Rex. I'm here.
+
+263
+00:22:14,584 --> 00:22:15,585
+No.
+
+264
+00:22:16,378 --> 00:22:20,465
+Rex? You, you came back for me.
+
+265
+00:22:21,341 --> 00:22:23,593
+Yes. Yes, I did.
+
+266
+00:22:24,219 --> 00:22:25,220
+What?
+
+267
+00:22:25,679 --> 00:22:28,848
+What happened? Where am I?
+
+268
+00:22:29,182 --> 00:22:32,060
+It's okay, Echo. You're safe now.
+
+269
+00:22:32,686 --> 00:22:33,937
+Just sit tight, trooper.
+
+270
+00:22:35,021 --> 00:22:36,398
+You're going home.
+
+271
+00:22:48,743 --> 00:22:52,455
+[theme music playing]
+

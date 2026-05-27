@@ -1,0 +1,797 @@
+﻿1
+00:00:17,434 --> 00:00:19,425
+<i>Trapped behind enemy lines!</i>
+
+2
+00:00:19,811 --> 00:00:22,974
+<i>Carrying secret information
+vital to the Republic's war effort,</i>
+
+3
+00:00:23,106 --> 00:00:27,646
+<i>Jedi Master Even Piell and Captain Tarkin
+were taken prisoner by the Separatists.</i>
+
+4
+00:00:28,278 --> 00:00:32,021
+<i>An elite strike team, led by
+Obi-Wan Kenobi and Anakin Skywalker</i>
+
+5
+00:00:32,115 --> 00:00:35,949
+<i>landed on the planet Lola Sayu
+and infiltrated the prison.</i>
+
+6
+00:00:36,036 --> 00:00:38,368
+<i>The team rescued Master Piell and Tarkin,</i>
+
+7
+00:00:38,539 --> 00:00:42,203
+<i>but they were pursued by the prison's
+evil commandant Osi Sobeck.</i>
+
+8
+00:00:42,793 --> 00:00:45,455
+<i>During the escape,
+their ship was destroyed.</i>
+
+9
+00:00:45,796 --> 00:00:47,378
+<i>Now we find them on the run,</i>
+
+10
+00:00:47,464 --> 00:00:50,456
+<i>desperate to escape the trap
+that is the citadel.</i>
+
+11
+00:00:56,139 --> 00:00:57,629
+We're clear!
+
+12
+00:01:02,062 --> 00:01:03,143
+What's our next move?
+
+13
+00:01:03,480 --> 00:01:05,642
+We're going to have to
+fight our way off this rock.
+
+14
+00:01:05,857 --> 00:01:09,020
+Contact the Council,
+see when they plan to rescue us.
+
+15
+00:01:09,361 --> 00:01:10,396
+I'll handle it.
+
+16
+00:01:14,700 --> 00:01:17,658
+<i>Master PieH, it's good to see you alive,
+my friend.</i>
+
+17
+00:01:17,703 --> 00:01:19,193
+Likewise, Master Windu.
+
+18
+00:01:19,830 --> 00:01:21,992
+Our escape route has been compromised
+
+19
+00:01:22,082 --> 00:01:25,370
+and there are several squads of droids
+closing in on us.
+
+20
+00:01:25,502 --> 00:01:26,992
+When can we expect your arrival?
+
+21
+00:01:27,546 --> 00:01:29,537
+Master Plo is already en route.
+
+22
+00:01:29,840 --> 00:01:32,923
+Gunships will arrive
+to evacuate you and your men,
+
+23
+00:01:33,343 --> 00:01:34,549
+but do not delay,
+
+24
+00:01:34,761 --> 00:01:37,503
+<i>only a small window of opportunity
+shall we have.</i>
+
+25
+00:01:37,681 --> 00:01:40,343
+<i>Your rendezvous point will be this island.</i>
+
+26
+00:01:41,560 --> 00:01:42,595
+<i>Understood.</i>
+
+27
+00:01:43,061 --> 00:01:44,722
+May the Force be with you.
+
+28
+00:01:52,404 --> 00:01:53,519
+Incoming!
+
+29
+00:02:09,296 --> 00:02:10,912
+No doubt there's more on the way.
+
+30
+00:02:24,728 --> 00:02:27,345
+Count Dooku, My Lord.
+
+31
+00:02:27,814 --> 00:02:32,183
+<i>Commander Sobeck, you've been
+avoiding my transmissions.</i>
+
+32
+00:02:32,402 --> 00:02:35,144
+My deepest respect.
+
+33
+00:02:35,280 --> 00:02:38,739
+I was hoping to surprise you
+with good news.
+
+34
+00:02:39,076 --> 00:02:42,444
+<i>Good news would indeed be a surprise.</i>
+
+35
+00:02:44,122 --> 00:02:45,863
+<i>Have the prisoners been captured?</i>
+
+36
+00:02:46,333 --> 00:02:47,698
+Not yet, My Lord.
+
+37
+00:02:48,251 --> 00:02:51,994
+But we've located their position
+and my droids are moving in now.
+
+38
+00:02:52,506 --> 00:02:57,467
+<i>i need not remind you that the prisoners
+are carrying secret hyperspace coordinates</i>
+
+39
+00:02:57,552 --> 00:03:03,047
+<i>into the core systems of the Republic
+and our Separatist home worlds.</i>
+
+40
+00:03:03,308 --> 00:03:07,176
+<i>This information will allow us to launch
+a surprise attack on Coruscant,</i>
+
+41
+00:03:07,479 --> 00:03:12,064
+<i>striking a crippling blow to the Republic
+and the Jedi.</i>
+
+42
+00:03:12,693 --> 00:03:17,403
+Yes, My Lord. I will see to it
+that they are soon back in our possession.
+
+43
+00:03:18,281 --> 00:03:20,238
+<i>You should know, Commander,</i>
+
+44
+00:03:20,409 --> 00:03:24,277
+<i>right now your honesty is the only thing
+keeping you alive.</i>
+
+45
+00:03:40,595 --> 00:03:41,835
+They're boxing us in!
+
+46
+00:03:42,139 --> 00:03:43,846
+Lock in your cables!
+
+47
+00:03:44,057 --> 00:03:47,800
+Artoo, we need your droids
+to hold off the enemy as long as possible.
+
+48
+00:03:49,187 --> 00:03:51,554
+Good. Everybody, follow me!
+
+49
+00:03:51,898 --> 00:03:53,434
+This is sheer madness!
+
+50
+00:04:01,366 --> 00:04:02,481
+We understand, sir.
+
+51
+00:04:02,576 --> 00:04:04,988
+We will delay the enemy
+as long as possible.
+
+52
+00:04:07,289 --> 00:04:08,871
+Prepare for attack.
+
+53
+00:04:09,416 --> 00:04:11,908
+It was an honor to serve under you, sir.
+
+54
+00:04:15,130 --> 00:04:16,291
+Keep moving!
+
+55
+00:04:16,715 --> 00:04:19,548
+All for one and one for...
+
+56
+00:04:36,818 --> 00:04:38,775
+Keep moving, keep moving!
+
+57
+00:04:55,212 --> 00:04:58,330
+Master Tiin, you should be leading
+the fighter attack.
+
+58
+00:04:58,882 --> 00:05:01,123
+Once you punch a hole
+through their defenses,
+
+59
+00:05:01,301 --> 00:05:04,839
+I will lead the gunships down to the surface
+and extract the team.
+
+60
+00:05:05,347 --> 00:05:07,839
+<i>Depending on the size of their force,</i>
+
+61
+00:05:08,141 --> 00:05:10,724
+<i>l don't know how much time
+we can buy you.</i>
+
+62
+00:05:11,228 --> 00:05:13,219
+You will do your best, I'm sure.
+
+63
+00:05:13,814 --> 00:05:16,932
+If the team isn't at the extraction point
+when you arrive,
+
+64
+00:05:17,025 --> 00:05:20,859
+you may be forced to leave them,
+or put us all at risk.
+
+65
+00:05:21,363 --> 00:05:24,151
+<i>I'm afraid Master GaHia is right.</i>
+
+66
+00:05:24,699 --> 00:05:25,985
+They'll be there.
+
+67
+00:05:27,911 --> 00:05:31,404
+The prisoners have evaded us long enough.
+
+68
+00:05:31,915 --> 00:05:36,125
+Bring out the anoobas!
+Use them for tracking only!
+
+69
+00:05:50,267 --> 00:05:54,010
+Contact me as soon as the fugitives
+have been located.
+
+70
+00:05:54,145 --> 00:05:55,226
+Roger, roger.
+
+71
+00:06:08,159 --> 00:06:11,572
+What if your Jedi friends are not there
+when we arrive?
+
+72
+00:06:11,913 --> 00:06:15,122
+Keep moving and you won't
+have to worry about that, Tarkin.
+
+73
+00:06:18,962 --> 00:06:22,705
+Why did Master Piell have to share
+half of the intel with that guy?
+
+74
+00:06:22,924 --> 00:06:25,291
+It's like he's not even grateful
+we rescued him.
+
+75
+00:06:25,552 --> 00:06:27,919
+Captain Tarkin feels the Jedi should be
+
+76
+00:06:28,305 --> 00:06:30,421
+relieved from the burden
+of leading the war effort.
+
+77
+00:06:30,891 --> 00:06:32,381
+That's ridiculous.
+
+78
+00:06:32,642 --> 00:06:36,260
+Maybe, but we aren't soldiers,
+we're peacekeepers.
+
+79
+00:06:36,855 --> 00:06:40,223
+The Jedi code often prevents us from
+going far enough to achieve victory.
+
+80
+00:06:40,775 --> 00:06:42,686
+A rather simple point of view.
+
+81
+00:06:43,153 --> 00:06:45,485
+Either way, he is a good captain.
+
+82
+00:06:48,742 --> 00:06:49,777
+Did you hear that?
+
+83
+00:06:49,868 --> 00:06:53,031
+Yes. We're going to have company.
+
+84
+00:07:08,386 --> 00:07:12,345
+Commander, the additional reinforcements
+have arrived.
+
+85
+00:07:12,724 --> 00:07:15,011
+<i>Tighten your grip, K2-B4.</i>
+
+86
+00:07:15,602 --> 00:07:18,515
+<i>The Republic will almost certainly attempt
+a second mission</i>
+
+87
+00:07:18,688 --> 00:07:22,602
+<i>to infiltrate our defenses
+and rescue the prisoners.</i>
+
+88
+00:07:23,193 --> 00:07:28,063
+<i>I'm counting on you to ensure
+that nothing slips past our blockade.</i>
+
+89
+00:07:35,705 --> 00:07:38,538
+You know, it's not wise
+to argue with Master Piell.
+
+90
+00:07:39,709 --> 00:07:41,746
+It's certainly not a good career move.
+
+91
+00:07:41,920 --> 00:07:46,255
+General Skywalker,
+I stand by my principles. No matter what.
+
+92
+00:07:46,549 --> 00:07:49,382
+Besides, I needn't worry about my career.
+
+93
+00:07:49,552 --> 00:07:51,384
+I've fallen into favor with the Chancellor.
+
+94
+00:07:53,431 --> 00:07:54,717
+He shall support me.
+
+95
+00:07:55,684 --> 00:07:58,096
+I happen to know the Chancellor
+quite well, myself.
+
+96
+00:07:58,561 --> 00:08:00,472
+Oh... Really?
+
+97
+00:08:01,272 --> 00:08:02,353
+Really.
+
+98
+00:08:02,607 --> 00:08:04,018
+Let's keep moving.
+
+99
+00:08:04,067 --> 00:08:07,355
+If we're not at the rendezvous
+at the exact time, we'll miss our window.
+
+100
+00:08:12,075 --> 00:08:13,236
+Those creatures are gaining.
+
+101
+00:08:14,411 --> 00:08:17,904
+If they've caught our scent,
+they'll lead the droids right to us.
+
+102
+00:08:18,248 --> 00:08:19,864
+We're gonna have to deal with them.
+
+103
+00:08:20,083 --> 00:08:22,245
+What about using this cave
+to surprise them?
+
+104
+00:08:23,086 --> 00:08:26,545
+If we can get them to pass by,
+we can attack them from behind.
+
+105
+00:08:26,715 --> 00:08:28,376
+But we need a distraction.
+
+106
+00:08:28,717 --> 00:08:30,128
+Leave that to me.
+
+107
+00:08:31,594 --> 00:08:33,084
+And Obi-Wan, of course.
+
+108
+00:08:33,638 --> 00:08:36,255
+Okay, the rest of you, follow me.
+
+109
+00:09:55,303 --> 00:09:58,512
+Keep going!
+Ahsoka and I will take care of the droids.
+
+110
+00:11:22,891 --> 00:11:23,926
+Master Piell!
+
+111
+00:11:39,282 --> 00:11:40,693
+I have to get help.
+
+112
+00:11:40,783 --> 00:11:43,525
+No. Don't leave.
+
+113
+00:11:44,370 --> 00:11:46,702
+Listen to me carefully, child.
+
+114
+00:11:47,123 --> 00:11:52,118
+The information, I need you to
+deliver it back to the Council.
+
+115
+00:11:52,295 --> 00:11:54,582
+I should find Anakin or Obi-Wan.
+
+116
+00:11:54,964 --> 00:11:56,295
+They need to hear this.
+
+117
+00:11:56,466 --> 00:11:59,709
+No. You must listen.
+
+118
+00:11:59,928 --> 00:12:01,965
+But I wasn't assigned to the team.
+
+119
+00:12:02,305 --> 00:12:04,797
+I lied just so I could be
+a part of the mission.
+
+120
+00:12:05,099 --> 00:12:08,808
+Whether you were meant to be
+on this mission or not,
+
+121
+00:12:08,937 --> 00:12:12,396
+you are now the most important part of it.
+
+122
+00:12:13,107 --> 00:12:15,064
+Remember this.
+
+123
+00:12:15,318 --> 00:12:18,982
+And see to it that the information
+I'm about to give you
+
+124
+00:12:19,072 --> 00:12:23,657
+is revealed to no one but the Jedi Council.
+
+125
+00:12:28,957 --> 00:12:33,121
+Sir! The anoobas have located the fugitives
+along the northern shore.
+
+126
+00:12:33,336 --> 00:12:37,671
+Squad, come with me!
+I will deal with this personally.
+
+127
+00:12:45,181 --> 00:12:46,797
+So much for the hunting party.
+
+128
+00:12:47,183 --> 00:12:48,799
+There are more squads on their way.
+
+129
+00:12:51,479 --> 00:12:52,514
+Oh, no.
+
+130
+00:13:12,542 --> 00:13:14,158
+He died honorably.
+
+131
+00:13:15,753 --> 00:13:16,993
+What about the information?
+
+132
+00:13:17,755 --> 00:13:20,417
+I have it. He told me just before he died.
+
+133
+00:13:29,100 --> 00:13:31,216
+We don't have much time.
+
+134
+00:13:31,352 --> 00:13:35,391
+Let's take this moment to honor him,
+then we must move on.
+
+135
+00:13:36,065 --> 00:13:37,897
+He would have wanted us
+to complete our mission.
+
+136
+00:14:37,126 --> 00:14:41,791
+There have not been battles like these
+since the days of the Old Republic.
+
+137
+00:14:43,424 --> 00:14:45,586
+Indeed. Good hunting.
+
+138
+00:15:20,670 --> 00:15:21,831
+There's the extraction point.
+
+139
+00:15:43,860 --> 00:15:44,895
+Incoming!
+
+140
+00:15:51,075 --> 00:15:52,531
+Look what I found!
+
+141
+00:16:14,724 --> 00:16:16,214
+They are too many droid fighters.
+
+142
+00:16:16,392 --> 00:16:18,508
+We need more time
+to break through the blockade.
+
+143
+00:16:20,563 --> 00:16:23,897
+We're out of time, Master Tiin.
+We must break through now.
+
+144
+00:16:24,400 --> 00:16:28,268
+Very well. Wing commanders form up.
+We're going in.
+
+145
+00:17:16,953 --> 00:17:17,988
+Captain!
+
+146
+00:17:18,287 --> 00:17:22,906
+If I can't have the information,
+it will die with you.
+
+147
+00:17:32,635 --> 00:17:34,672
+My thanks, Padawan Tano.
+
+148
+00:17:36,097 --> 00:17:38,008
+I see you've trained her well.
+
+149
+00:17:40,142 --> 00:17:41,803
+The rescue ship should be here by now.
+
+150
+00:17:42,144 --> 00:17:44,306
+So should the rest of the Separatist army!
+
+151
+00:17:51,946 --> 00:17:54,028
+I believe you've worn out your welcome.
+
+152
+00:18:19,348 --> 00:18:22,807
+Admiral Coburn, we have the survivors.
+Recall all fighters.
+
+153
+00:18:23,311 --> 00:18:25,973
+Yes, General.
+Prepare to jump to lightspeed.
+
+154
+00:19:19,200 --> 00:19:20,565
+We're all ready, Admiral.
+
+155
+00:19:31,796 --> 00:19:35,130
+Of Master Piell's loss, we are sorry to hear.
+
+156
+00:19:36,092 --> 00:19:37,253
+He will be missed.
+
+157
+00:19:37,885 --> 00:19:42,630
+Because of his great sacrifice,
+we now have the Nexus Route coordinates.
+
+158
+00:19:43,057 --> 00:19:46,721
+Captain Tarkin and Ahsoka
+have each memorized half.
+
+159
+00:19:47,061 --> 00:19:48,677
+Debrief them both, we must.
+
+160
+00:19:49,271 --> 00:19:51,763
+With all due respect, Master Jedi,
+
+161
+00:19:51,899 --> 00:19:53,936
+I was instructed by Chancellor Palpatine
+
+162
+00:19:54,068 --> 00:19:56,776
+to bring the intel directly to him
+for debriefing.
+
+163
+00:19:57,029 --> 00:20:00,863
+I promised Master Piell that
+I would deliver it only to the Council.
+
+164
+00:20:01,534 --> 00:20:03,241
+And that's what I will do.
+
+165
+00:20:04,286 --> 00:20:05,276
+Hmm...
+
+166
+00:20:05,413 --> 00:20:10,283
+Personally meet with the Chancellor, I will.
+Decide what is best to do, we shall.
+
+167
+00:20:12,795 --> 00:20:15,207
+Master Plo, there's something
+we want to ask you.
+
+168
+00:20:16,132 --> 00:20:17,964
+Did you assign Ahsoka to the mission?
+
+169
+00:20:22,888 --> 00:20:24,253
+It appears I did.
+
+170
+00:20:33,232 --> 00:20:35,269
+Ajob well done, General Skywalker.
+
+171
+00:20:39,447 --> 00:20:42,906
+I wish more Jedi
+had your military sensibilities.
+
+172
+00:20:45,911 --> 00:20:48,653
+Perhaps I can inform the Chancellor
+of your valor.
+
+173
+00:20:50,332 --> 00:20:53,290
+I'm not sure what to think of your new ally.
+
+174
+00:20:53,919 --> 00:20:56,627
+Well, I think we need people like him.
+
+175
+00:20:57,006 --> 00:21:00,670
+This is a war. If we aren't willing to do
+what it takes to win,
+
+176
+00:21:01,427 --> 00:21:03,668
+we risk losing everything we try to protect.
+
+177
+00:21:04,305 --> 00:21:07,923
+Unfortunately, war tends to distort
+our point of view.
+
+178
+00:21:08,601 --> 00:21:11,684
+If we sacrifice our code, even for victory,
+
+179
+00:21:12,354 --> 00:21:16,348
+we may lose that which is most important,
+ourhonon
+
+180
+00:22:07,368 --> 00:22:08,403
+English - SDH
+

@@ -1,0 +1,1140 @@
+﻿1
+00:00:10,582 --> 00:00:10,699
+h
+
+2
+00:00:10,700 --> 00:00:10,816
+ht
+
+3
+00:00:10,817 --> 00:00:10,934
+htt
+
+4
+00:00:10,935 --> 00:00:11,052
+http
+
+5
+00:00:11,053 --> 00:00:11,169
+http:
+
+6
+00:00:11,170 --> 00:00:11,287
+http:/
+
+7
+00:00:11,288 --> 00:00:11,405
+http://
+
+8
+00:00:11,406 --> 00:00:11,522
+http://h
+
+9
+00:00:11,523 --> 00:00:11,640
+http://hi
+
+10
+00:00:11,641 --> 00:00:11,757
+http://hiq
+
+11
+00:00:11,758 --> 00:00:11,875
+http://hiqv
+
+12
+00:00:11,876 --> 00:00:11,993
+http://hiqve
+
+13
+00:00:11,994 --> 00:00:12,110
+http://hiqve.
+
+14
+00:00:12,111 --> 00:00:12,228
+http://hiqve.c
+
+15
+00:00:12,229 --> 00:00:12,346
+http://hiqve.co
+
+16
+00:00:12,347 --> 00:00:12,463
+http://hiqve.com
+
+17
+00:00:12,464 --> 00:00:12,581
+http://hiqve.com/
+
+18
+00:00:12,582 --> 00:00:15,582
+http://hiqve.com/
+
+19
+00:00:18,606 --> 00:00:20,483
+<i>Fugitives on the run!</i>
+
+20
+00:00:20,566 --> 00:00:23,236
+<i>Disguised as Jedi killer, Rako Hardeen,</i>
+
+21
+00:00:23,277 --> 00:00:25,238
+<i>Obi-Wan Kenobi works undercover</i>
+
+22
+00:00:25,279 --> 00:00:28,449
+<i>to solve a Separatist plot
+against Chancellor Palpatine.</i>
+
+23
+00:00:28,783 --> 00:00:32,328
+<i>Obi-Wan meets the plot's mastermind,
+Moralo Eval,</i>
+
+24
+00:00:32,411 --> 00:00:35,122
+<i>breaking him out of jail to gain his trust.</i>
+
+25
+00:00:35,206 --> 00:00:38,042
+<i>But now, Kenobi faces another obstacle,</i>
+
+26
+00:00:38,125 --> 00:00:40,211
+<i>bounty hunter, Cad Bane.</i>
+
+27
+00:00:40,628 --> 00:00:43,881
+<i>Can Obi-Wan Kenobi
+overcome Bane's suspicions?</i>
+
+28
+00:00:43,965 --> 00:00:46,801
+<i>Or will the ruthless criminal
+see through his disguise</i>
+
+29
+00:00:46,926 --> 00:00:48,344
+<i>and expose the Jedi?</i>
+
+30
+00:00:48,594 --> 00:00:50,263
+<i>Only time will tell.</i>
+
+31
+00:00:52,014 --> 00:00:54,225
+We're coming in too fast, Hardeen.
+
+32
+00:00:54,308 --> 00:00:55,476
+Are you trying to kill us?
+
+33
+00:00:55,810 --> 00:00:58,145
+They'll be waiting for us
+at every space port.
+
+34
+00:00:58,229 --> 00:00:59,647
+We have to ditch the ship.
+
+35
+00:01:01,816 --> 00:01:04,694
+You mean you're going
+to intentionally crash us into the swamp?
+
+36
+00:01:04,986 --> 00:01:07,905
+Yeah, that is exactly what I'm gonna do.
+
+37
+00:01:07,989 --> 00:01:10,491
+He's right. We have no choice.
+
+38
+00:01:10,825 --> 00:01:12,785
+Get ready for a fast exit.
+
+39
+00:01:54,535 --> 00:01:57,747
+Nobody can trace us here.
+The swamp will swallow up the ship.
+
+40
+00:01:58,372 --> 00:02:01,292
+So we leave no trace of our crash.
+
+41
+00:02:01,375 --> 00:02:04,962
+Moralo Eval likes a man who plans ahead.
+
+42
+00:02:09,634 --> 00:02:12,136
+You do have a plan?
+
+43
+00:02:12,720 --> 00:02:15,306
+Yeah, I know Nal Hutta.
+
+44
+00:02:15,389 --> 00:02:18,017
+We can get a new ship
+at the Bilbousa Bazaar,
+
+45
+00:02:18,059 --> 00:02:20,061
+but this time, we buy one.
+
+46
+00:02:20,102 --> 00:02:22,897
+Otherwise, we'll have the authorities
+back on our tail.
+
+47
+00:02:23,272 --> 00:02:24,649
+Not so fast.
+
+48
+00:02:24,732 --> 00:02:27,526
+We need to ditch these prison fatigues.
+
+49
+00:02:27,568 --> 00:02:30,237
+We'll have a bounty on our heads
+for escaping
+
+50
+00:02:30,279 --> 00:02:33,032
+and I don't like to stand out.
+
+51
+00:02:52,551 --> 00:02:54,637
+That's local security.
+
+52
+00:02:54,720 --> 00:02:56,514
+Keep moving.
+
+53
+00:03:04,939 --> 00:03:07,316
+We'll get some new gear and equipment.
+
+54
+00:03:07,733 --> 00:03:09,777
+Pablo's pawn shop
+
+55
+00:03:09,860 --> 00:03:13,280
+has everything a bounty hunter needs
+and more.
+
+56
+00:03:27,712 --> 00:03:30,047
+Now all I need's a new hat.
+
+57
+00:03:35,594 --> 00:03:36,679
+For trying to blend in,
+
+58
+00:03:36,762 --> 00:03:39,181
+your hat sure makes you stand out.
+
+59
+00:03:41,058 --> 00:03:43,602
+I don't like to hide under a helmet.
+
+60
+00:03:44,687 --> 00:03:48,774
+Is there anything else you desire?
+A new ship?
+
+61
+00:03:48,816 --> 00:03:51,986
+Your choice of weapons is lousy, Pablo.
+
+62
+00:03:52,069 --> 00:03:54,530
+Where can I get some quality blasters?
+
+63
+00:03:54,989 --> 00:03:59,201
+I wouldn't be too picky being on the run,
+like you obviously are.
+
+64
+00:04:02,455 --> 00:04:05,750
+I'd keep my mouth shut if I were you, Pablo.
+
+65
+00:04:05,833 --> 00:04:08,210
+We'll get our weapons elsewhere.
+
+66
+00:04:10,337 --> 00:04:12,047
+Thanks for the hat.
+
+67
+00:04:13,382 --> 00:04:14,633
+For your trouble.
+
+68
+00:04:21,223 --> 00:04:23,893
+That trader's heard worse threats
+than yours, Bane.
+
+69
+00:04:23,976 --> 00:04:25,686
+Probably calling the Hutts right now,
+
+70
+00:04:25,728 --> 00:04:27,188
+seeing what kind of bounty there is on us.
+
+71
+00:04:32,777 --> 00:04:33,903
+Relax.
+
+72
+00:04:34,320 --> 00:04:37,364
+On this slime-pool, everybody's an outlaw.
+
+73
+00:04:37,615 --> 00:04:40,409
+Besides, they'll be looking for three of us.
+
+74
+00:04:40,493 --> 00:04:41,577
+So we're splitting up.
+
+75
+00:04:42,036 --> 00:04:44,538
+You find a ship, we'll get weapons.
+
+76
+00:04:45,873 --> 00:04:47,541
+Not so fast.
+
+77
+00:04:47,666 --> 00:04:51,128
+If it's all the same to you,
+I'll get the weapons.
+
+78
+00:04:51,212 --> 00:04:53,380
+It's not the same to me.
+
+79
+00:04:53,422 --> 00:04:56,675
+You crashed the ship,
+you get us a new one.
+
+80
+00:05:00,554 --> 00:05:02,807
+It does seem fair.
+
+81
+00:05:07,603 --> 00:05:10,648
+Soon as we have a ship, we ditch Hardeen.
+
+82
+00:05:11,273 --> 00:05:12,566
+Really?
+
+83
+00:05:12,733 --> 00:05:14,235
+We'll throw him to the Hutts.
+
+84
+00:05:14,276 --> 00:05:17,238
+While they interrogate him,
+we'll be long gone.
+
+85
+00:05:18,155 --> 00:05:22,326
+Tell me, is this business or personal?
+
+86
+00:05:24,286 --> 00:05:25,746
+Both.
+
+87
+00:05:37,758 --> 00:05:39,760
+No, no, no. That's my final offer.
+
+88
+00:05:51,230 --> 00:05:53,607
+All right then, it's a deal.
+
+89
+00:05:53,649 --> 00:05:54,859
+Good timing.
+
+90
+00:05:54,942 --> 00:05:57,236
+Soon as you pay for the ship,
+we can get moving.
+
+91
+00:05:57,278 --> 00:05:59,113
+With pleasure.
+
+92
+00:06:00,364 --> 00:06:01,907
+Hey, where's my weapon?
+
+93
+00:06:02,324 --> 00:06:04,952
+Won't need it. You're not coming.
+
+94
+00:06:05,244 --> 00:06:06,495
+Says who?
+
+95
+00:06:07,621 --> 00:06:12,001
+He doesn't want to split his fee
+for breaking me out of prison.
+
+96
+00:06:12,084 --> 00:06:15,129
+And also, he despises you.
+
+97
+00:06:16,338 --> 00:06:19,717
+All I know is I'm not going anywhere
+without my reward.
+
+98
+00:06:19,800 --> 00:06:23,012
+I'm sorry. This is between you two.
+
+99
+00:06:24,013 --> 00:06:26,015
+What's it gonna be, Bane?
+
+100
+00:06:32,980 --> 00:06:34,815
+Here's your reward,
+
+101
+00:06:34,857 --> 00:06:37,318
+I'm not killing you.
+
+102
+00:06:58,839 --> 00:06:59,924
+Where am I?
+
+103
+00:07:01,508 --> 00:07:03,886
+You're a guest of the Hutts.
+
+104
+00:07:03,969 --> 00:07:07,973
+If you do not answer my questions
+about your two partners,
+
+105
+00:07:09,600 --> 00:07:12,144
+we will not be so hospitable.
+
+106
+00:07:17,191 --> 00:07:19,193
+You call this hospitable?
+
+107
+00:07:20,736 --> 00:07:23,072
+Wait. Torture won't be necessary.
+
+108
+00:07:23,155 --> 00:07:24,823
+My partners double-crossed me,
+
+109
+00:07:25,574 --> 00:07:27,785
+but I put a tracking device on their ship.
+
+110
+00:07:28,035 --> 00:07:30,996
+Let me down and I'll tell you the frequency.
+
+111
+00:07:35,793 --> 00:07:39,380
+Now tell us the tracking frequency.
+
+112
+00:07:45,344 --> 00:07:48,847
+Yes, Count Dooku. I'm sorry I was delayed.
+
+113
+00:07:48,931 --> 00:07:50,182
+I'm free now.
+
+114
+00:07:50,224 --> 00:07:53,018
+I'll try to reach Serenno
+as soon as possible.
+
+115
+00:07:53,477 --> 00:07:55,729
+<i>No more excuses, Eval.</i>
+
+116
+00:07:55,813 --> 00:07:58,148
+<i>Time is running short.</i>
+
+117
+00:07:58,232 --> 00:08:01,443
+Yes, Count Dooku, no more excuses.
+
+118
+00:08:03,404 --> 00:08:05,322
+You said it yourself, Eval.
+
+119
+00:08:05,406 --> 00:08:08,867
+You're free now. I want my money.
+
+120
+00:08:08,909 --> 00:08:13,414
+After the weapons and the ship,
+I have very few credits left.
+
+121
+00:08:13,539 --> 00:08:16,250
+You'll be paid when we reach Serenno.
+
+122
+00:08:20,921 --> 00:08:22,840
+What is this? Who is attacking us?
+
+123
+00:08:23,298 --> 00:08:24,633
+The Hutts!
+
+124
+00:08:24,758 --> 00:08:26,552
+How did they find us so quickly?
+
+125
+00:08:26,844 --> 00:08:29,763
+Hardeen, trying to even the score.
+
+126
+00:08:33,142 --> 00:08:35,936
+The engines are fried,
+we'll have to turn back.
+
+127
+00:08:42,443 --> 00:08:45,112
+<i>Their ship will crash soon on Nal Hutta.</i>
+
+128
+00:08:45,154 --> 00:08:47,614
+<i>Be there to capture the fugitives.</i>
+
+129
+00:08:50,451 --> 00:08:52,286
+You found the ship like I said.
+
+130
+00:08:54,371 --> 00:08:56,331
+Our deal was you'd let me go now.
+
+131
+00:08:56,415 --> 00:08:59,460
+The deal has changed.
+
+132
+00:09:44,088 --> 00:09:45,339
+This is Ben.
+
+133
+00:09:45,380 --> 00:09:47,299
+I apologize
+for being out of communication,
+
+134
+00:09:47,341 --> 00:09:50,135
+but the situation was rather tenuous.
+
+135
+00:09:50,844 --> 00:09:54,389
+Although, it now appears
+things may be on track soon.
+
+136
+00:09:54,473 --> 00:09:55,724
+<i>Here's what I need,</i>
+
+137
+00:09:55,808 --> 00:09:57,476
+<i>have the bounty on us removed.</i>
+
+138
+00:09:57,518 --> 00:09:59,394
+<i>If I can win over Cad Bane,</i>
+
+139
+00:09:59,478 --> 00:10:01,563
+<i>I can learn more about Eval's plot.</i>
+
+140
+00:10:01,855 --> 00:10:04,358
+<i>But there can be no more complications.</i>
+
+141
+00:10:04,525 --> 00:10:06,944
+<i>So no matter what reports you hear,</i>
+
+142
+00:10:07,027 --> 00:10:09,071
+<i>do not contact me or send help.</i>
+
+143
+00:10:11,198 --> 00:10:13,283
+<i>And one more thing,</i>
+
+144
+00:10:13,367 --> 00:10:15,536
+<i>I shall need enough credits
+to buy a new ship.</i>
+
+145
+00:10:19,873 --> 00:10:23,085
+Why are you removing the bounty
+on the three fugitives?
+
+146
+00:10:23,168 --> 00:10:26,421
+<i>If they're free to move,
+they could lead us back to Eval's operation.</i>
+
+147
+00:10:26,880 --> 00:10:29,383
+Very well. Keep me apprised.
+
+148
+00:10:31,760 --> 00:10:33,804
+You look troubled, Anakin.
+
+149
+00:10:35,389 --> 00:10:38,058
+How can they expect me to just sit here
+and do nothing
+
+150
+00:10:38,142 --> 00:10:40,477
+with Obi-Wan's murderer on the loose?
+
+151
+00:10:40,561 --> 00:10:45,065
+It is possible that they do not trust you
+to control your feelings.
+
+152
+00:10:46,900 --> 00:10:50,112
+Hardeen killed my master, my best friend!
+
+153
+00:10:50,988 --> 00:10:53,866
+And now he's escaping with Cad Bane
+and Moralo Eval,
+
+154
+00:10:53,907 --> 00:10:57,411
+and the Jedi Council won't do anything
+about it!
+
+155
+00:10:57,494 --> 00:11:02,082
+I have it from a reliable source
+that the fugitives were last headed
+
+156
+00:11:02,249 --> 00:11:04,501
+towards Nal Hutta.
+
+157
+00:11:05,586 --> 00:11:08,297
+You cannot deny your feelings, Anakin.
+
+158
+00:11:08,630 --> 00:11:10,924
+They are what make you special.
+
+159
+00:11:12,301 --> 00:11:16,138
+If you believe you can stop this plot
+against me,
+
+160
+00:11:16,221 --> 00:11:17,848
+I trust you.
+
+161
+00:11:18,599 --> 00:11:21,393
+Thank you, Chancellor.
+You won't regret this.
+
+162
+00:11:23,687 --> 00:11:25,731
+No. I won't.
+
+163
+00:11:29,735 --> 00:11:32,279
+Oh, back so soon?
+
+164
+00:11:39,244 --> 00:11:41,371
+Let me guess? You missed me?
+
+165
+00:11:44,875 --> 00:11:45,876
+Watch it!
+
+166
+00:11:46,585 --> 00:11:49,338
+Kill me and you won't get off Nal Hutta.
+
+167
+00:11:49,630 --> 00:11:53,884
+Moralo Eval is running out of time
+and patience.
+
+168
+00:11:54,176 --> 00:11:56,303
+Let the man talk.
+
+169
+00:11:59,848 --> 00:12:01,725
+Look, I've got a ship.
+
+170
+00:12:01,808 --> 00:12:06,313
+You've got the Hutts on your tail,
+so you make me a partner in everything.
+
+171
+00:12:07,648 --> 00:12:09,942
+Your deal is accepted.
+
+172
+00:12:11,026 --> 00:12:12,152
+No.
+
+173
+00:12:12,819 --> 00:12:16,823
+First I wanna know
+where you got the credits to buy a ship?
+
+174
+00:12:17,324 --> 00:12:19,493
+You thought you left me for dead,
+
+175
+00:12:19,534 --> 00:12:21,328
+but the Hutts owed me a favor.
+
+176
+00:12:21,495 --> 00:12:24,164
+So you had them shoot us down?
+
+177
+00:12:24,248 --> 00:12:26,500
+You would've done the same thing, Bane.
+
+178
+00:12:26,583 --> 00:12:28,961
+The way I see it, we're even now.
+
+179
+00:12:29,419 --> 00:12:31,505
+Now that we're all friends,
+
+180
+00:12:31,630 --> 00:12:35,008
+get me off this festering stink-hole.
+
+181
+00:12:38,679 --> 00:12:41,390
+Wait, who's going to pay for this mess?
+
+182
+00:12:45,894 --> 00:12:51,024
+So about your fee from Eval,
+a 50I50 split sounds fair to me.
+
+183
+00:12:51,108 --> 00:12:53,860
+Over my dead corpse.
+
+184
+00:12:53,902 --> 00:12:55,445
+Don't tempt me.
+
+185
+00:13:05,872 --> 00:13:08,917
+What makes you think Obi-Wan's murderer
+is on Nal Hutta?
+
+186
+00:13:09,001 --> 00:13:11,712
+I got a tip from the Chancellor himself.
+
+187
+00:13:14,548 --> 00:13:16,008
+How are we gonna find them?
+
+188
+00:13:16,049 --> 00:13:18,218
+Ahsoka, you should know by now.
+
+189
+00:13:18,260 --> 00:13:20,095
+If you want to find a lowlife...
+
+190
+00:13:20,178 --> 00:13:22,389
+You start at the saloon.
+
+191
+00:13:31,231 --> 00:13:35,152
+Hey, ladies, where are we going next?
+
+192
+00:13:35,861 --> 00:13:37,654
+I love you guys.
+
+193
+00:13:56,048 --> 00:13:58,383
+The fugitives are already gone.
+
+194
+00:13:58,467 --> 00:13:59,843
+All three of them were here?
+
+195
+00:14:00,552 --> 00:14:02,262
+Two came in, met the third.
+
+196
+00:14:02,596 --> 00:14:03,764
+When did they leave?
+
+197
+00:14:04,639 --> 00:14:08,352
+Nothing's free on Nal Hutta,
+especially information.
+
+198
+00:14:08,435 --> 00:14:10,520
+I don't have time for games.
+
+199
+00:14:10,604 --> 00:14:13,190
+You just missed them.
+
+200
+00:14:13,940 --> 00:14:15,025
+Keep talking.
+
+201
+00:14:15,484 --> 00:14:18,612
+I heard one of them say
+they just bought a ship.
+
+202
+00:14:21,114 --> 00:14:22,699
+Let's go, Snips.
+
+203
+00:14:31,208 --> 00:14:33,835
+<i>Captain Rex, I need to speak
+with General Skywalker.</i>
+
+204
+00:14:33,919 --> 00:14:35,462
+<i>He's not responding to my calls.</i>
+
+205
+00:14:35,879 --> 00:14:38,799
+Sir, General Skywalker is unavailable.
+
+206
+00:14:39,341 --> 00:14:40,759
+<i>Where is he, Captain?</i>
+
+207
+00:14:40,801 --> 00:14:42,844
+I can't say, sir.
+
+208
+00:14:42,928 --> 00:14:45,639
+<i>You can't or you won't?</i>
+
+209
+00:14:45,680 --> 00:14:47,974
+Anakin is on Nal Hutta.
+
+210
+00:14:48,850 --> 00:14:50,185
+<i>Nal Hutta?</i>
+
+211
+00:14:50,268 --> 00:14:52,604
+Protecting me
+is only postponing the problem,
+
+212
+00:14:52,646 --> 00:14:54,022
+not solving it.
+
+213
+00:14:54,398 --> 00:14:58,151
+<i>With all due respect, Chancellor,
+the Council has a plan in place.</i>
+
+214
+00:14:58,610 --> 00:15:00,904
+Yes, and so does Moralo Eval,
+
+215
+00:15:00,987 --> 00:15:03,365
+who appears to be several steps ahead
+of you.
+
+216
+00:15:03,698 --> 00:15:06,493
+For that reason,
+I asked Anakin to take action.
+
+217
+00:15:06,785 --> 00:15:11,248
+<i>He is confident he can find the fugitives
+and stop this plot against me.</i>
+
+218
+00:15:11,331 --> 00:15:14,793
+<i>I suggest you have more faith
+in young Skywalker.</i>
+
+219
+00:15:16,503 --> 00:15:19,881
+<i>Captain, if you must escort me home,
+I'm leaving now.</i>
+
+220
+00:15:20,340 --> 00:15:21,591
+<i>Yes, sir.</i>
+
+221
+00:15:22,175 --> 00:15:25,262
+This is exactly what Obi-Wan
+didn't want to happen.
+
+222
+00:15:25,846 --> 00:15:29,307
+If I warn him, it could blow his cover,
+get him killed.
+
+223
+00:15:30,976 --> 00:15:33,437
+Kill Hardeen, Skywalker might.
+
+224
+00:15:33,520 --> 00:15:35,272
+Or die trying, he may.
+
+225
+00:15:36,440 --> 00:15:38,150
+Warn them both, you must.
+
+226
+00:15:38,233 --> 00:15:40,485
+Overdue, the truth is.
+
+227
+00:15:51,204 --> 00:15:53,123
+How do you know
+they couldn't have gotten very far?
+
+228
+00:15:55,000 --> 00:15:56,710
+So you only gave them enough fuel
+
+229
+00:15:56,793 --> 00:15:58,712
+to reach the nearest filling station
+on Orondia,
+
+230
+00:15:58,795 --> 00:16:01,423
+which is owned by your brother?
+
+231
+00:16:01,506 --> 00:16:02,966
+Well, that's a nice little
+money-making scam.
+
+232
+00:16:04,301 --> 00:16:05,552
+We better get going.
+
+233
+00:16:05,594 --> 00:16:07,429
+Orondia's pretty deserted.
+
+234
+00:16:07,512 --> 00:16:09,055
+They may steal a ship there,
+
+235
+00:16:09,097 --> 00:16:10,640
+to throw us off their trail.
+
+236
+00:16:10,724 --> 00:16:12,517
+I like your thinking.
+
+237
+00:16:27,908 --> 00:16:31,077
+Here, take it. I just want to get out of here.
+
+238
+00:16:32,245 --> 00:16:33,580
+We're being swindled.
+
+239
+00:16:33,622 --> 00:16:37,626
+Who sells a ship with only enough fuel
+to get to this lousy rock?
+
+240
+00:16:38,043 --> 00:16:42,047
+The way I see it,
+you keep paying off everybody but me.
+
+241
+00:16:42,088 --> 00:16:44,341
+Yeah, why is that?
+
+242
+00:16:58,563 --> 00:16:59,981
+Look! It's Cad Bane.
+
+243
+00:17:00,106 --> 00:17:01,107
+Are you sure?
+
+244
+00:17:01,566 --> 00:17:03,485
+Ugh, who else wears a hat like that?
+
+245
+00:17:03,610 --> 00:17:04,945
+Good point.
+
+246
+00:17:14,746 --> 00:17:16,039
+Now what?
+
+247
+00:17:16,540 --> 00:17:17,791
+Jedi!
+
+248
+00:17:38,937 --> 00:17:41,231
+Take over! I'll bring them down!
+
+249
+00:17:53,910 --> 00:17:55,579
+I'll take care of him.
+
+250
+00:17:55,996 --> 00:17:59,207
+No! It's my turn to kill a Jedi!
+
+251
+00:19:19,329 --> 00:19:20,497
+Anakin.
+
+252
+00:19:50,110 --> 00:19:52,612
+You're going to pay for what you did.
+
+253
+00:19:53,238 --> 00:19:54,948
+You shouldn't have gotten involved.
+
+254
+00:19:58,952 --> 00:20:00,412
+This is for Obi-Wan.
+
+255
+00:20:02,664 --> 00:20:05,083
+You can thank me later, Hardeen.
+
+256
+00:20:07,252 --> 00:20:09,963
+You had your chance to kill him.
+
+257
+00:20:10,046 --> 00:20:11,464
+Now it's my turn.
+
+258
+00:20:41,369 --> 00:20:44,289
+Anakin, don't follow me.
+
+259
+00:21:02,474 --> 00:21:04,601
+The ship is still operational.
+
+260
+00:21:04,684 --> 00:21:07,562
+I got it working. Now let's get out of here.
+
+261
+00:21:08,188 --> 00:21:10,523
+You're lucky we're in a hurry, little lady.
+
+262
+00:21:12,525 --> 00:21:14,903
+We'll have to dance another time.
+
+263
+00:21:20,617 --> 00:21:21,701
+Master!
+
+264
+00:21:21,993 --> 00:21:24,037
+Master, are you all right?
+
+265
+00:21:35,882 --> 00:21:38,176
+What is it? What's wrong?
+
+266
+00:21:38,218 --> 00:21:41,262
+That's why I felt a connection.
+
+267
+00:21:41,346 --> 00:21:43,556
+Obi-Wan is still alive.
+
+268
+00:21:43,681 --> 00:21:46,726
+-I don't understand.
+-I don't, either.
+
+269
+00:21:46,768 --> 00:21:50,355
+But we're gonna get
+to the bottom of this. Believe me.
+
+270
+00:21:50,379 --> 00:21:55,379
+http://hiqve.com/
+

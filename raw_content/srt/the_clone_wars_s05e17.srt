@@ -1,0 +1,1348 @@
+﻿1
+00:00:10,582 --> 00:00:10,699
+h
+
+2
+00:00:10,700 --> 00:00:10,816
+ht
+
+3
+00:00:10,817 --> 00:00:10,934
+htt
+
+4
+00:00:10,935 --> 00:00:11,052
+http
+
+5
+00:00:11,053 --> 00:00:11,169
+http:
+
+6
+00:00:11,170 --> 00:00:11,287
+http:/
+
+7
+00:00:11,288 --> 00:00:11,405
+http://
+
+8
+00:00:11,406 --> 00:00:11,522
+http://h
+
+9
+00:00:11,523 --> 00:00:11,640
+http://hi
+
+10
+00:00:11,641 --> 00:00:11,757
+http://hiq
+
+11
+00:00:11,758 --> 00:00:11,875
+http://hiqv
+
+12
+00:00:11,876 --> 00:00:11,993
+http://hiqve
+
+13
+00:00:11,994 --> 00:00:12,110
+http://hiqve.
+
+14
+00:00:12,111 --> 00:00:12,228
+http://hiqve.c
+
+15
+00:00:12,229 --> 00:00:12,346
+http://hiqve.co
+
+16
+00:00:12,347 --> 00:00:12,463
+http://hiqve.com
+
+17
+00:00:12,464 --> 00:00:12,581
+http://hiqve.com/
+
+18
+00:00:12,582 --> 00:00:15,582
+http://hiqve.com/
+
+19
+00:00:18,606 --> 00:00:19,732
+<i>invasion!</i>
+
+20
+00:00:19,899 --> 00:00:22,985
+<i>The planet Cato Neimoidia
+is under Separatist attack!</i>
+
+21
+00:00:23,361 --> 00:00:26,197
+<i>Anakin Skywalker
+and his Padawan, Ahsoka Tano,</i>
+
+22
+00:00:26,322 --> 00:00:27,448
+<i>rush to the rescue</i>
+
+23
+00:00:27,490 --> 00:00:31,285
+<i>as they lead a squadron of star fighters
+to the planet below.</i>
+
+24
+00:00:39,210 --> 00:00:41,337
+Ahsoka, punch a hole
+for the gunships to get through.
+
+25
+00:00:41,879 --> 00:00:43,506
+I know the drill, Master.
+
+26
+00:01:07,363 --> 00:01:08,906
+Look out! Incoming missiles!
+
+27
+00:01:11,742 --> 00:01:12,868
+No problem.
+
+28
+00:01:16,247 --> 00:01:17,873
+Uh, slight problem.
+
+29
+00:01:20,585 --> 00:01:23,254
+Ahsoka, I've got buzz droids.
+How bad did you get hit?
+
+30
+00:01:23,337 --> 00:01:24,589
+I'm all clear.
+
+31
+00:01:24,714 --> 00:01:27,592
+What? You always have it easy, Snips.
+
+32
+00:01:34,557 --> 00:01:35,891
+Good job, Artoo.
+
+33
+00:01:37,143 --> 00:01:40,563
+Someday, these droids will learn
+they keep messing with the wrong Jedi.
+
+34
+00:01:41,897 --> 00:01:43,274
+Looks like you're clear.
+
+35
+00:01:43,357 --> 00:01:45,901
+Just keep watching and learning, Padawan.
+
+36
+00:01:47,612 --> 00:01:48,988
+Uh-oh.
+
+37
+00:01:49,071 --> 00:01:51,073
+You're trailing smoke. What's wrong?
+
+38
+00:01:51,198 --> 00:01:54,869
+Oh, nothing serious,
+just a small malfunction.
+
+39
+00:01:59,332 --> 00:02:01,584
+Master? Master, come in.
+
+40
+00:02:01,709 --> 00:02:04,503
+<i>Artoo, what's going on over there?</i>
+
+41
+00:02:05,671 --> 00:02:08,382
+Unconscious? Fly back to the cruiser.
+
+42
+00:02:09,925 --> 00:02:12,178
+What do you mean there is something
+wrong with the engines?
+
+43
+00:02:12,261 --> 00:02:14,096
+Tip your wing. I'll see how bad it is.
+
+44
+00:02:18,392 --> 00:02:20,019
+Oh, that's not good.
+
+45
+00:02:21,604 --> 00:02:23,939
+Let's just say
+now would be a good time to land.
+
+46
+00:02:26,609 --> 00:02:29,153
+Artoo, can you land the ship
+on that cliff ledge?
+
+47
+00:02:30,863 --> 00:02:33,949
+I don't care if the landing zone is too short.
+
+48
+00:02:34,033 --> 00:02:35,618
+Get that ship on the ground!
+
+49
+00:02:37,078 --> 00:02:41,415
+R7, take over the ship.
+I'm going after Anakin.
+
+50
+00:02:42,041 --> 00:02:44,085
+Somebody has to save his skin.
+
+51
+00:03:22,957 --> 00:03:24,041
+Artoo!
+
+52
+00:03:32,633 --> 00:03:34,844
+Very funny, Artoo.
+
+53
+00:03:34,927 --> 00:03:37,304
+Are you okay, Master?
+
+54
+00:03:37,388 --> 00:03:39,974
+Yeah, what'd I miss?
+
+55
+00:03:40,182 --> 00:03:42,601
+Oh, not much.
+
+56
+00:03:42,685 --> 00:03:45,521
+Wait a minute, wasn't I flying?
+Where's my fighter?
+
+57
+00:03:45,604 --> 00:03:46,689
+How did I get here?
+
+58
+00:03:46,772 --> 00:03:49,316
+Fighter crashed. I saved the day.
+You're welcome.
+
+59
+00:03:54,155 --> 00:03:55,239
+All right.
+
+60
+00:03:57,992 --> 00:04:00,745
+Captain Rex,
+Ahsoka and I need a little help.
+
+61
+00:04:00,828 --> 00:04:01,996
+Right away, sir.
+
+62
+00:04:11,589 --> 00:04:12,673
+Master Yoda...
+
+63
+00:04:12,757 --> 00:04:16,010
+<i>Return to the Jedi Temple quickly,
+you should.</i>
+
+64
+00:04:16,093 --> 00:04:17,303
+<i>You and your Padawan.</i>
+
+65
+00:04:17,386 --> 00:04:19,805
+We're kind of busy, Master Yoda.
+
+66
+00:04:19,889 --> 00:04:23,684
+<i>The reason we need you,
+important it is, Skywalker.</i>
+
+67
+00:04:23,768 --> 00:04:26,395
+<i>Bombed the Temple hangar someone has.</i>
+
+68
+00:04:26,479 --> 00:04:29,231
+<i>Your assistance to
+find the terrorist, we need.</i>
+
+69
+00:04:29,356 --> 00:04:32,276
+Who could successfully bomb
+the Jedi Temple?
+
+70
+00:04:32,359 --> 00:04:34,570
+We'll be right there, Master.
+
+71
+00:04:45,998 --> 00:04:48,292
+How could the Separatists
+infiltrate the Temple?
+
+72
+00:04:48,751 --> 00:04:50,836
+Worse than that, it is.
+
+73
+00:04:50,920 --> 00:04:53,214
+What could be worse, Master Yoda?
+
+74
+00:04:57,593 --> 00:04:59,386
+Everything is on the table.
+
+75
+00:04:59,470 --> 00:05:00,930
+We have to look at the possibility
+
+76
+00:05:01,013 --> 00:05:04,600
+that it could've been anyone
+in the Temple, even a Jedi.
+
+77
+00:05:04,683 --> 00:05:09,563
+If a Jedi this is,
+gone to the dark side they have.
+
+78
+00:05:09,939 --> 00:05:15,069
+I can't believe a Jedi
+would attack a place this sacred.
+
+79
+00:05:15,694 --> 00:05:18,280
+We'd like for you two
+to lead the investigation.
+
+80
+00:05:18,405 --> 00:05:20,282
+We can't trust anyone who was here,
+
+81
+00:05:20,366 --> 00:05:21,617
+even a Jedi.
+
+82
+00:05:21,700 --> 00:05:24,203
+You and Ahsoka will provide
+an impartial point of view,
+
+83
+00:05:24,286 --> 00:05:25,371
+free of assumptions.
+
+84
+00:05:25,454 --> 00:05:27,206
+We'll do everything we can.
+
+85
+00:05:27,289 --> 00:05:30,251
+Careful you must be, Skywalker.
+
+86
+00:05:30,334 --> 00:05:33,254
+If willing to destroy the Temple
+the attacker is,
+
+87
+00:05:33,337 --> 00:05:36,382
+to great lengths they will go
+to keep from being caught.
+
+88
+00:05:36,799 --> 00:05:41,095
+Then I guess we'll have to go
+to even greater lengths to catch him.
+
+89
+00:05:48,477 --> 00:05:50,479
+I can still hear the screams.
+
+90
+00:05:50,563 --> 00:05:52,481
+Do you believe what they said, Master?
+
+91
+00:05:52,565 --> 00:05:54,275
+That a Jedi could do this?
+
+92
+00:05:54,358 --> 00:05:57,611
+Not every Jedi
+agrees with this war, Ahsoka.
+
+93
+00:05:57,695 --> 00:06:00,197
+There are many
+political idealists among us.
+
+94
+00:06:00,281 --> 00:06:01,949
+But a traitor?
+
+95
+00:06:02,032 --> 00:06:05,119
+I'm afraid one
+can eventually become the other.
+
+96
+00:06:05,202 --> 00:06:09,540
+Remember Count Dooku and General Krell,
+that's how they started, too.
+
+97
+00:06:09,623 --> 00:06:13,711
+Only analysis and investigation
+will prove what is true or not.
+
+98
+00:06:14,461 --> 00:06:15,713
+Who are you?
+
+99
+00:06:15,796 --> 00:06:19,967
+I am Russo-ISC,
+Crime Scene Analyzer for the Jedi.
+
+100
+00:06:20,467 --> 00:06:22,803
+I will be working with you
+and your Padawan on this case.
+
+101
+00:06:24,138 --> 00:06:26,807
+I was assigned by Master Windu.
+
+102
+00:06:27,725 --> 00:06:30,936
+Okay, Russo. You and Ahsoka
+should begin the interviews.
+
+103
+00:06:31,145 --> 00:06:34,815
+I would rather interview
+the witnesses alone.
+
+104
+00:06:36,859 --> 00:06:37,902
+Why?
+
+105
+00:06:37,985 --> 00:06:42,114
+Many of the wounded have heard rumors
+a Jedi was behind this explosion.
+
+106
+00:06:42,781 --> 00:06:45,910
+There will be ill-will toward you.
+
+107
+00:06:47,494 --> 00:06:49,496
+I think you're over-exaggerating, Russo.
+
+108
+00:06:49,580 --> 00:06:53,542
+There were Jedi killed in that blast
+along with maintenance crew and clones.
+
+109
+00:06:53,667 --> 00:06:54,919
+Take Ahsoka with you.
+
+110
+00:06:55,502 --> 00:06:57,338
+Let me know if you find anything.
+
+111
+00:06:57,463 --> 00:06:58,797
+I will, Master.
+
+112
+00:07:10,684 --> 00:07:14,355
+Did you notice
+anything unusual about the hangar?
+
+113
+00:07:14,521 --> 00:07:15,898
+Not really.
+
+114
+00:07:16,231 --> 00:07:19,860
+Although, I left the hangar
+five minutes before the bomb exploded.
+
+115
+00:07:20,110 --> 00:07:22,404
+Did everything seem okay before that?
+
+116
+00:07:22,863 --> 00:07:24,949
+Everything seemed normal.
+
+117
+00:07:26,075 --> 00:07:28,702
+Is it true a Jedi might be
+responsible for the attack?
+
+118
+00:07:30,537 --> 00:07:33,707
+We're not certain of anything at this point.
+
+119
+00:07:37,044 --> 00:07:38,796
+This distrust is troubling.
+
+120
+00:07:38,879 --> 00:07:41,674
+Some of these people
+have worked in the Temple for years.
+
+121
+00:07:41,757 --> 00:07:46,011
+Fear makes even the most
+trusting individual irrational.
+
+122
+00:07:46,345 --> 00:07:48,806
+I think I know who did it.
+
+123
+00:07:49,723 --> 00:07:51,058
+Who blew up the hangar.
+
+124
+00:07:54,395 --> 00:07:55,521
+Who?
+
+125
+00:07:55,646 --> 00:07:58,774
+I believe it was Jackar Bowmani.
+
+126
+00:07:58,857 --> 00:08:01,944
+Jackar Bowmani. Who is Jackar?
+
+127
+00:08:02,277 --> 00:08:04,530
+One of the maintenance crew in the hangar.
+
+128
+00:08:04,613 --> 00:08:06,240
+Why do you think it was him?
+
+129
+00:08:06,740 --> 00:08:10,411
+I passed him
+as I was going on my shift change.
+
+130
+00:08:11,412 --> 00:08:15,290
+He had been working all morning
+in the section the blast came from.
+
+131
+00:08:15,374 --> 00:08:17,459
+It was the last place I saw him.
+
+132
+00:08:17,543 --> 00:08:18,919
+Is this him?
+
+133
+00:08:20,587 --> 00:08:21,630
+Yes.
+
+134
+00:08:21,714 --> 00:08:25,092
+I need to know,
+have you seen him since the explosion?
+
+135
+00:08:25,259 --> 00:08:29,930
+No. Truthfully, I didn't see much
+of anything after the explosion.
+
+136
+00:08:31,348 --> 00:08:32,433
+Thank you.
+
+137
+00:08:39,648 --> 00:08:42,818
+Looks like we need to find
+Jackar Bowmani, Russo.
+
+138
+00:08:50,951 --> 00:08:52,286
+Did you find anything?
+
+139
+00:08:52,453 --> 00:08:56,290
+No. But the rumor about it
+being a Jedi is growing, Ahsoka.
+
+140
+00:08:56,415 --> 00:08:59,126
+I can feel the anger and confusion
+throughout the Jedi Temple.
+
+141
+00:08:59,960 --> 00:09:01,211
+Russo and I have a lead.
+
+142
+00:09:01,295 --> 00:09:04,381
+We are looking for one of
+the Temple workers, Jackar Bowmani.
+
+143
+00:09:04,465 --> 00:09:07,634
+One of the witnesses saw him
+in the area where the bomb exploded,
+
+144
+00:09:07,718 --> 00:09:08,969
+right before it happened,
+
+145
+00:09:09,136 --> 00:09:11,472
+and we have not been able to find him.
+
+146
+00:09:11,597 --> 00:09:12,806
+Anywhere.
+
+147
+00:09:12,890 --> 00:09:15,559
+Come on, nobody just disappears.
+
+148
+00:09:15,642 --> 00:09:18,645
+Unless it was well planned out.
+
+149
+00:09:18,729 --> 00:09:21,065
+Well, it had to be well planned out
+to get past Jedi.
+
+150
+00:09:21,148 --> 00:09:22,983
+I'll talk to security.
+
+151
+00:09:26,070 --> 00:09:29,406
+No more clones! Stop the violence!
+
+152
+00:09:29,490 --> 00:09:32,993
+End the war! Stop the violence!
+
+153
+00:09:33,118 --> 00:09:34,745
+Stop the violence!
+
+154
+00:09:40,501 --> 00:09:41,585
+No more clones!
+
+155
+00:09:41,668 --> 00:09:43,587
+They're all family and friends?
+
+156
+00:09:43,670 --> 00:09:45,881
+Yes, looking for answers.
+
+157
+00:09:45,964 --> 00:09:47,674
+So am I, Cin.
+
+158
+00:09:47,758 --> 00:09:50,552
+This is the guy who might be
+behind all of this.
+
+159
+00:09:50,636 --> 00:09:52,679
+If you see him, alert me immediately.
+
+160
+00:09:55,682 --> 00:09:58,102
+-That is Jackar.
+-You know this man?
+
+161
+00:09:58,185 --> 00:09:59,937
+He is my husband.
+
+162
+00:10:00,020 --> 00:10:02,523
+I've been trying to reach him
+since I heard of an explosion.
+
+163
+00:10:02,606 --> 00:10:03,690
+Where is he?
+
+164
+00:10:03,774 --> 00:10:05,526
+I need you to come with me.
+
+165
+00:10:12,783 --> 00:10:14,868
+You have no idea where Jackar is?
+
+166
+00:10:15,369 --> 00:10:16,453
+No.
+
+167
+00:10:16,537 --> 00:10:19,623
+You are a Jedi and you cannot find him?
+
+168
+00:10:19,706 --> 00:10:21,917
+I understand your frustration.
+
+169
+00:10:22,000 --> 00:10:24,294
+Don't! Just find Jackar.
+
+170
+00:10:24,378 --> 00:10:28,507
+Letta, do you think Jackar
+could do something like this?
+
+171
+00:10:28,590 --> 00:10:29,675
+Blow up the Temple?
+
+172
+00:10:29,758 --> 00:10:32,136
+Do you have any idea
+what someone has to go through
+
+173
+00:10:32,219 --> 00:10:34,346
+to work in the Jedi Temple? Hmm?
+
+174
+00:10:34,721 --> 00:10:37,474
+Jackar dedicated his life
+to serving the Jedi.
+
+175
+00:10:37,558 --> 00:10:39,059
+It had been his dream.
+
+176
+00:10:39,143 --> 00:10:42,437
+Not just anyone can walk
+into your precious Temple.
+
+177
+00:10:42,521 --> 00:10:44,565
+He passed all the entry tests
+that were needed.
+
+178
+00:10:44,648 --> 00:10:47,109
+Okay. I had to ask.
+
+179
+00:10:47,192 --> 00:10:49,736
+Unfortunately, everyone's a suspect.
+
+180
+00:10:49,820 --> 00:10:52,489
+Jackar would never do anything like this.
+
+181
+00:10:52,573 --> 00:10:54,408
+Please, find him.
+
+182
+00:11:26,607 --> 00:11:27,691
+Hmm...
+
+183
+00:11:27,774 --> 00:11:31,195
+Based on the trajectory of the debris,
+
+184
+00:11:31,278 --> 00:11:35,032
+it seems the blast came from there.
+
+185
+00:11:35,115 --> 00:11:38,202
+Why is there no bomb residue?
+
+186
+00:11:38,285 --> 00:11:41,205
+So you think whoever did this
+triggered a ship to explode?
+
+187
+00:11:41,288 --> 00:11:42,623
+We think so.
+
+188
+00:11:42,706 --> 00:11:45,876
+Russo's trying to use the shrapnel
+to determine that now.
+
+189
+00:11:45,959 --> 00:11:48,712
+The witness says he saw Jackar in the area.
+
+190
+00:11:48,795 --> 00:11:52,507
+Maybe Jackar planned to do this
+and just kept quiet?
+
+191
+00:11:52,591 --> 00:11:53,842
+Hmm. Or?
+
+192
+00:11:53,926 --> 00:11:56,678
+It actually was a Jedi.
+
+193
+00:11:59,431 --> 00:12:02,601
+I found something, an anomaly.
+
+194
+00:12:04,436 --> 00:12:07,022
+Something that should not be here.
+
+195
+00:12:15,364 --> 00:12:17,658
+These pieces came from the blast origin.
+
+196
+00:12:18,617 --> 00:12:23,372
+They are covered with microscopic droids
+of a highly volatile nature.
+
+197
+00:12:24,039 --> 00:12:25,415
+Nano-droids.
+
+198
+00:12:25,916 --> 00:12:27,876
+Yes, nano-droids.
+
+199
+00:12:31,004 --> 00:12:33,632
+Great. Now we're chasing nano-droids.
+
+200
+00:12:34,633 --> 00:12:36,635
+Russo, go through security footage,
+
+201
+00:12:36,718 --> 00:12:39,346
+try to see if Jackar
+went to other parts of the Temple.
+
+202
+00:12:39,429 --> 00:12:41,014
+Ahsoka, let's go find out
+
+203
+00:12:41,098 --> 00:12:44,559
+how Jackar got his hands
+on these nano-droids.
+
+204
+00:12:51,525 --> 00:12:53,568
+Bowmani's file, Master Jedi.
+
+205
+00:12:54,111 --> 00:12:56,154
+He's a munitions expert.
+
+206
+00:12:56,238 --> 00:13:00,742
+Jackar was the foreman over all of
+the gunships, bombs and weapons.
+
+207
+00:13:00,909 --> 00:13:02,828
+His specialty was nano-weaponry.
+
+208
+00:13:02,911 --> 00:13:04,997
+We've got to find this guy.
+
+209
+00:13:09,918 --> 00:13:12,671
+Isn't that going a little too fast
+for you to make sense out of it?
+
+210
+00:13:12,754 --> 00:13:14,506
+It is simple data.
+
+211
+00:13:14,589 --> 00:13:18,593
+At this pace I am able to view
+hundreds of hours of footage.
+
+212
+00:13:18,677 --> 00:13:19,761
+Have you found Jackar?
+
+213
+00:13:21,346 --> 00:13:22,514
+No.
+
+214
+00:13:22,848 --> 00:13:25,392
+I'll gather some Jedi
+and search the Temple.
+
+215
+00:13:25,475 --> 00:13:27,853
+If he's still here,
+he might be planning another attack.
+
+216
+00:13:27,936 --> 00:13:32,316
+Instead of Jedi, I have droids
+that can do the job much faster.
+
+217
+00:13:46,371 --> 00:13:48,790
+So, you've found nothing so far?
+
+218
+00:13:48,874 --> 00:13:50,459
+We have a clue we're following.
+
+219
+00:13:50,542 --> 00:13:52,377
+But we still don't have answers.
+
+220
+00:13:55,964 --> 00:13:58,675
+It is imperative that the truth
+be found soon.
+
+221
+00:13:58,759 --> 00:14:00,886
+There are whispers
+that the Senate will have a meeting
+
+222
+00:14:00,969 --> 00:14:02,679
+to decide whether the military police
+
+223
+00:14:02,763 --> 00:14:05,390
+will need to become involved
+in the investigation.
+
+224
+00:14:05,474 --> 00:14:06,933
+They can't do that.
+
+225
+00:14:08,977 --> 00:14:10,937
+Clones died in that explosion.
+
+226
+00:14:11,021 --> 00:14:12,564
+Maintenance clones working
+on the gunships,
+
+227
+00:14:12,647 --> 00:14:14,024
+as well as civilians.
+
+228
+00:14:14,107 --> 00:14:16,860
+The Senate tends to take notice
+of these things,
+
+229
+00:14:16,985 --> 00:14:18,820
+no matter where they happen.
+
+230
+00:14:21,698 --> 00:14:24,951
+<i>Master Skywalker,
+we have found Jackar.</i>
+
+231
+00:14:25,035 --> 00:14:27,746
+Lock down all exits so he can't escape!
+
+232
+00:14:39,633 --> 00:14:40,675
+Where is he?
+
+233
+00:14:40,801 --> 00:14:43,845
+Well, part of him is here.
+
+234
+00:14:44,513 --> 00:14:47,224
+I don't think now is a good time to joke.
+
+235
+00:14:48,642 --> 00:14:51,895
+This is all that remains of Jackar.
+
+236
+00:14:51,978 --> 00:14:53,313
+His hand?
+
+237
+00:14:53,397 --> 00:14:56,525
+The rest of him exploded.
+
+238
+00:14:56,608 --> 00:14:58,402
+Because he was so close to the bomb?
+
+239
+00:14:58,527 --> 00:15:01,029
+Because he was the bomb.
+
+240
+00:15:02,948 --> 00:15:04,282
+What's this?
+
+241
+00:15:04,366 --> 00:15:06,076
+The connection we were looking for
+
+242
+00:15:06,159 --> 00:15:08,370
+to the explosion in the hangar.
+
+243
+00:15:09,037 --> 00:15:10,455
+The nano-droids!
+
+244
+00:15:10,539 --> 00:15:13,041
+How did they get in his bloodstream?
+
+245
+00:15:13,125 --> 00:15:16,044
+Oh, this just keeps
+getting better and better.
+
+246
+00:15:16,128 --> 00:15:19,714
+We're going to have to
+search Jackar's home for evidence.
+
+247
+00:15:46,575 --> 00:15:48,160
+This is not the nicest place.
+
+248
+00:15:48,243 --> 00:15:51,872
+I would've thought
+working for the Jedi paid better.
+
+249
+00:16:02,007 --> 00:16:04,259
+Letta? Are you here?
+
+250
+00:16:04,926 --> 00:16:07,387
+You search for the droids, but be careful.
+
+251
+00:16:07,471 --> 00:16:10,807
+And remember, he was a munitions expert.
+
+252
+00:16:10,891 --> 00:16:13,768
+I'd rather not set off
+another explosion today.
+
+253
+00:16:13,852 --> 00:16:16,396
+I'll see if he left a note.
+
+254
+00:17:04,361 --> 00:17:05,445
+Letta?
+
+255
+00:17:30,845 --> 00:17:32,180
+Master!
+
+256
+00:17:33,682 --> 00:17:36,560
+The sensors are picking up
+traces from the disposal.
+
+257
+00:17:38,270 --> 00:17:40,188
+The nano-droids were in the food.
+
+258
+00:17:40,438 --> 00:17:42,482
+Well, I guess the question now is,
+
+259
+00:17:42,566 --> 00:17:46,027
+did he eat them willingly,
+or did someone feed them to him?
+
+260
+00:17:46,111 --> 00:17:48,154
+What... What are you doing here?
+
+261
+00:17:48,238 --> 00:17:50,657
+We've learned Jackar
+was involved in the bombing.
+
+262
+00:17:50,740 --> 00:17:52,033
+That can't be true.
+
+263
+00:17:52,158 --> 00:17:55,537
+See if she has any nano-droids
+on her, Ahsoka.
+
+264
+00:17:58,164 --> 00:18:00,125
+Uh, nano-droids?
+
+265
+00:18:02,168 --> 00:18:03,253
+She's clean.
+
+266
+00:18:03,795 --> 00:18:06,089
+What do you mean "nano-droids"?
+
+267
+00:18:06,172 --> 00:18:10,218
+We believe someone set Jackar up
+and made him the bomb.
+
+268
+00:18:12,846 --> 00:18:15,307
+I don't understand.
+
+269
+00:18:15,390 --> 00:18:17,892
+Letta, I want to bring you in
+for more questioning.
+
+270
+00:18:18,476 --> 00:18:22,606
+Maybe you can help us
+make sense out of all of this.
+
+271
+00:18:23,023 --> 00:18:25,775
+I'll answer any question I can.
+
+272
+00:18:44,669 --> 00:18:46,588
+Letta, stop! Letta!
+
+273
+00:18:52,135 --> 00:18:53,261
+Letta!
+
+274
+00:18:57,057 --> 00:18:59,684
+-Take the high road !
+-Right, Master!
+
+275
+00:19:32,425 --> 00:19:33,843
+Letta, stop!
+
+276
+00:19:38,056 --> 00:19:39,391
+Let me go!
+
+277
+00:19:39,474 --> 00:19:41,601
+Running means you know more
+than you're telling us.
+
+278
+00:19:41,685 --> 00:19:45,355
+Jackar's dead, and now you're trying to
+blame his murder on me.
+
+279
+00:19:45,480 --> 00:19:48,358
+Nobody ever said he was dead.
+
+280
+00:19:50,694 --> 00:19:54,364
+But running proves you had
+something to do with the bomb.
+
+281
+00:19:54,447 --> 00:19:56,533
+You don't know what you're talking about.
+
+282
+00:19:57,033 --> 00:20:01,329
+People blamed Jedi because of you.
+People were killed because of you.
+
+283
+00:20:01,413 --> 00:20:03,415
+You can't prove anything.
+
+284
+00:20:03,498 --> 00:20:06,918
+Did you feed the nano-droids to Jackar!
+
+285
+00:20:07,001 --> 00:20:09,754
+You will answer me. Now!
+
+286
+00:20:13,216 --> 00:20:15,927
+I did feed the nano-droids to Jackar.
+
+287
+00:20:16,010 --> 00:20:18,930
+You set up your own husband to die.
+
+288
+00:20:19,055 --> 00:20:22,058
+You're dealing with things
+you don't understand.
+
+289
+00:20:23,560 --> 00:20:24,894
+Where you're going,
+
+290
+00:20:24,978 --> 00:20:28,148
+you'll have plenty of time
+to explain everything.
+
+291
+00:20:31,359 --> 00:20:33,027
+We're holding Letta in a cell
+below the Temple
+
+292
+00:20:33,111 --> 00:20:35,321
+to await further questioning.
+
+293
+00:20:35,405 --> 00:20:38,742
+<i>I am pleased to report
+there were no other nano-droids</i>
+
+294
+00:20:38,825 --> 00:20:41,035
+<i>found in the sweep of the Temple.</i>
+
+295
+00:20:41,119 --> 00:20:43,580
+<i>I am also pleased to report,</i>
+
+296
+00:20:43,663 --> 00:20:48,334
+<i>based on the security footage,
+Jackar Bowmani acted alone.</i>
+
+297
+00:20:49,002 --> 00:20:53,089
+<i>Which means no Jedi was involved.</i>
+
+298
+00:20:53,214 --> 00:20:55,383
+Thanks, Russo. Good job.
+
+299
+00:20:56,718 --> 00:20:59,679
+Did this woman say
+what her reasons were for attacking us?
+
+300
+00:20:59,763 --> 00:21:02,015
+Not yet, but we're working on that.
+
+301
+00:21:02,140 --> 00:21:04,768
+I think we can guess
+her motives easily enough.
+
+302
+00:21:04,893 --> 00:21:09,189
+Public opinion is swaying against the Jedi.
+That is becoming clear.
+
+303
+00:21:11,608 --> 00:21:15,737
+This war is becoming less and less popular
+every day it persists.
+
+304
+00:21:19,282 --> 00:21:22,202
+Master, I'm relieved
+we solved this case, but...
+
+305
+00:21:22,285 --> 00:21:23,995
+What if it had been a Jedi?
+
+306
+00:21:24,078 --> 00:21:28,291
+Yes, I don't know how I would've felt
+if a Jedi was really behind this.
+
+307
+00:21:29,292 --> 00:21:32,837
+There are going to be Jedi
+who disappoint us, Ahsoka.
+
+308
+00:21:32,962 --> 00:21:36,966
+But as long as we know there are good Jedi
+who fight for what's right,
+
+309
+00:21:37,091 --> 00:21:39,177
+it makes it all worthwhile.
+
+310
+00:21:39,201 --> 00:21:44,201
+http://hiqve.com/
+

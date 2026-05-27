@@ -1,0 +1,892 @@
+﻿1
+00:00:17,976 --> 00:00:20,263
+<i>ANNOUNCER". Escape from
+a Separatist prison!</i>
+
+2
+00:00:20,312 --> 00:00:22,053
+<i>Carrying information about secret routes</i>
+
+3
+00:00:22,147 --> 00:00:25,060
+<i>into the heart of the Republic
+and Separatist home worlds,</i>
+
+4
+00:00:25,150 --> 00:00:27,107
+<i>Jedi Master Even Piell was captured,</i>
+
+5
+00:00:27,194 --> 00:00:30,061
+<i>and imprisoned in a fortress
+known as the Citadel.</i>
+
+6
+00:00:30,364 --> 00:00:31,820
+<i>Leading an elite strike team,</i>
+
+7
+00:00:31,907 --> 00:00:36,367
+<i>Obi-Wan Kenobi and Anakin Skywalker
+rescued Master Piell and his ofﬁcers.</i>
+
+8
+00:00:36,828 --> 00:00:39,866
+<i>Now the Jedi have split up
+to evade Separatist forces</i>
+
+9
+00:00:39,957 --> 00:00:42,369
+<i>as they attempt to escape the Citadel...</i>
+
+10
+00:00:50,801 --> 00:00:53,384
+Artoo, are you and your battle droids
+ready to go?
+
+11
+00:00:56,473 --> 00:00:58,009
+<i>All right, get the ship fired up,</i>
+
+12
+00:00:58,100 --> 00:01:00,967
+<i>we'll meet you at the pipeline exit
+after you've picked Obi-Wan,</i>
+
+13
+00:01:01,061 --> 00:01:02,847
+<i>assuming he's still on schedule.</i>
+
+14
+00:01:40,684 --> 00:01:42,971
+This passage will
+get us near the landing pad.
+
+15
+00:02:03,707 --> 00:02:06,199
+Artoo, send the shuttle to
+the rear landing platform.
+
+16
+00:02:07,502 --> 00:02:10,995
+We've already been given the go-ahead
+by General Skywalker, sir.
+
+17
+00:02:11,465 --> 00:02:13,706
+Assuming you are still on schedule.
+
+18
+00:02:14,051 --> 00:02:16,793
+The trick will be if Anakin arrives on time.
+
+19
+00:02:20,057 --> 00:02:21,092
+A Probe!
+
+20
+00:02:29,775 --> 00:02:30,856
+Did you get it?
+
+21
+00:02:35,238 --> 00:02:37,730
+Security doors!
+Move or you'll be cut in half!
+
+22
+00:02:41,703 --> 00:02:42,989
+I can't!
+
+23
+00:02:50,962 --> 00:02:54,876
+We lost one.
+Looks like we've got some cutting to do.
+
+24
+00:02:59,262 --> 00:03:03,005
+Count Dooku insists that you
+speak with him, Commander.
+
+25
+00:03:03,100 --> 00:03:05,558
+Well, let's not keep him waiting.
+
+26
+00:03:05,644 --> 00:03:07,760
+He's already waiting, sir.
+
+27
+00:03:12,567 --> 00:03:16,686
+Count Dooku, my lord. How unexpected.
+
+28
+00:03:17,072 --> 00:03:19,939
+<i>You may cease the propriety,
+Commander Sobeck.</i>
+
+29
+00:03:20,033 --> 00:03:23,367
+<i>I understand there is a problem
+with the Jedi prisoner.</i>
+
+30
+00:03:23,745 --> 00:03:29,206
+An incursion team attempted a rescue,
+but the situation is taken care of.
+
+31
+00:03:29,292 --> 00:03:33,286
+<i>Are you in possession of the information
+the prisoner is carrying?</i>
+
+32
+00:03:33,380 --> 00:03:37,123
+Not yet. But we will soon have it.
+
+33
+00:03:37,217 --> 00:03:39,299
+<i>You are aware that this information will</i>
+
+34
+00:03:39,386 --> 00:03:42,879
+<i>tip the scale of the war to
+the side that controls it.</i>
+
+35
+00:03:43,306 --> 00:03:47,470
+<i>Perhaps, this is a matter that
+requires my presence?</i>
+
+36
+00:03:47,728 --> 00:03:49,719
+No, my lord.
+
+37
+00:03:49,980 --> 00:03:54,474
+<i>Find them, Commander.
+Get the information,</i>
+
+38
+00:03:54,818 --> 00:03:57,435
+<i>then kill them all.</i>
+
+39
+00:03:59,656 --> 00:04:04,401
+Don't ever surprise me with
+a transmission from Count Dooku!
+
+40
+00:04:04,494 --> 00:04:06,451
+I need time to prepare!
+
+41
+00:04:06,788 --> 00:04:08,495
+Yes, Commander.
+
+42
+00:04:35,692 --> 00:04:39,026
+lam beginning to admire
+the design of this fortress.
+
+43
+00:04:39,070 --> 00:04:41,186
+It's rather formidable to evade.
+
+44
+00:04:41,239 --> 00:04:44,402
+How can you admire such a horrible place?
+
+45
+00:04:44,534 --> 00:04:46,741
+Ah, you reveal your short-sightedness.
+
+46
+00:04:46,870 --> 00:04:51,205
+This ordeal only demonstrates
+how effective facilities like the Citadel are.
+
+47
+00:04:51,333 --> 00:04:55,497
+Pity it ended up in Separatist hands
+and not ours.
+
+48
+00:04:57,714 --> 00:04:58,829
+He has a point.
+
+49
+00:05:01,051 --> 00:05:03,338
+All right, Snips,
+I need you to lead the group.
+
+50
+00:05:03,386 --> 00:05:05,718
+Keep following the tunnel. I'll catch up.
+
+51
+00:05:05,764 --> 00:05:07,505
+Hey, where are you going?
+
+52
+00:05:07,682 --> 00:05:10,891
+Obi-Wan's not here,
+so someone has to protect our flank.
+
+53
+00:05:12,062 --> 00:05:15,100
+I guess it's a good thing I came along
+after all.
+
+54
+00:05:21,738 --> 00:05:24,025
+We've received a coded transmission.
+
+55
+00:05:24,074 --> 00:05:26,907
+Apparently they've split up
+into two groups.
+
+56
+00:05:27,077 --> 00:05:30,445
+The rendezvous points are
+the landing field behind the tower
+
+57
+00:05:30,580 --> 00:05:33,572
+where Artoo will pick up Obi-Wan Kenobi,
+
+58
+00:05:33,708 --> 00:05:37,793
+and the pipeline exit
+where they'll find Anakin Skywalker.
+
+59
+00:05:38,088 --> 00:05:40,796
+And what if things
+don't go according to plan?
+
+60
+00:05:40,966 --> 00:05:45,426
+Then we would have to send an entire fleet
+to get them out of there.
+
+61
+00:05:48,265 --> 00:05:53,476
+I am concerned that the Jedi have
+elected this child to lead the group.
+
+62
+00:05:53,895 --> 00:05:57,183
+I've served with her many times
+and I trust her, Captain.
+
+63
+00:05:59,359 --> 00:06:00,565
+Uh-oh.
+
+64
+00:06:02,320 --> 00:06:03,526
+Dead end.
+
+65
+00:06:08,368 --> 00:06:10,860
+It looks like
+there are security guards there.
+
+66
+00:06:12,080 --> 00:06:15,368
+Okay, boss, we'll land and wait
+for General Kenobi.
+
+67
+00:06:33,310 --> 00:06:36,848
+Uh-oh. That doesn't look like
+General Kenobi.
+
+68
+00:06:37,230 --> 00:06:39,096
+We'll have to improvise.
+
+69
+00:06:40,275 --> 00:06:44,769
+Your arrival is long overdue,
+where have you been?
+
+70
+00:06:46,781 --> 00:06:52,322
+Even so, the odds are 3-to-1
+that you are a traitor.
+
+71
+00:06:52,412 --> 00:06:55,404
+We will take you to interrogation below.
+
+72
+00:06:55,790 --> 00:06:58,373
+Yes, sir. Move it!
+
+73
+00:07:03,506 --> 00:07:06,919
+Don't talk back to me, droid. I'm in charge.
+
+74
+00:07:09,179 --> 00:07:10,715
+We have captured the shuttle
+
+75
+00:07:10,847 --> 00:07:13,179
+<i>that infiltrated our defenses.</i>
+
+76
+00:07:14,017 --> 00:07:18,853
+Good, guard the shuttle
+and we'll lure the Jedi into a trap.
+
+77
+00:07:31,868 --> 00:07:35,702
+Sorry, Commander. Just wanted to
+fool them. What are your orders?
+
+78
+00:07:38,249 --> 00:07:40,866
+You're right! If we're not at the shuttle,
+
+79
+00:07:40,961 --> 00:07:43,703
+General Kenobi could be
+walking into a trap!
+
+80
+00:07:43,755 --> 00:07:46,122
+We'll try to locate them
+if they get captured.
+
+81
+00:07:53,723 --> 00:07:55,009
+--Look out!
+
+82
+00:08:08,196 --> 00:08:10,062
+What happened?
+Why didn't you blow the wall?
+
+83
+00:08:10,532 --> 00:08:12,398
+That part of the plan was your job!
+
+84
+00:08:17,747 --> 00:08:19,954
+I thought it was a dead end.
+
+85
+00:08:20,083 --> 00:08:22,745
+If Master Plo really assigned you
+to this mission,
+
+86
+00:08:22,794 --> 00:08:24,250
+he would have briefed you on the plan.
+
+87
+00:08:55,910 --> 00:08:58,948
+The shuttle's there
+but there's no sign of Artoo.
+
+88
+00:08:59,289 --> 00:09:01,576
+Something might have happened.
+
+89
+00:09:01,624 --> 00:09:02,785
+We'll have to make our way around to
+
+90
+00:09:02,917 --> 00:09:05,204
+the other side and get a different view.
+
+91
+00:09:05,295 --> 00:09:06,956
+This could be a trap.
+
+92
+00:10:03,186 --> 00:10:04,472
+--Anakin?
+
+93
+00:10:04,562 --> 00:10:07,850
+<i>I must commend you on
+your escape tactics,</i>
+
+94
+00:10:08,191 --> 00:10:10,649
+but in the end it was easy to
+
+95
+00:10:10,735 --> 00:10:12,442
+<i>predict your every move.</i>
+
+96
+00:10:38,596 --> 00:10:41,008
+This pipe leads up to the top of the ridge,
+
+97
+00:10:41,099 --> 00:10:43,181
+where Artoo will pick us up
+and get us out of here.
+
+98
+00:10:44,060 --> 00:10:45,971
+There's the hatch.
+
+99
+00:10:52,485 --> 00:10:55,318
+Let's go! Let's go! Everyone in.
+Don't use your lights,
+
+100
+00:10:55,405 --> 00:10:57,146
+and make sure your weapons are locked.
+
+101
+00:10:57,323 --> 00:10:59,985
+The slightest electronic pulse could
+ignite this whole tube.
+
+102
+00:11:00,285 --> 00:11:03,073
+I hope somebody tells the droids that.
+
+103
+00:11:24,684 --> 00:11:26,425
+Welcome back.
+
+104
+00:11:29,689 --> 00:11:34,434
+I must say, you're not at all what I pictured
+for someone who has such a soft voice.
+
+105
+00:11:36,237 --> 00:11:39,446
+I want your half
+of the information.
+
+106
+00:11:39,532 --> 00:11:43,526
+Give it to me now,
+or I'll start executing your men.
+
+107
+00:11:46,247 --> 00:11:48,079
+This is war, Sobeck.
+
+108
+00:11:48,166 --> 00:11:51,454
+They're all prepared to die
+to protect that intel.
+
+109
+00:11:53,213 --> 00:11:54,453
+Really?
+
+110
+00:12:03,181 --> 00:12:09,268
+Sir, we have located the other group
+and our droids are closing in on them.
+
+111
+00:12:09,646 --> 00:12:13,685
+Your Jedi resolve
+only delays the inevitable.
+
+112
+00:12:13,775 --> 00:12:18,269
+Take them to Interrogation.
+Torture them slowly.
+
+113
+00:12:28,998 --> 00:12:31,285
+So they were captured, huh?
+
+114
+00:12:31,334 --> 00:12:33,496
+And now they're moving them to
+the prison block?
+
+115
+00:12:34,796 --> 00:12:38,289
+Yes, sir! We will move to intercept them.
+
+116
+00:12:43,930 --> 00:12:45,671
+We'll take them from here.
+
+117
+00:12:45,765 --> 00:12:47,301
+Uh, I think we have a...
+
+118
+00:12:47,350 --> 00:12:48,761
+We'll handle it.
+
+119
+00:12:49,269 --> 00:12:50,634
+Yes, sir!
+
+120
+00:13:07,120 --> 00:13:09,703
+Good to see you, Artoo.
+I wondered where you've been.
+
+121
+00:13:11,833 --> 00:13:14,200
+The Commander is pleased to
+see you as well, sir,
+
+122
+00:13:14,294 --> 00:13:16,956
+but would like to return to the shuttle
+as soon as possible.
+
+123
+00:13:17,046 --> 00:13:18,457
+Yes, I couldn't agree more.
+
+124
+00:13:19,048 --> 00:13:20,709
+What about General Skywalker, sir?
+
+125
+00:13:20,800 --> 00:13:23,383
+Not to worry, he'll switch to plan B.
+
+126
+00:13:40,695 --> 00:13:45,030
+How much longer are we going to
+wander through this tunnel in the dark?
+
+127
+00:13:45,074 --> 00:13:47,566
+Captain Tarkin,
+haven't you learned to trust me by now?
+
+128
+00:13:47,994 --> 00:13:50,702
+You may have earned my trust,
+General Skywalker,
+
+129
+00:13:50,747 --> 00:13:53,409
+but my faith in your comrades
+is still lacking.
+
+130
+00:13:54,250 --> 00:13:55,991
+You lack faith in the Jedi.
+
+131
+00:13:56,210 --> 00:13:58,542
+I find their tactics ineffective.
+
+132
+00:13:58,588 --> 00:14:02,377
+The Jedi code prevents them from
+going far enough to achieve victory.
+
+133
+00:14:02,425 --> 00:14:04,541
+To do whatever it takes to win.
+
+134
+00:14:04,594 --> 00:14:08,212
+The very reason why
+peace keepers should not be leading a war.
+
+135
+00:14:10,016 --> 00:14:12,098
+Have I offended you?
+
+136
+00:14:12,226 --> 00:14:14,843
+No. I've also found that
+
+137
+00:14:14,937 --> 00:14:18,350
+we sometimes fall short of victory
+because of our methods.
+
+138
+00:14:18,441 --> 00:14:21,103
+Well, I see we agree on something.
+
+139
+00:14:27,617 --> 00:14:29,278
+I think I found a way out.
+
+140
+00:14:37,168 --> 00:14:38,329
+What do you see, Snips?
+
+141
+00:14:38,795 --> 00:14:40,160
+The coast is clear.
+
+142
+00:14:40,296 --> 00:14:42,128
+Any sign of Obi-Wan and the shuttle?
+
+143
+00:14:42,465 --> 00:14:45,457
+No, I don't see him or Artoo anywhere.
+
+144
+00:14:54,310 --> 00:14:55,800
+We've got to go!
+
+145
+00:14:56,521 --> 00:14:59,263
+There could be
+a whole battalion of droids out there!
+
+146
+00:14:59,315 --> 00:15:01,852
+Better than hiding in a fuel line.
+
+147
+00:15:23,339 --> 00:15:26,877
+The plan's been compromised.
+The shuttle's not coming.
+
+148
+00:15:27,009 --> 00:15:28,124
+Throw me a charge!
+
+149
+00:15:45,903 --> 00:15:47,860
+Let's go! Time for plan B.
+
+150
+00:15:48,030 --> 00:15:49,566
+There's a plan B?
+
+151
+00:15:50,158 --> 00:15:54,527
+There's always a backup plan.
+We'll meet Artoo at Obi-Wan's position.
+
+152
+00:15:57,665 --> 00:15:59,872
+Based on their recent position,
+
+153
+00:15:59,917 --> 00:16:03,660
+we believe they're traveling
+along this cave system.
+
+154
+00:16:05,590 --> 00:16:09,925
+Uh, sir, the prisoners did not make it to
+the interrogation level.
+
+155
+00:16:10,052 --> 00:16:14,216
+What did you just say?
+
+156
+00:16:14,515 --> 00:16:16,722
+Urn, we think they might have...
+
+157
+00:16:16,851 --> 00:16:21,516
+Sir, Count Dooku commands you to
+contact him immediately.
+
+158
+00:16:28,905 --> 00:16:33,524
+Inform Count Dooku that I am unreachable.
+Send all units to the airfield.
+
+159
+00:16:36,120 --> 00:16:38,612
+It's their only possible way of escape.
+
+160
+00:16:47,882 --> 00:16:50,749
+Hold it!
+Where are you going with these prisoners?
+
+161
+00:16:51,093 --> 00:16:52,754
+We're transferring them
+aboard the shuttle.
+
+162
+00:16:52,887 --> 00:16:54,423
+From Citadel to Point Tarron.
+
+163
+00:16:54,889 --> 00:16:58,098
+Point Tarron? There's no outpost there.
+
+164
+00:16:59,143 --> 00:17:00,975
+Uh, it's new.
+
+165
+00:17:02,939 --> 00:17:05,101
+We have orders. We're coming aboard.
+
+166
+00:17:11,280 --> 00:17:12,566
+Wait.
+
+167
+00:17:12,615 --> 00:17:14,606
+The prisoners are escaping
+
+168
+00:17:14,825 --> 00:17:17,112
+with reprogrammed battle droids.
+
+169
+00:17:17,286 --> 00:17:19,618
+Let no one on board that shuttle.
+
+170
+00:17:49,944 --> 00:17:50,979
+Sorry I'm late.
+
+171
+00:17:51,112 --> 00:17:52,648
+How nice of you to join us!
+
+172
+00:17:56,617 --> 00:17:58,324
+The ship is surrounded!
+
+173
+00:17:58,452 --> 00:18:02,070
+We need to launch a full-forward assault
+and take that vessel!
+
+174
+00:18:02,248 --> 00:18:05,832
+We may have a bigger problem.
+Those turrets. If we don't take them out,
+
+175
+00:18:05,960 --> 00:18:08,998
+they will use them to destroy the shuttle
+and prevent our escape.
+
+176
+00:18:09,130 --> 00:18:11,918
+Which is precisely why
+we should get aboard that shuttle,
+
+177
+00:18:12,008 --> 00:18:14,841
+and use the weapon systems to
+decimate those droids.
+
+178
+00:18:15,678 --> 00:18:18,670
+Whatever we're going to do,
+we better do it fast.
+
+179
+00:19:28,709 --> 00:19:31,326
+General Skywalker,
+a droid is manning one of those turrets.
+
+180
+00:19:31,671 --> 00:19:33,253
+<i>They're going to blow up the shuttle, sir.</i>
+
+181
+00:19:49,146 --> 00:19:52,059
+This is our only chance.
+We've got to stop him.
+
+182
+00:19:56,862 --> 00:19:57,977
+Echo, look out!
+
+183
+00:20:05,162 --> 00:20:06,277
+Echo!
+
+184
+00:20:09,750 --> 00:20:11,582
+We have to go now!
+
+185
+00:20:25,891 --> 00:20:27,552
+Master Kenobi, what has happened?
+
+186
+00:20:27,727 --> 00:20:30,560
+<i>I'm afraid we've had a situation
+with the shuttle.</i>
+
+187
+00:20:32,314 --> 00:20:35,147
+<i>By "situation," he means big explosion.</i>
+
+188
+00:20:35,526 --> 00:20:36,732
+<i>We're going to need a rescue.</i>
+
+189
+00:20:37,027 --> 00:20:39,894
+It will be done.
+I'm sending our cruisers now.
+
+190
+00:20:58,424 --> 00:21:00,916
+We'll need to hold out
+until the Council sends a ship.
+
+191
+00:21:01,385 --> 00:21:05,754
+Not a problem. We've beat them once,
+we'll beat them again.
+
+192
+00:21:07,016 --> 00:21:09,678
+This landscape is
+almost impossible to cross.
+
+193
+00:21:11,353 --> 00:21:13,390
+How are we going to get to
+the rendezvous point?
+
+194
+00:21:13,939 --> 00:21:16,601
+That is the trap of the Citadel.
+
+195
+00:21:16,692 --> 00:21:18,729
+It was designed so it would be
+almost impossible
+
+196
+00:21:18,819 --> 00:21:20,981
+for fugitives to get off the surface,
+
+197
+00:21:21,071 --> 00:21:22,778
+even if they escaped the tower.
+
+198
+00:21:23,324 --> 00:21:25,816
+Lucky we're not just any fugitives.
+
+199
+00:21:25,993 --> 00:21:27,950
+I hope you're right.
+
+200
+00:22:11,831 --> 00:22:12,866
+English - SDH
+

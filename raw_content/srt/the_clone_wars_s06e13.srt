@@ -1,0 +1,821 @@
+﻿1
+00:00:10,623 --> 00:00:10,740
+h
+
+2
+00:00:10,741 --> 00:00:10,857
+ht
+
+3
+00:00:10,858 --> 00:00:10,975
+htt
+
+4
+00:00:10,976 --> 00:00:11,093
+http
+
+5
+00:00:11,094 --> 00:00:11,210
+http:
+
+6
+00:00:11,211 --> 00:00:11,328
+http:/
+
+7
+00:00:11,329 --> 00:00:11,446
+http://
+
+8
+00:00:11,447 --> 00:00:11,563
+http://h
+
+9
+00:00:11,564 --> 00:00:11,681
+http://hi
+
+10
+00:00:11,682 --> 00:00:11,798
+http://hiq
+
+11
+00:00:11,799 --> 00:00:11,916
+http://hiqv
+
+12
+00:00:11,917 --> 00:00:12,034
+http://hiqve
+
+13
+00:00:12,035 --> 00:00:12,151
+http://hiqve.
+
+14
+00:00:12,152 --> 00:00:12,269
+http://hiqve.c
+
+15
+00:00:12,270 --> 00:00:12,387
+http://hiqve.co
+
+16
+00:00:12,388 --> 00:00:12,504
+http://hiqve.com
+
+17
+00:00:12,505 --> 00:00:12,622
+http://hiqve.com/
+
+18
+00:00:12,623 --> 00:00:15,623
+http://hiqve.com/
+
+19
+00:00:17,647 --> 00:00:19,482
+<i>Darkness on Dagobah!</i>
+
+20
+00:00:19,733 --> 00:00:22,027
+<i>All attention is focused on Yoda,</i>
+
+21
+00:00:22,110 --> 00:00:25,197
+<i>who claims
+to hear the voice of a long-dead Jedi.</i>
+
+22
+00:00:25,947 --> 00:00:28,283
+<i>Convinced that he is guided
+by Qui-Gon Jinn,</i>
+
+23
+00:00:28,992 --> 00:00:30,911
+<i>he finds five priestesses</i>
+
+24
+00:00:30,994 --> 00:00:35,040
+<i>who will teach him how
+to manifest consciousness after death.</i>
+
+25
+00:00:35,874 --> 00:00:39,294
+<i>After many trials,
+Yoda travels to Moraband,</i>
+
+26
+00:00:39,419 --> 00:00:42,214
+<i>ancient home planet of the Sith.</i>
+
+27
+00:00:42,297 --> 00:00:46,301
+<i>For now he must face the true evil
+that may be his undoing</i>
+
+28
+00:00:46,801 --> 00:00:49,971
+<i>and one that seeks
+to control the galaxy.</i>
+
+29
+00:00:55,185 --> 00:00:56,770
+Careful, we must be.
+
+30
+00:00:56,853 --> 00:01:01,399
+Deserted, this planet was,
+long ago, after many wars.
+
+31
+00:01:41,022 --> 00:01:43,441
+Again, leave you, I must, my friend.
+
+32
+00:01:43,692 --> 00:01:45,485
+Guard the ship, you will.
+
+33
+00:01:46,152 --> 00:01:50,782
+If return, I do not, by three night falls,
+take the ship to Coruscant, you shall.
+
+34
+00:01:51,032 --> 00:01:53,201
+Tell them of where I went.
+
+35
+00:03:04,439 --> 00:03:07,609
+We are the Sith.
+
+36
+00:03:08,151 --> 00:03:10,445
+Afraid of you, I am not.
+
+37
+00:03:10,779 --> 00:03:12,697
+We shall see.
+
+38
+00:03:38,139 --> 00:03:41,601
+There is no life after death.
+
+39
+00:03:42,227 --> 00:03:44,771
+Only nothingness awaits you, Jedi.
+
+40
+00:03:46,272 --> 00:03:49,651
+Your fear feeds our hunger for power.
+
+41
+00:03:51,236 --> 00:03:54,906
+They will know you are here,
+we will tell them.
+
+42
+00:03:56,282 --> 00:03:59,702
+You will die and be nothing.
+
+43
+00:04:09,170 --> 00:04:13,133
+Sir, you have been ordered
+to go to Coruscant immediately.
+
+44
+00:04:13,508 --> 00:04:16,636
+Tell Lord Sidious I am on my way.
+
+45
+00:05:23,411 --> 00:05:28,082
+Why do you come to my tomb, Jedi?
+
+46
+00:05:28,791 --> 00:05:30,084
+To learn.
+
+47
+00:05:30,168 --> 00:05:33,254
+Do you know who I am?
+
+48
+00:05:34,297 --> 00:05:35,298
+Yes.
+
+49
+00:05:35,423 --> 00:05:38,968
+Darth Bane,
+the ancient Sith Lord, you are.
+
+50
+00:05:39,677 --> 00:05:43,223
+And know why I am not forgotten?
+
+51
+00:05:43,765 --> 00:05:46,351
+Created the Rule of Two, you did.
+
+52
+00:05:47,435 --> 00:05:50,313
+The Sith killed each other.
+
+53
+00:05:50,396 --> 00:05:53,566
+Victims of their own greed.
+
+54
+00:05:53,733 --> 00:05:58,988
+But from the ashes of destruction,
+I was the last survivor.
+
+55
+00:05:59,447 --> 00:06:03,201
+I chose to pass my knowledge
+on to only one.
+
+56
+00:06:03,576 --> 00:06:10,124
+I created a legacy so resilient
+that now you come before me.
+
+57
+00:06:12,293 --> 00:06:14,921
+Have you come to be my apprentice?
+
+58
+00:06:15,505 --> 00:06:19,342
+You must kill me to gain my place.
+
+59
+00:06:20,635 --> 00:06:22,887
+Dead, you are, already.
+
+60
+00:06:25,682 --> 00:06:28,685
+Then what stands before you?
+
+61
+00:06:28,977 --> 00:06:30,395
+An illusion.
+
+62
+00:06:31,020 --> 00:06:32,772
+Real, you are not.
+
+63
+00:06:33,815 --> 00:06:37,277
+-You do not fear me?
+-No.
+
+64
+00:06:37,443 --> 00:06:39,195
+Exist, you do not, anymore.
+
+65
+00:06:49,163 --> 00:06:50,582
+<i>Yoda.</i>
+
+66
+00:06:52,667 --> 00:06:54,502
+<i>Yoda.</i>
+
+67
+00:07:20,778 --> 00:07:24,115
+I sense we have a great opportunity
+
+68
+00:07:24,198 --> 00:07:28,244
+to strike a deadly blow
+to the Jedi Order.
+
+69
+00:07:28,828 --> 00:07:31,831
+But we must act swiftly.
+
+70
+00:08:09,827 --> 00:08:12,163
+A warning, I must give you.
+
+71
+00:08:12,497 --> 00:08:13,498
+Yes.
+
+72
+00:08:13,581 --> 00:08:17,418
+All your trials you have faced
+have been our doing.
+
+73
+00:08:18,127 --> 00:08:20,588
+And you have passed them well.
+
+74
+00:08:21,214 --> 00:08:25,009
+But inside, there is a place
+where we have no control.
+
+75
+00:08:25,510 --> 00:08:30,640
+For it is a place of absolute darkness.
+
+76
+00:08:31,099 --> 00:08:32,809
+What happened here?
+
+77
+00:08:33,267 --> 00:08:37,188
+It is the chamber
+where the Sith would sacrifice Jedi.
+
+78
+00:08:37,271 --> 00:08:40,692
+The Sith of your time will find you there.
+
+79
+00:08:41,567 --> 00:08:43,611
+And you will find them.
+
+80
+00:08:44,529 --> 00:08:49,117
+Be careful, for what they may offer
+will certainly feel like an answer.
+
+81
+00:09:08,302 --> 00:09:12,140
+Only the presence of someone
+significant to you
+
+82
+00:09:12,265 --> 00:09:17,812
+would allow you to sense this
+ripple through time and space.
+
+83
+00:09:18,855 --> 00:09:22,150
+My old master, Yoda!
+
+84
+00:09:22,817 --> 00:09:24,527
+Yes,
+
+85
+00:09:24,610 --> 00:09:28,406
+Master Yoda has come to Moraband,
+
+86
+00:09:28,489 --> 00:09:31,743
+although why, I do not know.
+
+87
+00:09:32,243 --> 00:09:35,246
+We shall, however, use the strong bond
+
+88
+00:09:35,329 --> 00:09:38,875
+that once existed
+between you and your master
+
+89
+00:09:38,958 --> 00:09:44,046
+to allow us to see things
+that we otherwise could not.
+
+90
+00:09:44,672 --> 00:09:46,758
+How can this be done, Master?
+
+91
+00:09:47,175 --> 00:09:51,262
+It is an old art of the dark side.
+
+92
+00:09:51,721 --> 00:09:55,600
+Now, hold out your hand, Apprentice.
+
+93
+00:09:59,771 --> 00:10:04,317
+I need but a drop for the ritual to begin.
+
+94
+00:10:30,718 --> 00:10:33,971
+Now, concentrate on Master Yoda,
+
+95
+00:10:34,055 --> 00:10:38,226
+bring all your focus to him.
+
+96
+00:10:38,726 --> 00:10:41,395
+But will he not sense our presence?
+
+97
+00:10:45,316 --> 00:10:48,736
+We shall come to him
+with a familiar face,
+
+98
+00:10:49,153 --> 00:10:51,447
+a long-lost face.
+
+99
+00:10:52,114 --> 00:10:55,284
+One he would be eager to see again,
+
+100
+00:10:55,868 --> 00:11:00,081
+one whom he would ask
+and want answered
+
+101
+00:11:00,456 --> 00:11:04,710
+all the questions he seeks.
+
+102
+00:11:14,095 --> 00:11:15,888
+Help me.
+
+103
+00:11:18,182 --> 00:11:21,602
+Please, please free me.
+
+104
+00:11:22,270 --> 00:11:25,731
+Sifo-Dyas? Alive, you are!
+
+105
+00:11:26,607 --> 00:11:29,735
+Help me please, Yoda.
+
+106
+00:11:30,820 --> 00:11:34,323
+I have been imprisoned for so long.
+
+107
+00:11:35,825 --> 00:11:37,618
+Know who did this to you?
+
+108
+00:11:40,454 --> 00:11:44,834
+What if I could tell you
+who the Sith Lord is?
+
+109
+00:11:45,626 --> 00:11:48,754
+Free me and I will reveal it.
+
+110
+00:11:48,838 --> 00:11:49,922
+No!
+
+111
+00:11:51,299 --> 00:11:55,636
+He knows how to achieve
+what you seek.
+
+112
+00:11:55,970 --> 00:11:58,723
+Captivated by the physical realm,
+the Sith are.
+
+113
+00:11:58,806 --> 00:12:00,474
+What else is there?
+
+114
+00:12:01,225 --> 00:12:07,148
+Free me and together
+we can know who the Sith Lord is.
+
+115
+00:12:07,899 --> 00:12:10,818
+Gain the power you deserve,
+
+116
+00:12:11,652 --> 00:12:13,613
+and save the future.
+
+117
+00:12:14,030 --> 00:12:17,366
+-No.
+-You must free me!
+
+118
+00:12:17,742 --> 00:12:20,119
+Nothing to show me, the Sith have.
+
+119
+00:12:20,703 --> 00:12:23,331
+We shall see.
+
+120
+00:12:30,838 --> 00:12:31,964
+Sidious!
+
+121
+00:12:41,557 --> 00:12:44,685
+There is no question,
+the ship was carrying Count Dooku.
+
+122
+00:12:45,144 --> 00:12:46,145
+We've scanned the area
+
+123
+00:12:46,228 --> 00:12:48,773
+and he is meeting with someone
+inside the building.
+
+124
+00:12:48,856 --> 00:12:50,107
+Thanks, Rex.
+
+125
+00:12:50,191 --> 00:12:53,778
+-Master Yoda, what are your orders?
+-Orders?
+
+126
+00:12:53,861 --> 00:12:55,988
+Are you all right, Master?
+
+127
+00:12:56,072 --> 00:12:58,658
+-Where am I?
+-I don't understand.
+
+128
+00:12:58,741 --> 00:13:00,326
+Tell me, you must!
+
+129
+00:13:00,409 --> 00:13:02,662
+The industrial sector on Coruscant.
+
+130
+00:13:02,870 --> 00:13:04,330
+What is happening here?
+
+131
+00:13:04,413 --> 00:13:06,624
+A rogue shuttle
+slipped through the security grid.
+
+132
+00:13:06,707 --> 00:13:09,377
+-We suspect Dooku was on board.
+-And?
+
+133
+00:13:09,502 --> 00:13:13,881
+Master, this is your mission.
+Are you sure you're all right?
+
+134
+00:13:13,965 --> 00:13:16,384
+Clouded, the dark side has made me.
+
+135
+00:13:16,717 --> 00:13:18,844
+Tell me, who is inside?
+
+136
+00:13:19,095 --> 00:13:21,973
+We intercepted a transmission
+calling Dooku to Coruscant.
+
+137
+00:13:22,056 --> 00:13:25,643
+We believe he is meeting with
+his master, the Sith Lord.
+
+138
+00:13:26,060 --> 00:13:29,397
+Feel it, I do. Feel their power.
+
+139
+00:13:30,189 --> 00:13:31,983
+Your orders, Master?
+
+140
+00:13:32,066 --> 00:13:33,693
+Capture them, we will.
+
+141
+00:13:33,776 --> 00:13:37,238
+The time has come to discover
+the identity of this Sith Master.
+
+142
+00:13:37,571 --> 00:13:40,616
+-And if they escape?
+-Escape, not.
+
+143
+00:13:40,700 --> 00:13:44,620
+If it comes to it, execute them, we must.
+
+144
+00:13:44,996 --> 00:13:47,331
+End it now, we will.
+
+145
+00:14:04,765 --> 00:14:06,100
+Move in.
+
+146
+00:14:11,647 --> 00:14:13,357
+I've got two confirmed targets.
+
+147
+00:14:13,774 --> 00:14:15,985
+Be ready for additional unfriendlies.
+
+148
+00:14:26,746 --> 00:14:30,249
+It appears we have company.
+
+149
+00:14:33,419 --> 00:14:34,795
+Take them!
+
+150
+00:14:51,562 --> 00:14:54,982
+We meet at last, Darth Sidious.
+
+151
+00:14:55,274 --> 00:14:59,570
+You cannot stop what is to come.
+
+152
+00:15:10,372 --> 00:15:12,249
+Skywalker, no!
+
+153
+00:16:08,180 --> 00:16:09,223
+No!
+
+154
+00:16:54,810 --> 00:16:59,607
+Save him, Jedi? Can you save him?
+
+155
+00:17:13,204 --> 00:17:15,331
+Why not let him go?
+
+156
+00:17:15,581 --> 00:17:20,628
+Let him die
+and you can stop all that I will do.
+
+157
+00:17:24,924 --> 00:17:25,966
+No!
+
+158
+00:17:26,300 --> 00:17:28,302
+The future is not yours yet.
+
+159
+00:17:30,137 --> 00:17:32,181
+Tempted, I will not be.
+
+160
+00:17:32,264 --> 00:17:34,934
+Sacrifice all, I am ready to do.
+
+161
+00:18:39,999 --> 00:18:43,711
+We have failed to break Master Yoda.
+
+162
+00:18:44,211 --> 00:18:45,921
+He is strong.
+
+163
+00:18:46,422 --> 00:18:52,177
+We will need more time
+if we are to defeat him and the Jedi.
+
+164
+00:18:55,681 --> 00:18:57,099
+Yoda.
+
+165
+00:18:59,184 --> 00:19:01,228
+Come back to us, Yoda.
+
+166
+00:19:04,315 --> 00:19:05,357
+Died, have I?
+
+167
+00:19:06,317 --> 00:19:07,651
+In a way.
+
+168
+00:19:10,779 --> 00:19:12,948
+Now does my training begin.
+
+169
+00:19:13,907 --> 00:19:16,452
+The one you know as Qui-Gon Jinn
+
+170
+00:19:16,535 --> 00:19:19,455
+will commune with you
+and guide your training.
+
+171
+00:19:19,538 --> 00:19:24,001
+Like us, you shall learn to maintain
+your consciousness after death.
+
+172
+00:19:24,293 --> 00:19:26,170
+Enlightenment.
+
+173
+00:19:26,962 --> 00:19:28,172
+Spirit.
+
+174
+00:19:29,214 --> 00:19:30,341
+Balance.
+
+175
+00:19:30,883 --> 00:19:34,178
+There is another Skywalker.
+
+176
+00:19:34,261 --> 00:19:38,474
+There is another Skywalker?
+
+177
+00:19:50,444 --> 00:19:54,156
+Yes, time to go home, it is.
+
+178
+00:20:26,063 --> 00:20:30,818
+The Council has assembled,
+they are eager to hear your report.
+
+179
+00:20:31,318 --> 00:20:34,363
+Afraid not much there is
+to say of my journey.
+
+180
+00:20:37,741 --> 00:20:40,369
+So, nothing significant
+happened to you out there?
+
+181
+00:20:40,494 --> 00:20:42,329
+Yes and no.
+
+182
+00:20:43,080 --> 00:20:45,207
+To the end, we are coming now.
+
+183
+00:20:45,666 --> 00:20:49,503
+Did your journey give you insight
+on how to win the war?
+
+184
+00:20:49,920 --> 00:20:54,174
+No longer certain
+that one ever does win a war, I am.
+
+185
+00:20:55,050 --> 00:20:57,803
+For in fighting the battles,
+the bloodshed,
+
+186
+00:20:58,637 --> 00:21:00,431
+already lost, we have.
+
+187
+00:21:01,098 --> 00:21:03,517
+Yet, open to us, a path remains,
+
+188
+00:21:04,768 --> 00:21:06,854
+that, unknown to the Sith, is.
+
+189
+00:21:07,604 --> 00:21:10,566
+Through this path,
+victory we may yet find.
+
+190
+00:21:11,608 --> 00:21:13,861
+Not victory in the Clone Wars,
+
+191
+00:21:14,236 --> 00:21:17,531
+but victory for all time.
+
+192
+00:21:17,555 --> 00:21:19,555
+http://hiqve.com/
+

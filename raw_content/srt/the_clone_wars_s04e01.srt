@@ -1,0 +1,950 @@
+﻿1
+00:00:10,582 --> 00:00:10,610
+h
+
+2
+00:00:10,611 --> 00:00:10,640
+ht
+
+3
+00:00:10,641 --> 00:00:10,669
+htt
+
+4
+00:00:10,670 --> 00:00:10,699
+http
+
+5
+00:00:10,700 --> 00:00:10,728
+http:
+
+6
+00:00:10,729 --> 00:00:10,757
+http:/
+
+7
+00:00:10,758 --> 00:00:10,787
+http://
+
+8
+00:00:10,788 --> 00:00:10,816
+http://h
+
+9
+00:00:10,817 --> 00:00:10,846
+http://hi
+
+10
+00:00:10,847 --> 00:00:10,875
+http://hiq
+
+11
+00:00:10,876 --> 00:00:10,905
+http://hiqv
+
+12
+00:00:10,906 --> 00:00:10,934
+http://hiqve
+
+13
+00:00:10,935 --> 00:00:10,963
+http://hiqve.
+
+14
+00:00:10,964 --> 00:00:10,993
+http://hiqve.c
+
+15
+00:00:10,994 --> 00:00:11,022
+http://hiqve.co
+
+16
+00:00:11,023 --> 00:00:11,052
+http://hiqve.com
+
+17
+00:00:11,053 --> 00:00:11,081
+http://hiqve.com/
+
+18
+00:00:11,082 --> 00:00:12,582
+http://hiqve.com/
+
+19
+00:00:18,606 --> 00:00:19,732
+<i>Water wars!</i>
+
+20
+00:00:19,941 --> 00:00:23,319
+<i>Tensions run high on the ocean world
+of Mon Calamari</i>
+
+21
+00:00:23,402 --> 00:00:25,404
+<i>where two separate peoples,</i>
+
+22
+00:00:25,446 --> 00:00:27,448
+<i>the aggressive squid-like Quarren,</i>
+
+23
+00:00:27,490 --> 00:00:29,617
+<i>and their peaceful neighbor,
+the Mon Calamari,</i>
+
+24
+00:00:29,700 --> 00:00:32,370
+<i>struggle to maintain a fragile coexistence.</i>
+
+25
+00:00:32,787 --> 00:00:33,913
+<i>Adding to this strife,</i>
+
+26
+00:00:33,955 --> 00:00:38,084
+<i>the king of the Mon Calamari
+has been found mysteriously murdered,</i>
+
+27
+00:00:38,459 --> 00:00:42,463
+<i>leaving his young son Prince Lee-Char
+to guide his people alone.</i>
+
+28
+00:00:42,797 --> 00:00:46,634
+<i>But the Quarren race will not accept
+the new ruler as their king.</i>
+
+29
+00:00:47,093 --> 00:00:51,806
+<i>Senator Amidala and her Jedi bodyguard
+have arrived to help resolve the matter</i>
+
+30
+00:00:51,889 --> 00:00:55,309
+<i>and to avoid plunging the planet
+into civil war.</i>
+
+31
+00:00:59,146 --> 00:01:01,857
+You've all prospered under our rule!
+
+32
+00:01:01,941 --> 00:01:03,401
+It's time for a change!
+
+33
+00:01:03,484 --> 00:01:05,987
+The prince's rule has been preordained!
+
+34
+00:01:06,028 --> 00:01:07,697
+Down with this monarchy!
+
+35
+00:01:07,780 --> 00:01:10,992
+We'll defend our right for a Mon Cala king!
+
+36
+00:01:11,117 --> 00:01:14,537
+-We want a Quarren king !
+-Down with the Mon Cala!
+
+37
+00:01:14,745 --> 00:01:16,372
+Power to the Quarren!
+
+38
+00:01:16,455 --> 00:01:19,083
+I am dedicated to serving the Quarren
+
+39
+00:01:19,166 --> 00:01:21,836
+as well as my own people,
+the Mon Calamari.
+
+40
+00:01:21,877 --> 00:01:23,004
+Silence!
+
+41
+00:01:23,045 --> 00:01:26,173
+You haven't earned the right
+to speak at this gathering!
+
+42
+00:01:26,215 --> 00:01:28,634
+You have no say
+in the matter, Ambassador,
+
+43
+00:01:28,676 --> 00:01:31,512
+you are only here as an observer
+for the Separatists.
+
+44
+00:01:32,263 --> 00:01:36,183
+Do not forget I am here
+at the request of the Quarren
+
+45
+00:01:36,225 --> 00:01:40,813
+because you, Captain,
+demanded the presence of the Republic.
+
+46
+00:01:43,316 --> 00:01:44,942
+Such a disgrace,
+
+47
+00:01:45,026 --> 00:01:47,028
+I'll give you a lesson in manners.
+
+48
+00:01:48,237 --> 00:01:51,157
+Prince Lee-Char will bring the planet
+to ruin!
+
+49
+00:01:51,532 --> 00:01:55,536
+The boy has neither the experience
+nor the knowledge to lead.
+
+50
+00:01:55,745 --> 00:01:58,331
+Please, you're here to find a compromise.
+
+51
+00:01:58,831 --> 00:02:01,250
+What can the Republic do
+to help keep the peace?
+
+52
+00:02:01,667 --> 00:02:04,920
+This is a matter between
+the Quarren and the Mon Cala.
+
+53
+00:02:05,004 --> 00:02:06,589
+Yeah, who asked you?
+
+54
+00:02:06,714 --> 00:02:10,551
+-The Republic has no place here!
+-Down with the Republic!
+
+55
+00:02:17,933 --> 00:02:22,438
+We refuse to support the coronation
+of another Mon Cala king.
+
+56
+00:02:23,064 --> 00:02:24,398
+I'm sorry.
+
+57
+00:02:24,732 --> 00:02:25,733
+Ambassador?
+
+58
+00:02:26,400 --> 00:02:30,821
+It is my opinion the Quarren
+have no further business here.
+
+59
+00:02:39,413 --> 00:02:43,000
+Come on, Captain Ackbar,
+we have to contact Master Yoda.
+
+60
+00:02:47,088 --> 00:02:49,882
+Your father was my trusted friend.
+
+61
+00:02:50,591 --> 00:02:53,761
+I am sorry for your loss.
+
+62
+00:03:07,942 --> 00:03:10,111
+<i>This civil war, is it inevitable?</i>
+
+63
+00:03:10,528 --> 00:03:12,738
+Sadly so, Master Yoda.
+
+64
+00:03:12,780 --> 00:03:15,282
+The Separatist ambassador
+came here to stir up the Quarren
+
+65
+00:03:15,324 --> 00:03:17,243
+and that's exactly what he did.
+
+66
+00:03:17,284 --> 00:03:20,663
+It's only a matter of time before
+the Quarren withdraw from the Republic.
+
+67
+00:03:20,746 --> 00:03:24,208
+<i>I suspect behind this, Count Dooku is.</i>
+
+68
+00:03:24,291 --> 00:03:27,128
+<i>The Mon Calamari system
+is still part of the Republic.</i>
+
+69
+00:03:27,169 --> 00:03:29,797
+<i>This planet
+must not fall into Separatist hands.</i>
+
+70
+00:03:29,839 --> 00:03:32,216
+<i>I'll dispatch Master Fisto
+and your Padawan, Tano,</i>
+
+71
+00:03:32,299 --> 00:03:33,592
+<i>along with a company of clones,</i>
+
+72
+00:03:34,009 --> 00:03:36,303
+<i>they'll be at your side by day's end.</i>
+
+73
+00:03:36,387 --> 00:03:37,596
+<i>In the meantime, Captain,</i>
+
+74
+00:03:37,638 --> 00:03:41,100
+<i>assemble the Mon Cala troops
+and prepare for a Quarren assault.</i>
+
+75
+00:04:07,626 --> 00:04:09,754
+The troops are being assembled, Senator.
+
+76
+00:04:10,254 --> 00:04:13,048
+Let's hope we don't need them, Captain.
+
+77
+00:04:13,132 --> 00:04:17,386
+I'm entrusting the safety
+of Prince Lee-Char to your hands.
+
+78
+00:04:17,762 --> 00:04:23,100
+You must remain at his side
+at all times as his personal bodyguard.
+
+79
+00:04:23,517 --> 00:04:25,060
+Senator, if the boy is to...
+
+80
+00:04:25,144 --> 00:04:28,230
+We are on the verge of a civil war, Captain.
+
+81
+00:04:28,355 --> 00:04:33,110
+And that boy is the Supreme Commander
+of Mon Cala's military.
+
+82
+00:04:33,194 --> 00:04:38,199
+It's up to you to see that he remains safe
+and that he can handle the job.
+
+83
+00:04:38,324 --> 00:04:42,369
+With due respect, Senator,
+the prince is not ready to lead an army.
+
+84
+00:04:42,453 --> 00:04:43,871
+He needs training.
+
+85
+00:04:44,038 --> 00:04:46,373
+You have your orders, Captain.
+
+86
+00:04:49,543 --> 00:04:52,755
+You are right, Captain,
+I am not trained to lead an army.
+
+87
+00:04:52,838 --> 00:04:56,050
+Come on, Your Highness,
+we have a war to win.
+
+88
+00:05:23,077 --> 00:05:25,955
+The army has assembled, Count Dooku.
+
+89
+00:05:26,330 --> 00:05:30,000
+<i>Well done, Tamson.
+What about the Quarren leader?</i>
+
+90
+00:05:30,084 --> 00:05:33,796
+The Quarren leader is on board 100%.
+
+91
+00:05:33,879 --> 00:05:38,425
+He will deliver the planet into your hands
+just as you said he would.
+
+92
+00:05:38,843 --> 00:05:40,094
+<i>Very good, Commander,</i>
+
+93
+00:05:40,177 --> 00:05:43,931
+<i>in the end, control of this planet
+will be in your hands.</i>
+
+94
+00:05:44,431 --> 00:05:46,100
+<i>Proceed as planned.</i>
+
+95
+00:05:54,900 --> 00:05:59,446
+In this time of crisis,
+our king has something to say.
+
+96
+00:06:00,239 --> 00:06:02,616
+I know many of you agree with the Quarren,
+
+97
+00:06:02,658 --> 00:06:04,618
+that I am too young to rule.
+
+98
+00:06:04,702 --> 00:06:08,414
+But I assure you I will use
+all my strength and all my abilities
+
+99
+00:06:08,455 --> 00:06:10,749
+to lead us through this challenge.
+
+100
+00:06:11,125 --> 00:06:12,877
+We are a great people,
+
+101
+00:06:12,960 --> 00:06:16,630
+and I will do all I can
+to negotiate peace without bloodshed.
+
+102
+00:06:16,714 --> 00:06:19,133
+I do not believe the Quarren will attack.
+
+103
+00:06:28,642 --> 00:06:29,810
+Attack!
+
+104
+00:06:43,324 --> 00:06:45,576
+-It's an attack!
+-Take cover.
+
+105
+00:06:55,002 --> 00:06:58,505
+-The prince! The prince is here!
+-He's joining the battle.
+
+106
+00:06:59,340 --> 00:07:00,507
+Captain!
+
+107
+00:07:00,549 --> 00:07:02,426
+What are your orders, Your Highness?
+
+108
+00:07:03,844 --> 00:07:05,930
+Stay where you are and hold the line.
+
+109
+00:07:06,597 --> 00:07:08,724
+If I may suggest, Captain,
+
+110
+00:07:08,807 --> 00:07:12,645
+we should take the prince to a safer place
+until the Republic reinforcements arrive.
+
+111
+00:07:12,686 --> 00:07:16,357
+That's impossible.
+That is a decision only the prince can make.
+
+112
+00:07:16,398 --> 00:07:18,609
+He is our leader.
+
+113
+00:07:20,361 --> 00:07:21,362
+This is horrible.
+
+114
+00:07:21,737 --> 00:07:24,907
+Your Highness, this is not a wise decision.
+
+115
+00:07:24,990 --> 00:07:26,075
+And you know it.
+
+116
+00:07:26,450 --> 00:07:28,535
+Forget your tradition. This is war!
+
+117
+00:07:29,912 --> 00:07:30,913
+Majesty?
+
+118
+00:07:32,831 --> 00:07:36,877
+I have to stay here with my people.
+Press your attack, Captain.
+
+119
+00:08:00,901 --> 00:08:04,238
+Soldiers of Mon Calamari,
+this is your home.
+
+120
+00:08:04,613 --> 00:08:06,198
+Do not let it fall!
+
+121
+00:08:13,122 --> 00:08:16,750
+I need to get some troops
+behind those Separatist droids.
+
+122
+00:08:16,834 --> 00:08:18,877
+Come on, I know a shortcut.
+
+123
+00:08:30,764 --> 00:08:33,350
+-We should come out right behind them.
+-Good plan.
+
+124
+00:08:34,226 --> 00:08:35,227
+Look out!
+
+125
+00:08:41,483 --> 00:08:42,568
+What do we do now?
+
+126
+00:08:42,651 --> 00:08:44,445
+Well, we got to come up with another plan.
+
+127
+00:08:45,946 --> 00:08:46,947
+Any ideas?
+
+128
+00:08:47,031 --> 00:08:51,201
+Our only choice now
+is to wait for the Jedi reinforcements.
+
+129
+00:08:56,373 --> 00:08:58,125
+Blue Leader, standing by.
+
+130
+00:08:58,542 --> 00:09:00,335
+Red Leader, standing by.
+
+131
+00:09:06,800 --> 00:09:08,969
+All squadrons are in position, General Fisto.
+
+132
+00:09:09,011 --> 00:09:10,429
+<i>You may deploy when ready.</i>
+
+133
+00:09:10,471 --> 00:09:12,306
+Commencing deployment now.
+
+134
+00:09:14,558 --> 00:09:18,103
+Three, two, one, mark.
+
+135
+00:09:52,679 --> 00:09:54,515
+Reinforcements! Finally!
+
+136
+00:10:14,409 --> 00:10:18,372
+Anakin, I'm going to look for Senator Tills.
+Hopefully she's still alive.
+
+137
+00:10:18,455 --> 00:10:19,456
+Be careful.
+
+138
+00:10:19,540 --> 00:10:20,749
+Look out!
+
+139
+00:10:38,267 --> 00:10:40,060
+Stay down and don't move.
+
+140
+00:10:53,115 --> 00:10:55,409
+Hear that? They're cheering for you.
+
+141
+00:10:55,659 --> 00:10:57,578
+They're cheering for them.
+
+142
+00:10:58,036 --> 00:10:59,621
+Then make it for you.
+
+143
+00:11:00,372 --> 00:11:01,707
+Come on!
+
+144
+00:11:02,916 --> 00:11:03,917
+Lead!
+
+145
+00:11:51,632 --> 00:11:53,008
+You called for backup?
+
+146
+00:11:56,803 --> 00:12:00,849
+I had it under control, Snips.
+
+147
+00:12:01,141 --> 00:12:03,101
+Hah ! I knew you'd say that.
+
+148
+00:12:04,311 --> 00:12:06,146
+Anakin, I need you down here.
+
+149
+00:12:06,188 --> 00:12:09,399
+It's Senator Tills.
+I need help getting her to safety.
+
+150
+00:12:09,483 --> 00:12:11,902
+<i>We're at the base of the palace. And hurry.</i>
+
+151
+00:12:14,655 --> 00:12:17,741
+Ahsoka, cover the prince.
+I'm going for the Senators.
+
+152
+00:12:20,160 --> 00:12:21,536
+You got it, Master.
+
+153
+00:12:35,842 --> 00:12:38,095
+-Grab on !
+-Good idea.
+
+154
+00:12:44,685 --> 00:12:46,186
+Get us out of here!
+
+155
+00:12:46,270 --> 00:12:48,730
+-Hang on !
+-I am ! I am!
+
+156
+00:13:02,911 --> 00:13:03,912
+I'm slipping!
+
+157
+00:13:14,715 --> 00:13:17,467
+Look out! They're coming right at us!
+
+158
+00:13:18,969 --> 00:13:20,554
+I'm letting go!
+
+159
+00:13:28,854 --> 00:13:31,064
+Look out! Behind you!
+
+160
+00:13:33,734 --> 00:13:35,485
+As long as we're in the tube we're safe.
+
+161
+00:13:45,829 --> 00:13:46,913
+Look! The prince!
+
+162
+00:14:04,264 --> 00:14:05,390
+Hurry!
+
+163
+00:14:13,273 --> 00:14:14,983
+They are returning to their ships.
+
+164
+00:14:22,574 --> 00:14:24,951
+We seem to have won this round.
+
+165
+00:14:25,077 --> 00:14:27,412
+We are lucky to have survived
+the first assault.
+
+166
+00:14:27,788 --> 00:14:29,873
+They could've easily overrun us
+with their droids.
+
+167
+00:14:30,290 --> 00:14:32,709
+The droids are taking up position
+in the coral.
+
+168
+00:14:32,793 --> 00:14:34,795
+Probably amassing for another assault.
+
+169
+00:14:34,836 --> 00:14:37,089
+Why would they hide in the coral?
+
+170
+00:14:50,769 --> 00:14:54,356
+Your aqua-droids are no match
+for the Mon Calamari.
+
+171
+00:14:54,439 --> 00:14:56,483
+What makes you think
+these secret weapons
+
+172
+00:14:56,566 --> 00:14:59,861
+you've brought from your home world
+will fare any better?
+
+173
+00:14:59,945 --> 00:15:02,781
+They are half-machine,
+half-monster.
+
+174
+00:15:02,823 --> 00:15:05,450
+We call them Hydroid Medusas.
+
+175
+00:15:06,159 --> 00:15:08,120
+They are invincible.
+
+176
+00:15:23,009 --> 00:15:27,347
+-Prince Lee-Char!
+-Senator Tills, I'm glad to see you're safe.
+
+177
+00:15:27,389 --> 00:15:31,309
+You must prepare to dictate terms
+for a Quarren surrender.
+
+178
+00:15:31,852 --> 00:15:34,729
+-Surrender?
+-Not so fast, Senator.
+
+179
+00:15:34,813 --> 00:15:37,482
+I know the Quarren, they won't surrender.
+
+180
+00:15:37,899 --> 00:15:41,486
+We may have won the first battle,
+Your Highness, but it won't be the last.
+
+181
+00:15:41,528 --> 00:15:45,198
+It's only a matter of time
+before they launch another assault.
+
+182
+00:15:45,282 --> 00:15:47,784
+I sense the real battle is about to begin.
+
+183
+00:16:07,596 --> 00:16:09,556
+We have no defense against those.
+
+184
+00:16:09,681 --> 00:16:12,350
+This isn't going to be easy.
+
+185
+00:16:16,563 --> 00:16:18,773
+All troops, battle stations!
+
+186
+00:16:40,045 --> 00:16:42,923
+Do not fire
+until the prince gives the command.
+
+187
+00:16:51,306 --> 00:16:53,558
+Steady, steady.
+
+188
+00:17:00,106 --> 00:17:01,274
+Not yet.
+
+189
+00:17:13,078 --> 00:17:14,704
+Now, Your Highness!
+
+190
+00:17:15,705 --> 00:17:16,957
+Attack!
+
+191
+00:17:53,743 --> 00:17:55,370
+Ahsoka, find a way out of here!
+
+192
+00:17:58,498 --> 00:18:00,458
+Prince, where's somewhere safe?
+
+193
+00:18:00,500 --> 00:18:03,587
+We can't retreat, not now.
+We've got to be brave.
+
+194
+00:18:03,670 --> 00:18:06,339
+There's a time to attack
+and a time to retreat,
+
+195
+00:18:06,423 --> 00:18:08,425
+and now is not the time to be brave.
+
+196
+00:18:09,342 --> 00:18:10,969
+The safest place is in the caves.
+
+197
+00:18:11,011 --> 00:18:13,513
+I agree, Your Highness, follow me.
+
+198
+00:18:18,143 --> 00:18:19,936
+Anakin ! Go! I'll hold them off.
+
+199
+00:18:46,171 --> 00:18:48,632
+Come on. Keep going ! Don't stop!
+
+200
+00:19:11,821 --> 00:19:13,823
+Search the area for survivors.
+
+201
+00:19:15,283 --> 00:19:16,951
+Secure the perimeter.
+
+202
+00:19:20,580 --> 00:19:23,083
+What took your squids so long?
+
+203
+00:19:23,124 --> 00:19:27,420
+I didn't think you and your Separatist
+droids would need backup.
+
+204
+00:19:27,545 --> 00:19:30,674
+Your reputation is a little exaggerated.
+
+205
+00:19:31,591 --> 00:19:34,344
+Exaggeration is a weapon of war.
+
+206
+00:19:34,761 --> 00:19:37,514
+It's what helped deliver the enemy
+into your hands.
+
+207
+00:19:37,847 --> 00:19:42,977
+Then let's be thankful this is our day,
+a victorious day that...
+
+208
+00:19:43,103 --> 00:19:45,730
+Disobey a command
+from Count Dooku again
+
+209
+00:19:45,814 --> 00:19:48,983
+and I will kill you where you stand.
+
+210
+00:20:17,011 --> 00:20:20,432
+Thanks to you, Padawan Tano,
+and to these brave soldiers.
+
+211
+00:20:20,974 --> 00:20:23,143
+I wish I could've done more for my people.
+
+212
+00:20:23,184 --> 00:20:26,146
+Maybe then we would've been spared
+all of this,
+
+213
+00:20:26,229 --> 00:20:29,315
+the illusion that I could actually lead
+in my father's place.
+
+214
+00:20:29,858 --> 00:20:31,818
+Your father would be proud of you.
+
+215
+00:20:32,318 --> 00:20:34,320
+Proud? We lost!
+
+216
+00:20:34,779 --> 00:20:38,658
+Today, you learned the hardest lesson
+a commander can learn,
+
+217
+00:20:39,325 --> 00:20:41,911
+how to live to fight another day.
+
+218
+00:20:41,935 --> 00:20:46,935
+http://hiqve.com/
+

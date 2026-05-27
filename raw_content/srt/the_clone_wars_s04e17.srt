@@ -1,0 +1,833 @@
+﻿1
+00:00:10,457 --> 00:00:10,574
+h
+
+2
+00:00:10,575 --> 00:00:10,691
+ht
+
+3
+00:00:10,692 --> 00:00:10,809
+htt
+
+4
+00:00:10,810 --> 00:00:10,927
+http
+
+5
+00:00:10,928 --> 00:00:11,044
+http:
+
+6
+00:00:11,045 --> 00:00:11,162
+http:/
+
+7
+00:00:11,163 --> 00:00:11,280
+http://
+
+8
+00:00:11,281 --> 00:00:11,397
+http://h
+
+9
+00:00:11,398 --> 00:00:11,515
+http://hi
+
+10
+00:00:11,516 --> 00:00:11,632
+http://hiq
+
+11
+00:00:11,633 --> 00:00:11,750
+http://hiqv
+
+12
+00:00:11,751 --> 00:00:11,868
+http://hiqve
+
+13
+00:00:11,869 --> 00:00:11,985
+http://hiqve.
+
+14
+00:00:11,986 --> 00:00:12,103
+http://hiqve.c
+
+15
+00:00:12,104 --> 00:00:12,221
+http://hiqve.co
+
+16
+00:00:12,222 --> 00:00:12,338
+http://hiqve.com
+
+17
+00:00:12,339 --> 00:00:12,456
+http://hiqve.com/
+
+18
+00:00:12,457 --> 00:00:15,457
+http://hiqve.com/
+
+19
+00:00:18,481 --> 00:00:21,025
+<i>Obi-Wan Kenobi in disguise!</i>
+
+20
+00:00:21,317 --> 00:00:24,195
+<i>Working undercover
+as assassin Rako Hardeen,</i>
+
+21
+00:00:24,278 --> 00:00:26,489
+<i>Obi-Wan leads a secret mission to uncover</i>
+
+22
+00:00:26,572 --> 00:00:29,242
+<i>the Separatist plot
+against Chancellor Palpatine.</i>
+
+23
+00:00:29,951 --> 00:00:31,619
+<i>Using cunning and courage,</i>
+
+24
+00:00:31,744 --> 00:00:34,413
+<i>he gains the trust of
+bounty hunter Cad Bane</i>
+
+25
+00:00:34,455 --> 00:00:36,916
+<i>and criminal mastermind Moralo Eval,</i>
+
+26
+00:00:36,958 --> 00:00:40,962
+<i>earning him entrance to the stronghold of
+Separatist leader Count Dooku.</i>
+
+27
+00:00:41,587 --> 00:00:44,382
+<i>Now it is here,
+on the beautiful planet of Serenno,</i>
+
+28
+00:00:44,465 --> 00:00:48,302
+<i>that a barbaric contest will determine
+the fate of Obi-Wan Kenobi,</i>
+
+29
+00:00:48,469 --> 00:00:51,389
+<i>and, possibly, the Republic itself.</i>
+
+30
+00:01:27,508 --> 00:01:31,262
+Count Dooku, I apologize for my delay.
+
+31
+00:01:33,848 --> 00:01:38,227
+Your careless delay
+could have ruined my plan, Eval.
+
+32
+00:01:38,352 --> 00:01:41,772
+I see Cad Bane is with you.
+Who is the other one?
+
+33
+00:01:42,857 --> 00:01:45,359
+This is Rako Hardeen.
+
+34
+00:01:45,443 --> 00:01:50,865
+When Bane's escape plan failed,
+we only succeeded thanks to Hardeen.
+
+35
+00:01:50,906 --> 00:01:53,951
+I thought he might be
+useful for the tournament.
+
+36
+00:01:54,243 --> 00:01:56,537
+Enough small talk, I want my money.
+
+37
+00:01:56,579 --> 00:01:58,414
+That makes two of us.
+
+38
+00:01:58,497 --> 00:02:02,501
+You shall have it and perhaps much more.
+
+39
+00:02:02,543 --> 00:02:08,382
+Both of you, if you would like to
+enter our friendly little contest.
+
+40
+00:02:09,008 --> 00:02:11,052
+I'm in, if he's in.
+
+41
+00:02:11,135 --> 00:02:15,890
+You already owe me for one job, Dooku,
+anything else will cost you triple.
+
+42
+00:02:16,265 --> 00:02:19,185
+I assure you
+that if you survive the challenge,
+
+43
+00:02:19,226 --> 00:02:21,395
+the reward will be well worth it.
+
+44
+00:02:33,199 --> 00:02:35,409
+We have all the contestants we need.
+
+45
+00:02:36,369 --> 00:02:37,995
+Prepare the tournament.
+
+46
+00:02:38,079 --> 00:02:39,872
+Yes, My Lord.
+
+47
+00:02:56,639 --> 00:02:58,599
+You summoned me, Master?
+
+48
+00:02:58,641 --> 00:03:03,312
+Wrong to deceive you it was,
+but much at stake there is.
+
+49
+00:03:03,688 --> 00:03:06,482
+So I was right. Obi-Wan is still alive.
+
+50
+00:03:06,941 --> 00:03:10,778
+Skywalker, a powerful Jedi you are,
+
+51
+00:03:10,820 --> 00:03:14,573
+yet unpredictable and dangerous
+you can be.
+
+52
+00:03:15,074 --> 00:03:17,910
+To both your friends and enemies.
+
+53
+00:03:18,619 --> 00:03:23,124
+For Obi-Wan, on your patience
+everything depends.
+
+54
+00:03:23,165 --> 00:03:24,917
+What if he needs our help?
+
+55
+00:03:24,959 --> 00:03:26,127
+Hmm.
+
+56
+00:03:26,168 --> 00:03:29,964
+If you leave, help him you could.
+
+57
+00:03:30,089 --> 00:03:33,467
+But his future, uncertain is.
+
+58
+00:03:34,301 --> 00:03:36,721
+Trust in Obi-Wan we must.
+
+59
+00:03:48,107 --> 00:03:50,943
+So what kind of
+"friendly little contest"
+
+60
+00:03:50,985 --> 00:03:52,987
+you think the Count's got planned?
+
+61
+00:03:53,070 --> 00:03:56,240
+I'd be surprised if we all survive.
+
+62
+00:03:59,326 --> 00:04:01,412
+Nice hat.
+
+63
+00:04:05,124 --> 00:04:06,500
+Where did you get it?
+
+64
+00:04:19,555 --> 00:04:22,183
+What are you looking at? It's a nice hat.
+
+65
+00:04:23,809 --> 00:04:25,686
+Welcome to Serenno.
+
+66
+00:04:26,687 --> 00:04:28,105
+You have been invited here
+
+67
+00:04:28,189 --> 00:04:31,525
+because you are the best
+bounty hunters in the galaxy.
+
+68
+00:04:32,485 --> 00:04:36,238
+Kiera Swan, two-time winner of
+the Obsidian Sphere.
+
+69
+00:04:36,405 --> 00:04:40,326
+Derrown, known simply as
+the exterminator.
+
+70
+00:04:40,659 --> 00:04:43,412
+Sixtat, the Out lands Butcher.
+
+71
+00:04:43,496 --> 00:04:48,542
+Embo, your bounty tallies
+were second only to one last season.
+
+72
+00:04:48,584 --> 00:04:51,962
+Cad Bane, who needs no introduction.
+
+73
+00:04:52,171 --> 00:04:55,925
+Rako Hardeen,
+the marksman of Concord Dawn.
+
+74
+00:04:56,217 --> 00:05:00,054
+Jakoli, known for never
+bringing anyone back alive.
+
+75
+00:05:00,805 --> 00:05:04,725
+Onca, you and your brother
+have been a legendary team.
+
+76
+00:05:04,850 --> 00:05:08,395
+This challenge
+may prove difficult for you alone.
+
+77
+00:05:08,562 --> 00:05:13,692
+Twazzi, your acrobatics once earned you
+praise from Chancellor Valorum.
+
+78
+00:05:13,734 --> 00:05:17,947
+Sinrich, inventor of
+the holographic disguise matrix.
+
+79
+00:05:18,030 --> 00:05:20,533
+And, finally, Mantu.
+
+80
+00:05:20,574 --> 00:05:23,077
+Your people were once a peaceful race.
+
+81
+00:05:23,160 --> 00:05:25,412
+How far they have fallen.
+
+82
+00:05:25,996 --> 00:05:30,167
+In a few moments, all 11 of you will enter
+what we call The Box.
+
+83
+00:05:43,931 --> 00:05:46,308
+Some of you will not make it out alive.
+
+84
+00:05:46,392 --> 00:05:47,685
+For those who do,
+
+85
+00:05:47,768 --> 00:05:51,021
+we are looking for
+the five most skilled among you.
+
+86
+00:05:51,105 --> 00:05:54,108
+Any additional survivors will be eliminated
+
+87
+00:05:54,191 --> 00:05:58,237
+to preserve the integrity of
+the job that awaits you.
+
+88
+00:05:58,279 --> 00:06:00,531
+Place your weapons here.
+
+89
+00:06:00,614 --> 00:06:05,286
+For those we choose, you will, of course,
+be paid most handsomely.
+
+90
+00:06:05,327 --> 00:06:08,914
+But more than that, you will be a part of
+an operation remembered as
+
+91
+00:06:08,956 --> 00:06:11,625
+a turning point in the Clone Wars.
+
+92
+00:06:12,084 --> 00:06:13,878
+And when we succeed,
+
+93
+00:06:13,961 --> 00:06:17,715
+we will bring the Republic to
+its pitiful knees.
+
+94
+00:06:17,798 --> 00:06:22,720
+Listen up!
+The Box was designed by me, Moralo Eval,
+
+95
+00:06:22,803 --> 00:06:27,641
+to simulate certain situations
+that might happen on the job.
+
+96
+00:06:28,017 --> 00:06:30,603
+Go now, enter The Box,
+
+97
+00:06:30,978 --> 00:06:33,314
+if you have the courage.
+
+98
+00:06:39,028 --> 00:06:43,532
+That's it, everyone inside. Keep moving.
+
+99
+00:07:11,060 --> 00:07:14,188
+<i>Before we begin our first challenge,</i>
+
+100
+00:07:14,229 --> 00:07:18,651
+<i>let me say there is only
+one rule inside The Box.</i>
+
+101
+00:07:18,692 --> 00:07:20,527
+<i>There are no rules.</i>
+
+102
+00:07:23,405 --> 00:07:27,701
+<i>The point, my friend,
+is to escape and quickly,</i>
+
+103
+00:07:27,743 --> 00:07:32,164
+<i>because only the survivors
+will advance to the next challenge.</i>
+
+104
+00:07:40,047 --> 00:07:42,758
+Dioxis! Breathe it and you are dead!
+
+105
+00:07:47,179 --> 00:07:48,847
+Every man for himself!
+
+106
+00:07:59,608 --> 00:08:01,402
+That wasn't so hard.
+
+107
+00:08:18,919 --> 00:08:21,714
+The way out isn't up. It's down.
+
+108
+00:08:21,755 --> 00:08:24,425
+The filters in my helmet
+can protect me for a short time.
+
+109
+00:08:24,466 --> 00:08:26,260
+I'll scout a way out.
+
+110
+00:08:49,616 --> 00:08:52,411
+There's a hole in the floor which
+gets you below the gas line.
+
+111
+00:08:52,453 --> 00:08:54,496
+Jump down the hole and follow the tunnel.
+
+112
+00:08:56,623 --> 00:08:58,208
+What if he's wrong?
+
+113
+00:08:58,292 --> 00:09:00,419
+You got a better idea?
+
+114
+00:09:26,445 --> 00:09:28,530
+What took you so long?
+
+115
+00:09:36,163 --> 00:09:41,919
+<i>Moralo Eval is impressed.
+No casualties on the first challenge.</i>
+
+116
+00:09:42,878 --> 00:09:47,174
+<i>I guarantee you
+that will not be the case in the next.</i>
+
+117
+00:10:24,211 --> 00:10:29,174
+Impressive. I sense
+something different about that one.
+
+118
+00:10:29,967 --> 00:10:33,178
+Tell me what you know
+about this Rako Hardeen.
+
+119
+00:10:34,388 --> 00:10:37,724
+He killed the Jedi Obi-Wan Kenobi.
+
+120
+00:10:37,766 --> 00:10:40,727
+But only with a sniper rifle.
+
+121
+00:10:40,769 --> 00:10:43,605
+Obi-Wan Kenobi?
+
+122
+00:11:00,247 --> 00:11:02,374
+- I know how to get out!
+- Show me.
+
+123
+00:11:02,416 --> 00:11:06,420
+There's a pattern to the blades.
+Watch, that one's next.
+
+124
+00:11:08,505 --> 00:11:11,175
+If I can time it right,
+I can climb up to that exit shaft.
+
+125
+00:11:12,885 --> 00:11:15,262
+-Just follow me and time your jump.
+-Go!
+
+126
+00:11:19,850 --> 00:11:21,310
+Get moving!
+
+127
+00:12:15,322 --> 00:12:17,532
+Hardeen has done it again.
+
+128
+00:12:17,824 --> 00:12:21,995
+I'm beginning to think he may be
+the best one to lead this operation.
+
+129
+00:12:22,579 --> 00:12:26,333
+Hardeen is crafty, I will grant you,
+
+130
+00:12:26,416 --> 00:12:31,129
+but let's see what happens when
+he is not the key to their survival.
+
+131
+00:12:39,179 --> 00:12:41,723
+<i>To reach your final challenge,</i>
+
+132
+00:12:41,807 --> 00:12:44,351
+<i>you must pass through my ray shield.</i>
+
+133
+00:12:54,569 --> 00:12:58,365
+<i>The switch to turn it off
+is on the other side.</i>
+
+134
+00:12:58,448 --> 00:13:03,912
+<i>The syringe on the platform contains
+a highly electrolytic serum</i>
+
+135
+00:13:03,996 --> 00:13:07,541
+<i>that will allow you to
+pass through the shield.</i>
+
+136
+00:13:08,375 --> 00:13:12,879
+<i>However, it is toxic to all but one of you.</i>
+
+137
+00:13:19,303 --> 00:13:21,179
+So it would seem.
+
+138
+00:13:43,243 --> 00:13:44,411
+Ahhh!
+
+139
+00:13:53,587 --> 00:13:55,964
+Hey, who put you in charge?
+
+140
+00:13:58,675 --> 00:14:01,303
+Does anyone know
+what this gas bag is saying?
+
+141
+00:14:01,386 --> 00:14:03,096
+I do. He can get us out of this.
+
+142
+00:14:07,142 --> 00:14:10,520
+He's a Parwan.
+His blood can take the electrolytic serum.
+
+143
+00:14:12,147 --> 00:14:13,565
+Are you certain?
+
+144
+00:14:13,607 --> 00:14:16,651
+Fifty-fifty.
+Depends on the blood type of the Parwan.
+
+145
+00:14:16,735 --> 00:14:18,028
+Great.
+
+146
+00:14:28,622 --> 00:14:30,082
+Hurry, use the serum.
+
+147
+00:15:22,926 --> 00:15:26,054
+His blood. How did you know about it?
+
+148
+00:15:26,138 --> 00:15:28,265
+I used to kill Parwans for a living.
+
+149
+00:15:34,521 --> 00:15:39,359
+Your box does not appear to be
+as much of a challenge as I thought.
+
+150
+00:15:39,401 --> 00:15:42,195
+Perhaps I should put Hardeen
+in charge of the mission.
+
+151
+00:15:43,071 --> 00:15:47,868
+But this was my plan !
+You promised me the lead role!
+
+152
+00:15:49,244 --> 00:15:53,498
+You have one last test to change my mind.
+
+153
+00:15:54,207 --> 00:15:59,421
+Do not fear, Count Dooku.
+I will show you who is weak.
+
+154
+00:16:17,439 --> 00:16:20,233
+<i>The final challenge has arrived.</i>
+
+155
+00:16:40,837 --> 00:16:43,590
+Unfortunately, no.
+
+156
+00:16:55,477 --> 00:17:00,774
+We are going to test your sniper skills.
+Hit the target.
+
+157
+00:17:06,404 --> 00:17:10,492
+Step back, boys,
+I'll show you how it's done.
+
+158
+00:17:30,887 --> 00:17:34,599
+I get it. If we miss the target,
+this platform gets smaller.
+
+159
+00:17:34,641 --> 00:17:36,518
+Soon there won't be any platform left.
+
+160
+00:17:55,453 --> 00:18:00,500
+This is not the first time
+you've saved everybody's skin, Hardeen.
+
+161
+00:18:00,542 --> 00:18:04,713
+Five more hits.
+Let's see how good you really are.
+
+162
+00:18:27,152 --> 00:18:28,737
+Oh, what a shame,
+
+163
+00:18:29,112 --> 00:18:31,031
+out of charges.
+
+164
+00:18:31,072 --> 00:18:34,826
+It's also important as a bounty hunter
+to be lucky,
+
+165
+00:18:34,868 --> 00:18:38,204
+and your luck just ran out.
+
+166
+00:18:49,132 --> 00:18:52,510
+How dare you defy Moralo Eval!
+
+167
+00:18:52,761 --> 00:18:55,680
+If you're gonna kill him, do it like a man.
+
+168
+00:18:55,930 --> 00:18:57,891
+<i>You heard him, Eval.</i>
+
+169
+00:19:01,811 --> 00:19:05,190
+<i>Show us what you are really made of.</i>
+
+170
+00:19:40,141 --> 00:19:42,185
+You're going to have to
+do better than that!
+
+171
+00:19:42,602 --> 00:19:46,064
+You, my friend,
+have seen nothing yet!
+
+172
+00:20:03,623 --> 00:20:05,875
+Let's even the playing field.
+
+173
+00:20:32,610 --> 00:20:34,237
+<i>Finish him, Hardeen.</i>
+
+174
+00:20:38,575 --> 00:20:40,326
+<i>Very disappointing.</i>
+
+175
+00:20:40,827 --> 00:20:45,165
+All due respect, I just wanna do my job
+and get my money.
+
+176
+00:20:46,791 --> 00:20:50,754
+<i>lt is unfortunate
+that your leadership skills are so lacking.</i>
+
+177
+00:20:50,837 --> 00:20:54,883
+<i>And the rest,
+congratulations on surviving The Box.</i>
+
+178
+00:20:55,383 --> 00:20:57,844
+<i>Tomorrow you will
+kidnap Chancellor Palpatine</i>
+
+179
+00:20:57,927 --> 00:20:59,929
+<i>at the festival on Naboo.</i>
+
+180
+00:21:00,013 --> 00:21:02,932
+<i>With the leader of The Republic
+as our hostage,</i>
+
+181
+00:21:03,057 --> 00:21:07,061
+<i>we will demand the release of
+all Separatist prisoners.</i>
+
+182
+00:21:07,145 --> 00:21:11,608
+<i>If our demand is not met,
+the Chancellor will be executed.</i>
+
+183
+00:21:11,691 --> 00:21:14,944
+<i>Either way,
+you will help reshape the galaxy.</i>
+
+184
+00:21:15,361 --> 00:21:17,614
+<i>Once you are all aboard the transport,</i>
+
+185
+00:21:17,697 --> 00:21:20,158
+<i>Eval will walk you through his plan.</i>
+
+186
+00:21:20,200 --> 00:21:24,370
+<i>However, the operation on Naboo
+will be run by</i>
+
+187
+00:21:24,412 --> 00:21:25,914
+<i>Cad Bane.</i>
+
+188
+00:21:28,082 --> 00:21:31,252
+<i>All of you work for him now.</i>
+
+189
+00:21:31,276 --> 00:21:36,276
+http://hiqve.com/
+

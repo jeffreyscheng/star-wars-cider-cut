@@ -1,0 +1,1228 @@
+﻿1
+00:00:10,540 --> 00:00:10,657
+h
+
+2
+00:00:10,658 --> 00:00:10,774
+ht
+
+3
+00:00:10,775 --> 00:00:10,892
+htt
+
+4
+00:00:10,893 --> 00:00:11,010
+http
+
+5
+00:00:11,011 --> 00:00:11,127
+http:
+
+6
+00:00:11,128 --> 00:00:11,245
+http:/
+
+7
+00:00:11,246 --> 00:00:11,363
+http://
+
+8
+00:00:11,364 --> 00:00:11,480
+http://h
+
+9
+00:00:11,481 --> 00:00:11,598
+http://hi
+
+10
+00:00:11,599 --> 00:00:11,715
+http://hiq
+
+11
+00:00:11,716 --> 00:00:11,833
+http://hiqv
+
+12
+00:00:11,834 --> 00:00:11,951
+http://hiqve
+
+13
+00:00:11,952 --> 00:00:12,068
+http://hiqve.
+
+14
+00:00:12,069 --> 00:00:12,186
+http://hiqve.c
+
+15
+00:00:12,187 --> 00:00:12,304
+http://hiqve.co
+
+16
+00:00:12,305 --> 00:00:12,421
+http://hiqve.com
+
+17
+00:00:12,422 --> 00:00:12,539
+http://hiqve.com/
+
+18
+00:00:12,540 --> 00:00:15,540
+http://hiqve.com/
+
+19
+00:00:17,564 --> 00:00:19,524
+<i>A long awaited truth!</i>
+
+20
+00:00:19,608 --> 00:00:22,611
+<i>A distress signal has been received
+at the Jedi Temple</i>
+
+21
+00:00:22,694 --> 00:00:26,489
+<i>and Master Plo Koon has been
+dispatched to investigate its origin.</i>
+
+22
+00:00:26,573 --> 00:00:28,700
+<i>The signal is from a ship
+thought to be lost</i>
+
+23
+00:00:28,783 --> 00:00:31,536
+<i>and was last known to be
+in the possession of a Jedi Master</i>
+
+24
+00:00:31,620 --> 00:00:33,496
+<i>who was killed long ago.</i>
+
+25
+00:00:37,334 --> 00:00:39,836
+Can anyone hear us? Come in please.
+
+26
+00:00:40,128 --> 00:00:42,047
+We're not getting anything over here.
+
+27
+00:00:42,130 --> 00:00:44,716
+We're off. We must be way off.
+
+28
+00:00:44,799 --> 00:00:47,052
+<i>Negative. It is here.</i>
+
+29
+00:00:47,135 --> 00:00:50,222
+<i>The data specifically states.
+It has got to be.</i>
+
+30
+00:00:50,347 --> 00:00:52,515
+We've scanned the area three times.
+
+31
+00:00:52,599 --> 00:00:55,185
+This is a wasteland. There's nothing.
+
+32
+00:00:57,812 --> 00:01:00,941
+All of our information
+pinpoints it is here.
+
+33
+00:01:01,024 --> 00:01:02,651
+<i>I don't know what to tell you, sir.</i>
+
+34
+00:01:02,734 --> 00:01:06,238
+<i>We're getting no visual,
+and no recognition on the scanner.</i>
+
+35
+00:01:06,321 --> 00:01:10,158
+We must locate the source of the signal,
+Commander, press on!
+
+36
+00:01:10,492 --> 00:01:13,119
+Wait, I think I've found something.
+
+37
+00:01:13,203 --> 00:01:15,705
+It's very faint, sir.
+
+38
+00:01:16,248 --> 00:01:17,374
+That is it.
+
+39
+00:01:20,669 --> 00:01:24,256
+Halt! Halt! Halt all vehicles!
+
+40
+00:01:53,034 --> 00:01:56,371
+The hull shows substantial
+scoring and wear.
+
+41
+00:01:56,454 --> 00:01:59,666
+Whenever it crashed, it wasn't recently.
+
+42
+00:02:00,542 --> 00:02:04,671
+General Plo, the scans check out,
+it's a T-6 Shuttle all right,
+
+43
+00:02:04,754 --> 00:02:07,507
+serial number 7-7-5-5-1 -9.
+
+44
+00:02:18,852 --> 00:02:21,062
+I want the entire area cleared.
+
+45
+00:02:21,229 --> 00:02:23,815
+We're taking everything
+back to Coruscant.
+
+46
+00:02:23,898 --> 00:02:26,234
+-Everything?
+-Everything!
+
+47
+00:02:39,164 --> 00:02:42,250
+Then it is the lost ship
+of Master Sifo-Dyas?
+
+48
+00:02:42,375 --> 00:02:45,337
+<i>I found this at the crash site.</i>
+
+49
+00:02:47,088 --> 00:02:51,092
+The lightsaber of Sifo-Dyas it is.
+Never found when he died it was.
+
+50
+00:02:53,053 --> 00:02:55,805
+Master Kenobi, remind the Council
+of what you discovered
+
+51
+00:02:55,889 --> 00:02:59,184
+regarding Master Sifo-Dyas before
+the start of the Clone War.
+
+52
+00:02:59,309 --> 00:03:03,938
+My investigation of the bounty hunter
+Jango Fett led to Kamino.
+
+53
+00:03:04,105 --> 00:03:06,983
+The Kaminoans recounted
+that it was Jedi Master Sifo-Dyas
+
+54
+00:03:07,067 --> 00:03:09,444
+who ordered the production
+of a Clone Army.
+
+55
+00:03:09,611 --> 00:03:13,615
+Without the consent of the Council
+or the Senate he did this.
+
+56
+00:03:13,698 --> 00:03:15,492
+Prior to the blockade of Naboo,
+
+57
+00:03:15,575 --> 00:03:21,414
+Sifo-Dyas sat on this Council until
+we judged his ideas to be too extreme.
+
+58
+00:03:21,706 --> 00:03:22,707
+<i>Indeed.</i>
+
+59
+00:03:22,791 --> 00:03:25,377
+<i>He said he foresaw a great conflict,</i>
+
+60
+00:03:25,460 --> 00:03:28,463
+<i>and that the Republic would need
+to raise an army.</i>
+
+61
+00:03:28,546 --> 00:03:31,132
+<i>At the time the Council
+rejected those ideas.</i>
+
+62
+00:03:31,800 --> 00:03:34,886
+Well, it's not the first time
+we've been wrong recently, is it?
+
+63
+00:03:34,969 --> 00:03:39,808
+The creation of the Clone Army,
+kept secret from us Sifo-Dyas did.
+
+64
+00:03:39,933 --> 00:03:42,811
+How this was done we know not.
+
+65
+00:03:42,894 --> 00:03:45,897
+Yet now, a new piece
+of the puzzle we have,
+
+66
+00:03:45,980 --> 00:03:49,609
+perhaps clarity, it will bring us, yes.
+
+67
+00:03:53,363 --> 00:03:59,327
+Our records definitively state
+that Master Sifo-Dyas died on Felucia.
+
+68
+00:03:59,828 --> 00:04:04,958
+In the fifth quarter, a small skirmish
+broke out between the native Felucians.
+
+69
+00:04:05,333 --> 00:04:07,085
+Master Sifo-Dyas was assigned
+
+70
+00:04:07,168 --> 00:04:10,505
+to negotiate peace talks
+between the tribes.
+
+71
+00:04:11,005 --> 00:04:15,468
+The negotiations failed
+and Sifo-Dyas was killed.
+
+72
+00:04:15,927 --> 00:04:17,929
+<i>What became of his body?</i>
+
+73
+00:04:18,012 --> 00:04:20,640
+I am afraid I cannot answer that.
+
+74
+00:04:20,723 --> 00:04:25,353
+Any further information on this incident
+has been sealed.
+
+75
+00:04:25,437 --> 00:04:27,147
+On whose authority?
+
+76
+00:04:27,230 --> 00:04:29,983
+By the office
+of the Supreme Chancellor.
+
+77
+00:04:30,400 --> 00:04:32,444
+Thank you, Madame Jocasta.
+
+78
+00:04:35,738 --> 00:04:39,075
+To Felucia
+Skywalker and Kenobi will go.
+
+79
+00:04:39,159 --> 00:04:44,581
+A trail long cold it is, yet still
+lay hidden there a clue might be.
+
+80
+00:04:44,664 --> 00:04:48,626
+Question all who were present the day
+of Sifo-Dyas's death, you must.
+
+81
+00:04:48,710 --> 00:04:50,670
+And what of the sealed file?
+
+82
+00:04:50,753 --> 00:04:53,131
+Speak with the Chancellor
+personally I will,
+
+83
+00:04:53,214 --> 00:04:56,468
+to see what part in this the politics
+of the Senate have played.
+
+84
+00:05:03,850 --> 00:05:06,978
+Master Sifo-Dyas?
+
+85
+00:05:07,061 --> 00:05:10,773
+Forgive me, I'm afraid I am not familiar
+with that name.
+
+86
+00:05:10,899 --> 00:05:14,068
+Died some time ago he did on Felucia.
+
+87
+00:05:14,152 --> 00:05:16,112
+Investigating his death we are,
+
+88
+00:05:16,196 --> 00:05:20,200
+and yet sealed by the Chancellor's
+office some of his files were.
+
+89
+00:05:20,283 --> 00:05:23,828
+And what is the nature
+of your investigation?
+
+90
+00:05:23,912 --> 00:05:28,333
+A Jedi matter it is, Chancellor.
+Add to your troubles I would not.
+
+91
+00:05:28,416 --> 00:05:34,130
+That is very considerate, Master Yoda.
+May I at least ask when Master...
+
+92
+00:05:34,756 --> 00:05:36,382
+Sifo-Dyas.
+
+93
+00:05:36,466 --> 00:05:42,388
+Yes, Master Sifo-Dyas,
+may I ask when he was killed?
+
+94
+00:05:42,472 --> 00:05:44,849
+Over 10 years ago it was.
+
+95
+00:05:44,933 --> 00:05:49,854
+Well, that explains it.
+I'm afraid this was before my time.
+
+96
+00:05:49,938 --> 00:05:54,734
+Ten years ago, I was a humble Senator
+serving the planet Naboo.
+
+97
+00:05:55,527 --> 00:05:58,029
+Only my predecessor,
+Chancellor Valorum,
+
+98
+00:05:58,112 --> 00:06:00,657
+would have the answers you seek.
+
+99
+00:06:00,740 --> 00:06:03,117
+I suggest you speak with him.
+
+100
+00:06:03,451 --> 00:06:06,204
+Very well. Thank you, Chancellor.
+
+101
+00:06:15,421 --> 00:06:17,423
+<i>I have spoken with
+the tribal leaders on Felucia.</i>
+
+102
+00:06:17,549 --> 00:06:21,094
+<i>They use a very ancient dialect
+which is hard to understand</i>
+
+103
+00:06:21,177 --> 00:06:22,428
+<i>but from what I can make out,</i>
+
+104
+00:06:22,512 --> 00:06:25,974
+<i>when Master Sifo-Dyas died,
+he was not alone.</i>
+
+105
+00:06:26,057 --> 00:06:28,059
+<i>There was a second Jedi
+here with him.</i>
+
+106
+00:06:28,142 --> 00:06:30,436
+And the name of this second Jedi?
+
+107
+00:06:30,520 --> 00:06:34,607
+<i>Either I don't understand them
+or they won't say. It's hard to tell.</i>
+
+108
+00:06:34,691 --> 00:06:37,068
+<i>This is a primitive people
+we are dealing with.</i>
+
+109
+00:06:37,151 --> 00:06:39,821
+<i>After his death,
+they cremated Sifo-Dyas's body</i>
+
+110
+00:06:39,904 --> 00:06:42,740
+<i>and I'm afraid the trail goes cold there.</i>
+
+111
+00:06:42,824 --> 00:06:44,826
+<i>Did you have any success
+with the Chancellor?</i>
+
+112
+00:06:45,910 --> 00:06:48,663
+As much success as usual, I am afraid.
+
+113
+00:06:48,746 --> 00:06:53,167
+Pointed in another direction I am now,
+to speak with Valorum I go.
+
+114
+00:07:06,222 --> 00:07:09,767
+It's been a long time, my friend.
+What can I do for you?
+
+115
+00:07:10,184 --> 00:07:14,772
+A file sealed by your administration
+the Jedi Council has come across.
+
+116
+00:07:14,856 --> 00:07:16,899
+The subject of the file?
+
+117
+00:07:17,442 --> 00:07:19,611
+Jedi Master Sifo-Dyas.
+
+118
+00:07:19,694 --> 00:07:20,695
+Sifo-Dyas?
+
+119
+00:07:21,904 --> 00:07:23,406
+When I was Chancellor,
+
+120
+00:07:23,489 --> 00:07:27,744
+I sent him on a mission to deal
+with a flare up in the Pyke syndicate.
+
+121
+00:07:28,369 --> 00:07:29,412
+The Pykes?
+
+122
+00:07:29,495 --> 00:07:32,540
+A powerful part of the spice cartel.
+
+123
+00:07:32,624 --> 00:07:34,792
+Their criminal activities
+had allowed them
+
+124
+00:07:34,876 --> 00:07:38,713
+to almost completely control
+the production of raw spice
+
+125
+00:07:38,838 --> 00:07:40,882
+used to create a powerful drug.
+
+126
+00:07:41,007 --> 00:07:46,054
+We were facing a full scale war
+underneath the surface of Coruscant.
+
+127
+00:07:46,179 --> 00:07:48,473
+Knowing of his expertise
+on the Underworld,
+
+128
+00:07:48,556 --> 00:07:52,852
+I contacted Master Sifo-Dyas
+to stabilize the problem.
+
+129
+00:07:53,311 --> 00:07:56,397
+Know of this, the Jedi Council did not.
+
+130
+00:07:56,522 --> 00:07:59,651
+The Senate Committee
+assigned to the matter
+
+131
+00:07:59,734 --> 00:08:04,155
+feared that open discussions
+with such a criminal element
+
+132
+00:08:04,238 --> 00:08:06,324
+could legitimize their activities
+
+133
+00:08:06,407 --> 00:08:09,994
+and give strength to opposition leaders
+within the bureaucracy.
+
+134
+00:08:10,078 --> 00:08:13,373
+Secrecy was our only choice.
+
+135
+00:08:13,456 --> 00:08:17,502
+The timing of these negotiations,
+when were they to take place?
+
+136
+00:08:17,585 --> 00:08:22,674
+I cannot remember the precise timing,
+I'm afraid. It was so long ago.
+
+137
+00:08:22,757 --> 00:08:26,386
+I do remember that
+the talks were postponed
+
+138
+00:08:26,469 --> 00:08:30,306
+not long after our delegates
+arrived on Oba Diah.
+
+139
+00:08:30,390 --> 00:08:33,601
+Something about a flare up
+of activity on Felucia.
+
+140
+00:08:33,768 --> 00:08:37,939
+Yes, intervene on Felucia,
+the Council insisted Sifo-Dyas did,
+
+141
+00:08:38,064 --> 00:08:42,735
+but tell me, Chancellor, who was
+the other Jedi you sent with Sifo-Dyas?
+
+142
+00:08:42,860 --> 00:08:46,531
+Other Jedi? I know of no other Jedi.
+
+143
+00:08:46,614 --> 00:08:50,785
+There was only my personal aide,
+Silman, and Sifo-Dyas.
+
+144
+00:08:51,244 --> 00:08:54,247
+I'm afraid they were
+both killed on Felucia.
+
+145
+00:08:54,872 --> 00:08:57,709
+Personal aid? Silman?
+
+146
+00:09:01,504 --> 00:09:06,759
+<i>Tell me, why do the Jedi
+look for Sifo-Dyas?</i>
+
+147
+00:09:06,843 --> 00:09:09,679
+<i>What trail are they following?</i>
+
+148
+00:09:09,762 --> 00:09:13,599
+If there is a trail, it is unknown to me.
+
+149
+00:09:14,142 --> 00:09:19,814
+<i>Retrace your steps,
+find this loose end, and eliminate it.</i>
+
+150
+00:09:20,314 --> 00:09:23,359
+I understand what is at stake, my Lord.
+
+151
+00:09:23,443 --> 00:09:26,487
+I will go to the Pykes and take care of it.
+
+152
+00:09:26,571 --> 00:09:32,660
+<i>This is not the first time you have
+proven to be clumsy, Lord Tyranus.</i>
+
+153
+00:09:32,785 --> 00:09:37,165
+<i>You know the price of failure.</i>
+
+154
+00:09:45,465 --> 00:09:48,050
+<i>The Felucians know
+nothing of this Silman.</i>
+
+155
+00:09:48,134 --> 00:09:50,928
+<i>No one there seems
+to know anything about him.</i>
+
+156
+00:09:51,012 --> 00:09:52,889
+<i>What's that symbol he's wearing?</i>
+
+157
+00:09:52,972 --> 00:09:57,059
+The symbol of the high Chancellor
+before the war, Chancellor Valorum.
+
+158
+00:09:58,686 --> 00:10:01,773
+<i>So, we have one dead Jedi with
+no physical evidence of a body,</i>
+
+159
+00:10:01,856 --> 00:10:05,318
+<i>a second Jedi who appeared
+on Felucia that we have no record of,</i>
+
+160
+00:10:05,401 --> 00:10:09,906
+<i>and now this Silman, personal attaché
+to the Chancellor, is missing?</i>
+
+161
+00:10:10,531 --> 00:10:14,076
+<i>Yet, now we know Sifo-Dyas
+and Silman were both on Oba Diah,</i>
+
+162
+00:10:14,160 --> 00:10:15,745
+<i>according to Chancellor Valorum.</i>
+
+163
+00:10:16,662 --> 00:10:21,459
+The crashed shuttle I found was located
+on a moon which orbits the Pyke planet.
+
+164
+00:10:21,542 --> 00:10:25,713
+To the Pykes you must go,
+to Oba Diah, yes.
+
+165
+00:11:38,286 --> 00:11:43,916
+I cannot remember the last time
+a Jedi came here.
+
+166
+00:11:44,000 --> 00:11:46,794
+Many years it has been.
+
+167
+00:11:46,878 --> 00:11:48,796
+Funny you should say that.
+
+168
+00:11:48,880 --> 00:11:53,217
+We're looking for a Jedi that got
+lost here. His name is Sifo-Dyas.
+
+169
+00:11:54,385 --> 00:11:58,472
+The Jedi Sifo-Dyas was here,
+
+170
+00:11:58,556 --> 00:12:03,144
+but that was a long time ago.
+
+171
+00:12:03,269 --> 00:12:07,899
+Master Sifo-Dyas's ship was found
+crashed on a moon orbiting this world.
+
+172
+00:12:08,107 --> 00:12:12,987
+What you found, we know nothing of.
+
+173
+00:12:13,654 --> 00:12:18,034
+Would the Jedi like
+to join us for a refreshment?
+
+174
+00:12:19,243 --> 00:12:21,871
+The Pykes offer is kindly accepted.
+
+175
+00:12:29,170 --> 00:12:30,796
+To friendship.
+
+176
+00:12:33,257 --> 00:12:35,927
+-Friendship.
+-Friendship.
+
+177
+00:12:39,680 --> 00:12:42,224
+What an interesting necklace that is.
+
+178
+00:12:42,308 --> 00:12:43,434
+May I have a look?
+
+179
+00:12:45,519 --> 00:12:50,191
+Perhaps the Pykes have taken
+enough of the Jedi's time.
+
+180
+00:12:50,274 --> 00:12:51,943
+No, no. It's no bother at all,
+
+181
+00:12:52,026 --> 00:12:55,237
+the Jedi are happy
+to know all the Pykes' secrets.
+
+182
+00:12:57,782 --> 00:13:00,993
+We have no quarrel with the Jedi.
+
+183
+00:13:01,077 --> 00:13:02,954
+Maybe you should tell us
+why you're wearing
+
+184
+00:13:03,037 --> 00:13:05,581
+the crest of the Chancellor's
+personal advisor?
+
+185
+00:13:07,291 --> 00:13:09,168
+I am confused.
+
+186
+00:13:09,251 --> 00:13:14,048
+Is the Jedi looking for a Jedi Master
+or someone else?
+
+187
+00:13:14,215 --> 00:13:18,177
+Stop playing games.
+Sifo-Dyas was traveling with an advisor.
+
+188
+00:13:18,260 --> 00:13:20,846
+They were sent here
+to negotiate with you.
+
+189
+00:13:23,432 --> 00:13:28,229
+Well, it looks like you have finally put
+the pieces together.
+
+190
+00:13:28,312 --> 00:13:31,899
+The man you are looking for is here.
+
+191
+00:13:42,493 --> 00:13:48,541
+The Pykes wanted to gain an advantage
+over the other crime families,
+
+192
+00:13:48,666 --> 00:13:50,543
+so alliances were made.
+
+193
+00:13:50,626 --> 00:13:54,130
+One alliance was with
+a man named Tyranus.
+
+194
+00:13:54,213 --> 00:13:55,881
+I've heard that name before,
+
+195
+00:13:55,965 --> 00:13:59,260
+Jango Fett mentioned it during
+my Kamino investigation.
+
+196
+00:13:59,343 --> 00:14:02,847
+Tyranus wanted Sifo-Dyas dead,
+
+197
+00:14:02,930 --> 00:14:07,101
+the Pykes were well paid
+to shoot down his ship.
+
+198
+00:14:07,893 --> 00:14:13,983
+However, any man that is willing to pay
+to have a Jedi killed is dangerous,
+
+199
+00:14:14,066 --> 00:14:15,735
+and unpredictable.
+
+200
+00:14:15,818 --> 00:14:22,199
+The Pykes inspected the crash,
+to retrieve the Jedi's body for proof.
+
+201
+00:14:22,283 --> 00:14:29,165
+But, with the dead Jedi,
+the Pykes found another, still alive.
+
+202
+00:14:29,248 --> 00:14:31,542
+Silman, the Chancellor's aide?
+
+203
+00:14:31,625 --> 00:14:35,087
+The Pykes gave Tyranus Sifo-Dyas,
+
+204
+00:14:35,171 --> 00:14:39,050
+but the Pykes did not
+tell Tyranus of Silman.
+
+205
+00:14:39,133 --> 00:14:43,262
+The Pykes needed insurance.
+
+206
+00:14:43,345 --> 00:14:44,805
+Insurance?
+
+207
+00:14:44,889 --> 00:14:50,102
+Yes, and now the Pykes can bargain.
+
+208
+00:14:50,311 --> 00:14:56,692
+We give you Silman, you forget about
+the Pykes' treachery against the Jedi.
+
+209
+00:15:12,875 --> 00:15:14,418
+Hello?
+
+210
+00:15:15,419 --> 00:15:19,006
+-Who's there?
+-We are Jedi sent to find you.
+
+211
+00:15:19,507 --> 00:15:20,591
+Jedi?
+
+212
+00:15:22,218 --> 00:15:23,761
+To find me?
+
+213
+00:15:23,844 --> 00:15:25,262
+Why me?
+
+214
+00:15:25,346 --> 00:15:29,892
+I was betrayed, forgotten. Long ago.
+
+215
+00:15:30,476 --> 00:15:32,561
+No one knew you were alive.
+
+216
+00:15:32,645 --> 00:15:35,314
+Quick. Maybe you have some food.
+
+217
+00:15:35,397 --> 00:15:37,858
+Have you any food?
+
+218
+00:15:38,734 --> 00:15:40,194
+Of course.
+
+219
+00:15:43,864 --> 00:15:46,575
+Thank you, my friend. A supply bar!
+
+220
+00:15:47,535 --> 00:15:49,245
+Delicious.
+
+221
+00:15:49,328 --> 00:15:53,457
+You see, I was so frightened
+I would have nothing to serve.
+
+222
+00:15:55,918 --> 00:15:57,086
+Serve?
+
+223
+00:15:57,461 --> 00:16:01,799
+My babies, they get so angry
+when I have nothing to serve.
+
+224
+00:16:01,882 --> 00:16:04,885
+We might have a problem here.
+
+225
+00:16:21,443 --> 00:16:24,405
+Tyranus, you are no longer
+welcome here.
+
+226
+00:16:28,409 --> 00:16:31,245
+I think you've been cooped up
+in here too long, old man.
+
+227
+00:16:31,328 --> 00:16:33,455
+We've come to take you home.
+
+228
+00:16:33,539 --> 00:16:39,378
+Home? No, no, this is my home!
+I can't leave my friends.
+
+229
+00:16:39,503 --> 00:16:42,214
+You were traveling with
+Jedi Master Sifo-Dyas.
+
+230
+00:16:42,298 --> 00:16:44,091
+Tell us what happed to him.
+
+231
+00:16:46,594 --> 00:16:48,095
+Sifo-Dyas?
+
+232
+00:16:48,179 --> 00:16:49,305
+He died.
+
+233
+00:16:49,388 --> 00:16:51,348
+Died. Died. Died. Died.
+
+234
+00:16:51,432 --> 00:16:52,725
+Tricked we were.
+
+235
+00:16:54,185 --> 00:16:58,314
+The Pykes are not to be trusted.
+No. No, no, no. Oh, no, no, no.
+
+236
+00:16:58,480 --> 00:17:04,445
+But the Pykes were not the ones.
+No, no, the Pykes were not the reason.
+
+237
+00:17:08,282 --> 00:17:09,909
+Who was responsible?
+
+238
+00:17:12,786 --> 00:17:15,539
+Someone powerful...
+
+239
+00:17:15,623 --> 00:17:20,294
+Someone who wanted to be Sifo-Dyas!
+
+240
+00:17:33,557 --> 00:17:34,558
+Why?
+
+241
+00:17:34,642 --> 00:17:36,268
+All is deception.
+
+242
+00:17:37,686 --> 00:17:41,482
+Can't you see... Because... Because...
+
+243
+00:17:55,996 --> 00:17:59,959
+Dooku ! For once you actually came
+to do your own dirty work.
+
+244
+00:18:01,210 --> 00:18:05,339
+Sometimes things
+are just that important.
+
+245
+00:18:55,639 --> 00:18:59,852
+You have no business
+left with the Pykes, Tyranus.
+
+246
+00:18:59,977 --> 00:19:03,022
+Tyranus?
+You are the man called Tyranus?
+
+247
+00:19:03,105 --> 00:19:05,524
+I told you everything
+you needed to know
+
+248
+00:19:05,607 --> 00:19:09,820
+on Geonosis
+all those years ago, Kenobi.
+
+249
+00:19:09,903 --> 00:19:13,490
+You should have joined me.
+Sifo-Dyas understood.
+
+250
+00:19:13,574 --> 00:19:17,411
+He saw the future,
+that is why he helped me.
+
+251
+00:19:17,494 --> 00:19:19,246
+You lie!
+
+252
+00:19:19,330 --> 00:19:22,916
+Minister Lom, if you are going
+to help us, now is the time.
+
+253
+00:19:23,083 --> 00:19:25,210
+Kill Tyranus!
+
+254
+00:20:03,582 --> 00:20:05,334
+I'll give you a push!
+
+255
+00:20:44,331 --> 00:20:45,624
+Know now we do,
+
+256
+00:20:45,707 --> 00:20:49,878
+that guide the creation of the clones
+from the beginning, Dooku did.
+
+257
+00:20:51,463 --> 00:20:54,341
+Our enemy created an army for us.
+
+258
+00:20:54,800 --> 00:20:58,470
+If this was known,
+public confidence in the war effort,
+
+259
+00:20:58,554 --> 00:21:01,098
+the Jedi and the Republic would vanish.
+
+260
+00:21:01,181 --> 00:21:02,850
+There would be mass chaos.
+
+261
+00:21:03,392 --> 00:21:06,228
+Cover up this discovery we must.
+
+262
+00:21:06,770 --> 00:21:09,857
+No one,
+not even the Chancellor may know.
+
+263
+00:21:11,775 --> 00:21:14,486
+Valiant men,
+the clones have proven to be,
+
+264
+00:21:14,570 --> 00:21:17,781
+saved my life and yours
+they have many times.
+
+265
+00:21:17,865 --> 00:21:22,828
+Believe in them we must,
+win the war swiftly we must,
+
+266
+00:21:23,912 --> 00:21:26,999
+before our enemy's designs
+reach completion,
+
+267
+00:21:27,082 --> 00:21:28,917
+whatever they may be.
+
+268
+00:21:29,543 --> 00:21:32,713
+Are you sure
+we are taking the right path?
+
+269
+00:21:34,214 --> 00:21:36,300
+The right path, no.
+
+270
+00:21:37,009 --> 00:21:39,720
+The only path, yes.
+
+271
+00:21:41,555 --> 00:21:46,143
+Designed by the Dark Lord of the Sith,
+this web is.
+
+272
+00:21:46,810 --> 00:21:49,938
+For now, play his game we must.
+
+273
+00:21:49,962 --> 00:21:54,962
+http://hiqve.com/
+
